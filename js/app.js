@@ -38,7 +38,7 @@ var data = {
         "placeOfBirth": "Scarsdale, Arizona",
         "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Musician, adventurer, author; formerly talk show host",
@@ -92,7 +92,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Hellboy: Seed of Destruction (1993)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Paranormal Investigator",
@@ -144,7 +144,7 @@ var data = {
         "placeOfBirth": "Ungara",
         "firstAppearance": "Showcase #22 (October, 1959)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Green Lantern, former history professor",
@@ -197,7 +197,7 @@ var data = {
         "placeOfBirth": "Zagreb, Yugoslavia",
         "firstAppearance": "Tales to Astonish #90",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Ex-Spy",
@@ -249,7 +249,7 @@ var data = {
         "placeOfBirth": "Within Eternity",
         "firstAppearance": "Fantastic Four Annual #2001",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Dimensional destroyer",
@@ -306,7 +306,7 @@ var data = {
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "Daredevil #1 (April, 1964) (As Rocky Davis)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal; former professional boxer",
@@ -321,59 +321,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/6-absorbing-man.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/6-absorbing-man.jpg"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Adam Monroe",
-      "slug": "7-adam-monroe",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 10,
-        "speed": 12,
-        "durability": 100,
-        "power": 100,
-        "combat": 64
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Takezo Kensei",
-          "Richard Sanders"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S02E01 - Four Months Later...",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
-        "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/7-adam-monroe.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/7-adam-monroe.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/7-adam-monroe.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/7-adam-monroe.jpg"
       }
     },
     {
@@ -412,7 +359,7 @@ var data = {
         "placeOfBirth": "Chicago, Illinois",
         "firstAppearance": "Outsiders #6 (April, 1986)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, archaelogist, ambassador",
@@ -467,7 +414,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Cable & Deadpool #38 (May, 2007)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mercenary, janitor; former pirate, terrorist",
@@ -519,7 +466,7 @@ var data = {
         "placeOfBirth": "Unrevealed location in former East Germany",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mercenary, former government operative, freedom fighter",
@@ -571,7 +518,7 @@ var data = {
         "placeOfBirth": "Xandar, a planet in the Tranta system, Andromeda galaxy",
         "firstAppearance": "Fantastic Four #120",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Former starship captain, Herald of Galactus",
@@ -625,7 +572,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Deadpool #14 (March, 1998)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -679,7 +626,7 @@ var data = {
         "placeOfBirth": "Gotham City",
         "firstAppearance": "All-American Comics 16 (1940)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -694,60 +641,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/14-alan-scott.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/14-alan-scott.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg"
-      }
-    },
-    {
-      "id": 15,
-      "name": "Alex Mercer",
-      "slug": "15-alex-mercer",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 80,
-        "speed": 42,
-        "durability": 90,
-        "power": 100,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Alexander J. Mercer",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Prototype",
-          "Zues",
-          "Blacklight"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "Wildstorm",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Gentek, The Infected",
-        "relatives": "Dana Mercer (sister)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/15-alex-mercer.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/15-alex-mercer.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/15-alex-mercer.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
       }
     },
     {
@@ -785,7 +678,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman #16 (April, 1943)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Butler; Caretaker, former Actor; Field Medic; Government Agent",
@@ -837,7 +730,7 @@ var data = {
         "placeOfBirth": "Your chest :)",
         "firstAppearance": "Alien (1979)",
         "publisher": "Dark Horse Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -892,7 +785,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Brave and the Bold #30 (July, 1960)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -945,7 +838,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1000,8 +893,8 @@ var data = {
         ],
         "placeOfBirth": "Centerport, Long Island, New York",
         "firstAppearance": "X-Men #54-56 (1969)",
-        "publisher": "Archangel",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",
@@ -1054,7 +947,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Morlocks #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1105,8 +998,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "New X-Men #118 (November, 2001)",
-        "publisher": "Tempest",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1158,7 +1051,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Strange Adventures #180 (September, 1965)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1211,7 +1104,7 @@ var data = {
         "placeOfBirth": "Planet of Arthros, Sector 17A, Negative Zone",
         "firstAppearance": "Fantastic Four Annual #6 (1968)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Conqueror, scavenger",
@@ -1268,8 +1161,8 @@ var data = {
         ],
         "placeOfBirth": "Elmsford, New York",
         "firstAppearance": "Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",
-        "publisher": "Giant-Man",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
@@ -1322,7 +1215,7 @@ var data = {
         "placeOfBirth": "Coral Gables, Florida",
         "firstAppearance": "Avengers Vol 1 #181 (March, 1979)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Electronics Technician,",
@@ -1375,7 +1268,7 @@ var data = {
         "placeOfBirth": "Moon of Qward",
         "firstAppearance": "Crisis on Infinite Earths #4",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -1431,8 +1324,8 @@ var data = {
         ],
         "placeOfBirth": "San Francisco, California",
         "firstAppearance": "Amazing Spider-Man #569 (as Anti-Venom)",
-        "publisher": "Toxin",
-        "alignment": "-"
+        "publisher": "Marvel Comics",
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Vigilante; former journalist for the Daily Globe",
@@ -1489,7 +1382,7 @@ var data = {
         "placeOfBirth": "Akkaba, Egypt",
         "firstAppearance": "X-Factor #5 (June, 1986)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Student; formerly Conqueror; Scientist",
@@ -1541,7 +1434,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Aquaman #23 (October, 1965)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1593,7 +1486,7 @@ var data = {
         "placeOfBirth": "Poseidonis, Atlantis",
         "firstAppearance": "Adventure Comics #269 (February, 1960)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; Magician, former Sidekick",
@@ -1650,7 +1543,7 @@ var data = {
         "placeOfBirth": "Atlantis",
         "firstAppearance": "More Fun Comics #73 (November, 1941)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
@@ -1703,7 +1596,7 @@ var data = {
         "placeOfBirth": "Los Angeles, California",
         "firstAppearance": "Marvel Super Heroes Secret Wars #6",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, fugitive, former government agent",
@@ -1757,8 +1650,8 @@ var data = {
         ],
         "placeOfBirth": "Centerport, Long Island, New York",
         "firstAppearance": "X-Men #1 (September, 1963)",
-        "publisher": "Angel",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",
@@ -1810,7 +1703,7 @@ var data = {
         "placeOfBirth": "Vietnam",
         "firstAppearance": "(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Terrorist",
@@ -1862,7 +1755,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Order #4",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1917,7 +1810,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Thor #129",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -1969,7 +1862,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Fallen Angels #1 (1987)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Leader, refugee alien; former alien mutant-hunter and hedonist",
@@ -2022,7 +1915,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Astonishing X-Men #4 (2004)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, student",
@@ -2078,8 +1971,8 @@ var data = {
         ],
         "placeOfBirth": "Milwaukee, Wisconsin",
         "firstAppearance": "Incredible Hulk #449",
-        "publisher": "Goliath",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former professional criminal, mercenary, dock worker, soldier",
@@ -2132,7 +2025,7 @@ var data = {
         "placeOfBirth": "Crystal Mountain",
         "firstAppearance": "Action Comics #121",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -2184,7 +2077,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -2238,7 +2131,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Showcase #34",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Physics Professor",
@@ -2290,7 +2183,7 @@ var data = {
         "placeOfBirth": "Montreal, Quebec, Canada",
         "firstAppearance": "X-Men #121 (1979)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former terrorist, nun, history/geography teacher",
@@ -2349,7 +2242,7 @@ var data = {
         "placeOfBirth": "Isla des Demonas, Caribbean Sea",
         "firstAppearance": "Uncanny X-Men #428 (2003)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Leader of the Neyaphem",
@@ -2401,7 +2294,7 @@ var data = {
         "placeOfBirth": "Gotham City",
         "firstAppearance": "Batman #672 (February, 2008)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Police Officer, vigilante",
@@ -2453,7 +2346,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman: Vengeance of Bane #1 (January, 1993)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -2505,7 +2398,7 @@ var data = {
         "placeOfBirth": "Cassidy Keep, Ireland",
         "firstAppearance": "X-Men #28 (January, 1967)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor",
@@ -2557,7 +2450,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, boxing trainer, former boxer",
@@ -2609,8 +2502,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Detective Comics #359",
-        "publisher": "Oracle",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -2663,7 +2556,7 @@ var data = {
         "placeOfBirth": "League of Assassins (exact base is unknown)",
         "firstAppearance": "Batman: Legends of the Dark Knight #120",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -2717,8 +2610,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
-        "publisher": "Spoiler",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "College student at Gotham University",
@@ -2774,7 +2667,7 @@ var data = {
         "placeOfBirth": "Gotham City, 25th Century",
         "firstAppearance": "Batman Beyond #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -2827,7 +2720,7 @@ var data = {
         "placeOfBirth": "Crest Hill, Bristol Township; Gotham County",
         "firstAppearance": "Detective Comics #27",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Businessman",
@@ -2878,8 +2771,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "-",
-        "publisher": "Nightwing",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -2931,7 +2824,7 @@ var data = {
         "placeOfBirth": "Chicago, Illinois",
         "firstAppearance": "Captain America #323 (1986); (as Bucky)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former wrestler, federal operative",
@@ -2983,7 +2876,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "52 #7 (June, 2006)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -3040,7 +2933,7 @@ var data = {
         "placeOfBirth": "Dunfee, Illinois",
         "firstAppearance": "X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler",
@@ -3098,7 +2991,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Doom Patrol #99 (November, 1965)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Struggling Actor",
@@ -3150,7 +3043,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Ben 10 S01E01",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -3203,7 +3096,7 @@ var data = {
         "placeOfBirth": "Burning Galaxy",
         "firstAppearance": "Thor #337",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Guardian of the Korbinite race",
@@ -3265,7 +3158,7 @@ var data = {
         "placeOfBirth": "Created in the Beyond",
         "firstAppearance": "Marvel Super-Heroes Secret Wars #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former student",
@@ -3318,7 +3211,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Mister Miracle (Volume 1) #4",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -3370,7 +3263,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Kick-Ass #4",
         "publisher": "Icon Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -3422,7 +3315,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man # 10 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Reporter, professional criminal",
@@ -3437,110 +3330,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/83-big-man.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/83-big-man.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/83-big-man.jpg"
-      }
-    },
-    {
-      "id": 84,
-      "name": "Bill Harken",
-      "slug": "84-bill-harken",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 36,
-        "speed": 33,
-        "durability": 60,
-        "power": 27,
-        "combat": 40
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Alpha",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "SyFy",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Alphas",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/84-bill-harken.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/84-bill-harken.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/84-bill-harken.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/84-bill-harken.jpg"
-      }
-    },
-    {
-      "id": 87,
-      "name": "Bionic Woman",
-      "slug": "87-bionic-woman",
-      "powerstats": {
-        "intelligence": 56,
-        "strength": 37,
-        "speed": 33,
-        "durability": 40,
-        "power": 20,
-        "combat": 40
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Cyborg",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "Jamie Sommers",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Clarissa Whyte"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/87-bionic-woman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/87-bionic-woman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/87-bionic-woman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/87-bionic-woman.jpg"
       }
     },
     {
@@ -3578,7 +3367,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The New Mutants #56 (October, 1987)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -3630,7 +3419,7 @@ var data = {
         "placeOfBirth": "A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth",
         "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)",
@@ -3682,7 +3471,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Superboy Vol. 1 #68 (1958)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -3737,7 +3526,7 @@ var data = {
         "placeOfBirth": "Kahndaq, Egypt",
         "firstAppearance": "Marvel Family #1 (December, 1945)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -3789,7 +3578,7 @@ var data = {
         "placeOfBirth": "Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #45 (December, 1965)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "King of the Inhumans",
@@ -3841,7 +3630,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Justice League of America (Volume 1) #75",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
@@ -3893,7 +3682,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash Comics #86 (August, 1947)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Florist, former private investigator",
@@ -3945,7 +3734,7 @@ var data = {
         "placeOfBirth": "Queens, New York",
         "firstAppearance": "Amazing Spider-Man #194 (July, 1979)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Cat burglar; Private investigator, founder of Cat's Eye Investigations.",
@@ -4002,7 +3791,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash Vol 2 #138",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -4056,7 +3845,7 @@ var data = {
         "placeOfBirth": "Gloucester, Massachusetts",
         "firstAppearance": "Avengers #47 (1967)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, scientist; former crusader",
@@ -4108,7 +3897,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Black Lightning #1 (April 1977)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.",
@@ -4160,7 +3949,7 @@ var data = {
         "placeOfBirth": "Chicago, Illinois",
         "firstAppearance": "Marvel Two-In-One #64",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Mercenary, professional criminal, former call girl",
@@ -4214,7 +4003,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Aquaman #35 (August, 1967)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -4272,7 +4061,7 @@ var data = {
         "placeOfBirth": "Wakanda, Africa",
         "firstAppearance": "Fantastic Four Vol. 1 #52 (1966)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "King and Chieftain of Wakanda, scientist; former school teacher",
@@ -4334,7 +4123,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Tales of Suspense #52",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Intelligence agent, former ballerina",
@@ -4386,7 +4175,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin, enforcer",
@@ -4441,7 +4230,7 @@ var data = {
         "placeOfBirth": "Professional Criminal",
         "firstAppearance": "Daredevil #118 (February, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -4548,7 +4337,7 @@ var data = {
         "placeOfBirth": "Soho, London,England",
         "firstAppearance": "Tomb of Dracula Vol. 1 #10 (1973)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vampire hunter, former private investigator.",
@@ -4600,7 +4389,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men #171 (2005)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -4652,7 +4441,7 @@ var data = {
         "placeOfBirth": "Bahamas",
         "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, freedom fighter",
@@ -4704,7 +4493,7 @@ var data = {
         "placeOfBirth": "Newark, Delaware",
         "firstAppearance": "Iron Man #223 (1987)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Adventurer; former mercenary and professional criminal",
@@ -4756,7 +4545,7 @@ var data = {
         "placeOfBirth": "Lubbock, Texas",
         "firstAppearance": "X-Men #3 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Former criminal, terrorist, government agent, carnival performer",
@@ -4808,7 +4597,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Architect, former vigilante",
@@ -4860,7 +4649,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men (2099) #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -4912,7 +4701,7 @@ var data = {
         "placeOfBirth": "Presumed to be El Paso",
         "firstAppearance": "Infinite Crisis #3 (2006)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -4927,62 +4716,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/126-blue-beetle-iii.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/126-blue-beetle-iii.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/126-blue-beetle-iii.jpg"
-      }
-    },
-    {
-      "id": 127,
-      "name": "Boba Fett",
-      "slug": "127-boba-fett",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 10,
-        "speed": 38,
-        "durability": 36,
-        "power": 68,
-        "combat": 70
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human / Clone",
-        "height": [
-          "6'0",
-          "183 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Teff",
-          "Sava Brek Madak",
-          "Jaster Mereel",
-          "Mandalore",
-          "Mand'alor"
-        ],
-        "placeOfBirth": "Kamino",
-        "firstAppearance": "-",
-        "publisher": "George Lucas",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Bounty Hunter",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/127-boba-fett.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/127-boba-fett.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/127-boba-fett.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/127-boba-fett.jpg"
       }
     },
     {
@@ -5025,8 +4758,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Secret Wars II #5",
-        "publisher": "Meltdown",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former student, thief",
@@ -5078,8 +4811,8 @@ var data = {
         ],
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "Alpha Flight #16",
-        "publisher": "Gemini V",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Inventor, former soldier",
@@ -5131,7 +4864,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Action Comics #242 (July 1958)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -5183,7 +4916,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -5198,118 +4931,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/137-brainiac-5.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/137-brainiac-5.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/137-brainiac-5.jpg"
-      }
-    },
-    {
-      "id": 139,
-      "name": "Brundlefly",
-      "slug": "139-brundlefly",
-      "powerstats": {
-        "intelligence": 69,
-        "strength": 32,
-        "speed": 25,
-        "durability": 40,
-        "power": 27,
-        "combat": 15
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Mutant",
-        "height": [
-          "6'4",
-          "193 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Seth Brundle",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "The Fly"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "The Fly (1986)",
-        "publisher": "",
-        "alignment": "-"
-      },
-      "work": {
-        "occupation": "Scientist",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/139-brundlefly.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/139-brundlefly.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/139-brundlefly.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/139-brundlefly.jpg"
-      }
-    },
-    {
-      "id": 140,
-      "name": "Buffy",
-      "slug": "140-buffy",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 28,
-        "speed": 42,
-        "durability": 70,
-        "power": 48,
-        "combat": 60
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Human",
-        "height": [
-          "5'2",
-          "157 cm"
-        ],
-        "weight": [
-          "115 lb",
-          "52 kg"
-        ],
-        "eyeColor": "Green",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "Buffy Anne Summers",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Anne",
-          "The Chosen One",
-          "The Vampire Slayer",
-          "The Slayer",
-          "Buff",
-          "B",
-          "The Buffster",
-          "Belinda",
-          "Joan"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Dark Horse Presents 1998 Annual",
-        "publisher": "Dark Horse Comics",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Slayer ; (formerly) Waitress ; DoubleMeat Palace employee ; Sunnydale High Counselor",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Slayer Army, Scooby Gang, (formerly) The Initiative, Watchers Council",
-        "relatives": "Joyce Summers (mother, deceased) ; Hank Summers (father) ; Dawn Summers (sister) ; Celia (cousin, deceased) ; Arlene (aunt)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/140-buffy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/140-buffy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/140-buffy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/140-buffy.jpg"
       }
     },
     {
@@ -5352,7 +4973,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Daredevil #131 (March, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin, professional criminal, former mercenary",
@@ -5404,7 +5025,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans #45",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -5456,7 +5077,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Titans: Secret Files & Origins #2",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -5515,7 +5136,7 @@ var data = {
         "placeOfBirth": "Unrevealed location in the 20th Century United States",
         "firstAppearance": "New Mutants #86 (as Cable)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "(current) Adventurer, (former) freedom fighter, United States government agent, mercenary, combat instructor for X-Force",
@@ -5567,7 +5188,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-MEN (first series) #169",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -5582,58 +5203,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/146-callisto.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/146-callisto.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/146-callisto.jpg"
-      }
-    },
-    {
-      "id": 147,
-      "name": "Cameron Hicks",
-      "slug": "147-cameron-hicks",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 10,
-        "speed": 23,
-        "durability": 28,
-        "power": 51,
-        "combat": 70
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Alpha",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "SyFy",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Alphas",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/147-cameron-hicks.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/147-cameron-hicks.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/147-cameron-hicks.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/147-cameron-hicks.jpg"
       }
     },
     {
@@ -5673,7 +5242,7 @@ var data = {
         "placeOfBirth": "Cumberland County, Kentucky",
         "firstAppearance": "Marvel Graphic Novel #4 (1982)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, peacekeeper, former student, mercenary, miner",
@@ -5726,7 +5295,7 @@ var data = {
         "placeOfBirth": "Manhattan, New York City, New York",
         "firstAppearance": "Captain America Comics #1 (March 1941)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",
@@ -5780,7 +5349,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Captain Atom #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Soldier",
@@ -5836,7 +5405,7 @@ var data = {
         "placeOfBirth": "Braddock Manor, England",
         "firstAppearance": "Captain Britain #1 (October, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, formerly King of Otherworld, scientist",
@@ -5893,7 +5462,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash Vol 4 #6 (April, 2012)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Professional Criminal",
@@ -5908,58 +5477,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/152-captain-cold.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/152-captain-cold.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/152-captain-cold.jpg"
-      }
-    },
-    {
-      "id": 154,
-      "name": "Captain Hindsight",
-      "slug": "154-captain-hindsight",
-      "powerstats": {
-        "intelligence": 25,
-        "strength": 10,
-        "speed": 83,
-        "durability": 30,
-        "power": 10,
-        "combat": 20
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "Jack Brolin",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "South Park S14 E11 \"Coon 2: Hindsight\"",
-        "publisher": "South Park",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Former Superhero; News Reporter",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/154-captain-hindsight.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/154-captain-hindsight.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/154-captain-hindsight.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/154-captain-hindsight.jpg"
       }
     },
     {
@@ -6000,7 +5517,7 @@ var data = {
         "placeOfBirth": "Fawcett City, United States",
         "firstAppearance": "Whiz Comics no. 2 (1940)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -6055,8 +5572,8 @@ var data = {
         ],
         "placeOfBirth": "Boston, Massachusetts",
         "firstAppearance": "Ms. Marvel #1",
-        "publisher": "Binary",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former National Aeronautics and Space Administration security Chief, former magazine editor, former freelance writer, former military intelligence officer.",
@@ -6109,7 +5626,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -6163,7 +5680,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Captain Planet and the Planeteers (TV Series)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -6216,7 +5733,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -6273,7 +5790,7 @@ var data = {
         "placeOfBirth": "Gotham City",
         "firstAppearance": "Detective Comics #569",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Thief",
@@ -6325,7 +5842,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Force Works #1 (July, 1994)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Tracker, adventurer",
@@ -6379,7 +5896,7 @@ var data = {
         "placeOfBirth": "United Kingdom",
         "firstAppearance": "Generation X #1 (November, 1994)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -6440,7 +5957,7 @@ var data = {
         "placeOfBirth": "Russia",
         "firstAppearance": "Amazing Spider-Man #1",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -6493,7 +6010,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Uncanny X-Men #35 (August, 1967)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Former substitute teacher, adventurer, subversive",
@@ -6546,7 +6063,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -6602,7 +6119,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Wonder Woman Vol2 #7 (Sept 1987)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Archaeologist, Anthropologist",
@@ -6617,58 +6134,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/174-cheetah-iii.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/174-cheetah-iii.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/174-cheetah-iii.jpg"
-      }
-    },
-    {
-      "id": 176,
-      "name": "Chuck Norris",
-      "slug": "176-chuck-norris",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 80,
-        "speed": 47,
-        "durability": 56,
-        "power": 42,
-        "combat": 99
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "5'10",
-          "178 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Carlos Ray Norris",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Chuck"
-        ],
-        "placeOfBirth": "Ryan, Oklahoma, United States",
-        "firstAppearance": "-",
-        "publisher": null,
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/176-chuck-norris.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/176-chuck-norris.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/176-chuck-norris.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/176-chuck-norris.jpg"
       }
     },
     {
@@ -6708,7 +6173,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former Professional Football Player",
@@ -6723,59 +6188,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/177-citizen-steel.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/177-citizen-steel.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/177-citizen-steel.jpg"
-      }
-    },
-    {
-      "id": 178,
-      "name": "Claire Bennet",
-      "slug": "178-claire-bennet",
-      "powerstats": {
-        "intelligence": 38,
-        "strength": 9,
-        "speed": 12,
-        "durability": 100,
-        "power": 90,
-        "combat": 28
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "Claire Bennet",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Vivian Lewis",
-          "Claire Butler"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S01E01",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "High school student, cheerleader",
-        "base": "formerly Odessa, TX, Costa Verde, CA"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Adoptive parents: Sandra Bennet, Noah Bennet, Biological parents: Meredith Gordon, Nathan Petrelli, Younger adoptive brother: Lyle Bennet,  Younger half brothers: Simon Petrelli, Monty Petrelli"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/178-claire-bennet.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/178-claire-bennet.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/178-claire-bennet.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/178-claire-bennet.jpg"
       }
     },
     {
@@ -6813,7 +6225,7 @@ var data = {
         "placeOfBirth": "South Boston, Massachusetts",
         "firstAppearance": "Spectacular Spiderman #64",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante",
@@ -6865,7 +6277,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "World's Finest #111 (August, 1960)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -6920,7 +6332,7 @@ var data = {
         "placeOfBirth": "Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",
         "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "(current) Adventurer, student, (former) Artist",
@@ -6981,7 +6393,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "New Mutants #98 (February, 1991)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -7033,7 +6445,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Captain America #310 (October, 1985)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal",
@@ -7086,7 +6498,7 @@ var data = {
         "placeOfBirth": "Attilan",
         "firstAppearance": "Fantastic Four #45 (1965)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mother, adventuress",
@@ -7140,7 +6552,7 @@ var data = {
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "DC Comics Presents #26 (October, 1980)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Teen Titan",
@@ -7194,7 +6606,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Adventures of Superman #466 (May, 1990)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -7254,7 +6666,7 @@ var data = {
         "placeOfBirth": "Anchorage, Alaska",
         "firstAppearance": "X-Men #1 (September, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Leader of mutant race, adventurer, headmaster, former student, radio announcer",
@@ -7306,7 +6718,7 @@ var data = {
         "placeOfBirth": "Shaker Heights, Ohio",
         "firstAppearance": "Spectacular Spiderman #64",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante",
@@ -7321,58 +6733,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/198-dagger.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/198-dagger.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/198-dagger.jpg"
-      }
-    },
-    {
-      "id": 200,
-      "name": "Daphne Powell",
-      "slug": "200-daphne-powell",
-      "powerstats": {
-        "intelligence": 38,
-        "strength": 10,
-        "speed": 8,
-        "durability": 10,
-        "power": 56,
-        "combat": 10
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Daphne Powell",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "No Ordinary Family S01E01 (2010)",
-        "publisher": "ABC Studios",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Student",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Jim Powell and Stephanie Powell (parents), JJ Powell (brother)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/200-daphne-powell.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/200-daphne-powell.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/200-daphne-powell.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/200-daphne-powell.jpg"
       }
     },
     {
@@ -7424,7 +6784,7 @@ var data = {
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "Daredevil #1 (April, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, vigilante, Attorney at Law",
@@ -7478,7 +6838,7 @@ var data = {
         "placeOfBirth": "Queens, New York",
         "firstAppearance": "Darkhawk #1 (March, 1991)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Retired Superhero",
@@ -7493,58 +6853,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/202-darkhawk.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/202-darkhawk.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/202-darkhawk.jpg"
-      }
-    },
-    {
-      "id": 203,
-      "name": "Darkman",
-      "slug": "203-darkman",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 14,
-        "speed": 23,
-        "durability": 85,
-        "power": 12,
-        "combat": 28
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Peyton Westlake",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Darkman (August 24, 1990)",
-        "publisher": "Universal Studios",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Scientist",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Julie Hastings (girlfriend)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/203-darkman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/203-darkman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/203-darkman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/203-darkman.jpg"
       }
     },
     {
@@ -7582,7 +6890,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Superman's Pal Jimmy Olsen #134 (November 1970)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Dictator of Apokolips",
@@ -7634,7 +6942,7 @@ var data = {
         "placeOfBirth": "Minks, USSR",
         "firstAppearance": "Champions #7 (August, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Occupation unknown",
@@ -7649,111 +6957,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/206-darkstar.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/206-darkstar.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/206-darkstar.jpg"
-      }
-    },
-    {
-      "id": 207,
-      "name": "Darth Maul",
-      "slug": "207-darth-maul",
-      "powerstats": {
-        "intelligence": 56,
-        "strength": 48,
-        "speed": 50,
-        "durability": 30,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Dathomirian Zabrak",
-        "height": [
-          "5'7",
-          "170 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Yellow / Red",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Sith",
-          "Master Of The Double-Bladed Lightsaber"
-        ],
-        "placeOfBirth": "Dathomir",
-        "firstAppearance": "Star Wars Episode I: The Phantom Menace (1999)",
-        "publisher": "George Lucas",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Darth Sidious (Master)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/207-darth-maul.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/207-darth-maul.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/207-darth-maul.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/207-darth-maul.jpg"
-      }
-    },
-    {
-      "id": 208,
-      "name": "Darth Vader",
-      "slug": "208-darth-vader",
-      "powerstats": {
-        "intelligence": 69,
-        "strength": 48,
-        "speed": 33,
-        "durability": 35,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Cyborg",
-        "height": [
-          "6'6",
-          "198 cm"
-        ],
-        "weight": [
-          "300 lb",
-          "135 kg"
-        ],
-        "eyeColor": "Yellow",
-        "hairColor": "No Hair"
-      },
-      "biography": {
-        "fullName": "Anakin Skywalker",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Lord Vader"
-        ],
-        "placeOfBirth": "Tatooine",
-        "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
-        "publisher": "George Lucas",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Sith Lord, Supreme Commander of the Imperial Fleet",
-        "base": "Death Star"
-      },
-      "connections": {
-        "groupAffiliation": "Sith, Galactic Empire",
-        "relatives": "Luke Skywalker (Son), Princess Leia (Daughter)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/208-darth-vader.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/208-darth-vader.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/208-darth-vader.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/208-darth-vader.jpg"
       }
     },
     {
@@ -7792,7 +6995,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -7807,58 +7010,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/209-dash.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/209-dash.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/209-dash.jpg"
-      }
-    },
-    {
-      "id": 210,
-      "name": "Data",
-      "slug": "210-data",
-      "powerstats": {
-        "intelligence": 100,
-        "strength": 32,
-        "speed": 21,
-        "durability": 40,
-        "power": 56,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Android",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Yellow",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "Data",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "B-4"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "Star Trek",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Lieutenant commander",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Dr. Noonian Soong (creator)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/210-data.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/210-data.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/210-data.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/210-data.jpg"
       }
     },
     {
@@ -7901,7 +7052,7 @@ var data = {
         "placeOfBirth": "Gardendale, Long Island, New York",
         "firstAppearance": "X-Men #130 (1980)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, singer, former actress, model, revolutionary",
@@ -7953,7 +7104,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Strange Adventures #205 (October, 1967)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Wandering Spirit, Former Circus Aerialist",
@@ -8012,8 +7163,8 @@ var data = {
         ],
         "placeOfBirth": "Canada",
         "firstAppearance": "New Mutants #98 (February, 1991)",
-        "publisher": "Evil Deadpool",
-        "alignment": "neutral"
+        "publisher": "Marvel Comics",
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Mercenary; former enforcer, government operative, sumo wrestler, soldier, assassin, anti-hero, others",
@@ -8067,7 +7218,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman #59 (June, 1950)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -8119,7 +7270,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Astonishing Tales #25 (August, 1974)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -8173,7 +7324,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "New Teen Titans #2 (December, 1980)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Mercenary; Former Soldier, Big-Game Hunter",
@@ -8225,7 +7376,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Demonic Redeemer",
@@ -8277,7 +7428,7 @@ var data = {
         "placeOfBirth": "Created in Asgard",
         "firstAppearance": "Journey into Mystery #118 (1965)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -8329,7 +7480,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal",
@@ -8344,58 +7495,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/219-diamondback.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/219-diamondback.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/219-diamondback.jpg"
-      }
-    },
-    {
-      "id": 220,
-      "name": "DL Hawkins",
-      "slug": "220-dl-hawkins",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 12,
-        "speed": 12,
-        "durability": 56,
-        "power": 48,
-        "combat": 56
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Daniel Lawrence Hawkins",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S01E05 - Hiros",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Construction worker, Firefighter",
-        "base": "Las Vegas, NV"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Niki Sanders (wife), Micah Sanders (son), Paulette Hawkins (mother), Monica Dawson (cousin), Damon Dawson (cousin)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/220-dl-hawkins.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/220-dl-hawkins.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/220-dl-hawkins.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/220-dl-hawkins.jpg"
       }
     },
     {
@@ -8433,7 +7532,7 @@ var data = {
         "placeOfBirth": "Tulsa, Oklahoma",
         "firstAppearance": "Incredible Hulk #141 (July, 1971)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base",
@@ -8486,7 +7585,7 @@ var data = {
         "placeOfBirth": "Haasenstadt, Latveria",
         "firstAppearance": "Fantastic Four #5 (July 1962)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Monarch",
@@ -8538,7 +7637,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "More Fun Comics #55 (May, 1940)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -8597,7 +7696,7 @@ var data = {
         "placeOfBirth": "Schenectady, New York",
         "firstAppearance": "Amazing Spider-Man #3 (July 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Former atomic-research consultant, criminal mastermind",
@@ -8653,7 +7752,7 @@ var data = {
         "placeOfBirth": "Philadelphia, Pennsylvania",
         "firstAppearance": "Strange Tales #110 (July, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Sorcerer Supreme, retired neurosurgeon",
@@ -8714,7 +7813,7 @@ var data = {
         "placeOfBirth": "Project: Armageddon base, Everglades, Florida",
         "firstAppearance": "X-Force #8 (March, 1992)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -8767,7 +7866,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -8819,7 +7918,7 @@ var data = {
         "placeOfBirth": "Krypton",
         "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Destroyer",
@@ -8873,7 +7972,7 @@ var data = {
         "placeOfBirth": "The Dimension of Manifestations",
         "firstAppearance": "Infinity War #1 (1992)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -8930,7 +8029,7 @@ var data = {
         "placeOfBirth": "Faltine Dimension",
         "firstAppearance": "Strange Tales #126 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Despot, conqueror",
@@ -8983,7 +8082,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Scientist",
@@ -9035,7 +8134,7 @@ var data = {
         "placeOfBirth": "Burbank, California",
         "firstAppearance": "Iron Man #55 (February, 1973)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -9087,7 +8186,7 @@ var data = {
         "placeOfBirth": "The Black Galaxy",
         "firstAppearance": "THOR #132",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Inapplicable",
@@ -9139,7 +8238,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -9191,7 +8290,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #9 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal",
@@ -9243,7 +8342,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Daredevil #168",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Assassin, adventurer, mercenary, former student, dancer",
@@ -9258,58 +8357,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/238-elektra.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/238-elektra.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/238-elektra.jpg"
-      }
-    },
-    {
-      "id": 239,
-      "name": "Elle Bishop",
-      "slug": "239-elle-bishop",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 8,
-        "speed": 12,
-        "durability": 42,
-        "power": 63,
-        "combat": 42
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Cindy"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S02E05 - Fight or Flight",
-        "publisher": "NBC - Heroes",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Agent of the Company",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Bob Bishop (Father)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/239-elle-bishop.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/239-elle-bishop.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/239-elle-bishop.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/239-elle-bishop.jpg"
       }
     },
     {
@@ -9347,7 +8394,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash #112 (1960)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Detective",
@@ -9400,7 +8447,7 @@ var data = {
         "placeOfBirth": "Boston, Massachusetts",
         "firstAppearance": "UNCANNY X-MEN #132",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -9453,7 +8500,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Strange Adventures #187",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Artist; Magician",
@@ -9468,58 +8515,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/242-enchantress.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/242-enchantress.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/242-enchantress.jpg"
-      }
-    },
-    {
-      "id": 245,
-      "name": "Ethan Hunt",
-      "slug": "245-ethan-hunt",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 11,
-        "speed": 29,
-        "durability": 30,
-        "power": 26,
-        "combat": 95
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'6",
-          "168 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "Ethan Hunt",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Madison, Wisconsin, United States of America",
-        "firstAppearance": "-",
-        "publisher": null,
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "IMF Agent, Training Officer (former), Field Agent, Field Team Leader",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Formerly: United States Army",
-        "relatives": "Nathan Hunt (Father), Margaret Hunt (Mother), Donald Hunt (Uncle)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/245-ethan-hunt.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/245-ethan-hunt.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/245-ethan-hunt.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/245-ethan-hunt.jpg"
       }
     },
     {
@@ -9557,7 +8552,7 @@ var data = {
         "placeOfBirth": "Hell",
         "firstAppearance": "Demon #1 (September, 1972)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -9608,8 +8603,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Deadpool Vol 2 #44 (December, 2011)",
-        "publisher": "Deadpool",
-        "alignment": "bad"
+        "publisher": "Marvel Comics",
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Mercenary, Assasin",
@@ -9661,7 +8656,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Darkhawk #20 (October, 1992)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Crimelord",
@@ -9713,7 +8708,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Factor #92 (July, 1993)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Terrorist, would-be conqueror, Former leader of the Acolytes, Crusader",
@@ -9769,7 +8764,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "Captain America #117 (September, 1969)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Crimefighter, (former) freelance artist",
@@ -9821,7 +8816,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -9873,7 +8868,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Action Comics #471 (May, 1977)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Serial killer",
@@ -9925,7 +8920,7 @@ var data = {
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "NEW MUTANTS #99",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Formerly Adventurer, Terrorist",
@@ -9977,7 +8972,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -10031,7 +9026,7 @@ var data = {
         "placeOfBirth": "Buena Vista, New Mexico",
         "firstAppearance": "INCREDIBLE HULK Vol. 2 #265",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Social worker, adventurer",
@@ -10083,7 +9078,7 @@ var data = {
         "placeOfBirth": "Xander, planet in Tranta System, Andromeda Galaxy",
         "firstAppearance": "THOR Vol. 1 #225",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former starship captain, former herald of Galactus",
@@ -10137,7 +9132,7 @@ var data = {
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "Uncanny X-Men #193 (May, 1985)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -10189,7 +9184,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Firestorm (Volume 3) #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "University student; former food server at Bryson's Family Treat; former mascot at Ho-Ho Charlie's Chicken Shack; former intern at S.T.A.R. Labs",
@@ -10244,7 +9239,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Firestorm #1 (March, 1978)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former employee of Bun 'n Run",
@@ -10297,7 +9292,7 @@ var data = {
         "placeOfBirth": "Hibbardsville, Kansas",
         "firstAppearance": "Flash Comics #1 (January 1940)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Research Scientist, part-time Director of Garrick Laboratories",
@@ -10351,8 +9346,8 @@ var data = {
         ],
         "placeOfBirth": "Fallville, Iowa",
         "firstAppearance": "Showcase #4 (October, 1956)",
-        "publisher": "Black Racer",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Forensic Scientist",
@@ -10405,8 +9400,8 @@ var data = {
         ],
         "placeOfBirth": "Blue Valley, Nebraska",
         "firstAppearance": "Flash #110 (January, 1960)",
-        "publisher": "Speed Demon",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Mechanic for the KCPD",
@@ -10458,8 +9453,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003)",
-        "publisher": "Impulse",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Police trainee",
@@ -10512,7 +9507,7 @@ var data = {
         "placeOfBirth": "Unrevealed, presumably in the American West",
         "firstAppearance": "Uncanny X-Men #184",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Inventor working for the U.S. government, former soldier",
@@ -10568,7 +9563,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "Fantastic Four Annual #6",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -10620,7 +9615,7 @@ var data = {
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "FANTASTIC FOUR #31",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Surgeon",
@@ -10672,7 +9667,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Factor Vol 1 #4",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Mercenary",
@@ -10727,7 +9722,7 @@ var data = {
         "placeOfBirth": "(Galan) Taa; (Galactus) the Cosmic Egg",
         "firstAppearance": "Fantastic Four #48 (March 1966)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Planet Devourer, Third Force of the Universe - balance between Eternity and Death, Nullifying Abraxas' Influence on the Multiverse, Third Face of the Living Tribunal - representing Equity",
@@ -10782,7 +9777,7 @@ var data = {
         "placeOfBirth": "New Orleans, Louisiana",
         "firstAppearance": "(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Utopia, San Francisco Bay, California; Xavier Institute, Salem Center, Westchester County, New York; New Orleans; Paris; Cairo; Illinois",
@@ -10835,7 +9830,7 @@ var data = {
         "placeOfBirth": "Planet Zen Whoberi, Silican System, Milky Way",
         "firstAppearance": "Strange Tales #180 (June, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Assassin, mercenary, adventurer",
@@ -10850,58 +9845,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/275-gamora.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/275-gamora.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/275-gamora.jpg"
-      }
-    },
-    {
-      "id": 277,
-      "name": "Gary Bell",
-      "slug": "277-gary-bell",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 5,
-        "speed": 8,
-        "durability": 10,
-        "power": 54,
-        "combat": 10
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Alpha",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Gary Bell",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "SyFy",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Alphas",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/277-gary-bell.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/277-gary-bell.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/277-gary-bell.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/277-gary-bell.jpg"
       }
     },
     {
@@ -10939,7 +9882,7 @@ var data = {
         "placeOfBirth": "Krypton",
         "firstAppearance": "Action Comics #845",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -10991,7 +9934,7 @@ var data = {
         "placeOfBirth": "Waukegan, Illinois",
         "firstAppearance": "Marvel Spotlight #5 (August, 1972)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former stunt motorcyclist",
@@ -11043,7 +9986,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Wonder Woman (Volume 1) #9 (1944)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal, former Scientist, Professor at Ivy University",
@@ -11097,7 +10040,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men Vol 1 #107 October, 1977",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Majestor of the Shi'ar Empire; Former Praetor of the Imperial Guard; possibly former Herald of Galactus",
@@ -11153,7 +10096,7 @@ var data = {
         "placeOfBirth": "Created in Sinister's Labs, Nebraska",
         "firstAppearance": "Uncanny X-Men #168",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -11168,63 +10111,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/286-goblin-queen.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/286-goblin-queen.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/286-goblin-queen.jpg"
-      }
-    },
-    {
-      "id": 287,
-      "name": "Godzilla",
-      "slug": "287-godzilla",
-      "powerstats": {
-        "intelligence": 44,
-        "strength": 100,
-        "speed": 54,
-        "durability": 100,
-        "power": 100,
-        "combat": 20
-      },
-      "appearance": {
-        "gender": "-",
-        "race": "Kaiju",
-        "height": [
-          "354'4",
-          "108.0 meters"
-        ],
-        "weight": [
-          "200000000 lb",
-          "90,000 tons"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Gojira",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Legendary Godzilla",
-          "King of the Monsters",
-          "Gigantis",
-          "Monster Zero-One",
-          "God of Destruction",
-          "Alpha Predator"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Godzilla (1954)",
-        "publisher": "",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/287-godzilla.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/287-godzilla.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/287-godzilla.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/287-godzilla.jpg"
       }
     },
     {
@@ -11263,7 +10149,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Incredible Hulk #257 (1981)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -11278,64 +10164,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      }
-    },
-    {
-      "id": 289,
-      "name": "Goku",
-      "slug": "289-goku",
-      "powerstats": {
-        "intelligence": 56,
-        "strength": 100,
-        "speed": 75,
-        "durability": 90,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Saiyan",
-        "height": [
-          "5'9",
-          "175 cm"
-        ],
-        "weight": [
-          "137 lb",
-          "62 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Kakarot",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Ultimate Defender",
-          "Sayain Monkey",
-          "Super Sayain",
-          "Z-Fighter",
-          "Son-Goku",
-          "Lower-Class Sayain",
-          "Goku Son"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Dragon Ball #1",
-        "publisher": "Shueisha",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Saiyajin, Son family, Z-Fighters",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/289-goku.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/289-goku.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/289-goku.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/289-goku.jpg"
       }
     },
     {
@@ -11376,7 +10204,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash #106 (May, 1959)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -11428,7 +10256,7 @@ var data = {
         "placeOfBirth": "Sheboygan, Wisconsin",
         "firstAppearance": "Gravity #1 (August, 2005)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -11443,58 +10271,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/296-gravity.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/296-gravity.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/296-gravity.jpg"
-      }
-    },
-    {
-      "id": 297,
-      "name": "Greedo",
-      "slug": "297-greedo",
-      "powerstats": {
-        "intelligence": 38,
-        "strength": 10,
-        "speed": 13,
-        "durability": 15,
-        "power": 31,
-        "combat": 40
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Rodian",
-        "height": [
-          "5'7",
-          "170 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Purple",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Greedo",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Rodia",
-        "firstAppearance": "-",
-        "publisher": "George Lucas",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Bounty Hunter",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/297-greedo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/297-greedo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/297-greedo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/297-greedo.jpg"
       }
     },
     {
@@ -11533,7 +10309,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "More Fun Comics #73 (November 1941)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Professional Crime-fighter; Multi-Billionaire",
@@ -11594,7 +10370,7 @@ var data = {
         "placeOfBirth": "Hartford, Connecticut",
         "firstAppearance": "Amazing Spider-Man #14 (July, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal, owner and president of Osborn Industries",
@@ -11646,7 +10422,7 @@ var data = {
         "placeOfBirth": "New York City",
         "firstAppearance": "Amzing Spide-Man #31",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -11702,7 +10478,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Tales to Astonish #13 (November, 1960)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -11756,7 +10532,7 @@ var data = {
         "placeOfBirth": "Baltimore, Maryland",
         "firstAppearance": "Green Lantern Vol 2 #59",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former High School gym teacher; former bar owner; currently Honor guard of the Green Lantern Corps",
@@ -11810,7 +10586,7 @@ var data = {
         "placeOfBirth": "Coast City, California",
         "firstAppearance": "Showcase #22",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Air Force Test Pilot",
@@ -11825,110 +10601,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/306-hal-jordan.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/306-hal-jordan.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/306-hal-jordan.jpg"
-      }
-    },
-    {
-      "id": 307,
-      "name": "Han Solo",
-      "slug": "307-han-solo",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 10,
-        "speed": 17,
-        "durability": 20,
-        "power": 43,
-        "combat": 60
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'0",
-          "183 cm"
-        ],
-        "weight": [
-          "176 lb",
-          "79 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "Han Solo",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Corellia",
-        "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
-        "publisher": "George Lucas",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/307-han-solo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/307-han-solo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/307-han-solo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/307-han-solo.jpg"
-      }
-    },
-    {
-      "id": 308,
-      "name": "Hancock",
-      "slug": "308-hancock",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 90,
-        "speed": 67,
-        "durability": 100,
-        "power": 100,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'2",
-          "188 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "John Hancock",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "Sony Pictures",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/308-hancock.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/308-hancock.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/308-hancock.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/308-hancock.jpg"
       }
     },
     {
@@ -11971,7 +10643,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman: Harley Quinn (October, 1999)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Psychiatrist",
@@ -11986,62 +10658,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/309-harley-quinn.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/309-harley-quinn.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/309-harley-quinn.jpg"
-      }
-    },
-    {
-      "id": 310,
-      "name": "Harry Potter",
-      "slug": "310-harry-potter",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 7,
-        "speed": 21,
-        "durability": 10,
-        "power": 100,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Green",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "Harry James Potter",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Triwizard Champion",
-          "Seeker",
-          "Quidditch Captain",
-          "Leader of Dumbledore's Army",
-          "Master of Death"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Harry Potter and the Philosopher's Stone",
-        "publisher": "J. K. Rowling",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Head of the Department of Magical Law Enforcement[",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/310-harry-potter.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/310-harry-potter.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/310-harry-potter.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/310-harry-potter.jpg"
       }
     },
     {
@@ -12080,7 +10696,7 @@ var data = {
         "placeOfBirth": "Honolulu, Hawaii",
         "firstAppearance": "X-MEN #58",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Currently Adventurer, formerly Graduate student in geophysics",
@@ -12133,7 +10749,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Showcase #75 (June, 1968)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -12189,8 +10805,8 @@ var data = {
         ],
         "placeOfBirth": "Waverly, Iowa",
         "firstAppearance": "Tales of Suspense #57 (September, 1964)",
-        "publisher": "Goliath",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -12242,7 +10858,7 @@ var data = {
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "Young Avengers #1 (April, 2005)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student; Adventurer; Fugitive",
@@ -12295,7 +10911,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "JSA Secret Files #1 (August 1999)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Film School Student, Temp Curator of the Stonechat Museum",
@@ -12347,7 +10963,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash #140 (November, 1963)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional Criminal",
@@ -12399,7 +11015,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Journey into Mystery #102",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Asgardian Goddess of Death, former Ruler of Hel and Niffleheim",
@@ -12452,7 +11068,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Dime Press #4 (May 1, 1993)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -12506,7 +11122,7 @@ var data = {
         "placeOfBirth": "Centerville, CA USA",
         "firstAppearance": "Avengers #144 (February, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Housemaker, model, adventurer, supernatural investigator",
@@ -12568,7 +11184,7 @@ var data = {
         "placeOfBirth": "Thebes, Greece",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Olympian God of Strength and Labor, later Olympian God of Heroes",
@@ -12621,7 +11237,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Icon Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -12678,7 +11294,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men Vol 2 #205 (2008)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -12737,7 +11353,7 @@ var data = {
         "placeOfBirth": "Dayton, Ohio",
         "firstAppearance": "Incredible Hulk #1 (May, 1962)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Nuclear physicist, Agent of S.H.I.E.L.D.",
@@ -12790,7 +11406,7 @@ var data = {
         "placeOfBirth": "Glenville, Long Island, New York",
         "firstAppearance": "Fantastic Four #1 (1961)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -12843,8 +11459,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Huntress #1 (April 1989)",
-        "publisher": "Batgirl III",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante; High school English teacher",
@@ -12896,7 +11512,7 @@ var data = {
         "placeOfBirth": "Cumberland, Kentucky",
         "firstAppearance": "Rom Annual #3 (November, 1984)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; formerly student, activist",
@@ -12952,7 +11568,7 @@ var data = {
         "placeOfBirth": "Bedford-Stuyvesant, Brooklyn, New York City",
         "firstAppearance": "Venom Along Came A Spider #2 (as Hybrid)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -13004,7 +11620,7 @@ var data = {
         "placeOfBirth": "Bronx, New York",
         "firstAppearance": "Amazing Spider-Man #212 (January, 1981)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional Criminal; former crewman of cargo ship",
@@ -13059,7 +11675,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Avengers #85",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; (Formerly) Cartoonist, government agent",
@@ -13116,7 +11732,7 @@ var data = {
         "placeOfBirth": "Fort Washington, Long Island, New York",
         "firstAppearance": "X-Men #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, formerly teacher, accountant, student",
@@ -13168,8 +11784,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
-        "publisher": "Flash IV",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Student",
@@ -13184,58 +11800,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/340-impulse.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/340-impulse.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/340-impulse.jpg"
-      }
-    },
-    {
-      "id": 341,
-      "name": "Indiana Jones",
-      "slug": "341-indiana-jones",
-      "powerstats": {
-        "intelligence": 69,
-        "strength": 10,
-        "speed": 17,
-        "durability": 30,
-        "power": 19,
-        "combat": 30
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'0",
-          "183 cm"
-        ],
-        "weight": [
-          "176 lb",
-          "79 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Indiana Jones",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Indy"
-        ],
-        "placeOfBirth": "Princeton, New Jersey",
-        "firstAppearance": "Raiders of the Lost Ark (1981)",
-        "publisher": "George Lucas",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Archaeologist",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/341-indiana-jones.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/341-indiana-jones.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/341-indiana-jones.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/341-indiana-jones.jpg"
       }
     },
     {
@@ -13273,7 +11837,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Leader of the Indigo Tribe",
@@ -13325,7 +11889,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Young X-Men #1 (May, 2008)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -13377,7 +11941,7 @@ var data = {
         "placeOfBirth": "Glenville, Long Island, New York",
         "firstAppearance": "FANTASTIC FOUR #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Member of the Fantastic Four, financial manager for Fantastic Four Inc, occasional model and actress",
@@ -13433,7 +11997,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Marvel Premiere #15 (May 1974)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; formerly co-owner of Rand-Meachum, Inc., bodyguard, private investigator, research assistant, warrior",
@@ -13490,7 +12054,7 @@ var data = {
         "placeOfBirth": "Long Island, New York",
         "firstAppearance": "Tales of Suspence #39 (March, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Inventor, Industrialist; former United States Secretary of Defense",
@@ -13542,7 +12106,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "CEO Stane International",
@@ -13594,7 +12158,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, formerly First Lady of Kahndaq, former slave",
@@ -13646,7 +12210,7 @@ var data = {
         "placeOfBirth": "New Haven, Connecticut",
         "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -13698,7 +12262,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Incredibles (Movie, 2004)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -13713,216 +12277,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/351-jack-jack.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/351-jack-jack.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/351-jack-jack.jpg"
-      }
-    },
-    {
-      "id": 352,
-      "name": "James Bond",
-      "slug": "352-james-bond",
-      "powerstats": {
-        "intelligence": 88,
-        "strength": 13,
-        "speed": 17,
-        "durability": 35,
-        "power": 25,
-        "combat": 90
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'0",
-          "183 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "blue",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "James Bond",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "007",
-          "Commander Bond"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Casino Royale, 1953 novel",
-        "publisher": "Titan Books",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "00 Agent",
-        "base": "London"
-      },
-      "connections": {
-        "groupAffiliation": "Secret Intelligence Service, MI6, C.I.A., Royal Navy",
-        "relatives": "Andrew Bond (father), Monique Delacroix (mother)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/352-james-bond.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/352-james-bond.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/352-james-bond.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/352-james-bond.jpg"
-      }
-    },
-    {
-      "id": 353,
-      "name": "James T. Kirk",
-      "slug": "353-james-t.-kirk",
-      "powerstats": {
-        "intelligence": 69,
-        "strength": 11,
-        "speed": 17,
-        "durability": 30,
-        "power": 30,
-        "combat": 75
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'10",
-          "178 cm"
-        ],
-        "weight": [
-          "170 lb",
-          "77 kg"
-        ],
-        "eyeColor": "Hazel",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "James T. Kirk",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Jim",
-          "Captain Kirk"
-        ],
-        "placeOfBirth": "Riverside, Iowa, Earth",
-        "firstAppearance": "Star Trek S01E01: The Man Trap",
-        "publisher": "Star Trek",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Captain",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Federation, Starfleet",
-        "relatives": "Winona Kirk (mother), George Kirk (father), George Samuel Kirk (brother), Michele Suzanne Kirk (sister)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/353-james-t.-kirk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/353-james-t.-kirk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/353-james-t.-kirk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/353-james-t.-kirk.jpg"
-      }
-    },
-    {
-      "id": 354,
-      "name": "Jar Jar Binks",
-      "slug": "354-jar-jar-binks",
-      "powerstats": {
-        "intelligence": 10,
-        "strength": 6,
-        "speed": 33,
-        "durability": 10,
-        "power": 21,
-        "combat": 15
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Gungan",
-        "height": [
-          "6'4",
-          "193 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Yellow",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Jar Jar Binks",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Naboo",
-        "firstAppearance": "-",
-        "publisher": "George Lucas",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/354-jar-jar-binks.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/354-jar-jar-binks.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/354-jar-jar-binks.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/354-jar-jar-binks.jpg"
-      }
-    },
-    {
-      "id": 355,
-      "name": "Jason Bourne",
-      "slug": "355-jason-bourne",
-      "powerstats": {
-        "intelligence": 88,
-        "strength": 12,
-        "speed": 29,
-        "durability": 30,
-        "power": 26,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Jason Bourne",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": null,
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/355-jason-bourne.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/355-jason-bourne.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/355-jason-bourne.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/355-jason-bourne.jpg"
       }
     },
     {
@@ -13960,8 +12314,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "X-Men #1 (September, 1963)",
-        "publisher": "Phoenix",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -13976,58 +12330,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/356-jean-grey.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/356-jean-grey.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/356-jean-grey.jpg"
-      }
-    },
-    {
-      "id": 357,
-      "name": "Jean-Luc Picard",
-      "slug": "357-jean-luc-picard",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 10,
-        "speed": 17,
-        "durability": 30,
-        "power": 26,
-        "combat": 65
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Jean-Luc Picard",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Locutus"
-        ],
-        "placeOfBirth": "La Barre, France, Earth",
-        "firstAppearance": "Star Trek: The Next Generation (1987)",
-        "publisher": "Star Trek",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Commanding officer USS Enterprise (NCC-1701-E)",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Maurice Picard (father), Yvette Picard (mother), Robert Picard (brother), Shinzon (clone)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/357-jean-luc-picard.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/357-jean-luc-picard.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/357-jean-luc-picard.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/357-jean-luc-picard.jpg"
       }
     },
     {
@@ -14065,7 +12367,7 @@ var data = {
         "placeOfBirth": "Citrusville, Florida",
         "firstAppearance": "(Adventures into) Fear#11 (1972)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Sorceress, student",
@@ -14118,7 +12420,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Green Lantern Vol 5 #20 (July, 2013)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -14172,8 +12474,8 @@ var data = {
         ],
         "placeOfBirth": "Forrest Hills, New York City",
         "firstAppearance": "Amazing Spider-Man #4 (September, 1963)",
-        "publisher": "Power Woman",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Special Consultant to \"The Pulse\", a Daily Bugle supplement; formerly private investigator, adventurer, short-time vigilante",
@@ -14188,110 +12490,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/361-jessica-jones.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/361-jessica-jones.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/361-jessica-jones.jpg"
-      }
-    },
-    {
-      "id": 364,
-      "name": "Jim Powell",
-      "slug": "364-jim-powell",
-      "powerstats": {
-        "intelligence": 38,
-        "strength": 38,
-        "speed": 23,
-        "durability": 80,
-        "power": 23,
-        "combat": 20
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Jim Powell",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "No Ordinary Family S01E01 (2010)",
-        "publisher": "ABC Studios",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Police Sketch Artist",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Stephanie Powell (wife), Daphne Powell (duaghter) and JJ Powell (son)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/364-jim-powell.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/364-jim-powell.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/364-jim-powell.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/364-jim-powell.jpg"
-      }
-    },
-    {
-      "id": 365,
-      "name": "JJ Powell",
-      "slug": "365-jj-powell",
-      "powerstats": {
-        "intelligence": 88,
-        "strength": 10,
-        "speed": 8,
-        "durability": 10,
-        "power": 14,
-        "combat": 10
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "JJ Powell",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "No Ordinary Family S01E01 (2010)",
-        "publisher": "ABC Studios",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Student",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Jim Powell and Stephanie Powell (parents), Daphne Powell (sister)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/365-jj-powell.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/365-jj-powell.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/365-jj-powell.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/365-jj-powell.jpg"
       }
     },
     {
@@ -14329,7 +12527,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -14385,7 +12583,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Spy, Government Operative, Mercenary, Soldier",
@@ -14442,7 +12640,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman #1 (Spring 1940)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -14495,7 +12693,7 @@ var data = {
         "placeOfBirth": "Ojai, California",
         "firstAppearance": "Thunderbolts #1 (1997)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -14547,7 +12745,7 @@ var data = {
         "placeOfBirth": "Beverly Hills, California",
         "firstAppearance": "Uncanny X-Men #244 (May, 1989)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student, Adventurer",
@@ -14562,59 +12760,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/372-jubilee.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/372-jubilee.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/372-jubilee.jpg"
-      }
-    },
-    {
-      "id": 373,
-      "name": "Judge Dredd",
-      "slug": "373-judge-dredd",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 18,
-        "speed": 38,
-        "durability": 50,
-        "power": 52,
-        "combat": 95
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'2",
-          "188 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Joseph Dredd",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "The Dead Man",
-          "Joe"
-        ],
-        "placeOfBirth": "Mega City One",
-        "firstAppearance": "2000 AD no. 2 (5 March 1977)",
-        "publisher": "Rebellion",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Mega-City Judge",
-        "base": "Mega City One"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Rico Dredd (brother), Judge Kraken (clone), Vienna (niece),"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/373-judge-dredd.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/373-judge-dredd.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/373-judge-dredd.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/373-judge-dredd.jpg"
       }
     },
     {
@@ -14653,7 +12798,7 @@ var data = {
         "placeOfBirth": "Berkeley, California",
         "firstAppearance": "X-Men #12 (July, 1965)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Adventurer formerly Professional criminal, mercenary, soldier",
@@ -14705,7 +12850,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men 2099 #1 (October, 1993)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Mercenary; Former member of S.H.I.E.L.D.",
@@ -14761,7 +12906,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Giant-Size Defenders #5 (July, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -14819,8 +12964,8 @@ var data = {
         ],
         "placeOfBirth": "Other Earth, 31st century",
         "firstAppearance": "(As Rama-Tut) Fantastic Four #19 (1963); (as Kang) Avengers #8 (1964)",
-        "publisher": "Iron Lad",
-        "alignment": "bad"
+        "publisher": "Marvel Comics",
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -14835,110 +12980,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/379-kang.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/379-kang.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/379-kang.jpg"
-      }
-    },
-    {
-      "id": 380,
-      "name": "Kathryn Janeway",
-      "slug": "380-kathryn-janeway",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 8,
-        "speed": 21,
-        "durability": 25,
-        "power": 21,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Kathryn Janeway",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Bloomington, Indiana, Earth",
-        "firstAppearance": "-",
-        "publisher": "Star Trek",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Fleet Commander",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Edward Janeway (father), Gretchen Janeway (mother)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/380-kathryn-janeway.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/380-kathryn-janeway.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/380-kathryn-janeway.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/380-kathryn-janeway.jpg"
-      }
-    },
-    {
-      "id": 381,
-      "name": "Katniss Everdeen",
-      "slug": "381-katniss-everdeen",
-      "powerstats": {
-        "intelligence": 56,
-        "strength": 8,
-        "speed": 21,
-        "durability": 25,
-        "power": 24,
-        "combat": 55
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Katniss Everdeen",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/381-katniss-everdeen.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/381-katniss-everdeen.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/381-katniss-everdeen.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/381-katniss-everdeen.jpg"
       }
     },
     {
@@ -14985,7 +13026,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Ben 10 S01",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -15037,7 +13078,7 @@ var data = {
         "placeOfBirth": "New York City",
         "firstAppearance": "Kick Ass #1",
         "publisher": "Icon Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -15089,7 +13130,7 @@ var data = {
         "placeOfBirth": "Blue Valley, Nebraska",
         "firstAppearance": "Flash #110 (January, 1960)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -15141,7 +13182,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman #357 (March, 1983)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -15193,7 +13234,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Fury of Firestorm: The Nuclear Men #19",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Scientist",
@@ -15250,7 +13291,7 @@ var data = {
         "placeOfBirth": "Bolovax Vik",
         "firstAppearance": "Green Lantern Corps #201 (June, 1986)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -15265,59 +13306,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/388-kilowog.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/388-kilowog.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/388-kilowog.jpg"
-      }
-    },
-    {
-      "id": 389,
-      "name": "King Kong",
-      "slug": "389-king-kong",
-      "powerstats": {
-        "intelligence": 56,
-        "strength": 100,
-        "speed": 71,
-        "durability": 75,
-        "power": 47,
-        "combat": 75
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Animal",
-        "height": [
-          "100'0",
-          "30.5 meters"
-        ],
-        "weight": [
-          "20000000 lb",
-          "9,000 tons"
-        ],
-        "eyeColor": "Yellow",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "King Kong",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "the 8th Wonder of the World",
-          "King of Skull Island"
-        ],
-        "placeOfBirth": "Skull Island",
-        "firstAppearance": "King Kong (1933)",
-        "publisher": "",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "Skull Island"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/389-king-kong.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/389-king-kong.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/389-king-kong.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/389-king-kong.jpg"
       }
     },
     {
@@ -15355,7 +13343,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Superboy Vol 4 #0",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional Criminal",
@@ -15409,7 +13397,7 @@ var data = {
         "placeOfBirth": "New York City area",
         "firstAppearance": "Amazing Spider-Man #50 (July, 1967)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal organizer and mastermind, president and owner of legitimate businesses",
@@ -15461,7 +13449,7 @@ var data = {
         "placeOfBirth": "Vlaardingen, Netherlands",
         "firstAppearance": "Fantastic Four #53 (August, 1966)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal, former Scientist",
@@ -15476,58 +13464,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/392-klaw.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/392-klaw.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/392-klaw.jpg"
-      }
-    },
-    {
-      "id": 393,
-      "name": "Kool-Aid Man",
-      "slug": "393-kool-aid-man",
-      "powerstats": {
-        "intelligence": 25,
-        "strength": 18,
-        "speed": 8,
-        "durability": 10,
-        "power": 9,
-        "combat": 14
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Black",
-        "hairColor": "No Hair"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Pitcher Man"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "As Pitcher-Man in 1954",
-        "publisher": null,
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/393-kool-aid-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/393-kool-aid-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/393-kool-aid-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/393-kool-aid-man.jpg"
       }
     },
     {
@@ -15565,7 +13501,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Spectacular Spider-Man #243 (1997)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -15619,7 +13555,7 @@ var data = {
         "placeOfBirth": "Volgograd (formerly Stalingrad), Russia",
         "firstAppearance": "The Amazing Spider-Man #15 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional game hunter, mercenary",
@@ -15671,7 +13607,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Adventure Comics #210 (March, 1955)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -15728,7 +13664,7 @@ var data = {
         "placeOfBirth": "North Hollywood, Los Angeles, California",
         "firstAppearance": "Green Lantern Vol 3 #48",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Green Lantern, Adventurer, Artist",
@@ -15743,58 +13679,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/397-kyle-rayner.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/397-kyle-rayner.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/397-kyle-rayner.jpg"
-      }
-    },
-    {
-      "id": 398,
-      "name": "Kylo Ren",
-      "slug": "398-kylo-ren",
-      "powerstats": {
-        "intelligence": 56,
-        "strength": 44,
-        "speed": 33,
-        "durability": 30,
-        "power": 100,
-        "combat": 70
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Ben Solo",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
-        "publisher": "George Lucas",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Han Solo (Father), Princess Leia (Mother), Luke Skywalker (Uncle)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/398-kylo-ren.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/398-kylo-ren.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/398-kylo-ren.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/398-kylo-ren.jpg"
       }
     },
     {
@@ -15832,7 +13716,7 @@ var data = {
         "placeOfBirth": "Osaka, Japan",
         "firstAppearance": "Alpha Flight Vol. 1 #33 (1985)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -15884,7 +13768,7 @@ var data = {
         "placeOfBirth": "Boise, Idaho",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -15936,7 +13820,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Uncanny X-Men #179",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Survivor, former student",
@@ -16000,7 +13884,7 @@ var data = {
         "placeOfBirth": "Israel",
         "firstAppearance": "New Mutants #25 (March, 1985)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Student",
@@ -16054,7 +13938,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Ninja",
@@ -16106,7 +13990,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Action Comics #23",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Owner of LexCorp",
@@ -16158,7 +14042,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -16211,7 +14095,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Legionnaire",
@@ -16263,7 +14147,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -16315,7 +14199,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #8 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Robot",
@@ -16370,7 +14254,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Strange Tales #157",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -16422,7 +14306,7 @@ var data = {
         "placeOfBirth": "Coral Gables, Florida",
         "firstAppearance": "Amazing Spider-Man #6",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Research biologist",
@@ -16478,7 +14362,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Omega Men # 3",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Assassin, Bounty Hunter, Priest",
@@ -16538,7 +14422,7 @@ var data = {
         "placeOfBirth": "Jotunheim, Asgard",
         "firstAppearance": "Journey into Mystery Vol. 1 #85",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "God of evil; former god of mischief and madness",
@@ -16591,7 +14475,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Longshot #1 (September, 1985)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "freedom fighter, stuntman rebel, adventurer",
@@ -16646,8 +14530,8 @@ var data = {
         ],
         "placeOfBirth": "Harlem, New York City",
         "firstAppearance": "Hero for Hire #1 (1972)",
-        "publisher": "Power Man",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, bar owner, bodyguard, mercenary; formerly theater owner, private investigator, various odd jobs",
@@ -16662,60 +14546,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/416-luke-cage.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/416-luke-cage.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/416-luke-cage.jpg"
-      }
-    },
-    {
-      "id": 418,
-      "name": "Luke Skywalker",
-      "slug": "418-luke-skywalker",
-      "powerstats": {
-        "intelligence": 69,
-        "strength": 38,
-        "speed": 42,
-        "durability": 25,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'6",
-          "168 cm"
-        ],
-        "weight": [
-          "170 lb",
-          "77 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "Luke Skywalker",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "General Skywalker",
-          "Master Luke",
-          "Jedi"
-        ],
-        "placeOfBirth": "Tatooine",
-        "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
-        "publisher": "George Lucas",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Alliance to Restore the Republic, Jedi Order, Alliance of Free Planets, Bright Tree Village, New Republic, New Jedi Order",
-        "relatives": "Darth Vader (father), Princes Leia (Sister), Yoda (Master), Obi-Wan Kenobi (Master)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/418-luke-skywalker.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/418-luke-skywalker.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/418-luke-skywalker.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/418-luke-skywalker.jpg"
       }
     },
     {
@@ -16753,7 +14583,7 @@ var data = {
         "placeOfBirth": "Attilan, Blue Area of the Moon",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -16809,7 +14639,7 @@ var data = {
         "placeOfBirth": "Baltimore, Maryland",
         "firstAppearance": "(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Adventurer; former master mechanic, professional criminal, mercenary",
@@ -16862,7 +14692,7 @@ var data = {
         "placeOfBirth": "Central City, California",
         "firstAppearance": "First appearance unknown",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Insurance Investigator",
@@ -16918,7 +14748,7 @@ var data = {
         "placeOfBirth": "Unrevealed, probably somewhere in Northern Europe",
         "firstAppearance": "X-MEN Vol. 1 #1",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Currently Revolutionary and Conqueror, formerly Volunteer Orderly, Secret Agent",
@@ -16970,7 +14800,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -17022,7 +14852,7 @@ var data = {
         "placeOfBirth": "Kvch (Technarchy?s home planet)",
         "firstAppearance": "New Mutants #18 (1984)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Ruler of the Technarchy",
@@ -17126,7 +14956,7 @@ var data = {
         "placeOfBirth": "Chicago, Illinois",
         "firstAppearance": "Detective Comics #400 (June, 1970)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Zoologist",
@@ -17178,7 +15008,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Savage Tales #1 (May, 1971)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -17232,7 +15062,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Employed by Dept. of Social Services, Queens; former astronaut, test pilot, security chief for Ravenscroft Institute",
@@ -17288,7 +15118,7 @@ var data = {
         "placeOfBirth": "China",
         "firstAppearance": "Tales of Suspense #50 (February, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Would-be conqueror; former janitor, businessman and crimelord, government administrator",
@@ -17344,7 +15174,7 @@ var data = {
         "placeOfBirth": "Vietnam",
         "firstAppearance": "Avengers #112",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Celestial Madonna, former adventuress, former bar-maid/prostitute/exotic dancer",
@@ -17398,7 +15228,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Detective Comics #225 (1955)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -17454,7 +15284,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "UNCANNY X-MEN #141",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -17469,61 +15299,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/433-marvel-girl.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/433-marvel-girl.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/433-marvel-girl.jpg"
-      }
-    },
-    {
-      "id": 435,
-      "name": "Master Chief",
-      "slug": "435-master-chief",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 73,
-        "speed": 35,
-        "durability": 80,
-        "power": 69,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human / Altered",
-        "height": [
-          "7'",
-          "213 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "John-117",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Blue 1",
-          "Sierra 117",
-          "Spartan 117",
-          "Demon"
-        ],
-        "placeOfBirth": "Elysium City, Eridanus II",
-        "firstAppearance": "-",
-        "publisher": "Microsoft",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Master Chief Petty Officer of the Navy",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "United Nations Space Command, Navy",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/435-master-chief.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/435-master-chief.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/435-master-chief.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/435-master-chief.jpg"
       }
     },
     {
@@ -17562,7 +15337,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -17577,58 +15352,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/436-match.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/436-match.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/436-match.jpg"
-      }
-    },
-    {
-      "id": 437,
-      "name": "Matt Parkman",
-      "slug": "437-matt-parkman",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 10,
-        "speed": 12,
-        "durability": 14,
-        "power": 59,
-        "combat": 56
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Matthew Parkman",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S01E02 - Don't Look Back",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "NYPD detective",
-        "base": "New York, NY; formerly Los Angeles, CA"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Maury Parkman (father), Janice Parkman (ex-wife)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/437-matt-parkman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/437-matt-parkman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/437-matt-parkman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/437-matt-parkman.jpg"
       }
     },
     {
@@ -17667,7 +15390,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men Unlimited #8 (1995)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mercenary; former adventurer, student",
@@ -17720,7 +15443,7 @@ var data = {
         "placeOfBirth": "Almerac",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Adventurer, Queen of the Almerac Empire",
@@ -17735,58 +15458,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/439-maxima.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/439-maxima.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/439-maxima.jpg"
-      }
-    },
-    {
-      "id": 440,
-      "name": "Maya Herrera",
-      "slug": "440-maya-herrera",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 10,
-        "speed": 12,
-        "durability": 14,
-        "power": 60,
-        "combat": 14
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Maya Herrera",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Dominican Republic",
-        "firstAppearance": "-",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Alejandro (twin brother)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/440-maya-herrera.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/440-maya-herrera.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/440-maya-herrera.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/440-maya-herrera.jpg"
       }
     },
     {
@@ -17825,7 +15496,7 @@ var data = {
         "placeOfBirth": "Island of Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four Vol. 1 #36 (1965)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Queen, Royal interpreter",
@@ -17881,8 +15552,8 @@ var data = {
         ],
         "placeOfBirth": "Roanoke, Virginia",
         "firstAppearance": "-",
-        "publisher": "Boom-Boom",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former student, thief",
@@ -17948,7 +15619,7 @@ var data = {
         "placeOfBirth": "Hell",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Lord of a realm of Hell",
@@ -18003,7 +15674,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Aquaman #11 (October, 1963)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former queen of Atlantis; Former queen of Dimension Aqua",
@@ -18055,7 +15726,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal",
@@ -18107,7 +15778,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "New Gods vol. 1 #1 (February-March, 1971)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Scientist, seeker of knowledge",
@@ -18122,58 +15793,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/448-metron.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/448-metron.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/448-metron.jpg"
-      }
-    },
-    {
-      "id": 449,
-      "name": "Micah Sanders",
-      "slug": "449-micah-sanders",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 8,
-        "speed": 12,
-        "durability": 14,
-        "power": 57,
-        "combat": 14
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "Micah Sanders",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "MicahSanders500"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Elementary school student",
-        "base": "New Orleans, LA"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Niki Sanders (Mother), DL Hawkins (Father), Paulette Hawkins (paternal grandmother), Hal Sanders (maternal grandfather), Nana Dawson (Guardian)\nNana Dawson (Great-aunt), Monica Dawson (Cousin), Damon Dawson (Cousin)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/449-micah-sanders.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/449-micah-sanders.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/449-micah-sanders.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/449-micah-sanders.jpg"
       }
     },
     {
@@ -18214,7 +15833,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "IDW Publishing",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -18267,7 +15886,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -18321,7 +15940,7 @@ var data = {
         "placeOfBirth": "Passiac, New Jersey",
         "firstAppearance": "Uncanny X-Men #19",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -18372,8 +15991,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Birds of Prey #96",
-        "publisher": "Batgirl V",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -18426,7 +16045,7 @@ var data = {
         "placeOfBirth": "Mars",
         "firstAppearance": "Teen Titans Vol 3 #37 (August, 2006)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -18478,7 +16097,7 @@ var data = {
         "placeOfBirth": "Central City, California",
         "firstAppearance": "FANTASTIC FOUR #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Scientist, adventurer",
@@ -18532,7 +16151,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman #121 (Feb. 1959)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -18587,7 +16206,7 @@ var data = {
         "placeOfBirth": "Spartax, Spartoi Empire, near the Shi'ar Galaxy",
         "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Crimelord; former emperor, prince",
@@ -18639,7 +16258,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Superman #30",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -18702,7 +16321,7 @@ var data = {
         "placeOfBirth": "London, England",
         "firstAppearance": "Uncanny X-Men #221 (September, 1987)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Geneticist, Criminal, biologist and mutant-supremacist",
@@ -18754,7 +16373,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Serial Killer",
@@ -18810,7 +16429,7 @@ var data = {
         "placeOfBirth": "San Diego, California",
         "firstAppearance": "Astonishing Tales #6 (June, 1971)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former counter-terrorist agent, private investigator, government operative, S.H.I.E.L.D. agent, biologist",
@@ -18863,7 +16482,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Tales of Suspense #93",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Would-be conqueror, AIM leader, terrorist; former AIM agent, technician",
@@ -18915,7 +16534,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #28 (1965)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Security guard for Osborn industries, former criminal, lab assistant",
@@ -18930,58 +16549,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/467-molten-man.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/467-molten-man.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/467-molten-man.jpg"
-      }
-    },
-    {
-      "id": 469,
-      "name": "Monica Dawson",
-      "slug": "469-monica-dawson",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 10,
-        "speed": 35,
-        "durability": 14,
-        "power": 48,
-        "combat": 90
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Monica Dawson",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S02E04 - The Kindness of Strangers",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Fast food service",
-        "base": "New Orleans, LA"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Nana Dawson (Grandmother), Damon (brother), DL Hawkins (cousin), Niki Sanders (cousin-in-law once removed), Micah Sanders (second cousin)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/469-monica-dawson.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/469-monica-dawson.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/469-monica-dawson.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/469-monica-dawson.jpg"
       }
     },
     {
@@ -19024,7 +16591,7 @@ var data = {
         "placeOfBirth": "Chicago, Illinois",
         "firstAppearance": "Werewolf by Night #32 (August, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, entrepreneur; former prize fighter, spy, soldier, mercenary, cab driver",
@@ -19077,7 +16644,7 @@ var data = {
         "placeOfBirth": "Van Nuys, California",
         "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "former Adventurer, Psychiatrist",
@@ -19129,7 +16696,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #30 (2001)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -19181,7 +16748,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Terrorist, president of Magnum Munitions; former ruler of Canaan",
@@ -19233,7 +16800,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "West Coast Avengers Vol 2 #46",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -19287,7 +16854,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -19338,8 +16905,8 @@ var data = {
         ],
         "placeOfBirth": "Pullman, Washington",
         "firstAppearance": "-",
-        "publisher": "She-Thing",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Wanderer, former adventurer, wrestler, stunt woman, scuba diver, motorcycle performer",
@@ -19391,7 +16958,7 @@ var data = {
         "placeOfBirth": "Los Alamos, New Mexico",
         "firstAppearance": "GIANT-SIZE FANTASTIC FOUR #4",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Private investigator (formerly) Farmer, Adventurer",
@@ -19446,7 +17013,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "Amazing Spider-Man #13 (1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal; former Hollywood special effects designer and stunt man",
@@ -19498,7 +17065,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Special operative for Germany and the United States governments, (former) German Freedom Fighter, special operative in the Weapon X Project Team",
@@ -19561,7 +17128,7 @@ var data = {
         "placeOfBirth": "Atlantis",
         "firstAppearance": "Motion Picture Funnies Weekly #1 (April, 1939)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "King of Atlantis, Adventurer; former warrior, commando, CEO",
@@ -19615,7 +17182,7 @@ var data = {
         "placeOfBirth": "Unnamed Atlantean outpost",
         "firstAppearance": "Marvel Mystery Comics #82 (1947)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -19668,7 +17235,7 @@ var data = {
         "placeOfBirth": "Atlantis Outskirts",
         "firstAppearance": "SUB-MARINER Vol. 2 #50 (1972)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Superhero, formerly Leader of Atlantis",
@@ -19683,58 +17250,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/484-namorita.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/484-namorita.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/484-namorita.jpg"
-      }
-    },
-    {
-      "id": 485,
-      "name": "Naruto Uzumaki",
-      "slug": "485-naruto-uzumaki",
-      "powerstats": {
-        "intelligence": 50,
-        "strength": 80,
-        "speed": 32,
-        "durability": 80,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'6",
-          "168 cm"
-        ],
-        "weight": [
-          "121 lb",
-          "54 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "Shueisha",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "Konohagakure"
-      },
-      "connections": {
-        "groupAffiliation": "Team 7",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/485-naruto-uzumaki.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/485-naruto-uzumaki.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/485-naruto-uzumaki.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/485-naruto-uzumaki.jpg"
       }
     },
     {
@@ -19772,7 +17287,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Avengers #257 (July, 1985)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -19824,7 +17339,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "New X-Men #115",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -19879,7 +17394,7 @@ var data = {
         "placeOfBirth": "New York City",
         "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "S.H.I.E.L.D. director; former S.H.I.E.L.D. agent, intelligence agent, soldier and commando leader, parachuting instructor, stunt flyer",
@@ -19931,7 +17446,7 @@ var data = {
         "placeOfBirth": "Somewhere in the Bavarian Alps",
         "firstAppearance": "GIANT-SIZE X-MEN #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Teacher",
@@ -19991,8 +17506,8 @@ var data = {
         ],
         "placeOfBirth": "Gotham City",
         "firstAppearance": "as Dick Grayson and Robin) Detective Comics #38, (as Nightwing) Tales of the Teen Titans #44, (as Batman) Batman #512",
-        "publisher": "Batman II",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante and detective, former police officer, former Circus Acrobat",
@@ -20007,111 +17522,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/491-nightwing.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/491-nightwing.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/491-nightwing.jpg"
-      }
-    },
-    {
-      "id": 492,
-      "name": "Niki Sanders",
-      "slug": "492-niki-sanders",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 52,
-        "speed": 35,
-        "durability": 28,
-        "power": 37,
-        "combat": 56
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "Nicole Sanders",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Jessica",
-          "Gina"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Heroes S01E01 - Genesis",
-        "publisher": "NBC - Heroes",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Former casino worker and online webcam operator; currently an agent of the Company",
-        "base": "Las Vegas, NV"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "DL Hawkins (husband), Hal Sanders (father), Micah Sanders (son), Jessica Sanders (sister,deceased), Monica Dawson (cousin-in-law), Damon Dawson (cousin-in-law), Paulette Hawkins (mother-in-law)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/492-niki-sanders.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/492-niki-sanders.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/492-niki-sanders.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/492-niki-sanders.jpg"
-      }
-    },
-    {
-      "id": 493,
-      "name": "Nina Theroux",
-      "slug": "493-nina-theroux",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 5,
-        "speed": 8,
-        "durability": 10,
-        "power": 68,
-        "combat": 20
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Alpha",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "SyFy",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Alphas",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/493-nina-theroux.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/493-nina-theroux.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/493-nina-theroux.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/493-nina-theroux.jpg"
       }
     },
     {
@@ -20149,7 +17559,7 @@ var data = {
         "placeOfBirth": "Montreal, Qu?bec, Canada",
         "firstAppearance": "X-Men #120 (1979)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former terrorist, adventurer, teacher, businessman, novelist, professional skier, trapeze artist, thief",
@@ -20207,7 +17617,7 @@ var data = {
         "placeOfBirth": "Queens, NY",
         "firstAppearance": "NOVA Vol. 1 #1 (September, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Superhero, also works parttime at Marvel Burger",
@@ -20260,7 +17670,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Fantastic Four #164 (November, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -20319,7 +17729,7 @@ var data = {
         "placeOfBirth": "Asgard",
         "firstAppearance": "Journey into Mystery #85",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Deity, Monarch of Asgard, Asgardian God of the Sky, Wind, Wisdom, Crafts, Time, and the Dead, Warrior",
@@ -20372,7 +17782,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -20387,58 +17797,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/499-offspring.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/499-offspring.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/499-offspring.jpg"
-      }
-    },
-    {
-      "id": 502,
-      "name": "One Punch Man",
-      "slug": "502-one-punch-man",
-      "powerstats": {
-        "intelligence": 38,
-        "strength": 100,
-        "speed": 83,
-        "durability": 95,
-        "power": 55,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'9",
-          "175 cm"
-        ],
-        "weight": [
-          "154 lb",
-          "69 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "No Hair"
-      },
-      "biography": {
-        "fullName": "Saitama",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Caped Baldy"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "One Punch - Chapter 1, Volume 1",
-        "publisher": "Shueisha",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Superhero, Sensei",
-        "base": "Z-City"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Genos (partner)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/502-one-punch-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/502-one-punch-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/502-one-punch-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/502-one-punch-man.jpg"
       }
     },
     {
@@ -20476,7 +17834,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Doctor Strange Vol 2 #13",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -20534,7 +17892,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Man Vol 1 #15 (May, 1996)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Would-be destroyer",
@@ -20586,8 +17944,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Suicide Squad #23 (Jan.1989)",
-        "publisher": "Batgirl",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Computer hacker and Coordinator of the Birds of Prey; Former student; former librarian; former vigilante",
@@ -20639,7 +17997,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -20691,7 +18049,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Watchmen #1",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -20743,7 +18101,7 @@ var data = {
         "placeOfBirth": "Apokalips",
         "firstAppearance": "New Gods #1",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -20758,58 +18116,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/509-parademon.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/509-parademon.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/509-parademon.jpg"
-      }
-    },
-    {
-      "id": 510,
-      "name": "Paul Blart",
-      "slug": "510-paul-blart",
-      "powerstats": {
-        "intelligence": 8,
-        "strength": 11,
-        "speed": 21,
-        "durability": 50,
-        "power": 7,
-        "combat": 5
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'7",
-          "170 cm"
-        ],
-        "weight": [
-          "260 lb",
-          "117 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Paul Blart",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Mall Cop"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "Sony Pictures",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/510-paul-blart.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/510-paul-blart.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/510-paul-blart.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/510-paul-blart.jpg"
       }
     },
     {
@@ -20847,7 +18153,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "DETECTIVE COMICS #58 (December, 1941)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Trader",
@@ -20899,7 +18205,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -20951,8 +18257,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "X-Men #1 (September, 1963)",
-        "publisher": "Jean Grey",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -21004,7 +18310,7 @@ var data = {
         "placeOfBirth": "London, England",
         "firstAppearance": "Strange Tales #113 (October, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional Criminal, formerly Gardner",
@@ -21056,7 +18362,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Police Comics #1 (August, 1941)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Government Agent",
@@ -21108,7 +18414,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Fury of Firestorm #7",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Government Agent, former Terrorist, Mercenary",
@@ -21160,7 +18466,7 @@ var data = {
         "placeOfBirth": "Seattle, Washington",
         "firstAppearance": "Batman #181 (June 1966)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal, Botanist",
@@ -21217,7 +18523,7 @@ var data = {
         "placeOfBirth": "Presumably northern California - not confirmed",
         "firstAppearance": "X-Men #49 (October, 1968)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former U.S. government operative, former graduate student in geophysics",
@@ -21270,7 +18576,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "All-Star Comics #58 (January/February 1976)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -21324,7 +18630,7 @@ var data = {
         "placeOfBirth": "Yautja Prime",
         "firstAppearance": "Predator (1987)",
         "publisher": "Dark Horse Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -21379,7 +18685,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "X-Men #1 (September, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mutant leader, mutant rights activist, geneticist, teacher, adventurer, heir, formerly headmaster, soldier (US Army)",
@@ -21434,7 +18740,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash #139 (September, 1963)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -21488,7 +18794,7 @@ var data = {
         "placeOfBirth": "Braddock Manor, England",
         "firstAppearance": "Captain Britain #8 (December, 1976) / New Mutants Annual #2 (October, 1986) (US)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, formerly a STRIKE operative, fashion model",
@@ -21559,7 +18865,7 @@ var data = {
         "placeOfBirth": "Queens, New York",
         "firstAppearance": "AMAZING SPIDER-MAN #129",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former United States Marine turned professional vigilante",
@@ -21611,7 +18917,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Daredevil #4 (October, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal, Megalomaniac, Former spy",
@@ -21663,7 +18969,7 @@ var data = {
         "placeOfBirth": "Sydney, Australia",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Former government agent, terrorist, bodyguard, novelist, journalist",
@@ -21678,58 +18984,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/532-pyro.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/532-pyro.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/532-pyro.jpg"
-      }
-    },
-    {
-      "id": 533,
-      "name": "Q",
-      "slug": "533-q",
-      "powerstats": {
-        "intelligence": 100,
-        "strength": 12,
-        "speed": 17,
-        "durability": 100,
-        "power": 100,
-        "combat": 40
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "God / Eternal",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Q",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Q Continuum"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "Star Trek",
-        "alignment": "-"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/533-q.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/533-q.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/533-q.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/533-q.jpg"
       }
     },
     {
@@ -21767,7 +19021,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Television Investigative Journalist",
@@ -21821,7 +19075,7 @@ var data = {
         "placeOfBirth": "Wundagore Mountain, Transia (in Eastern Europe)",
         "firstAppearance": "X-MEN Vol. 1 #4",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "(current) Adventurer, (former) Terrorist, officer of the Inhumans militia, United States government operative",
@@ -21873,7 +19127,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "New X-Men: Academy X #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -21925,7 +19179,7 @@ var data = {
         "placeOfBirth": "Egypt",
         "firstAppearance": "Batman #232 (June, 1971)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Eco Terrorist, Businessman, Cult Leader",
@@ -21940,111 +19194,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/538-ras-al-ghul.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/538-ras-al-ghul.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg"
-      }
-    },
-    {
-      "id": 539,
-      "name": "Rachel Pirzad",
-      "slug": "539-rachel-pirzad",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 4,
-        "speed": 8,
-        "durability": 10,
-        "power": 52,
-        "combat": 10
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Alpha",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "SyFy",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Alphas",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/539-rachel-pirzad.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/539-rachel-pirzad.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/539-rachel-pirzad.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/539-rachel-pirzad.jpg"
-      }
-    },
-    {
-      "id": 540,
-      "name": "Rambo",
-      "slug": "540-rambo",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 14,
-        "speed": 25,
-        "durability": 30,
-        "power": 30,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "5'10",
-          "178 cm"
-        ],
-        "weight": [
-          "185 lb",
-          "83 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "John Rambo",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Raven",
-          "Lone Wolf"
-        ],
-        "placeOfBirth": "Bowie, Arizona",
-        "firstAppearance": "First Blood (Novel, 1972)",
-        "publisher": null,
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "United States Army soldier (former)",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "United States Army (former)",
-        "relatives": "R. Rambo (father), Marie Drago (mother), Col. Sam Trautman (close-friend, father-figure, trainer, best-friend until death)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/540-rambo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/540-rambo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/540-rambo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/540-rambo.jpg"
       }
     },
     {
@@ -22082,7 +19231,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -22135,7 +19284,7 @@ var data = {
         "placeOfBirth": "Azarath",
         "firstAppearance": "DC Comics Presents #26 (October, 1980)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Adventurer, high school student",
@@ -22187,7 +19336,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Ray #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Freelance Computer Programmer and Software Designer",
@@ -22240,7 +19389,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "(as Speedy) More Fun Comics # 73(Nov. 1941); (as Arsenal) The New Titans # 99 (July 1993); (as Red Arrow) Justice League of America Vol. 2 # 7 (May 2007)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; intelligence agent; musician",
@@ -22295,8 +19444,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Batman #635",
-        "publisher": "Robin II",
-        "alignment": "neutral"
+        "publisher": "DC Comics",
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Mercenary, Vigilante",
@@ -22351,7 +19500,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Lieutenant general in US Air Force",
@@ -22403,7 +19552,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Kick-Ass #5",
         "publisher": "Icon Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -22458,8 +19607,8 @@ var data = {
         ],
         "placeOfBirth": "Gotham City",
         "firstAppearance": "Batman #436 (August, 1989)",
-        "publisher": "Robin III",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -22519,7 +19668,7 @@ var data = {
         "placeOfBirth": "An unidentified village in Germany",
         "firstAppearance": "Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -22575,7 +19724,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -22590,58 +19739,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/551-red-tornado.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/551-red-tornado.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/551-red-tornado.jpg"
-      }
-    },
-    {
-      "id": 555,
-      "name": "Rey",
-      "slug": "555-rey",
-      "powerstats": {
-        "intelligence": 63,
-        "strength": 8,
-        "speed": 21,
-        "durability": 10,
-        "power": 87,
-        "combat": 35
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Human",
-        "height": [
-          "5'57",
-          "297 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "Hazel",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "Jakku",
-        "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
-        "publisher": "George Lucas",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Scavenger",
-        "base": "Jakku"
-      },
-      "connections": {
-        "groupAffiliation": "Resistence",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/555-rey.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/555-rey.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/555-rey.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/555-rey.jpg"
       }
     },
     {
@@ -22680,7 +19777,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #41",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional Criminal ,Henchman of the Russian Mafia",
@@ -22732,7 +19829,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Brave and the Bold #25 (September 1959)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Government Agent, Covert Ops field Commander",
@@ -22785,7 +19882,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Detective Comics #140 (1948)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -22843,7 +19940,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Showcase #20",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -22896,8 +19993,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Detective Comics #38 (April, 1940)",
-        "publisher": "Batman II",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -22954,8 +20051,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Detective Comics #524",
-        "publisher": "Red Hood",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -23009,8 +20106,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Batman #436 (August, 1989)",
-        "publisher": "Red Robin",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "High School Student",
@@ -23065,7 +20162,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Batman: Son of the Demon",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -23117,7 +20214,7 @@ var data = {
         "placeOfBirth": "Gotham City",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -23171,7 +20268,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Marvel Preview #7 (June, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Law enforcement officer, security guard, member of the Guardians of the Galaxy",
@@ -23227,7 +20324,7 @@ var data = {
         "placeOfBirth": "Caldecott County, Mississippi",
         "firstAppearance": "Avengers Annual #10 (1981)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former mechanic, waitress, terrorist",
@@ -23289,8 +20386,8 @@ var data = {
         ],
         "placeOfBirth": "Waverly, Iowa",
         "firstAppearance": "-",
-        "publisher": "Goliath",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Outlaw adventurer, revolutionary; former professional super hero, fugitive, unnoficial S.H.I.E.L.D. operative, federal inmate, CTE security chief, ranch hand, archery tutor, carnival performer, roustabout, butcher shop worker",
@@ -23342,7 +20439,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante, former garment worker",
@@ -23395,7 +20492,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Iron Fist #14 (August, 1977)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "mercenary, professional criminal, assassin, serial killer",
@@ -23447,7 +20544,7 @@ var data = {
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "X-MEN Vol. 1 #132",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Soldier",
@@ -23501,7 +20598,7 @@ var data = {
         "placeOfBirth": "Queens, New York",
         "firstAppearance": "Amazing Spider-Man #4 (September, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Professional Criminal",
@@ -23554,7 +20651,7 @@ var data = {
         "placeOfBirth": "Edmonton, Alberta, Canada",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, bio-physicist, government operative; former college lecturer, professional football player",
@@ -23569,64 +20666,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/573-sasquatch.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/573-sasquatch.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/573-sasquatch.jpg"
-      }
-    },
-    {
-      "id": 574,
-      "name": "Sauron",
-      "slug": "574-sauron",
-      "powerstats": {
-        "intelligence": 88,
-        "strength": 85,
-        "speed": 33,
-        "durability": 100,
-        "power": 100,
-        "combat": 70
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Maiar",
-        "height": [
-          "9'2",
-          "279 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Sauron",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Annatar",
-          "Gorthaur the Cruel",
-          "Sauron the Dark",
-          "The Necromancer",
-          "Dark Lord of Mordor",
-          "Lord of the Rings",
-          "The Great Eye"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "J. R. R. Tolkien",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/574-sauron.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/574-sauron.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/574-sauron.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/574-sauron.jpg"
       }
     },
     {
@@ -23664,7 +20703,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Image Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -23716,7 +20755,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Special Professional Criminal",
@@ -23768,8 +20807,8 @@ var data = {
         ],
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly)",
-        "publisher": "Spider-Carnage",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Crime-fighter",
@@ -23823,7 +20862,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Fugitive",
@@ -23879,7 +20918,7 @@ var data = {
         "placeOfBirth": "Wundagore Mountain, Transia",
         "firstAppearance": "Uncanny X-Men #4 (March, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Adventurer; formerly witchcraft tutor, housewife, terrorist",
@@ -23931,7 +20970,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Spider-Man: Power of Terror limited series #2 (1995)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal",
@@ -23983,8 +21022,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #19 (1964)",
-        "publisher": "Venom III",
-        "alignment": "bad"
+        "publisher": "Marvel Comics",
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "U.S. government agent; former professional criminal, assassin, private detective",
@@ -24036,7 +21075,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -24092,7 +21131,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Sentry #1 (September, 2000)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -24152,7 +21191,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men #117 (1979)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -24204,7 +21243,7 @@ var data = {
         "placeOfBirth": "Talok VIII",
         "firstAppearance": "Adventure Comics #365",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -24259,7 +21298,7 @@ var data = {
         "placeOfBirth": "Deerfield, Illinois",
         "firstAppearance": "X-Men #129 (January, 1980)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Teacher, Adventurer, former student",
@@ -24311,7 +21350,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -24363,7 +21402,7 @@ var data = {
         "placeOfBirth": "Mojoworld",
         "firstAppearance": "New Mutants #99",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Warrior",
@@ -24415,7 +21454,7 @@ var data = {
         "placeOfBirth": "Los Angeles, California",
         "firstAppearance": "She-Hulk (Vol. 1) #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Lawyer, Magistra of the Living Tribunal",
@@ -24467,8 +21506,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Thing #27",
-        "publisher": "Ms Marvel II",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Prisoner, former adventurer, wrestler, stuntwoman, scuba diver, motorcycle performer",
@@ -24520,7 +21559,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #46",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional thief, hired assassin",
@@ -24572,7 +21611,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former partner of Carnage, Carrion (Malcolm McBride), Demogoblin and Doppelganger). Before she became Shriek, she was a rock band groupie and drug dealer.",
@@ -24627,7 +21666,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Journey into Mystery #102 (March, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -24679,7 +21718,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man Vol 3 #4",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante, intern at Fact Channel News, adventurer; former student",
@@ -24731,7 +21770,7 @@ var data = {
         "placeOfBirth": "Zenn-La",
         "firstAppearance": "Fantastic Four, Vol. 1 #48",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, formerly Galactus' Herald",
@@ -24784,7 +21823,7 @@ var data = {
         "placeOfBirth": "The village of Kamekeri, Costa Verde",
         "firstAppearance": "Avengers #8 (1998)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "University student, adventurer",
@@ -24837,7 +21876,7 @@ var data = {
         "placeOfBirth": "Dearborn, Michigan",
         "firstAppearance": "The New 52: FCBD Special Edition #1 (June, 2012)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -24893,7 +21932,7 @@ var data = {
         "placeOfBirth": "Korugar City, Korugar",
         "firstAppearance": "Green Lantern Vol 2 #7",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "-",
@@ -24945,7 +21984,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Aquaman #22 (August, 1965)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -24997,7 +22036,7 @@ var data = {
         "placeOfBirth": "Cassidy Keep, County Mayo, Ireland",
         "firstAppearance": "Spider-Woman (first series) #37",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "(current) Adventurer (former) Professional Criminal",
@@ -25054,7 +22093,7 @@ var data = {
         "placeOfBirth": "Sakaar",
         "firstAppearance": "World War Hulk #5, 2007",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Warrior",
@@ -25106,7 +22145,7 @@ var data = {
         "placeOfBirth": "Near Resolute Bay, Northwest Territories, Canada",
         "firstAppearance": "Uncanny X-Men #120",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Goddess, adventurer, former records officer",
@@ -25158,7 +22197,7 @@ var data = {
         "placeOfBirth": "Nile River; Bioengineered at Oolong Island",
         "firstAppearance": "52 Week Twenty-Six",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25210,7 +22249,7 @@ var data = {
         "placeOfBirth": "Gotham City",
         "firstAppearance": "All-American Comics #61 (October, 1944)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -25264,7 +22303,7 @@ var data = {
         "placeOfBirth": "Shoshoni, Wyoming",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former criminal and wrestler",
@@ -25317,7 +22356,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Space Ghost (1966)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25370,7 +22409,7 @@ var data = {
         "placeOfBirth": "Detroit, Michigan (8th level of Hell after rebirth)",
         "firstAppearance": "Spawn #1 (May, 1992)",
         "publisher": "Image Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25427,8 +22466,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "More Fun Comics #52 (February, 1940)",
-        "publisher": "Aztar",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25482,7 +22521,7 @@ var data = {
         "placeOfBirth": "Starling City",
         "firstAppearance": "Arrow (TV Series) - \"Pilot\"",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Nightclub Owner",
@@ -25534,7 +22573,7 @@ var data = {
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "What If? Vol 2 #105 (February, 1998)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25586,7 +22625,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Edge of Spider-Verse #2",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25652,7 +22691,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "Amazing Fantasy #15",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Freelance photographer, teacher",
@@ -25707,7 +22746,7 @@ var data = {
         "placeOfBirth": "London, England",
         "firstAppearance": "Marvel Spotlight #32 (February, 1977)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Form agent of HYDRA, former bounty hunter, private investigator, adventurer",
@@ -25759,7 +22798,7 @@ var data = {
         "placeOfBirth": "Rochester, New York",
         "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25774,58 +22813,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/625-spider-woman-iii.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/625-spider-woman-iii.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/625-spider-woman-iii.jpg"
-      }
-    },
-    {
-      "id": 627,
-      "name": "Spock",
-      "slug": "627-spock",
-      "powerstats": {
-        "intelligence": 81,
-        "strength": 18,
-        "speed": 17,
-        "durability": 40,
-        "power": 56,
-        "combat": 40
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human-Vulcan",
-        "height": [
-          "6'1",
-          "185 cm"
-        ],
-        "weight": [
-          "180 lb",
-          "81 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "S'chn T'gai Spock",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Star Trek S01E01: The Man Trap",
-        "publisher": "Star Trek",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/627-spock.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/627-spock.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/627-spock.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/627-spock.jpg"
       }
     },
     {
@@ -25864,7 +22851,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -25916,7 +22903,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Marvel Preview #4 (January, 1976)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; Royal Prince of Spartax",
@@ -25968,7 +22955,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Herald of Galactus",
@@ -26022,7 +23009,7 @@ var data = {
         "placeOfBirth": "Tamaran",
         "firstAppearance": "DC Comics Presents #26 (October, 1980)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Model",
@@ -26076,7 +23063,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Stars and S.T.R.I.P.E. #0 (July, 1999)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -26131,7 +23118,7 @@ var data = {
         "placeOfBirth": "Paris Island, Dakota City",
         "firstAppearance": "Static #1 (June, 1993)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -26184,7 +23171,7 @@ var data = {
         "placeOfBirth": "Washington, D.C.",
         "firstAppearance": "Adventures of Superman #500 (1993)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Weapons designer, former steelworker",
@@ -26199,58 +23186,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/635-steel.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/635-steel.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/635-steel.jpg"
-      }
-    },
-    {
-      "id": 636,
-      "name": "Stephanie Powell",
-      "slug": "636-stephanie-powell",
-      "powerstats": {
-        "intelligence": 69,
-        "strength": 10,
-        "speed": 54,
-        "durability": 10,
-        "power": 24,
-        "combat": 10
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "Blond"
-      },
-      "biography": {
-        "fullName": "Stephanie Powell",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "No Ordinary Family S01E01 (2010)",
-        "publisher": "ABC Studios",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "Executive Vice President of Research at Global Tech",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Jim Powell (husband), Daphne Powell (daughter), JJ Powell (son)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/636-stephanie-powell.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/636-stephanie-powell.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/636-stephanie-powell.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/636-stephanie-powell.jpg"
       }
     },
     {
@@ -26288,7 +23223,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The New Gods #7",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -26352,7 +23287,7 @@ var data = {
         "placeOfBirth": "New York, New York",
         "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -26367,58 +23302,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/638-storm.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/638-storm.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/638-storm.jpg"
-      }
-    },
-    {
-      "id": 639,
-      "name": "Stormtrooper",
-      "slug": "639-stormtrooper",
-      "powerstats": {
-        "intelligence": 10,
-        "strength": 8,
-        "speed": 8,
-        "durability": 15,
-        "power": 5,
-        "combat": 20
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'0",
-          "183 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
-        "publisher": "George Lucas",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/639-stormtrooper.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/639-stormtrooper.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/639-stormtrooper.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/639-stormtrooper.jpg"
       }
     },
     {
@@ -26459,7 +23342,7 @@ var data = {
         "placeOfBirth": "Rio de Janeiro, Brazil",
         "firstAppearance": "Marvel Graphic Novel #4 (October, 1982)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, businessman",
@@ -26512,7 +23395,7 @@ var data = {
         "placeOfBirth": "Project Cadmus cloning facility",
         "firstAppearance": "Adventures of Superman #500 (June, 1993)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -26564,7 +23447,7 @@ var data = {
         "placeOfBirth": "Krypton (Earth-Prime)",
         "firstAppearance": "DC Comics Presents #87 (November, 1985)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -26627,7 +23510,7 @@ var data = {
         "placeOfBirth": "Argo City, Krypton",
         "firstAppearance": "Superman/Batman #8 (May, 2004)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Intern, Adventurer, Student, Crime-Fighter",
@@ -26684,8 +23567,8 @@ var data = {
         ],
         "placeOfBirth": "Krypton",
         "firstAppearance": "ACTION COMICS #1",
-        "publisher": "Superman Prime One-Million",
-        "alignment": "good"
+        "publisher": "DC Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Reporter for the Daily Planet and novelist",
@@ -26741,7 +23624,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Swamp Thing #1 (November, 1972)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Planet Elemental, former Biochemist",
@@ -26793,7 +23676,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Champions #14 (July, 1977)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Ph.D. in toxicology & entomology",
@@ -26808,62 +23691,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/646-swarm.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/646-swarm.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/646-swarm.jpg"
-      }
-    },
-    {
-      "id": 647,
-      "name": "Sylar",
-      "slug": "647-sylar",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 10,
-        "speed": 12,
-        "durability": 28,
-        "power": 91,
-        "combat": 56
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Gabriel Gray",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Gabriel Sylar",
-          "Drew O'Grady",
-          "Dr. Suresh",
-          "Zane Taylor",
-          "Isaac Mendez"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": "NBC - Heroes",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Timepiece restorer",
-        "base": "New York, NY"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Virginia Gray (mother)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/647-sylar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/647-sylar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/647-sylar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/647-sylar.jpg"
       }
     },
     {
@@ -26901,7 +23728,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "X-Men #36 (1994)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Student",
@@ -26954,7 +23781,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Terminator 2: Judgment Day",
         "publisher": "Dark Horse Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -27006,7 +23833,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Terminator (1984)",
         "publisher": "Dark Horse Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin",
@@ -27058,7 +23885,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Terminator 3: Rise of the Machines (2003)",
         "publisher": "Dark Horse Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin",
@@ -27110,7 +23937,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Dark Horse Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin / Genesis Overseer",
@@ -27162,7 +23989,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Avengers #195",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Sheriff, Assassin, Mercenary; formerly Military Trainer, Combat Instructor, Head of Initiative training camp",
@@ -27213,8 +24040,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "New X-Men #118 (November, 2001)",
-        "publisher": "Angel Salvadore",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -27269,7 +24096,7 @@ var data = {
         "placeOfBirth": "Titan",
         "firstAppearance": "Iron Man #55",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Conqueror, worshiper of Death",
@@ -27284,58 +24111,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/655-thanos.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/655-thanos.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/655-thanos.jpg"
-      }
-    },
-    {
-      "id": 656,
-      "name": "The Cape",
-      "slug": "656-the-cape",
-      "powerstats": {
-        "intelligence": 38,
-        "strength": 10,
-        "speed": 23,
-        "durability": 32,
-        "power": 22,
-        "combat": 64
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Vince Faraday",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Cape"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "The Cape S01E01 (2011)",
-        "publisher": null,
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "Trip Faraday (son), Dana Thompson-Faraday (wife)"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/656-the-cape.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/656-the-cape.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/656-the-cape.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/656-the-cape.jpg"
       }
     },
     {
@@ -27373,7 +24148,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Former Adventurer; Government Agent",
@@ -27427,7 +24202,7 @@ var data = {
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "Fantastic Four #1 (November, 1961)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former Air Force test pilot",
@@ -27481,8 +24256,8 @@ var data = {
         ],
         "placeOfBirth": "Asgard",
         "firstAppearance": "Journey into Mystery #83 (August, 1962)",
-        "publisher": "Rune King Thor",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "King of Asgard; formerly EMS Technician; Physician",
@@ -27545,7 +24320,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -27597,7 +24372,7 @@ var data = {
         "placeOfBirth": "Camp Verde, Arizona",
         "firstAppearance": "Giant-Size X-Men #1 (1975)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former adventurer, student, Marine",
@@ -27649,7 +24424,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "(as Thunderstrike) Adventurer, crimefighter, (as Masterson) Architect",
@@ -27701,7 +24476,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Fantastic Four #129 (December, 1972)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Ruler, warrior",
@@ -27753,7 +24528,7 @@ var data = {
         "placeOfBirth": "Pasadena, California",
         "firstAppearance": "Sub-Mariner #5 (September, 1968)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -27806,7 +24581,7 @@ var data = {
         "placeOfBirth": "Presumably Chicago Illinois USA",
         "firstAppearance": "The Cat #1",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Laboratory assistant, model, adventurer, NYC police",
@@ -27858,7 +24633,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Amazing Spider-Man #2 (1963)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Inventor and technician serving the underworld",
@@ -27910,7 +24685,7 @@ var data = {
         "placeOfBirth": "York, England",
         "firstAppearance": "X-Men #4 (March, 1964)",
         "publisher": "Marvel Comics",
-        "alignment": "neutral"
+        "alignment": "Neutral"
       },
       "work": {
         "occupation": "Former criminal",
@@ -27962,7 +24737,7 @@ var data = {
         "placeOfBirth": "New York City",
         "firstAppearance": "Venom vs. Carnage #1 (2004)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Police officer",
@@ -28021,8 +24796,8 @@ var data = {
         ],
         "placeOfBirth": "San Francisco, California",
         "firstAppearance": "Venom Vol 2 #17",
-        "publisher": "Anti-Venom",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante; former symbiote hunter, shelter attendant, government operative, journalist for the Daily Globe",
@@ -28076,7 +24851,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -28128,7 +24903,7 @@ var data = {
         "placeOfBirth": "Island of Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #45 (December, 1965)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -28180,7 +24955,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Reformed criminal; former district attorney",
@@ -28233,7 +25008,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Model",
@@ -28294,7 +25069,7 @@ var data = {
         "placeOfBirth": "Created in Cresskill, New Jersey",
         "firstAppearance": "Avengers #54 (July, 1968)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Mass murderer, scientist, would-be world conqueror, ruler of Phalanx",
@@ -28346,7 +25121,7 @@ var data = {
         "placeOfBirth": "Jotunheim",
         "firstAppearance": "-",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Monarch",
@@ -28398,7 +25173,7 @@ var data = {
         "placeOfBirth": "Boston, Massachusetts",
         "firstAppearance": "X-Men (Vol 1) #2",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal, former subversive",
@@ -28413,70 +25188,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/685-vanisher.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/685-vanisher.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/685-vanisher.jpg"
-      }
-    },
-    {
-      "id": 686,
-      "name": "Vegeta",
-      "slug": "686-vegeta",
-      "powerstats": {
-        "intelligence": 81,
-        "strength": 100,
-        "speed": 92,
-        "durability": 95,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Saiyan",
-        "height": [
-          "5'6",
-          "168 cm"
-        ],
-        "weight": [
-          "163 lb",
-          "73 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "Vegeta",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Prince Vegeta",
-          "The Saiyan Prince",
-          "The Prince of all Saiyans",
-          "Majin Vegeta",
-          "Bejiita",
-          "Bejiita no Ouji",
-          "Vejita",
-          "Vegita",
-          "Captain Vegeta",
-          "Vegeta-Sama",
-          "Makita (Hebrew dub)",
-          "Bezita (Malaysian dub)",
-          "Super Vegeta"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Dragon Ball #17",
-        "publisher": "Shueisha",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/686-vegeta.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/686-vegeta.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/686-vegeta.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/686-vegeta.jpg"
       }
     },
     {
@@ -28513,8 +25224,8 @@ var data = {
         ],
         "placeOfBirth": "New York, New York",
         "firstAppearance": "(as alien costume) Secret Wars #8, (behind the scenes) Web of Spider-Man #18, (actual appearance) Amazing Spider-Man #300",
-        "publisher": "Anti-Venom",
-        "alignment": "bad"
+        "publisher": "Marvel Comics",
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Vigilante; former journalist for the Daily Globe, government operative",
@@ -28566,7 +25277,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Marvel Knights Spider-Man #7 (2005)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -28617,8 +25328,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
-        "publisher": "Scorpion",
-        "alignment": "bad"
+        "publisher": "Marvel Comics",
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Government operative; former professional criminal, private eye",
@@ -28669,8 +25380,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "What If? Iron Man: Demon in an Armor #1 (February, 2011)",
-        "publisher": "Deadpool",
-        "alignment": "-"
+        "publisher": "Marvel Comics",
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Conqueror; Adventurer",
@@ -28722,7 +25433,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The New 52: FCBD Special Edition #1",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -28773,8 +25484,8 @@ var data = {
         ],
         "placeOfBirth": "Calgary, Alberta, Canada",
         "firstAppearance": "X-Men #139 (November, 1980)",
-        "publisher": "Vindicator II",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "former secretary, researcher",
@@ -28828,7 +25539,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -28879,8 +25590,8 @@ var data = {
         ],
         "placeOfBirth": "-",
         "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
-        "publisher": "Anti-Vision",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -28932,7 +25643,7 @@ var data = {
         "placeOfBirth": "Zambesi",
         "firstAppearance": "Action Comics #521 (July, 1981)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Model",
@@ -28984,7 +25695,7 @@ var data = {
         "placeOfBirth": "Staten Island, New York City",
         "firstAppearance": "Amazing Spider-Man #2",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal; formerly electronics engineer",
@@ -29036,7 +25747,7 @@ var data = {
         "placeOfBirth": "Brooklyn, New York",
         "firstAppearance": "Defenders #131 (May, 1984)",
         "publisher": "Marvel Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "Cab driver",
@@ -29090,7 +25801,7 @@ var data = {
         "placeOfBirth": "Philadelphia, Pennsylvania",
         "firstAppearance": "Iron Man #118 (1979)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Initiative instructor, adventurer, government agent; formerly: Sentinel Squad O*N*E combat instructor, soldier, pilot",
@@ -29143,7 +25854,7 @@ var data = {
         "placeOfBirth": "The Beehive, Shard Island, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #66",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Avenger, savior of worlds",
@@ -29195,7 +25906,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "The New Teen Titans #14 (December 1981)",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -29246,8 +25957,8 @@ var data = {
         ],
         "placeOfBirth": "Camp Verde, Arizona",
         "firstAppearance": "New Mutants #16 (June, 1984)",
-        "publisher": "Thunderbird II",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer",
@@ -29299,7 +26010,7 @@ var data = {
         "placeOfBirth": "Cresskill, New Jersey",
         "firstAppearance": "TALES TO ASTONISH #44",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, fashion designer, independently wealthy socialite",
@@ -29351,7 +26062,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Fantastic Four #13 (April, 1963)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -29404,7 +26115,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Birds of Prey #1",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -29459,7 +26170,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "-",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -29512,7 +26223,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former SHIELD operative, Assassin (See Note under \"Winter Soldier\" article), Army Mascot, Student",
@@ -29565,7 +26276,7 @@ var data = {
         "placeOfBirth": "Somewhere in Ross and Cromarty, Scotland",
         "firstAppearance": "Marvel Graphic Novel #4: New Mutants",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Teacher",
@@ -29628,7 +26339,7 @@ var data = {
         "placeOfBirth": "Alberta, Canada",
         "firstAppearance": "Incredible Hulk Vol. 2 #180",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, instructor, former bartender, bouncer, spy, government operative, mercenary, soldier, sailor, miner",
@@ -29684,7 +26395,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Wonder Woman (vol. 2) #105 (January 1996)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -29737,7 +26448,7 @@ var data = {
         "placeOfBirth": "Paterson, New Jersey",
         "firstAppearance": "AVENGERS #9",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former industrialist, now stuntman, actor, adventurer",
@@ -29794,7 +26505,7 @@ var data = {
         "placeOfBirth": "Themyscira",
         "firstAppearance": "All-Star Comics #8 (December, 1941)",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
@@ -29846,7 +26557,7 @@ var data = {
         "placeOfBirth": "Keewazi Reservation, Oklahoma",
         "firstAppearance": "FANTASTIC FOUR #50",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Occasional adventurer",
@@ -29903,7 +26614,7 @@ var data = {
         "placeOfBirth": "The Facility, location unrevealed",
         "firstAppearance": "NYX #3",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Student, former; Assassin, Prostitute",
@@ -29955,7 +26666,7 @@ var data = {
         "placeOfBirth": "American Northeast of Earth-295",
         "firstAppearance": "X-Man #1 (1995)",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former shaman, adventurer, freedom fighter",
@@ -30006,8 +26717,8 @@ var data = {
         ],
         "placeOfBirth": "Elmsford, New York",
         "firstAppearance": "(as Pym) TALES TO ASTONISH #27, (as Ant-Man) TALES TO ASTONISH #35, (as Giant-Man) TALES TO ASTONISH #49, (as Goliath) AVENGERS #28, (as Yellowjacket) AVENGERS #59",
-        "publisher": "Ant-Man",
-        "alignment": "good"
+        "publisher": "Marvel Comics",
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
@@ -30059,7 +26770,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Avengers #264",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former criminal, electronics engineer",
@@ -30111,7 +26822,7 @@ var data = {
         "placeOfBirth": "Niffleheim",
         "firstAppearance": "JOURNEY INTO MYSTERY #97",
         "publisher": "Marvel Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -30126,58 +26837,6 @@ var data = {
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/728-ymir.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/728-ymir.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/728-ymir.jpg"
-      }
-    },
-    {
-      "id": 729,
-      "name": "Yoda",
-      "slug": "729-yoda",
-      "powerstats": {
-        "intelligence": 88,
-        "strength": 52,
-        "speed": 33,
-        "durability": 25,
-        "power": 100,
-        "combat": 90
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Yoda's species",
-        "height": [
-          "2'2",
-          "66 cm"
-        ],
-        "weight": [
-          "38 lb",
-          "17 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "White"
-      },
-      "biography": {
-        "fullName": "Yoda",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Star Wars: Episode V - The Empire Strikes Back (1980)",
-        "publisher": "George Lucas",
-        "alignment": "good"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Jedi Order, Jedi High Counsl, Galactic Republic",
-        "relatives": "Master: N'Kata Del Gormo, Apprentices: Dooku, Cin Drallig, Ikrit, Rahm Kota, Ki-Adi-Mundi, Oppo Rancisis, Luke Skywalker"
-      },
-      "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/729-yoda.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/729-yoda.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/729-yoda.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/729-yoda.jpg"
       }
     },
     {
@@ -30215,7 +26874,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Hawkman #4",
         "publisher": "DC Comics",
-        "alignment": "good"
+        "alignment": "Heroes"
       },
       "work": {
         "occupation": "-",
@@ -30267,7 +26926,7 @@ var data = {
         "placeOfBirth": "-",
         "firstAppearance": "Flash Secret Files #3",
         "publisher": "DC Comics",
-        "alignment": "bad"
+        "alignment": "Villains"
       },
       "work": {
         "occupation": "-",
@@ -30292,4 +26951,42 @@ for (var i = 0; i < data.characters.length; i++) {
   var html = template(data.characters[i]);
   document.getElementById("characters").insertAdjacentHTML("beforeend", html);
     
-}  
+}
+
+
+function map(val, minA, maxA, minB, maxB) {
+  return minB + ((val - minA) * (maxB - minB)) / (maxA - minA);
+}
+
+function Card3D(card, ev) {
+  let img = card.querySelector('img');
+  let imgRect = card.getBoundingClientRect();
+  let width = imgRect.width;
+  let height = imgRect.height;
+  let mouseX = ev.offsetX;
+  let mouseY = ev.offsetY;
+  let rotateY = map(mouseX, 0, 180, -25, 0);
+  let rotateX = map(mouseY, 0, 250, 25, 0);
+  //let brightness = map(mouseY, 0, 250, 1.5, 0.75);
+  let brightness = map(mouseY, 0, 250, 2.5, 1.25);
+  
+  //img.style.backgroundPositionX = `-${rotateX}px`;
+  //img.style.backgroundPositionY = `-${rotateY}px`;
+  card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+  img.style.filter = `brightness(${brightness})`;
+}
+
+var cards = document.querySelectorAll('.character-card');
+
+cards.forEach((card) => {
+  card.addEventListener('mousemove', (ev) => {
+    Card3D(card, ev);
+  });
+  
+  card.addEventListener('mouseleave', (ev) => {
+    let img = card.querySelector('img');
+    
+    card.style.transform = 'rotateX(0deg) rotateY(0deg)';
+    img.style.filter = 'brightness(1)';
+  });
+});

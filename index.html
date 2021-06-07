@@ -13,28 +13,48 @@
     <body>
 
 
+
         <script id="character-template" type="text/x-handlebars-template">
-            <div class='module module-movie'>
-                <div id="card" class="card" data-team="{{biography.alignment}}">
-                    <h3 class="animal-name">{{name}}</h3>
+            <div class='module character'>
+                <div class="card character-card" data-team="{{biography.alignment}}" data-publisher="{{biography.publisher}}">
+                    <div class="card-header character-card--header">
+                        <span>{{biography.alignment}}</span>
+                    </div>
+                    <div class="card-front character-card--front">
+                        <div class="card-image">
+                            <img src="{{images.md}}" alt="Character">
+                            <div class="shimmer"></div>
+                        </div>
+                        <div class="card-name character-card--name">
+                            {{name}}
+                        </div>
+                    </div>
+                    <div class="card-back character-card--back">
+                        <div class="card-body">
+                            <span class="power">Brilliant Power</span>
+                            <h2>{{name}}</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laudantium sequi facere mollitia saepe.</p>
+                        </div>
             
-                    <a title="By Peter Trimming [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASquirrel_posing.jpg"><img class="animal-image" alt="Red squirrel posing" src="{{images.lg}}"/></a>
-            
-                    <div class="card-text">
-                        <p class="fun-fact">In Norse mythology, Ratatoskr is a red squirrel who runs up and down with messages in the world tree, Yggdrasil, and spreads gossip.</p>
-                        <ul>
-                            <li><span class="list-label">Full name: </span>{{biography.fullName}}</li>
-                            <li><span class="list-label">Gender: </span>{{appearance.gender}}</li>
-                            <li><span class="list-label">Race: </span>{{appearance.race}}</li>
-                            <li><span class="list-label">Height: </span>{{appearance.height}}</li>
-                            <li><span class="list-label">Weight: </span>{{appearance.weight}}</li>
-                        </ul>
-                        <p>The red squirrel has a typical head-and-body length of 19 to 23 cm, a tail length of 15 to 20 cm. The long tail helps the squirrel to balance and steer when jumping from tree to tree and running along branches, and may keep the animal warm during sleep.</p>
+                        <div class="card-footer">
+                            <div class="info">
+                                <div class="value">51784</div>
+                                <div class="type">used</div>
+                            </div>
+                            <div class="info">
+                                <div class="value">329</div>
+                                <div class="type">comments</div>
+                            </div>
+                            <div class="info">
+                                <div class="value">4.5</div>
+                                <div class="type">rating</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </script>
-          
+        
           <section id="characters">
             
             <h2>List of characters</h2>
