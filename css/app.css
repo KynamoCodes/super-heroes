@@ -153,22 +153,6 @@ h2 {
   position: relative;
 }
 
-.shimmer {
-  position: absolute;
-  width: 130%;
-  height: 130%;
-  background: radial-gradient(circle farthest-side, #fff, transparent);
-  z-index: 3;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.card .card-image:hover .shimmer {
-  opacity: 0.4;
-}
-
 .card-name {
   background: #fcfb0d;
   border: 1px solid #222;
