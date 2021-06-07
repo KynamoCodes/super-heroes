@@ -1,0 +1,95 @@
+* { box-sizing: border-box; }
+body {
+  font-size: 18px;
+  padding: 1rem;
+  background: #333;
+}
+
+.app-search {
+  flex: 1 1 100%;
+}
+
+section {
+  background: white;
+  padding: 1rem;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+h2 {
+  margin: 0 0 0.5rem 0;
+  padding: 0 0 0.25rem 0;
+  border-bottom: 2px solid #333;
+}
+
+.module {
+  flex: 0 1 calc(33.33% - 2em);
+  min-height: 20em;
+  margin: 1em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.card {
+  padding: 1em;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  box-shadow: 6px 6px 6px #dedede;
+  background: linear-gradient(#dedede, #dedede);
+  font: 18px "Open Sans", sans-serif;
+}
+
+.card[data-team="good"] {
+  box-shadow: 6px 6px 6px rgb(5, 32, 167);
+  background: linear-gradient(rgba(5, 32, 167, 71%), rgb(0, 22, 128, 71%));
+}
+.card[data-team="bad"] {
+  box-shadow: 6px 6px 6px #a0522d;
+  background: linear-gradient(rgba(128, 0, 0, 0.71), rgba(128, 0, 0, 0.71));
+}
+.card[data-team="neutral"] {
+  box-shadow: 6px 6px 6px #dedede;
+  background: linear-gradient(#dedede, #dedede);
+}
+
+.animal-name {
+  font-size: 25px;
+  font-variant: small-caps;
+  text-align: center;
+  margin: 10px 0;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background-color: rgba(255, 250, 250, 0.50);
+}
+
+.animal-image {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card-text {
+  border: 1px solid transparent;
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 0 10px;
+  background-color: rgba(255, 250, 250, 0.50);
+}
+
+.fun-fact {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-label {
+  font-weight: bold;
+}
