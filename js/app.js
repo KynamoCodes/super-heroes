@@ -26970,14 +26970,11 @@ function Card3D(card, ev) {
   let rotateX = map(mouseY, 0, 250, 25, 0);
   //let brightness = map(mouseY, 0, 250, 1.5, 0.75);
   let brightness = map(mouseY, 0, 250, 2.5, 1.25);
-  
-  
-  //img.style.backgroundPositionX = `-${rotateX}px`;
-  //img.style.backgroundPositionY = `-${rotateY}px`;
+  let contrast = map(mouseY, 0, 250, 1.5, 1);
+  let saturate = map(mouseY, 0, 250, 2, 1);
+
   card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
-  //shimmer.style.left = `calc(${mouseX}px - 50%)`;
-  //shimmer.style.top = `calc(${mouseY}px - 15%)`;
-  img.style.filter = `brightness(${brightness})`;
+  img.style.filter = `brightness(${brightness}) contrast(${contrast}) saturate(${saturate})`;
 }
 
 var cards = document.querySelectorAll('.character-card');
@@ -26991,6 +26988,6 @@ cards.forEach((card) => {
     let img = card.querySelector('img');
     
     card.style.transform = 'rotateX(0deg) rotateY(0deg)';
-    img.style.filter = 'brightness(1)';
+    img.style.filter = 'brightness(1) contrast(1)';
   });
 });
