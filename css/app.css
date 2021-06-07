@@ -39,7 +39,7 @@ h2 {
   border: 1px solid #ccc;
   border-radius: 6px;
   box-shadow: 6px 6px 6px #dedede;
-  background: #efefef;
+  background: linear-gradient(to bottom, #bcc6cc, #eee, #bcc6cc);
   font: 18px "Open Sans", sans-serif;
   transform: all 0.25s ease-in-out;
 }
@@ -87,6 +87,9 @@ h2 {
 }
 
 /* -- By Publisher --*/
+.card[data-publisher="Marvel Comics"] {
+  background: linear-gradient(180deg, rgb(186, 0, 0) 0%, rgba(238,238,238,1) 50%, rgb(255, 134, 134) 100%);
+}
 .card[data-publisher="Marvel Comics"] .card-header::after {
   width: 75px;
   height: 44px;
@@ -95,20 +98,36 @@ h2 {
   background-position: center center;
   background-color: rgb(255, 0, 0);
 }
+
+.card[data-publisher="DC Comics"] {
+  background: linear-gradient(180deg, rgb(57, 72, 210) 0%, rgba(238,238,238,1) 50%, rgb(134, 216, 255) 100%);
+}
 .card[data-publisher="DC Comics"] .card-header::after {
   width: 50px;
   height: 50px;
   background-image: url("https://www.dccomics.com/sites/all/themes/dc_comics_bp/logo.png");
+}
+
+.card[data-publisher="Dark Horse Comics"] {
+  background: linear-gradient(to bottom, #bcc6cc, #eee, #bcc6cc);
 }
 .card[data-publisher="Dark Horse Comics"] .card-header::after {
   width: 35px;
   height: 52px;
   background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Dark_Horse_Comics_logo.svg/1200px-Dark_Horse_Comics_logo.svg.png');
 }
+
+.card[data-publisher="Icon Comics"] {
+  background: linear-gradient(to bottom, #bcc6cc, #eee, #bcc6cc)
+}
 .card[data-publisher="Icon Comics"] .card-header::after {
   width: 41px;
   height: 52px;
   background-image: url('https://upload.wikimedia.org/wikipedia/en/a/ab/Iconcomicslogo.png');
+}
+
+.card[data-publisher="Image Comics"] {
+  background: linear-gradient(to bottom, #bcc6cc, #eee, #bcc6cc);
 }
 .card[data-publisher="Image Comics"] .card-header::after {
   width: 23px;
@@ -126,30 +145,28 @@ h2 {
   height: auto;
   max-width: 100%;
   border: 1px solid #ddd;
+  position: relative;
+  z-index: 0;
 }
 .card .card-image {
   overflow: hidden;
   position: relative;
 }
+
+.shimmer {
+  position: absolute;
+  width: 130%;
+  height: 130%;
+  background: radial-gradient(circle farthest-side, #fff, transparent);
+  z-index: 3;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  overflow: hidden;
+  border-radius: 50%;
+}
 .card .card-image:hover .shimmer {
   opacity: 0.4;
-}
-.card .card-image::after {
-  position: absolute;
-  content: "";
-  width: 100%;
-  height: 100%;
-  background: url('../images/stars2.png');
-  left: 0;
-  top: 0;
-  z-index: 999;
-  left: 0;
-  top: 0;
-  opacity: 1;
-  filter: brightness(0.5);
-}
-.card .card-image:hover::after {
-  filter: brightness(1.5);
 }
 
 .card-name {
@@ -161,17 +178,7 @@ h2 {
   left: 0.5em;
   right: 0.5em;
   text-align: center;
-}
-
-.shimmer {
-  position: absolute;
-  width: 110%;
-  height: 110%;
-  background: radial-gradient(circle farthest-side, #fff, transparent);
-  z-index: 1;
-  top: 0;
-  left: 0;
-  opacity: 0;
+  z-index: 3;
 }
 
 .card-back {

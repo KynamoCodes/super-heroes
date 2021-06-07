@@ -26960,6 +26960,7 @@ function map(val, minA, maxA, minB, maxB) {
 
 function Card3D(card, ev) {
   let img = card.querySelector('img');
+  //let shimmer = card.querySelector('.shimmer');
   let imgRect = card.getBoundingClientRect();
   let width = imgRect.width;
   let height = imgRect.height;
@@ -26970,9 +26971,12 @@ function Card3D(card, ev) {
   //let brightness = map(mouseY, 0, 250, 1.5, 0.75);
   let brightness = map(mouseY, 0, 250, 2.5, 1.25);
   
+  
   //img.style.backgroundPositionX = `-${rotateX}px`;
   //img.style.backgroundPositionY = `-${rotateY}px`;
   card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+  //shimmer.style.left = `calc(${mouseX}px - 50%)`;
+  //shimmer.style.top = `calc(${mouseY}px - 15%)`;
   img.style.filter = `brightness(${brightness})`;
 }
 
