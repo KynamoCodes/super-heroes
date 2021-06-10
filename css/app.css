@@ -31,6 +31,7 @@ section#banner img {
 
 
 h2 {
+  flex: 1 1 100%;
   margin: 0 0 0.5rem 0;
   padding: 0 0 0.25rem 0;
   border-bottom: 2px solid #333;
