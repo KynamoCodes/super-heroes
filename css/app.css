@@ -1,8 +1,8 @@
 * { box-sizing: border-box; }
-body {
+html, body {
   font-size: 18px;
-  padding: 1rem;
-  background: #333;
+  padding: 0;
+  margin: 0;
 }
 
 .app-search {
@@ -17,6 +17,16 @@ section {
   flex-wrap: wrap;
   max-width: 1400px;
   margin: 0 auto;
+  justify-content: center;
+}
+section#banner {
+  max-width: none;
+  background: transparent;
+  margin-bottom: 3em;
+  padding: 0;
+}
+section#banner img {
+  object-fit: cover;
 }
 
 
@@ -27,22 +37,142 @@ h2 {
 }
 
 .module {
-  flex: 0 1 calc(25% - 2em);
   margin: 1em;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  transition: all 0.4s ease-in-out;
+  flex: 1 1 calc(50% - 2em);
+  min-width: 250px;
+  max-width: max-content;
 }
 
 .card {
   padding: 1em;
-  border: 1px solid #ccc;
-  border-radius: 6px;
+  border: 1em solid #9eadb9;
+  border-radius: 15px;
   box-shadow: 6px 6px 6px #dedede;
   background: linear-gradient(to bottom, #bcc6cc, #eee, #bcc6cc);
   font: 18px "Open Sans", sans-serif;
-  transform: all 0.25s ease-in-out;
+  transition: all 0.25s ease;
+  will-change: transform;
+  overflow: hidden;
 }
+.card-front {
+  position: relative;
+  padding-bottom: 0.75em;
+  overflow: hidden;
+}
+.card img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  border: 1px solid #222;
+  position: relative;
+  z-index: 0;
+  transition: all 0.25s ease;
+  pointer-events: none;
+}
+.card .card-image {
+  overflow: hidden;
+  position: relative;
+}
+
+.card-name {
+  background: #fcfb0d;
+  border: 1px solid #222;
+  padding: 0.5em;
+  position: absolute;
+  bottom: 0;
+  left: 0.5em;
+  right: 0.5em;
+  text-align: center;
+  z-index: 3;
+  pointer-events: none;
+}
+
+.card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  transition: all 1s ease;
+  background: #dedede;
+  padding: 1em;
+  opacity: 0;
+  pointer-events: none;
+  font-size: 0.75em;
+}
+.character-stats {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 1em;
+  bottom: 0;
+}
+.stat {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: relative;
+  margin: 0.25em 0;
+  background: rgba(0,0,0,0.25);
+  color: #fff;
+  padding: 0.5em;
+}
+.stat .stat-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 100%;
+}
+.stat .type {
+  position: relative;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+.stat .value {
+  position: relative;
+  font-weight: bold;
+}
+.stat-bar[data-stat='power'] {
+  background: rgba(0, 23, 128, 0.75);
+}
+.stat-bar[data-stat='intelligence'] {
+  background: rgba(0, 93, 128, 62%);
+}
+.stat-bar[data-stat='strength'] {
+  background: rgba(98, 0, 128, 0.62);
+}
+.stat-bar[data-stat='speed'] {
+  background: rgba(0, 128, 3, 62%);
+}
+.stat-bar[data-stat='durability'] {
+  background: rgba(128, 0, 0, 0.75);
+}
+
+.character-card.card__flipped {
+  transform: translateX(0%) rotateY(-180deg) !important;
+}
+.character-card.card__flipped .card-header {
+  transform: rotateY(180deg);
+  opacity: 0;
+}
+.character-card.card__flipped .card-front {
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+  opacity: 0;
+}
+.character-card.card__flipped .card-back {
+  backface-visibility: visible;
+  transform: rotateY(180deg);
+  opacity: 1;
+}
+
+
+
 .card-header {
   margin: 0 -1em 1em;
   padding: 0.25em 1em;
@@ -56,31 +186,24 @@ h2 {
   height: calc(100% + 0.5em);
   position: absolute;
   top: 50%;
-  left: 0.25em;
+  left: 1em;
+  background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   transform: translateY(-50%);
 }
 
 /*-- By Team Type --*/
-.card[data-team="Heroes"] {
-  /*background: linear-gradient(rgba(5, 32, 167, 71%), rgb(0, 22, 128, 71%));*/
-}
 .card[data-team="Heroes"] .card-header {
   background: rgb(5, 32, 167);
-  border-top: 1px solid rgb(6, 28, 143);
-  border-bottom: 1px solid rgb(6, 28, 143);
-}
-
-.card[data-team="Villains"] {
-  /*background: linear-gradient(rgba(128, 0, 0, 0.71), rgba(128, 0, 0, 0.71));*/
+  border-top: 1px solid rgb(2, 15, 85);
+  border-bottom: 1px solid rgb(2, 15, 85);
 }
 .card[data-team="Villains"] .card-header {
   background: linear-gradient(rgba(128, 0, 0, 1), rgba(128, 0, 0, 1));
-  border-top: 1px solid rgba(128, 0, 0, 0.71);
-  border-bottom: 1px solid rgba(128, 0, 0, 0.71);
+  border-top: 1px solid rgb(113, 2, 2);
+  border-bottom: 1px solid rgb(113, 2, 2);
 }
-
 .card[data-team="Neutral"] .card-header {
   background: linear-gradient(#dedede, #dedede);
   color: #222;
@@ -89,23 +212,23 @@ h2 {
 /* -- By Publisher --*/
 .card[data-publisher="Marvel Comics"] {
   background: linear-gradient(180deg, rgb(186, 0, 0) 0%, rgba(238,238,238,1) 50%, rgb(255, 134, 134) 100%);
+  border-color: #be8181;
 }
 .card[data-publisher="Marvel Comics"] .card-header::after {
   width: 75px;
-  height: 44px;
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/220px-Marvel_Logo.svg.png');
-  background-size: 65px 20px;
-  background-position: center center;
-  background-color: rgb(255, 0, 0);
+  height: 37px;
+  background-image: url("../images/logos/marvel-logo-3.png");
+  border: 1px solid #fff;
 }
 
 .card[data-publisher="DC Comics"] {
   background: linear-gradient(180deg, rgb(57, 72, 210) 0%, rgba(238,238,238,1) 50%, rgb(134, 216, 255) 100%);
+  border-color: #4e8bbb;
 }
 .card[data-publisher="DC Comics"] .card-header::after {
   width: 50px;
   height: 50px;
-  background-image: url("https://www.dccomics.com/sites/all/themes/dc_comics_bp/logo.png");
+  background-image: url("../images/logos/DC-logo-4.png");
 }
 
 .card[data-publisher="Dark Horse Comics"] {
@@ -114,7 +237,7 @@ h2 {
 .card[data-publisher="Dark Horse Comics"] .card-header::after {
   width: 35px;
   height: 52px;
-  background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Dark_Horse_Comics_logo.svg/1200px-Dark_Horse_Comics_logo.svg.png');
+  background-image: url('../images/logos/Dark-Horse-logo-2.png');
 }
 
 .card[data-publisher="Icon Comics"] {
@@ -135,36 +258,10 @@ h2 {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/96/Image_Comics_logo.svg');
 }
 
-.card-front {
-  position: relative;
-  padding-bottom: 0.75em;
-  overflow: hidden;
-}
-.card img {
-  width: auto;
-  height: auto;
-  max-width: 100%;
-  border: 1px solid #ddd;
-  position: relative;
-  z-index: 0;
-}
-.card .card-image {
-  overflow: hidden;
-  position: relative;
-}
 
-.card-name {
-  background: #fcfb0d;
-  border: 1px solid #222;
-  padding: 0.5em;
-  position: absolute;
-  bottom: 0;
-  left: 0.5em;
-  right: 0.5em;
-  text-align: center;
-  z-index: 3;
-}
 
-.card-back {
-  display: none;
+@media screen and (min-width: 800px) {
+  .module {
+    flex: 0 1 calc(25% - 2em);
+  }
 }

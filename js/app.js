@@ -26958,22 +26958,20 @@ function map(val, minA, maxA, minB, maxB) {
   return minB + ((val - minA) * (maxB - minB)) / (maxA - minA);
 }
 
-function Card3D(card, ev) {
+function Tilt(card, ev) {
   let img = card.querySelector('img');
-  //let shimmer = card.querySelector('.shimmer');
   let imgRect = card.getBoundingClientRect();
   let width = imgRect.width;
   let height = imgRect.height;
   let mouseX = ev.offsetX;
   let mouseY = ev.offsetY;
-  let rotateY = map(mouseX, 0, 180, -25, 0);
-  let rotateX = map(mouseY, 0, 250, 25, 0);
-  //let brightness = map(mouseY, 0, 250, 1.5, 0.75);
-  let brightness = map(mouseY, 0, 250, 2.5, 1.25);
-  let contrast = map(mouseY, 0, 250, 1.5, 1);
-  let saturate = map(mouseY, 0, 250, 2, 1);
+  let rotateY = map(mouseX, -50, 250, 25, -25);
+  let rotateX = map(mouseY, -50, 250, 25, -25);
+  let brightness = map(mouseY - mouseX, -50, 250, 2.5, 1.25);
+  let contrast = map(mouseY, -50, 250, 1.5, 0.5);
+  let saturate = map(mouseY, -50, 250, 2, 0.5);
 
-  card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+  card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) scale3d(1, 1, 1)`;
   img.style.filter = `brightness(${brightness}) contrast(${contrast}) saturate(${saturate})`;
 }
 
@@ -26981,7 +26979,11 @@ var cards = document.querySelectorAll('.character-card');
 
 cards.forEach((card) => {
   card.addEventListener('mousemove', (ev) => {
-    Card3D(card, ev);
+    Tilt(card, ev);
+  });
+
+  card.addEventListener('touchenter', (ev) => {
+    Tilt(card, ev);
   });
   
   card.addEventListener('mouseleave', (ev) => {
@@ -26989,5 +26991,16 @@ cards.forEach((card) => {
     
     card.style.transform = 'rotateX(0deg) rotateY(0deg)';
     img.style.filter = 'brightness(1) contrast(1)';
+  });
+
+  card.addEventListener('touchleave', (ev) => {
+    let img = card.querySelector('img');
+    
+    card.style.transform = 'rotateX(0deg) rotateY(0deg)';
+    img.style.filter = 'brightness(1) contrast(1)';
+  });
+
+  card.addEventListener('click', function() {
+    card.classList.toggle('card__flipped');
   });
 });

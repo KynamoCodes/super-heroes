@@ -11,61 +11,83 @@
         <link rel="stylesheet" href="css/app.css">
     </head>
     <body>
+        <section id="banner">
+            <div class="banner">
+                <img src="images/banners/home-banner.jpg" />
+            </div>
+        </section>
+        <section id="characters">
+            <h2>List of characters</h2>
+            <div class="app-search">
+                <input type="text" id="appSearchButton" placeholder="Search Characters" />
+            </div>
 
-
-
-        <script id="character-template" type="text/x-handlebars-template">
-            <div class='module character'>
-                <div class="card character-card" data-team="{{biography.alignment}}" data-publisher="{{biography.publisher}}">
-                    <div class="card-header character-card--header">
-                        <span>{{biography.alignment}}</span>
-                    </div>
-                    <div class="card-front character-card--front">
-                        <div class="card-image">
-                            <img src="{{images.md}}" alt="Character">
+            <!-- characters get loaded here -->
+            <script id="character-template" type="text/x-handlebars-template">
+                <div class='module character'>
+                    <div class="card character-card" data-team="{{biography.alignment}}" data-publisher="{{biography.publisher}}">
+                        <div class="card-header character-card--header">
+                            <span>{{biography.alignment}}</span>
                         </div>
-                        <div class="card-name character-card--name">
-                            {{name}}
-                        </div>
-                    </div>
-                    <div class="card-back character-card--back">
-                        <div class="card-body">
-                            <span class="power">Brilliant Power</span>
-                            <h2>{{name}}</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laudantium sequi facere mollitia saepe.</p>
-                        </div>
-            
-                        <div class="card-footer">
-                            <div class="info">
-                                <div class="value">51784</div>
-                                <div class="type">used</div>
+                        <div class="card-front character-card--front">
+                            <div class="card-image">
+                                <img src="{{images.md}}" alt="Character">
                             </div>
-                            <div class="info">
-                                <div class="value">329</div>
-                                <div class="type">comments</div>
+                            <div class="card-name character-card--name">
+                                {{name}}
                             </div>
-                            <div class="info">
-                                <div class="value">4.5</div>
-                                <div class="type">rating</div>
+                        </div>
+                        <div class="card-back character-card--back">
+                            <div class="card-body">
+                                <span class="full-name">{{biography.fullName}}</span>
+                                <h2>{{name}}</h2>
+                                <div>
+                                    <div><span><strong>Occupation:</strong></span></div>
+                                    <div>{{work.occupation}}</div>
+                                </div>
+                                <div>
+                                    <div><span><strong>Connections:</strong></span></div>
+                                    <div>{{connections.groupAffiliation}}</div>
+                                </div>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laudantium sequi facere mollitia saepe.</p>
+                            </div>
+                
+                            <div class="character-stats">
+                                <div class="stat">
+                                    <div class="stat-bar" data-stat="power" style="width: {{powerstats.power}}%"></div>
+                                    <div class="type">Power</div>
+                                    <div class="value">{{powerstats.power}}</div>
+                                </div>
+                                <div class="stat">
+                                    <div class="stat-bar" data-stat="intelligence" style="width: {{powerstats.intelligence}}%"></div>
+                                    <div class="type">Intelligence</div>
+                                    <div class="value">{{powerstats.intelligence}}</div>
+                                </div>
+                                <div class="stat">
+                                    <div class="stat-bar" data-stat="strength" style="width: {{powerstats.strength}}%"></div>
+                                    <div class="type">Strength</div>
+                                    <div class="value">{{powerstats.strength}}</div>
+                                </div>
+                                <div class="stat">
+                                    <div class="stat-bar" data-stat="speed" style="width: {{powerstats.speed}}%"></div>
+                                    <div class="type">Speed</div>
+                                    <div class="value">{{powerstats.speed}}</div>
+                                </div>
+                                <div class="stat">
+                                    <div class="stat-bar" data-stat="durability" style="width:{{powerstats.durability}}%"></div>
+                                    <div class="type">Durability</div>
+                                    <div class="value">{{powerstats.durability}}</div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </script>
-        
-          <section id="characters">
-            
-            <h2>List of characters</h2>
-            <div class="app-search">
-              <input type="text" id="appSearchButton" placeholder="Search Characters" />
-            </div>
-            <!-- movies get loaded here -->
-            
-          </section>
+            </script>
+        </section>
 	</div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js" ></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>-->
 	<script src="js/app.js"></script>
 
     </body>
