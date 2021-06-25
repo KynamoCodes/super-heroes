@@ -1,0 +1,2007 @@
+System: 
+1 - 99 = Common
+100 - 199 = Uncommon
+200 - 299 = Rare
+300 - 399 = Super Rare
+400 - 500 = Omega Rare
+
+A-Bomb
+Power Level: 259
+Rarity = Rare
+
+Abe Sapien
+Power Level: 316
+Rarity = Super Rare
+
+Abin Sur
+Power Level: 356
+Rarity = Super Rare
+
+Abomination
+Power Level: 348
+Rarity = Super Rare
+
+Abraxas
+Power Level: 434
+Rarity = Omega Rare
+
+Absorbing Man
+Power Level: 341
+Rarity = Super Rare
+
+Adam Strange
+Power Level: 189
+Rarity = Uncommon
+
+Agent Bob
+Power Level: 41
+Rarity = Common
+
+Agent Zero
+Power Level: 293
+Rarity = Rare
+
+Air-Walker
+Power Level: 420
+Rarity = Omega Rare
+
+Ajax
+Power Level: 253
+Rarity = Rare
+
+Alan Scott
+Power Level: 356
+Rarity = Super Rare
+
+Alfred Pennyworth
+Power Level: 107
+Rarity = Uncommon
+
+Alien
+Power Level: 267
+Rarity = Rare
+
+Amazo
+Power Level: 446
+Rarity = Omega Rare
+
+Angel
+Power Level: 353
+Rarity = Super Rare
+
+Angel
+Power Level: 214
+Rarity = Rare
+
+Angel Dust
+Power Level: 175
+Rarity = Uncommon
+
+Angel Salvadore
+Power Level: 160
+Rarity = Uncommon
+
+Animal Man
+Power Level: 309
+Rarity = Super Rare
+
+Annihilus
+Power Level: 317
+Rarity = Super Rare
+
+Ant-Man
+Power Level: 201
+Rarity = Rare
+
+Ant-Man II
+Power Level: 203
+Rarity = Rare
+
+Anti-Monitor
+Power Level: 438
+Rarity = Omega Rare
+
+Anti-Venom
+Power Level: 386
+Rarity = Super Rare
+
+Apocalypse
+Power Level: 433
+Rarity = Omega Rare
+
+Aquababy
+Power Level: 89
+Rarity = Common
+
+Aqualad
+Power Level: 313
+Rarity = Super Rare
+
+Aquaman
+Power Level: 425
+Rarity = Omega Rare
+
+Arachne
+Power Level: 289
+Rarity = Super Rare
+
+Archangel
+Power Level: 233
+Rarity = Super Rare
+
+Arclight
+Power Level: 218
+Rarity = Super Rare
+
+Ardina
+Power Level: 443
+Rarity = Omega Rare
+
+Ares
+Power Level: 356
+Rarity = Super Rare
+
+Ariel
+Power Level: 180
+Rarity = Uncommon
+
+Armor
+Power Level: 260
+Rarity = Rare
+
+Atlas
+Power Level: 366
+Rarity = Super Rare
+
+Atlas
+Power Level: 332
+Rarity = Super Rare
+
+Atom Girl
+Power Level: 137
+Rarity = Uncommon
+
+Atom II
+Power Level: 216
+Rarity = Rare
+
+Aurora
+Power Level: 303
+Rarity = Super Rare
+
+Azazel
+Power Level: 303
+Rarity = Super Rare
+
+Azrael
+Power Level: 153
+Rarity = Uncommon
+
+Bane
+Power Level: 256
+Rarity = Rare
+
+Banshee
+Power Level: 221
+Rarity = Rare
+
+Bantam
+Power Level: 176
+Rarity = Uncommon
+
+Batgirl
+Power Level: 206
+Rarity = Rare
+
+Batgirl IV
+Power Level: 210
+Rarity = Rare
+
+Batgirl VI
+Power Level: 158
+Rarity = Uncommon
+
+Batman
+Power Level: 268
+Rarity = Rare
+
+Batman
+Power Level: 250
+Rarity = Rare
+
+Batman II
+Power Level: 196
+Rarity = Uncommon
+
+Battlestar
+Power Level: 260
+Rarity = Rare
+
+Batwoman V
+Power Level: 170
+Rarity = Uncommon
+
+Beast
+Power Level: 283
+Rarity = Rare
+
+Beast Boy
+Power Level: 277
+Rarity = Rare
+
+Ben 10
+Power Level: 125
+Rarity = Uncommon
+
+Beta Ray Bill
+Power Level: 373
+Rarity = Super Rare
+
+Beyonder
+Power Level: 500
+Rarity = Omega Rare
+
+Big Barda
+Power Level: 467
+Rarity = Omega Rare
+
+Big Daddy
+Power Level: 114
+Rarity = Uncommon
+
+Big Man
+Power Level: 157
+Rarity = Uncommon
+
+Bird-Brain
+Power Level: 119
+Rarity = Uncommon
+
+Bishop
+Power Level: 275
+Rarity = Rare
+
+Bizarro
+Power Level: 433
+Rarity = Omega Rare
+
+Black Adam
+Power Level: 480
+Rarity = Omega Rare
+
+Black Bolt
+Power Level: 426
+Rarity = Omega Rare
+
+Black Canary
+Power Level: 176
+Rarity = Uncommon
+
+Black Canary
+Power Level: 164
+Rarity = Uncommon
+
+Black Cat
+Power Level: 157
+Rarity = Uncommon
+
+Black Flash
+Power Level: 334
+Rarity = Super Rare
+
+Black Knight III
+Power Level: 194
+Rarity = Uncommon
+
+Black Lightning
+Power Level: 212
+Rarity = Rare
+
+Black Mamba
+Power Level: 250
+Rarity = Rare
+
+Black Manta
+Power Level: 289
+Rarity = Rare
+
+Black Panther
+Power Level: 235
+Rarity = Rare
+
+Black Widow
+Power Level: 187
+Rarity = Uncommon
+
+Blackout
+Power Level: 265
+Rarity = Rare
+
+Blackwing
+Power Level: 135
+Rarity = Uncommon
+
+Blackwulf
+Power Level: 185
+Rarity = Uncommon
+
+Blade
+Power Level: 219
+Rarity = Rare
+
+Bling!
+Power Level: 237
+Rarity = Rare
+
+Blink
+Power Level: 183
+Rarity = Uncommon
+
+Blizzard II
+Power Level: 164
+Rarity = Uncommon
+
+Blob
+Power Level: 239
+Rarity = Rare
+
+Bloodaxe
+Power Level: 356
+Rarity = Super Rare
+
+Bloodhawk
+Power Level: 270
+Rarity = Rare
+
+Blue Beetle III
+Power Level: 322
+Rarity = Super Rare
+
+Boom-Boom
+Power Level: 159
+Rarity = Uncommon
+
+Box IV
+Power Level: 187
+Rarity = Uncommon
+
+Brainiac
+Power Level: 408
+Rarity = Omega Rare
+
+Brainiac 5
+Power Level: 221
+Rarity = Rare
+
+Bullseye
+Power Level: 176
+Rarity = Uncommon
+
+Bumblebee
+Power Level: 173
+Rarity = Uncommon
+
+Bushido
+Power Level: 85
+Rarity = Common
+
+Cable
+Power Level: 315
+Rarity = Super Rare
+
+Callisto
+Power Level: 233
+Rarity = Rare
+
+Cannonball
+Power Level: 338
+Rarity = Super Rare
+
+Captain America
+Power Level: 241
+Rarity = Rare
+
+Captain Atom
+Power Level: 447
+Rarity = Omega Rare
+
+Captain Britain
+Power Level: 293
+Rarity = Rare
+
+Captain Cold
+Power Level: 125
+Rarity = Uncommon
+
+Captain Marvel
+Power Level: 471
+Rarity = Omega Rare
+
+Captain Marvel
+Power Level: 438
+Rarity = Omega Rare
+
+Captain Marvel II
+Power Level: 307
+Rarity = Super Rare
+
+Captain Planet
+Power Level: 393
+Rarity = Super Rare
+
+Carnage
+Power Level: 368
+Rarity = Super Rare
+
+Catwoman
+Power Level: 168
+Rarity = Uncommon
+
+Century
+Power Level: 385
+Rarity = Super Rare
+
+Chamber
+Power Level: 217
+Rarity = Rare
+
+Chameleon
+Power Level: 166
+Rarity = Uncommon
+
+Changeling
+Power Level: 202
+Rarity = Rare
+
+Cheetah
+Power Level: 140
+Rarity = Uncommon
+
+Cheetah III
+Power Level: 434
+Rarity = Omega Rare
+
+Citizen Steel
+Power Level: 301
+Rarity = Super Rare
+
+Cloak
+Power Level: 284
+Rarity = Rare
+
+Clock King
+Power Level: 119
+Rarity = Uncommon
+
+Colossus
+Power Level: 324
+Rarity = Super Rare
+
+Copycat
+Power Level: 166
+Rarity = Uncommon
+
+Cottonmouth
+Power Level: 105
+Rarity = Uncommon
+
+Crystal
+Power Level: 166
+Rarity = Uncommon
+
+Cyborg
+Power Level: 326
+Rarity = Super Rare
+
+Cyborg Superman
+Power Level: 460
+Rarity = Omega Rare
+
+Cyclops
+Power Level: 226
+Rarity = Rare
+
+Dagger
+Power Level: 202
+Rarity = Rare
+
+Daredevil
+Power Level: 209
+Rarity = Rare
+
+Darkhawk
+Power Level: 259
+Rarity = Rare
+
+Darkseid
+Power Level: 471
+Rarity = Omega Rare
+
+Darkstar
+Power Level: 202
+Rarity = Rare
+
+Dash
+Power Level: 209
+Rarity = Rare
+
+Dazzler
+Power Level: 266
+Rarity = Rare
+
+Deadman
+Power Level: 293
+Rarity = Rare
+
+Deadpool
+Power Level: 351
+Rarity = Super Rare
+
+Deadshot
+Power Level: 166
+Rarity = Uncommon
+
+Deathlok
+Power Level: 241
+Rarity = Rare
+
+Deathstroke
+Power Level: 287
+Rarity = Rare
+
+Demogoblin
+Power Level: 242
+Rarity = Rare
+
+Destroyer
+Power Level: 386
+Rarity = Super Rare
+
+Diamondback
+Power Level: 156
+Rarity = Uncommon
+
+Doc Samson
+Power Level: 304
+Rarity = Super Rare
+
+Doctor Doom
+Power Level: 352
+Rarity = Super Rare
+
+Doctor Fate
+Power Level: 302
+Rarity = Super Rare
+
+Doctor Octopus
+Power Level: 268
+Rarity = Rare
+
+Doctor Strange
+Power Level: 306
+Rarity = Super Rare
+
+Domino
+Power Level: 177
+Rarity = Uncommon
+
+Donatello
+Power Level: 266
+Rarity = Rare
+
+Doomsday
+Power Level: 442
+Rarity = Omega Rare
+
+Doppelganger
+Power Level: 295
+Rarity = Rare
+
+Dormammu
+Power Level: 466
+Rarity = Omega Rare
+
+Dr Manhattan
+Power Level: 430
+Rarity = Omega Rare
+
+Drax the Destroyer
+Power Level: 292
+Rarity = Rare
+
+Ego
+Power Level: 421
+Rarity = Omega Rare
+
+Elastigirl
+Power Level: 275
+Rarity = Rare
+
+Electro
+Power Level: 252
+Rarity = Rare
+
+Elektra
+Power Level: 191
+Rarity = Uncommon
+
+Elongated Man
+Power Level: 252
+Rarity = Rare
+
+Emma Frost
+Power Level: 363
+Rarity = Super Rare
+
+Enchantress
+Power Level: 262
+Rarity = Rare
+
+Etrigan
+Power Level: 352
+Rarity = Super Rare
+
+Evil Deadpool
+Power Level: 351
+Rarity = Super Rare
+
+Evilhawk
+Power Level: 270
+Rarity = Rare
+
+Exodus
+Power Level: 300
+Rarity = Super Rare
+
+Falcon
+Power Level: 151
+Rarity = Uncommon
+
+Fallen One II
+Power Level: 456
+Rarity = Omega Rare
+
+Faora
+Power Level: 456
+Rarity = Omega Rare
+
+Feral
+Power Level: 166
+Rarity = Uncommon
+
+Fin Fang Foom
+Power Level: 329
+Rarity = Super Rare
+
+Firebird
+Power Level: 200
+Rarity = Rare
+
+Firelord
+Power Level: 318
+Rarity = Super Rare
+
+Firestar
+Power Level: 238
+Rarity = Rare
+
+Firestorm
+Power Level: 317
+Rarity = Super Rare
+
+Firestorm
+Power Level: 356
+Rarity = Super Rare
+
+Flash
+Power Level: 291
+Rarity = Rare
+
+Flash II
+Power Level: 396
+Rarity = Super Rare
+
+Flash III
+Power Level: 333
+Rarity = Super Rare
+
+Flash IV
+Power Level: 305
+Rarity = Super Rare
+
+Forge
+Power Level: 138
+Rarity = Uncommon
+
+Franklin Richards
+Power Level: 353
+Rarity = Super Rare
+
+Franklin Storm
+Power Level: 50
+Rarity = Common
+
+Frenzy
+Power Level: 289
+Rarity = Rare
+
+Galactus
+Power Level: 483
+Rarity = Omega Rare
+
+Gambit
+Power Level: 179
+Rarity = Uncommon
+
+Gamora
+Power Level: 340
+Rarity = Super Rare
+
+General Zod
+Power Level: 490
+Rarity = Omega Rare
+
+Ghost Rider
+Power Level: 330
+Rarity = Super Rare
+
+Giganta
+Power Level: 310
+Rarity = Super Rare
+
+Gladiator
+Power Level: 427
+Rarity = Omega Rare
+
+Goblin Queen
+Power Level: 201
+Rarity = Rare
+
+Gog
+Power Level: 242
+Rarity = Rare
+
+Gorilla Grodd
+Power Level: 337
+Rarity = Super Rare
+
+Gravity
+Power Level: 224
+Rarity = Rare
+
+Green Arrow
+Power Level: 195
+Rarity = Uncommon
+
+Green Goblin
+Power Level: 294
+Rarity = Rare
+
+Green Goblin II
+Power Level: 261
+Rarity = Rare
+
+Groot
+Power Level: 363
+Rarity = Super Rare
+
+Guy Gardner
+Power Level: 345
+Rarity = Super Rare
+
+Hal Jordan
+Power Level: 414
+Rarity = Omega Rare
+
+Harley Quinn
+Power Level: 253
+Rarity = Rare
+
+Havok
+Power Level: 229
+Rarity = Rare
+
+Hawk
+Power Level: 249
+Rarity = Rare
+
+Hawkeye
+Power Level: 128
+Rarity = Uncommon
+
+Hawkeye II
+Power Level: 98
+Rarity = Common
+
+Hawkgirl
+Power Level: 326
+Rarity = Super Rare
+
+Heat Wave
+Power Level: 137
+Rarity = Uncommon
+
+Hela
+Power Level: 409
+Rarity = Omega Rare
+
+Hellboy
+Power Level: 305
+Rarity = Super Rare
+
+Hellcat
+Power Level: 198
+Rarity = Uncommon
+
+Hercules
+Power Level: 383
+Rarity = Super Rare
+
+Hit-Girl
+Power Level: 139
+Rarity = Uncommon
+
+Hope Summers
+Power Level: 210
+Rarity = Rare
+
+Hulk
+Power Level: 449
+Rarity = Omega Rare
+
+Human Torch
+Power Level: 294
+Rarity = Rare
+
+Huntress
+Power Level: 164
+Rarity = Uncommon
+
+Husk
+Power Level: 287
+Rarity = Rare
+
+Hybrid
+Power Level: 359
+Rarity = Super Rare
+
+Hydro-Man
+Power Level: 222
+Rarity = Rare
+
+Hyperion
+Power Level: 470
+Rarity = Omega Rare
+
+Iceman
+Power Level: 348
+Rarity = Super Rare
+
+Impulse
+Power Level: 294
+Rarity = Rare
+
+Indigo
+Power Level: 338
+Rarity = Super Rare
+
+Ink
+Power Level: 196
+Rarity = Uncommon
+
+Invisible Woman
+Power Level: 303
+Rarity = Super Rare
+
+Iron Fist
+Power Level: 308
+Rarity = Super Rare
+
+Iron Man
+Power Level: 428
+Rarity = Omega Rare
+
+Iron Monger
+Power Level: 323
+Rarity = Super Rare
+
+Isis
+Power Level: 294
+Rarity = Rare
+
+Jack of Hearts
+Power Level: 325
+Rarity = Super Rare
+
+Jack-Jack
+Power Level: 287
+Rarity = Rare
+
+Jean Grey
+Power Level: 307
+Rarity = Super Rare
+
+Jennifer Kale
+Power Level: 236
+Rarity = Rare
+
+Jessica Cruz
+Power Level: 342
+Rarity = Super Rare
+
+Jessica Jones
+Power Level: 238
+Rarity = Rare
+
+John Constantine
+Power Level: 175
+Rarity = Uncommon
+
+John Wraith
+Power Level: 237
+Rarity = Rare
+
+Joker
+Power Level: 225
+Rarity = Rare
+
+Jolt
+Power Level: 165
+Rarity = Uncommon
+
+Jubilee
+Power Level: 172
+Rarity = Uncommon
+
+Juggernaut
+Power Level: 371
+Rarity = Super Rare
+
+Junkpile
+Power Level: 276
+Rarity = Rare
+
+Justice
+Power Level: 218
+Rarity = Rare
+
+Kang
+Power Level: 376
+Rarity = Super Rare
+
+Kevin 11
+Power Level: 158
+Rarity = Uncommon
+
+Kick-Ass
+Power Level: 128
+Rarity = Uncommon
+
+Kid Flash
+Power Level: 183
+Rarity = Uncommon
+
+Killer Croc
+Power Level: 250
+Rarity = Rare
+
+Killer Frost
+Power Level: 205
+Rarity = Rare
+
+Kilowog
+Power Level: 366
+Rarity = Super Rare
+
+King Shark
+Power Level: 364
+Rarity = Super Rare
+
+Kingpin
+Power Level: 171
+Rarity = Uncommon
+
+Klaw
+Power Level: 296
+Rarity = Rare
+
+Kraven II
+Power Level: 178
+Rarity = Uncommon
+
+Kraven the Hunter
+Power Level: 197
+Rarity = Uncommon
+
+Krypto
+Power Level: 361
+Rarity = Super Rare
+
+Kyle Rayner
+Power Level: 369
+Rarity = Super Rare
+
+Lady Deathstrike
+Power Level: 266
+Rarity = Rare
+
+Leader
+Power Level: 195
+Rarity = Uncommon
+
+Leech
+Power Level: 118
+Rarity = Uncommon
+
+Legion
+Power Level: 322
+Rarity = Super Rare
+
+Leonardo
+Power Level: 265
+Rarity = Rare
+
+Lex Luthor
+Power Level: 311
+Rarity = Super Rare
+
+Light Lass
+Power Level: 178
+Rarity = Uncommon
+
+Lightning Lad
+Power Level: 159
+Rarity = Uncommon
+
+Lightning Lord
+Power Level: 185
+Rarity = Uncommon
+
+Living Brain
+Power Level: 250
+Rarity = Rare
+
+Living Tribunal
+Power Level: 500
+Rarity = Omega Rare
+
+Lizard
+Power Level: 261
+Rarity = Rare
+
+Lobo
+Power Level: 448
+Rarity = Omega Rare
+
+Loki
+Power Level: 382
+Rarity = Super Rare
+
+Longshot
+Power Level: 168
+Rarity = Uncommon
+
+Luke Cage
+Power Level: 281
+Rarity = Rare
+
+Luna
+Power Level: 194
+Rarity = Uncommon
+
+Mach-IV
+Power Level: 315
+Rarity = Super Rare
+
+Machine Man
+Power Level: 265
+Rarity = Rare
+
+Magneto
+Power Level: 370
+Rarity = Super Rare
+
+Magog
+Power Level: 251
+Rarity = Rare
+
+Magus
+Power Level: 457
+Rarity = Omega Rare
+
+Man of Miracles
+Power Level: 500
+Rarity = Omega Rare
+
+Man-Bat
+Power Level: 209
+Rarity = Rare
+
+Man-Thing
+Power Level: 290
+Rarity = Rare
+
+Man-Wolf
+Power Level: 229
+Rarity = Rare
+
+Mandarin
+Power Level: 279
+Rarity = Rare
+
+Mantis
+Power Level: 284
+Rarity = Rare
+
+Martian Manhunter
+Power Level: 487
+Rarity = Omega Rare
+
+Marvel Girl
+Power Level: 337
+Rarity = Super Rare
+
+Match
+Power Level: 438
+Rarity = Omega Rare
+
+Maverick
+Power Level: 187
+Rarity = Uncommon
+
+Maxima
+Power Level: 337
+Rarity = Super Rare
+
+Medusa
+Power Level: 251
+Rarity = Rare
+
+Meltdown
+Power Level: 164
+Rarity = Uncommon
+
+Mephisto
+Power Level: 403
+Rarity = Omega Rare
+
+Mera
+Power Level: 349
+Rarity = Super Rare
+
+Metallo
+Power Level: 332
+Rarity = Super Rare
+
+Metron
+Power Level: 301
+Rarity = Super Rare
+
+Michelangelo
+Power Level: 251
+Rarity = Rare
+
+Micro Lad
+Power Level: 165
+Rarity = Uncommon
+
+Mimic
+Power Level: 312
+Rarity = Super Rare
+
+Misfit
+Power Level: 289
+Rarity = Rare
+
+Miss Martian
+Power Level: 406
+Rarity = Omega Rare
+
+Mister Fantastic
+Power Level: 231
+Rarity = Rare
+
+Mister Freeze
+Power Level: 226
+Rarity = Rare
+
+Mister Knife
+Power Level: 145
+Rarity = Uncommon
+
+Mister Mxyzptlk
+Power Level: 485
+Rarity = Omega Rare
+
+Mister Sinister
+Power Level: 384
+Rarity = Super Rare
+
+Mister Zsasz
+Power Level: 189
+Rarity = Uncommon
+
+Mockingbird
+Power Level: 212
+Rarity = Rare
+
+MODOK
+Power Level: 247
+Rarity = Rare
+
+Molten Man
+Power Level: 283
+Rarity = Rare
+
+Moon Knight
+Power Level: 179
+Rarity = Uncommon
+
+Moonstone
+Power Level: 296
+Rarity = Rare
+
+Morlun
+Power Level: 274
+Rarity = Rare
+
+Moses Magnum
+Power Level: 212
+Rarity = Rare
+
+Mr Immortal
+Power Level: 237
+Rarity = Rare
+
+Mr Incredible
+Power Level: 290
+Rarity = Rare
+
+Ms Marvel II
+Power Level: 219
+Rarity = Rare
+
+Multiple Man
+Power Level: 195
+Rarity = Uncommon
+
+Mysterio
+Power Level: 230
+Rarity = Rare
+
+Mystique
+Power Level: 238
+Rarity = Rare
+
+Namor
+Power Level: 365
+Rarity = Super Rare
+
+Namora
+Power Level: 267
+Rarity = Rare
+
+Namorita
+Power Level: 276
+Rarity = Rare
+
+Nebula
+Power Level: 220
+Rarity = Rare
+
+Negasonic Teenage Warhead
+Power Level: 120
+Rarity = Uncommon
+
+Nick Fury
+Power Level: 176
+Rarity = Uncommon
+
+Nightcrawler
+Power Level: 197
+Rarity = Uncommon
+
+Nightwing
+Power Level: 196
+Rarity = Uncommon
+
+Northstar
+Power Level: 272
+Rarity = Rare
+
+Nova
+Power Level: 460
+Rarity = Omega Rare
+
+Nova
+Power Level: 423
+Rarity = Omega Rare
+
+Odin
+Power Level: 445
+Rarity = Omega Rare
+
+Offspring
+Power Level: 294
+Rarity = Rare
+
+One-Above-All
+Power Level: 500
+Rarity = Omega Rare
+
+Onslaught
+Power Level: 421
+Rarity = Omega Rare
+
+Oracle
+Power Level: 156
+Rarity = Uncommon
+
+Osiris
+Power Level: 380
+Rarity = Super Rare
+
+Ozymandias
+Power Level: 220
+Rarity = Rare
+
+Parademon
+Power Level: 157
+Rarity = Uncommon
+
+Penguin
+Power Level: 155
+Rarity = Uncommon
+
+Phantom Girl
+Power Level: 152
+Rarity = Uncommon
+
+Phoenix
+Power Level: 483
+Rarity = Omega Rare
+
+Plantman
+Power Level: 264
+Rarity = Rare
+
+Plastic Man
+Power Level: 336
+Rarity = Super Rare
+
+Plastique
+Power Level: 171
+Rarity = Uncommon
+
+Poison Ivy
+Power Level: 256
+Rarity = Rare
+
+Polaris
+Power Level: 328
+Rarity = Super Rare
+
+Power Girl
+Power Level: 494
+Rarity = Omega Rare
+
+Predator
+Power Level: 303
+Rarity = Super Rare
+
+Professor X
+Power Level: 234
+Rarity = Rare
+
+Professor Zoom
+Power Level: 307
+Rarity = Super Rare
+
+Psylocke
+Power Level: 261
+Rarity = Rare
+
+Punisher
+Power Level: 193
+Rarity = Uncommon
+
+Purple Man
+Power Level: 196
+Rarity = Uncommon
+
+Pyro
+Power Level: 128
+Rarity = Uncommon
+
+Question
+Power Level: 177
+Rarity = Uncommon
+
+Quicksilver
+Power Level: 332
+Rarity = Super Rare
+
+Quill
+Power Level: 97
+Rarity = Common
+
+Ra's Al Ghul
+Power Level: 229
+Rarity = Rare
+
+Raphael
+Power Level: 254
+Rarity = Rare
+
+Raven
+Power Level: 243
+Rarity = Rare
+
+Ray
+Power Level: 352
+Rarity = Super Rare
+
+Red Arrow
+Power Level: 147
+Rarity = Uncommon
+
+Red Hood
+Power Level: 173
+Rarity = Uncommon
+
+Red Hulk
+Power Level: 364
+Rarity = Super Rare
+
+Red Mist
+Power Level: 92
+Rarity = Common
+
+Red Robin
+Power Level: 180
+Rarity = Uncommon
+
+Red Skull
+Power Level: 130
+Rarity = Uncommon
+
+Red Tornado
+Power Level: 340
+Rarity = Super Rare
+
+Rhino
+Power Level: 274
+Rarity = Rare
+
+Rick Flag
+Power Level: 169
+Rarity = Uncommon
+
+Riddler
+Power Level: 146
+Rarity = Uncommon
+
+Rip Hunter
+Power Level: 226
+Rarity = Rare
+
+Robin
+Power Level: 186
+Rarity = Uncommon
+
+Robin II
+Power Level: 169
+Rarity = Uncommon
+
+Robin III
+Power Level: 176
+Rarity = Uncommon
+
+Robin V
+Power Level: 155
+Rarity = Uncommon
+
+Robin VI
+Power Level: 120
+Rarity = Uncommon
+
+Rocket Raccoon
+Power Level: 134
+Rarity = Uncommon
+
+Rogue
+Power Level: 205
+Rarity = Rare
+
+Ronin
+Power Level: 112
+Rarity = Uncommon
+
+Rorschach
+Power Level: 157
+Rarity = Uncommon
+
+Sabretooth
+Power Level: 282
+Rarity = Rare
+
+Sage
+Power Level: 139
+Rarity = Uncommon
+
+Sandman
+Power Level: 355
+Rarity = Super Rare
+
+Sasquatch
+Power Level: 249
+Rarity = Rare
+
+Savage Dragon
+Power Level: 338
+Rarity = Super Rare
+
+Scarecrow
+Power Level: 165
+Rarity = Uncommon
+
+Scarlet Spider
+Power Level: 308
+Rarity = Super Rare
+
+Scarlet Spider II
+Power Level: 280
+Rarity = Rare
+
+Scarlet Witch
+Power Level: 309
+Rarity = Super Rare
+
+Scorpia
+Power Level: 170
+Rarity = Uncommon
+
+Scorpion
+Power Level: 296
+Rarity = Rare
+
+Sebastian Shaw
+Power Level: 291
+Rarity = Rare
+
+Sentry
+Power Level: 459
+Rarity = Omega Rare
+
+Shadow King
+Power Level: 314
+Rarity = Super Rare
+
+Shadow Lass
+Power Level: 239
+Rarity = Rare
+
+Shadowcat
+Power Level: 211
+Rarity = Rare
+
+Shang-Chi
+Power Level: 184
+Rarity = Uncommon
+
+Shatterstar
+Power Level: 269
+Rarity = Rare
+
+She-Hulk
+Power Level: 363
+Rarity = Super Rare
+
+She-Thing
+Power Level: 265
+Rarity = Rare
+
+Shocker
+Power Level: 245
+Rarity = Rare
+
+Shriek
+Power Level: 156
+Rarity = Uncommon
+
+Sif
+Power Level: 400
+Rarity = Omega Rare
+
+Silk
+Power Level: 335
+Rarity = Super Rare
+
+Silver Surfer
+Power Level: 446
+Rarity = Omega Rare
+
+Silverclaw
+Power Level: 189
+Rarity = Uncommon
+
+Simon Baz
+Power Level: 343
+Rarity = Super Rare
+
+Sinestro
+Power Level: 377
+Rarity = Super Rare
+
+Siren
+Power Level: 349
+Rarity = Super Rare
+
+Siryn
+Power Level: 171
+Rarity = Uncommon
+
+Skaar
+Power Level: 321
+Rarity = Super Rare
+
+Snowbird
+Power Level: 221
+Rarity = Rare
+
+Sobek
+Power Level: 173
+Rarity = Uncommon
+
+Solomon Grundy
+Power Level: 307
+Rarity = Super Rare
+
+Songbird
+Power Level: 235
+Rarity = Rare
+
+Space Ghost
+Power Level: 224
+Rarity = Rare
+
+Spawn
+Power Level: 375
+Rarity = Super Rare
+
+Spectre
+Power Level: 488
+Rarity = Omega Rare
+
+Speedy
+Power Level: 135
+Rarity = Uncommon
+
+Spider-Girl
+Power Level: 279
+Rarity = Rare
+
+Spider-Gwen
+Power Level: 329
+Rarity = Super Rare
+
+Spider-Man
+Power Level: 361
+Rarity = Super Rare
+
+Spider-Woman
+Power Level: 268
+Rarity = Rare
+
+Spider-Woman III
+Power Level: 227
+Rarity = Rare
+
+Spyke
+Power Level: 187
+Rarity = Uncommon
+
+Star-Lord
+Power Level: 197
+Rarity = Uncommon
+
+Stardust
+Power Level: 483
+Rarity = Omega Rare
+
+Starfire
+Power Level: 307
+Rarity = Super Rare
+
+Stargirl
+Power Level: 345
+Rarity = Super Rare
+
+Static
+Power Level: 259
+Rarity = Rare
+
+Steel
+Power Level: 370
+Rarity = Super Rare
+
+Steppenwolf
+Power Level: 477
+Rarity = Omega Rare
+
+Storm
+Power Level: 250
+Rarity = Rare
+
+Sunspot
+Power Level: 276
+Rarity = Rare
+
+Superboy
+Power Level: 438
+Rarity = Omega Rare
+
+Superboy-Prime
+Power Level: 494
+Rarity = Omega Rare
+
+Supergirl
+Power Level: 494
+Rarity = Omega Rare
+
+Superman
+Power Level: 494
+Rarity = Omega Rare
+
+Swamp Thing
+Power Level: 408
+Rarity = Omega Rare
+
+Swarm
+Power Level: 271
+Rarity = Rare
+
+Synch
+Power Level: 267
+Rarity = Rare
+
+T-1000
+Power Level: 342
+Rarity = Super Rare
+
+T-800
+Power Level: 259
+Rarity = Rare
+
+T-850
+Power Level: 353
+Rarity = Super Rare
+
+T-X
+Power Level: 352
+Rarity = Super Rare
+
+Taskmaster
+Power Level: 220
+Rarity = Rare
+
+Tempest
+Power Level: 187
+Rarity = Uncommon
+
+Thanos
+Power Level: 433
+Rarity = Omega Rare
+
+The Comedian
+Power Level: 116
+Rarity = Uncommon
+
+Thing
+Power Level: 318
+Rarity = Super Rare
+
+Thor
+Power Level: 452
+Rarity = Omega Rare
+
+Thor Girl
+Power Level: 412
+Rarity = Omega Rare
+
+Thunderbird
+Power Level: 154
+Rarity = Uncommon
+
+Thunderstrike
+Power Level: 339
+Rarity = Super Rare
+
+Thundra
+Power Level: 241
+Rarity = Rare
+
+Tiger Shark
+Power Level: 277
+Rarity = Rare
+
+Tigra
+Power Level: 219
+Rarity = Rare
+
+Tinkerer
+Power Level: 157
+Rarity = Uncommon
+
+Toad
+Power Level: 268
+Rarity = Rare
+
+Toxin
+Power Level: 365
+Rarity = Super Rare
+
+Toxin
+Power Level: 379
+Rarity = Super Rare
+
+Triplicate Girl
+Power Level: 182
+Rarity = Uncommon
+
+Triton
+Power Level: 269
+Rarity = Rare
+
+Two-Face
+Power Level: 133
+Rarity = Uncommon
+
+Ultragirl
+Power Level: 270
+Rarity = Rare
+
+
+Ultron
+Power Level: 413
+Rarity = Omega Rare
+
+Utgard-Loki
+Power Level: 322
+Rarity = Super Rare
+
+Vanisher
+Power Level: 265
+Rarity = Rare
+
+Venom
+Power Level: 367
+Rarity = Super Rare
+
+Venom II
+Power Level: 278
+Rarity = Rare
+
+Venom III
+Power Level: 334
+Rarity = Super Rare
+
+Venompool
+Power Level: 389
+Rarity = Super Rare
+
+Vibe
+Power Level: 206
+Rarity = Rare
+
+Vindicator
+Power Level: 301
+Rarity = Super Rare
+
+Violet Parr
+Power Level: 207
+Rarity = Rare
+
+Vision
+Power Level: 421
+Rarity = Omega Rare
+
+Vixen
+Power Level: 250
+Rarity = Rare
+
+Vulture
+Power Level: 190
+Rarity = Uncommon
+
+Walrus
+Power Level: 147
+Rarity = Uncommon
+
+War Machine
+Power Level: 406
+Rarity = Omega Rare
+
+Warlock
+Power Level: 369
+Rarity = Super Rare
+
+Warp
+Power Level: 184
+Rarity = Uncommon
+
+Warpath
+Power Level: 253
+Rarity = Rare
+
+Wasp
+Power Level: 219
+Rarity = Rare
+
+Watcher
+Power Level: 436
+Rarity = Omega Rare
+
+White Canary
+Power Level: 167
+Rarity = Uncommon
+
+Wildfire
+Power Level: 282
+Rarity = Rare
+
+Winter Soldier
+Power Level: 248
+Rarity = Rare
+
+Wolfsbane
+Power Level: 157
+Rarity = Uncommon
+
+Wolverine
+Power Level: 334
+Rarity = Super Rare
+
+Wonder Girl
+Power Level: 309
+Rarity = Super Rare
+
+Wonder Man
+Power Level: 382
+Rarity = Super Rare
+
+Wonder Woman
+Power Level: 467
+Rarity = Omega Rare
+
+Wyatt Wingfoot
+Power Level: 34
+Rarity = Super Rare
+
+X-23
+Power Level: 296
+Rarity = Rare
+
+X-Man
+Power Level: 389
+Rarity = Super Rare
+
+Yellowjacket
+Power Level: 150
+Rarity = Uncommon
+
+Yellowjacket II
+Power Level: 154
+Rarity = Uncommon
+
+Ymir
+Power Level: 375
+Rarity = Super Rare
+
+Zatanna
+Power Level: 242
+Rarity = Rare
+
+Zoom
+Power Level: 288
+Rarity = Rare

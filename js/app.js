@@ -42,18 +42,19 @@ var data = {
       },
       "work": {
         "occupation": "Musician, adventurer, author; formerly talk show host",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
         "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/1-a-bomb.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/1-a-bomb.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg"
-      }
+        "xs": "images/characters/xs/1-a-bomb.jpg",
+        "sm": "images/characters/sm/1-a-bomb.jpg",
+        "md": "images/characters/md/1-a-bomb.jpg",
+        "lg": "images/characters/lg/1-a-bomb.jpg"
+      },
+      "rarity": "rare"
     },
     {
       "id": 2,
@@ -89,24 +90,24 @@ var data = {
           "Abraham Sapien",
           "Langdon Caul"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Hellboy: Seed of Destruction (1993)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Paranormal Investigator",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Bureau for Paranormal Research and Defense",
         "relatives": "Edith Howard (wife, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/2-abe-sapien.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/2-abe-sapien.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/2-abe-sapien.jpg"
+        "xs": "images/characters/xs/2-abe-sapien.jpg",
+        "sm": "images/characters/sm/2-abe-sapien.jpg",
+        "md": "images/characters/md/2-abe-sapien.jpg",
+        "lg": "images/characters/lg/2-abe-sapien.jpg"
       }
     },
     {
@@ -155,10 +156,10 @@ var data = {
         "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/3-abin-sur.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/3-abin-sur.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg"
+        "xs": "images/characters/xs/3-abin-sur.jpg",
+        "sm": "images/characters/sm/3-abin-sur.jpg",
+        "md": "images/characters/md/3-abin-sur.jpg",
+        "lg": "images/characters/lg/3-abin-sur.jpg"
       }
     },
     {
@@ -208,10 +209,10 @@ var data = {
         "relatives": "Nadia Dornova Blonsky (wife, separated)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/4-abomination.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg"
+        "xs": "images/characters/xs/4-abomination.jpg",
+        "sm": "images/characters/sm/4-abomination.jpg",
+        "md": "images/characters/md/4-abomination.jpg",
+        "lg": "images/characters/lg/4-abomination.jpg"
       }
     },
     {
@@ -230,7 +231,7 @@ var data = {
         "gender": "Male",
         "race": "Cosmic Entity",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -244,7 +245,7 @@ var data = {
         "fullName": "Abraxas",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Within Eternity",
         "firstAppearance": "Fantastic Four Annual #2001",
@@ -253,17 +254,17 @@ var data = {
       },
       "work": {
         "occupation": "Dimensional destroyer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Cosmic Beings",
         "relatives": "Eternity (\"Father\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/5-abraxas.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/5-abraxas.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/5-abraxas.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/5-abraxas.jpg"
+        "xs": "images/characters/xs/5-abraxas.jpg",
+        "sm": "images/characters/sm/5-abraxas.jpg",
+        "md": "images/characters/md/5-abraxas.jpg",
+        "lg": "images/characters/lg/5-abraxas.jpg"
       }
     },
     {
@@ -310,17 +311,17 @@ var data = {
       },
       "work": {
         "occupation": "Professional criminal; former professional boxer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Masters of Evil, Lethal Legion; formerly Worthy, Frightful Four: former agent of Loki and They Who Wield Power",
         "relatives": "Mary MacPherran (Titania) (wife); Jerry Sledge (son); Rockwell \"Rocky\" Davis (Hi-Llite) (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/6-absorbing-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/6-absorbing-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/6-absorbing-man.jpg"
+        "xs": "images/characters/xs/6-absorbing-man.jpg",
+        "sm": "images/characters/sm/6-absorbing-man.jpg",
+        "md": "images/characters/md/6-absorbing-man.jpg",
+        "lg": "images/characters/lg/6-absorbing-man.jpg"
       }
     },
     {
@@ -370,10 +371,10 @@ var data = {
         "relatives": "Alanna Strange (wife); Aleea Strange (daughter); Sardath (father-in-law); Janey Strange (sister); Todd Strange (brother, deceased); Bantteir (mother-in-law); Adam Strange II (descendent)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/8-adam-strange.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/8-adam-strange.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/8-adam-strange.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/8-adam-strange.jpg"
+        "xs": "images/characters/xs/8-adam-strange.jpg",
+        "sm": "images/characters/sm/8-adam-strange.jpg",
+        "md": "images/characters/md/8-adam-strange.jpg",
+        "lg": "images/characters/lg/8-adam-strange.jpg"
       }
     },
     {
@@ -411,7 +412,7 @@ var data = {
           "Bob",
           "agent of A.I.M"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Cable & Deadpool #38 (May, 2007)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -425,10 +426,10 @@ var data = {
         "relatives": "Allison (ex-wife); Terry and Howie (sons)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/10-agent-bob.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/10-agent-bob.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/10-agent-bob.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/10-agent-bob.jpg"
+        "xs": "images/characters/xs/10-agent-bob.jpg",
+        "sm": "images/characters/sm/10-agent-bob.jpg",
+        "md": "images/characters/md/10-agent-bob.jpg",
+        "lg": "images/characters/lg/10-agent-bob.jpg"
       }
     },
     {
@@ -454,8 +455,8 @@ var data = {
           "230 lb",
           "104 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Christoph Nord",
@@ -464,23 +465,23 @@ var data = {
           "Maverick"
         ],
         "placeOfBirth": "Unrevealed location in former East Germany",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mercenary, former government operative, freedom fighter",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Weapon X, Weapon Plus, Team X, Cell Six, former bodyguard of Psi-Borg, former agent of Major Barrington",
         "relatives": "Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/11-agent-zero.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/11-agent-zero.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/11-agent-zero.jpg"
+        "xs": "images/characters/xs/11-agent-zero.jpg",
+        "sm": "images/characters/sm/11-agent-zero.jpg",
+        "md": "images/characters/md/11-agent-zero.jpg",
+        "lg": "images/characters/lg/11-agent-zero.jpg"
       }
     },
     {
@@ -513,7 +514,7 @@ var data = {
         "fullName": "Gabriel Lan",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Xandar, a planet in the Tranta system, Andromeda galaxy",
         "firstAppearance": "Fantastic Four #120",
@@ -522,17 +523,17 @@ var data = {
       },
       "work": {
         "occupation": "Former starship captain, Herald of Galactus",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Former member of Nova Corps, Heralds of Galactus",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/12-air-walker.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/12-air-walker.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/12-air-walker.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg"
+        "xs": "images/characters/xs/12-air-walker.jpg",
+        "sm": "images/characters/sm/12-air-walker.jpg",
+        "md": "images/characters/md/12-air-walker.jpg",
+        "lg": "images/characters/lg/12-air-walker.jpg"
       }
     },
     {
@@ -569,24 +570,24 @@ var data = {
           "the A-Man",
           "the Attending"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Deadpool #14 (March, 1998)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Weapon X",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/13-ajax.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/13-ajax.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/13-ajax.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg"
+        "xs": "images/characters/xs/13-ajax.jpg",
+        "sm": "images/characters/sm/13-ajax.jpg",
+        "md": "images/characters/md/13-ajax.jpg",
+        "lg": "images/characters/lg/13-ajax.jpg"
       }
     },
     {
@@ -629,7 +630,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City and New York City; Formerly Capitol City"
       },
       "connections": {
@@ -637,10 +638,10 @@ var data = {
         "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/14-alan-scott.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/14-alan-scott.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/14-alan-scott.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg"
+        "xs": "images/characters/xs/14-alan-scott.jpg",
+        "sm": "images/characters/sm/14-alan-scott.jpg",
+        "md": "images/characters/md/14-alan-scott.jpg",
+        "lg": "images/characters/lg/14-alan-scott.jpg"
       }
     },
     {
@@ -675,7 +676,7 @@ var data = {
         "aliases": [
           "Alfred Beagle"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #16 (April, 1943)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -689,10 +690,10 @@ var data = {
         "relatives": "Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/17-alfred-pennyworth.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/17-alfred-pennyworth.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/17-alfred-pennyworth.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/17-alfred-pennyworth.jpg"
+        "xs": "images/characters/xs/17-alfred-pennyworth.jpg",
+        "sm": "images/characters/sm/17-alfred-pennyworth.jpg",
+        "md": "images/characters/md/17-alfred-pennyworth.jpg",
+        "lg": "images/characters/lg/17-alfred-pennyworth.jpg"
       }
     },
     {
@@ -718,14 +719,14 @@ var data = {
           "375 lb",
           "169 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "unknown",
         "hairColor": "No Hair"
       },
       "biography": {
         "fullName": "Xenomorph",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Your chest :)",
         "firstAppearance": "Alien (1979)",
@@ -733,18 +734,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Alien Queen (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/18-alien.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/18-alien.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/18-alien.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/18-alien.jpg"
+        "xs": "images/characters/xs/18-alien.jpg",
+        "sm": "images/characters/sm/18-alien.jpg",
+        "md": "images/characters/md/18-alien.jpg",
+        "lg": "images/characters/lg/18-alien.jpg"
       }
     },
     {
@@ -771,7 +772,7 @@ var data = {
           "173 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -782,24 +783,24 @@ var data = {
           "Humazo",
           "Hourmazo"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Brave and the Bold #30 (July, 1960)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly the Secret Society of Super Villains",
         "relatives": "Professor Ivo (creator), Kid Amazo (cyborg offspring)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/20-amazo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/20-amazo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/20-amazo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/20-amazo.jpg"
+        "xs": "images/characters/xs/20-amazo.jpg",
+        "sm": "images/characters/sm/20-amazo.jpg",
+        "md": "images/characters/md/20-amazo.jpg",
+        "lg": "images/characters/lg/20-amazo.jpg"
       }
     },
     {
@@ -818,15 +819,15 @@ var data = {
         "gender": "Male",
         "race": "Vampire",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Liam",
@@ -835,24 +836,24 @@ var data = {
           "Angelus",
           "Twilight"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Kathy (sister), Connor (son), Twilight (\"child\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/23-angel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/23-angel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/23-angel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/23-angel.jpg"
+        "xs": "images/characters/xs/23-angel.jpg",
+        "sm": "images/characters/sm/23-angel.jpg",
+        "md": "images/characters/md/23-angel.jpg",
+        "lg": "images/characters/lg/23-angel.jpg"
       }
     },
     {
@@ -898,17 +899,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men, Mutantes Sans Fronti?res, Hellfire Club; formerly Secret Defenders, X-Factor/X-Terminators, Horsemen of Apocalypse, Defenders, Death's champions, Champions of Los Angeles",
         "relatives": "Warren Kenneth Worthington Sr. (grandfather, deceased), Warren Kenneth Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burtram \"Burt\" Worthington (Dazzler, paternal uncle), unnamed cousin"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/24-angel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/24-angel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/24-angel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/24-angel.jpg"
+        "xs": "images/characters/xs/24-angel.jpg",
+        "sm": "images/characters/sm/24-angel.jpg",
+        "md": "images/characters/md/24-angel.jpg",
+        "lg": "images/characters/lg/24-angel.jpg"
       }
     },
     {
@@ -944,24 +945,24 @@ var data = {
           "Angel",
           "Dusty"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Morlocks #1",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Chicago, Illinois"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/25-angel-dust.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/25-angel-dust.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/25-angel-dust.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/25-angel-dust.jpg"
+        "xs": "images/characters/xs/25-angel-dust.jpg",
+        "sm": "images/characters/sm/25-angel-dust.jpg",
+        "md": "images/characters/md/25-angel-dust.jpg",
+        "lg": "images/characters/lg/25-angel-dust.jpg"
       }
     },
     {
@@ -996,24 +997,24 @@ var data = {
         "aliases": [
           "Tempest"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New X-Men #118 (November, 2001)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly New Warriors; Special Class",
         "relatives": "Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/26-angel-salvadore.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/26-angel-salvadore.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/26-angel-salvadore.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/26-angel-salvadore.jpg"
+        "xs": "images/characters/xs/26-angel-salvadore.jpg",
+        "sm": "images/characters/sm/26-angel-salvadore.jpg",
+        "md": "images/characters/md/26-angel-salvadore.jpg",
+        "lg": "images/characters/lg/26-angel-salvadore.jpg"
       }
     },
     {
@@ -1048,13 +1049,13 @@ var data = {
         "aliases": [
           "The Human Zoo; A-Man; The Man with Animal Powers"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Strange Adventures #180 (September, 1965)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "San Diego, California"
       },
       "connections": {
@@ -1062,10 +1063,10 @@ var data = {
         "relatives": "Ellen Frazier (wife), Cliff Baker (son), Maxine Baker (daughter), unnamed second daughter, Frank Baker, Jr. (father), Phyllis Baker (mother), unnamed sister, Frank, Sr (grandfather), Teddy (great grandfather), Sherman (great-great grandfather), Jack (great-great-great grandfather), Mary Frazier (mother-in-law), Dudley (uncle-in-law), Annie Cassidy (mother of second daughter), Lucy Cassidy (half-sister of second daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/28-animal-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/28-animal-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/28-animal-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/28-animal-man.jpg"
+        "xs": "images/characters/xs/28-animal-man.jpg",
+        "sm": "images/characters/sm/28-animal-man.jpg",
+        "md": "images/characters/md/28-animal-man.jpg",
+        "lg": "images/characters/lg/28-animal-man.jpg"
       }
     },
     {
@@ -1108,17 +1109,17 @@ var data = {
       },
       "work": {
         "occupation": "Conqueror, scavenger",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Sometime ally of Blastaar",
         "relatives": "Annihilus is a series of clonal scions"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/29-annihilus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/29-annihilus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/29-annihilus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg"
+        "xs": "images/characters/xs/29-annihilus.jpg",
+        "sm": "images/characters/sm/29-annihilus.jpg",
+        "md": "images/characters/md/29-annihilus.jpg",
+        "lg": "images/characters/lg/29-annihilus.jpg"
       }
     },
     {
@@ -1170,13 +1171,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/30-ant-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/30-ant-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg"
+        "xs": "images/characters/xs/30-ant-man.jpg",
+        "sm": "images/characters/sm/30-ant-man.jpg",
+        "md": "images/characters/md/30-ant-man.jpg",
+        "lg": "images/characters/lg/30-ant-man.jpg"
       }
     },
     {
@@ -1226,10 +1227,10 @@ var data = {
         "relatives": "Cassandra Eleanor Lang (daughter), Ruth (sister), Carl (brother-in-law), Peggy Rae (ex-wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/31-ant-man-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/31-ant-man-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/31-ant-man-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/31-ant-man-ii.jpg"
+        "xs": "images/characters/xs/31-ant-man-ii.jpg",
+        "sm": "images/characters/sm/31-ant-man-ii.jpg",
+        "md": "images/characters/md/31-ant-man-ii.jpg",
+        "lg": "images/characters/lg/31-ant-man-ii.jpg"
       }
     },
     {
@@ -1271,7 +1272,7 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Qward, Antimatter Universe"
       },
       "connections": {
@@ -1279,10 +1280,10 @@ var data = {
         "relatives": "Monitor (\"brother\"), The Monitors"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/32-anti-monitor.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/32-anti-monitor.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/32-anti-monitor.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/32-anti-monitor.jpg"
+        "xs": "images/characters/xs/32-anti-monitor.jpg",
+        "sm": "images/characters/sm/32-anti-monitor.jpg",
+        "md": "images/characters/md/32-anti-monitor.jpg",
+        "lg": "images/characters/lg/32-anti-monitor.jpg"
       }
     },
     {
@@ -1332,14 +1333,14 @@ var data = {
         "base": "New York, New York"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Toxin Symbiote (current symbiote, former grandson), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/34-anti-venom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/34-anti-venom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/34-anti-venom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/34-anti-venom.jpg"
+        "xs": "images/characters/xs/34-anti-venom.jpg",
+        "sm": "images/characters/sm/34-anti-venom.jpg",
+        "md": "images/characters/md/34-anti-venom.jpg",
+        "lg": "images/characters/lg/34-anti-venom.jpg"
       }
     },
     {
@@ -1393,10 +1394,10 @@ var data = {
         "relatives": "Baal of the Crimson Sands (adopted father, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/35-apocalypse.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/35-apocalypse.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/35-apocalypse.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/35-apocalypse.jpg"
+        "xs": "images/characters/xs/35-apocalypse.jpg",
+        "sm": "images/characters/sm/35-apocalypse.jpg",
+        "md": "images/characters/md/35-apocalypse.jpg",
+        "lg": "images/characters/lg/35-apocalypse.jpg"
       }
     },
     {
@@ -1415,7 +1416,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -1429,15 +1430,15 @@ var data = {
         "fullName": "Arthur Curry, Jr.",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Aquaman #23 (October, 1965)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Atlantis"
       },
       "connections": {
@@ -1445,10 +1446,10 @@ var data = {
         "relatives": "Aquaman (Orin/Arthur Curry) (father); Mera (mother); Koryak (half-brother); A.J. (half-brother); Atlan (grandfather); Tom Curry (adoptive grandfather, deceased); Orm Marius (uncle); Kordax (ancestor, deceased); Arthur Joseph Curry (adoptive cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/36-aquababy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/36-aquababy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/36-aquababy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/36-aquababy.jpg"
+        "xs": "images/characters/xs/36-aquababy.jpg",
+        "sm": "images/characters/sm/36-aquababy.jpg",
+        "md": "images/characters/md/36-aquababy.jpg",
+        "lg": "images/characters/lg/36-aquababy.jpg"
       }
     },
     {
@@ -1481,7 +1482,7 @@ var data = {
         "fullName": "Garth",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Poseidonis, Atlantis",
         "firstAppearance": "Adventure Comics #269 (February, 1960)",
@@ -1497,10 +1498,10 @@ var data = {
         "relatives": "Cerdian (son), Dolphin (wife), Berra (mother), Thar (father), Slizzath (uncle) Donna (grand-daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/37-aqualad.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/37-aqualad.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/37-aqualad.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/37-aqualad.jpg"
+        "xs": "images/characters/xs/37-aqualad.jpg",
+        "sm": "images/characters/sm/37-aqualad.jpg",
+        "md": "images/characters/md/37-aqualad.jpg",
+        "lg": "images/characters/lg/37-aqualad.jpg"
       }
     },
     {
@@ -1554,10 +1555,10 @@ var data = {
         "relatives": "Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/38-aquaman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/38-aquaman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/38-aquaman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/38-aquaman.jpg"
+        "xs": "images/characters/xs/38-aquaman.jpg",
+        "sm": "images/characters/sm/38-aquaman.jpg",
+        "md": "images/characters/md/38-aquaman.jpg",
+        "lg": "images/characters/lg/38-aquaman.jpg"
       }
     },
     {
@@ -1607,10 +1608,10 @@ var data = {
         "relatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/39-arachne.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/39-arachne.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/39-arachne.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/39-arachne.jpg"
+        "xs": "images/characters/xs/39-arachne.jpg",
+        "sm": "images/characters/sm/39-arachne.jpg",
+        "md": "images/characters/md/39-arachne.jpg",
+        "lg": "images/characters/lg/39-arachne.jpg"
       }
     },
     {
@@ -1655,17 +1656,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men (founding member); X-Force; Mutantes Sans Fronti?res; Hellfire Club; formerly X-Club (founding member); Death's champions; Secret Defenders; X-Factor/X-Terminators (founding member); Horsemen of Apocalypse; Defenders; Champions of Los Angeles (fou",
         "relatives": "Wallace Worthington (paternal ancestor, deceased), Warren Worthington Sr. (paternal grandfather, deceased), Warren Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burt Worthington (paternal uncle), Mimi (maternal aunt), unnamed distant cousin"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/40-archangel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/40-archangel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/40-archangel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/40-archangel.jpg"
+        "xs": "images/characters/xs/40-archangel.jpg",
+        "sm": "images/characters/sm/40-archangel.jpg",
+        "md": "images/characters/md/40-archangel.jpg",
+        "lg": "images/characters/lg/40-archangel.jpg"
       }
     },
     {
@@ -1698,7 +1699,7 @@ var data = {
         "fullName": "Philippa Sontag",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Vietnam",
         "firstAppearance": "(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",
@@ -1707,17 +1708,17 @@ var data = {
       },
       "work": {
         "occupation": "Terrorist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Marauders formerly, 198, Femizons",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/41-arclight.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/41-arclight.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/41-arclight.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/41-arclight.jpg"
+        "xs": "images/characters/xs/41-arclight.jpg",
+        "sm": "images/characters/sm/41-arclight.jpg",
+        "md": "images/characters/md/41-arclight.jpg",
+        "lg": "images/characters/lg/41-arclight.jpg"
       }
     },
     {
@@ -1750,26 +1751,26 @@ var data = {
         "fullName": "Ardina",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Order #4",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Norrin Radd (Silver Surfer, clonal source), Clea (creator)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/42-ardina.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/42-ardina.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/42-ardina.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/42-ardina.jpg"
+        "xs": "images/characters/xs/42-ardina.jpg",
+        "sm": "images/characters/sm/42-ardina.jpg",
+        "md": "images/characters/md/42-ardina.jpg",
+        "lg": "images/characters/lg/42-ardina.jpg"
       }
     },
     {
@@ -1807,13 +1808,13 @@ var data = {
           "Mars",
           "Warhawk"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Thor #129",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Avengers Tower, formerly Olympus"
       },
       "connections": {
@@ -1821,10 +1822,10 @@ var data = {
         "relatives": "Zeus (father), Hera (mother), Enyo (wife), Deimos, Phobos, Alexander (sons), Neptune, Pluto (uncles), Demeter, Hestia (aunts), Hephaestus (brother), Apollo, Dionysus, Hercules, Hermes(half-brothers), Artemis, Pallas Athena, Venus, (half-sisters)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/43-ares.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/43-ares.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/43-ares.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/43-ares.jpg"
+        "xs": "images/characters/xs/43-ares.jpg",
+        "sm": "images/characters/sm/43-ares.jpg",
+        "md": "images/characters/md/43-ares.jpg",
+        "lg": "images/characters/lg/43-ares.jpg"
       }
     },
     {
@@ -1857,26 +1858,26 @@ var data = {
         "fullName": "Ariel",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Fallen Angels #1 (1987)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Leader, refugee alien; former alien mutant-hunter and hedonist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men, Formerly Fallen Angels",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/44-ariel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/44-ariel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/44-ariel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/44-ariel.jpg"
+        "xs": "images/characters/xs/44-ariel.jpg",
+        "sm": "images/characters/sm/44-ariel.jpg",
+        "md": "images/characters/md/44-ariel.jpg",
+        "lg": "images/characters/lg/44-ariel.jpg"
       }
     },
     {
@@ -1912,24 +1913,24 @@ var data = {
           "X-Girl",
           "Kid"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Astonishing X-Men #4 (2004)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly: Xavier Institute Student Body, New X-Men",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/45-armor.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/45-armor.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/45-armor.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/45-armor.jpg"
+        "xs": "images/characters/xs/45-armor.jpg",
+        "sm": "images/characters/sm/45-armor.jpg",
+        "md": "images/characters/md/45-armor.jpg",
+        "lg": "images/characters/lg/45-armor.jpg"
       }
     },
     {
@@ -1976,17 +1977,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer; former professional criminal, mercenary, dock worker, soldier",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Thunderbolts, formerly Revengers, Defenders (New Jersey Initiative team), Masters of Evil, Maggia, Grim Reaper's Lethal Legion, Mandarin's Minions, Emissaries of Evil; former partner of Citizen V (Dallas Riordan) and Swordsman, Count Nefaria's Lethal Legi",
         "relatives": "Unidentified parents (deceased), Carl (brother, deceased), Conrad (brother), Lindy (sister, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/48-atlas.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/48-atlas.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/48-atlas.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/48-atlas.jpg"
+        "xs": "images/characters/xs/48-atlas.jpg",
+        "sm": "images/characters/sm/48-atlas.jpg",
+        "md": "images/characters/md/48-atlas.jpg",
+        "lg": "images/characters/lg/48-atlas.jpg"
       }
     },
     {
@@ -2028,18 +2029,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Formely; Hyssa, Metropolis"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/49-atlas.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/49-atlas.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/49-atlas.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/49-atlas.jpg"
+        "xs": "images/characters/xs/49-atlas.jpg",
+        "sm": "images/characters/sm/49-atlas.jpg",
+        "md": "images/characters/md/49-atlas.jpg",
+        "lg": "images/characters/lg/49-atlas.jpg"
       }
     },
     {
@@ -2074,24 +2075,24 @@ var data = {
         "aliases": [
           "Shrinking Violet"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "United Planets, 31st century"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/52-atom-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/52-atom-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/52-atom-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/52-atom-girl.jpg"
+        "xs": "images/characters/xs/52-atom-girl.jpg",
+        "sm": "images/characters/sm/52-atom-girl.jpg",
+        "md": "images/characters/md/52-atom-girl.jpg",
+        "lg": "images/characters/lg/52-atom-girl.jpg"
       }
     },
     {
@@ -2128,7 +2129,7 @@ var data = {
           "the Tiny Titan",
           "the World's Smallest Hero"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Showcase #34",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -2142,10 +2143,10 @@ var data = {
         "relatives": "Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/53-atom-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/53-atom-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/53-atom-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/53-atom-ii.jpg"
+        "xs": "images/characters/xs/53-atom-ii.jpg",
+        "sm": "images/characters/sm/53-atom-ii.jpg",
+        "md": "images/characters/md/53-atom-ii.jpg",
+        "lg": "images/characters/lg/53-atom-ii.jpg"
       }
     },
     {
@@ -2194,10 +2195,10 @@ var data = {
         "relatives": "Jean-Baptiste Beaubier (father, deceased), unidentified mother (deceased), Jean-Paul Beaubier (Northstar, twin brother) Joanna Beaubier (adopted niece, deceased); Lois and Genevieve Martin (first cousins once removed/adopted parents, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/56-aurora.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/56-aurora.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/56-aurora.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/56-aurora.jpg"
+        "xs": "images/characters/xs/56-aurora.jpg",
+        "sm": "images/characters/sm/56-aurora.jpg",
+        "md": "images/characters/md/56-aurora.jpg",
+        "lg": "images/characters/lg/56-aurora.jpg"
       }
     },
     {
@@ -2249,14 +2250,14 @@ var data = {
         "base": "Brimstone Dimension; formerly La Isla des Demonas, Bermuda"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/57-azazel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/57-azazel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/57-azazel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/57-azazel.jpg"
+        "xs": "images/characters/xs/57-azazel.jpg",
+        "sm": "images/characters/sm/57-azazel.jpg",
+        "md": "images/characters/md/57-azazel.jpg",
+        "lg": "images/characters/lg/57-azazel.jpg"
       }
     },
     {
@@ -2275,7 +2276,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -2298,17 +2299,17 @@ var data = {
       },
       "work": {
         "occupation": "Former Police Officer, vigilante",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Order of St. Dumas; formerly Gotham City Police Department; Three Ghosts of Batman",
         "relatives": "Mitchell Lane (father; deceased), Barbara Lane (mother; deceased), Marion Lane (brother; deceased), Gwendolyn Lane (sister; deceased), Chante Coles (wife; deceased), Henry Mitchell Lane (son; deceased), Jenny Lane (Sister-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/58-azrael.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/58-azrael.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/58-azrael.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/58-azrael.jpg"
+        "xs": "images/characters/xs/58-azrael.jpg",
+        "sm": "images/characters/sm/58-azrael.jpg",
+        "md": "images/characters/md/58-azrael.jpg",
+        "lg": "images/characters/lg/58-azrael.jpg"
       }
     },
     {
@@ -2334,22 +2335,22 @@ var data = {
           "400 lb",
           "180 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman: Vengeance of Bane #1 (January, 1993)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Santa Prisca"
       },
       "connections": {
@@ -2357,10 +2358,10 @@ var data = {
         "relatives": "King Snake (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/60-bane.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/60-bane.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/60-bane.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/60-bane.jpg"
+        "xs": "images/characters/xs/60-bane.jpg",
+        "sm": "images/characters/sm/60-bane.jpg",
+        "md": "images/characters/md/60-bane.jpg",
+        "lg": "images/characters/lg/60-bane.jpg"
       }
     },
     {
@@ -2409,10 +2410,10 @@ var data = {
         "relatives": "Maeve Rourke Cassidy (wife, deceased), Thomas (Black Tom, cousin), Theresa Rourke (Siryn, daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/61-banshee.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/61-banshee.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/61-banshee.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/61-banshee.jpg"
+        "xs": "images/characters/xs/61-banshee.jpg",
+        "sm": "images/characters/sm/61-banshee.jpg",
+        "md": "images/characters/md/61-banshee.jpg",
+        "lg": "images/characters/lg/61-banshee.jpg"
       }
     },
     {
@@ -2445,26 +2446,26 @@ var data = {
         "fullName": "Roberto Velasquez",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, boxing trainer, former boxer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Captain America, Pro-Registration forces",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/62-bantam.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/62-bantam.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/62-bantam.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/62-bantam.jpg"
+        "xs": "images/characters/xs/62-bantam.jpg",
+        "sm": "images/characters/sm/62-bantam.jpg",
+        "md": "images/characters/md/62-bantam.jpg",
+        "lg": "images/characters/lg/62-bantam.jpg"
       }
     },
     {
@@ -2500,24 +2501,24 @@ var data = {
           "Oracle",
           "Bluebelle"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Detective Comics #359",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City, formerly Metropolis, Platinum Flats"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "James Gordon (father) ? Barbara Eileen (mother) ? James Gordon, Jr. (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/63-batgirl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/63-batgirl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/63-batgirl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/63-batgirl.jpg"
+        "xs": "images/characters/xs/63-batgirl.jpg",
+        "sm": "images/characters/sm/63-batgirl.jpg",
+        "md": "images/characters/md/63-batgirl.jpg",
+        "lg": "images/characters/lg/63-batgirl.jpg"
       }
     },
     {
@@ -2559,7 +2560,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City; Bl?dhaven; Tibet; New York City"
       },
       "connections": {
@@ -2567,10 +2568,10 @@ var data = {
         "relatives": "David Cain (father), Lady Shiva (mother), Carolyn (aunt, deceased), Annalea (sibling, deceased), 'The Mad Dog' (sibling)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/66-batgirl-iv.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/66-batgirl-iv.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/66-batgirl-iv.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/66-batgirl-iv.jpg"
+        "xs": "images/characters/xs/66-batgirl-iv.jpg",
+        "sm": "images/characters/sm/66-batgirl-iv.jpg",
+        "md": "images/characters/md/66-batgirl-iv.jpg",
+        "lg": "images/characters/lg/66-batgirl-iv.jpg"
       }
     },
     {
@@ -2608,7 +2609,7 @@ var data = {
           "Marion Todd",
           "Spoiler"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -2622,10 +2623,10 @@ var data = {
         "relatives": "Arthur Brown (The Cluemaster, father), Crystal Brown (mother), unnamed daughter (given up for adoption)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/68-batgirl-vi.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/68-batgirl-vi.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/68-batgirl-vi.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/68-batgirl-vi.jpg"
+        "xs": "images/characters/xs/68-batgirl-vi.jpg",
+        "sm": "images/characters/sm/68-batgirl-vi.jpg",
+        "md": "images/characters/md/68-batgirl-vi.jpg",
+        "lg": "images/characters/lg/68-batgirl-vi.jpg"
       }
     },
     {
@@ -2670,7 +2671,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "21st Century Gotham City"
       },
       "connections": {
@@ -2678,10 +2679,10 @@ var data = {
         "relatives": "Bruce Wayne (biological father), Warren McGinnis (father, deceased), Mary McGinnis (mother), Matt McGinnis (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/69-batman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/69-batman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/69-batman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/69-batman.jpg"
+        "xs": "images/characters/xs/69-batman.jpg",
+        "sm": "images/characters/sm/69-batman.jpg",
+        "md": "images/characters/md/69-batman.jpg",
+        "lg": "images/characters/lg/69-batman.jpg"
       }
     },
     {
@@ -2731,10 +2732,10 @@ var data = {
         "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/70-batman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/70-batman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/70-batman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/70-batman.jpg"
+        "xs": "images/characters/xs/70-batman.jpg",
+        "sm": "images/characters/sm/70-batman.jpg",
+        "md": "images/characters/md/70-batman.jpg",
+        "lg": "images/characters/lg/70-batman.jpg"
       }
     },
     {
@@ -2769,13 +2770,13 @@ var data = {
         "aliases": [
           "Dick Grayson"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City; formerly Bludhaven, New York City"
       },
       "connections": {
@@ -2783,10 +2784,10 @@ var data = {
         "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/71-batman-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/71-batman-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/71-batman-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/71-batman-ii.jpg"
+        "xs": "images/characters/xs/71-batman-ii.jpg",
+        "sm": "images/characters/sm/71-batman-ii.jpg",
+        "md": "images/characters/md/71-batman-ii.jpg",
+        "lg": "images/characters/lg/71-batman-ii.jpg"
       }
     },
     {
@@ -2828,17 +2829,17 @@ var data = {
       },
       "work": {
         "occupation": "Former wrestler, federal operative",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Wild Pack, Bold Urban Commandos (Buckies), former partner of U.S.Agent, operative of the Commission on Superhuman Activities",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/72-battlestar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/72-battlestar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/72-battlestar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/72-battlestar.jpg"
+        "xs": "images/characters/xs/72-battlestar.jpg",
+        "sm": "images/characters/sm/72-battlestar.jpg",
+        "md": "images/characters/md/72-battlestar.jpg",
+        "lg": "images/characters/lg/72-battlestar.jpg"
       }
     },
     {
@@ -2871,15 +2872,15 @@ var data = {
         "fullName": "Katherine Rebecca Kane",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "52 #7 (June, 2006)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City"
       },
       "connections": {
@@ -2887,10 +2888,10 @@ var data = {
         "relatives": "Jacob Kane (father), Gabi Kane (mother; deceased), Beth Kane (twin sister), Mary Elizabeth \"Bette\" Kane (cousin), Catherine Hamilton-Kane (stepmother), Philip Kane (uncle), Kane Family"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/73-batwoman-v.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/73-batwoman-v.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/73-batwoman-v.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/73-batwoman-v.jpg"
+        "xs": "images/characters/xs/73-batwoman-v.jpg",
+        "sm": "images/characters/sm/73-batwoman-v.jpg",
+        "md": "images/characters/md/73-batwoman-v.jpg",
+        "lg": "images/characters/lg/73-batwoman-v.jpg"
       }
     },
     {
@@ -2944,10 +2945,10 @@ var data = {
         "relatives": "Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/75-beast.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/75-beast.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/75-beast.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/75-beast.jpg"
+        "xs": "images/characters/xs/75-beast.jpg",
+        "sm": "images/characters/sm/75-beast.jpg",
+        "md": "images/characters/md/75-beast.jpg",
+        "lg": "images/characters/lg/75-beast.jpg"
       }
     },
     {
@@ -2988,7 +2989,7 @@ var data = {
           "Tork",
           "Craig Logan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Doom Patrol #99 (November, 1965)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -3002,10 +3003,10 @@ var data = {
         "relatives": "Mark Logan (father, deceased), Marie Logan (mother, deceased), Steve Dayton/Mento (adoptive father), Rita Farr/Elasti-Girl (adoptive mother), Matt Logan (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/76-beast-boy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/76-beast-boy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/76-beast-boy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/76-beast-boy.jpg"
+        "xs": "images/characters/xs/76-beast-boy.jpg",
+        "sm": "images/characters/sm/76-beast-boy.jpg",
+        "md": "images/characters/md/76-beast-boy.jpg",
+        "lg": "images/characters/lg/76-beast-boy.jpg"
       }
     },
     {
@@ -3024,15 +3025,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Benjamin Kirby Tennyson",
@@ -3040,24 +3041,24 @@ var data = {
         "aliases": [
           "Ben Ten"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Ben 10 S01E01",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/78-ben-10.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/78-ben-10.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/78-ben-10.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/78-ben-10.jpg"
+        "xs": "images/characters/xs/78-ben-10.jpg",
+        "sm": "images/characters/sm/78-ben-10.jpg",
+        "md": "images/characters/md/78-ben-10.jpg",
+        "lg": "images/characters/lg/78-ben-10.jpg"
       }
     },
     {
@@ -3083,7 +3084,7 @@ var data = {
           "480 lb",
           "216 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "unknown",
         "hairColor": "No Hair"
       },
       "biography": {
@@ -3104,13 +3105,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "ally of the Asgardians, Thor Corps, Star Masters",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/79-beta-ray-bill.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/79-beta-ray-bill.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/79-beta-ray-bill.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/79-beta-ray-bill.jpg"
+        "xs": "images/characters/xs/79-beta-ray-bill.jpg",
+        "sm": "images/characters/sm/79-beta-ray-bill.jpg",
+        "md": "images/characters/md/79-beta-ray-bill.jpg",
+        "lg": "images/characters/lg/79-beta-ray-bill.jpg"
       }
     },
     {
@@ -3129,15 +3130,15 @@ var data = {
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -3162,17 +3163,17 @@ var data = {
       },
       "work": {
         "occupation": "Former student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Was once in a merged form with the Molecule Man but is no longer merged with him.",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/80-beyonder.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/80-beyonder.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/80-beyonder.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/80-beyonder.jpg"
+        "xs": "images/characters/xs/80-beyonder.jpg",
+        "sm": "images/characters/sm/80-beyonder.jpg",
+        "md": "images/characters/md/80-beyonder.jpg",
+        "lg": "images/characters/lg/80-beyonder.jpg"
       }
     },
     {
@@ -3208,13 +3209,13 @@ var data = {
           "Barda",
           "the Strongest Woman in the World"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Mister Miracle (Volume 1) #4",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City, New Genesis, formerly Apokolips"
       },
       "connections": {
@@ -3222,10 +3223,10 @@ var data = {
         "relatives": "Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/81-big-barda.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/81-big-barda.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/81-big-barda.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/81-big-barda.jpg"
+        "xs": "images/characters/xs/81-big-barda.jpg",
+        "sm": "images/characters/sm/81-big-barda.jpg",
+        "md": "images/characters/md/81-big-barda.jpg",
+        "lg": "images/characters/lg/81-big-barda.jpg"
       }
     },
     {
@@ -3244,40 +3245,40 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Damon Macready",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Kick-Ass #4",
         "publisher": "Icon Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Hit-Girl (daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/82-big-daddy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/82-big-daddy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/82-big-daddy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/82-big-daddy.jpg"
+        "xs": "images/characters/xs/82-big-daddy.jpg",
+        "sm": "images/characters/sm/82-big-daddy.jpg",
+        "md": "images/characters/md/82-big-daddy.jpg",
+        "lg": "images/characters/lg/82-big-daddy.jpg"
       }
     },
     {
@@ -3312,24 +3313,24 @@ var data = {
         "aliases": [
           "Patch"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man # 10 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Reporter, professional criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Daily Bugle, the Enforcers",
         "relatives": "Janice Foswell (daughter), unnamed wife"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/83-big-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/83-big-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/83-big-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/83-big-man.jpg"
+        "xs": "images/characters/xs/83-big-man.jpg",
+        "sm": "images/characters/sm/83-big-man.jpg",
+        "md": "images/characters/md/83-big-man.jpg",
+        "lg": "images/characters/lg/83-big-man.jpg"
       }
     },
     {
@@ -3345,18 +3346,18 @@ var data = {
         "combat": 42
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -3364,24 +3365,24 @@ var data = {
         "aliases": [
           "Bird-Boy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The New Mutants #56 (October, 1987)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "New Mutants, Ani-Mate",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/88-bird-brain.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/88-bird-brain.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/88-bird-brain.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/88-bird-brain.jpg"
+        "xs": "images/characters/xs/88-bird-brain.jpg",
+        "sm": "images/characters/sm/88-bird-brain.jpg",
+        "md": "images/characters/md/88-bird-brain.jpg",
+        "lg": "images/characters/lg/88-bird-brain.jpg"
       }
     },
     {
@@ -3430,10 +3431,10 @@ var data = {
         "relatives": "Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/92-bishop.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/92-bishop.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/92-bishop.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/92-bishop.jpg"
+        "xs": "images/characters/xs/92-bishop.jpg",
+        "sm": "images/characters/sm/92-bishop.jpg",
+        "md": "images/characters/md/92-bishop.jpg",
+        "lg": "images/characters/lg/92-bishop.jpg"
       }
     },
     {
@@ -3466,15 +3467,15 @@ var data = {
         "fullName": "Bizarro",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Superboy Vol. 1 #68 (1958)",
         "publisher": "DC Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Bizarro World"
       },
       "connections": {
@@ -3482,10 +3483,10 @@ var data = {
         "relatives": "Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/93-bizarro.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/93-bizarro.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/93-bizarro.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/93-bizarro.jpg"
+        "xs": "images/characters/xs/93-bizarro.jpg",
+        "sm": "images/characters/sm/93-bizarro.jpg",
+        "md": "images/characters/md/93-bizarro.jpg",
+        "lg": "images/characters/lg/93-bizarro.jpg"
       }
     },
     {
@@ -3529,7 +3530,7 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City"
       },
       "connections": {
@@ -3537,10 +3538,10 @@ var data = {
         "relatives": "Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/95-black-adam.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/95-black-adam.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/95-black-adam.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/95-black-adam.jpg"
+        "xs": "images/characters/xs/95-black-adam.jpg",
+        "sm": "images/characters/sm/95-black-adam.jpg",
+        "md": "images/characters/md/95-black-adam.jpg",
+        "lg": "images/characters/lg/95-black-adam.jpg"
       }
     },
     {
@@ -3573,7 +3574,7 @@ var data = {
         "fullName": "Blackagar Boltagon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #45 (December, 1965)",
@@ -3589,10 +3590,10 @@ var data = {
         "relatives": "Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/96-black-bolt.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/96-black-bolt.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/96-black-bolt.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/96-black-bolt.jpg"
+        "xs": "images/characters/xs/96-black-bolt.jpg",
+        "sm": "images/characters/sm/96-black-bolt.jpg",
+        "md": "images/characters/md/96-black-bolt.jpg",
+        "lg": "images/characters/lg/96-black-bolt.jpg"
       }
     },
     {
@@ -3627,7 +3628,7 @@ var data = {
         "aliases": [
           "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Justice League of America (Volume 1) #75",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -3641,10 +3642,10 @@ var data = {
         "relatives": "Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/97-black-canary.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/97-black-canary.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/97-black-canary.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/97-black-canary.jpg"
+        "xs": "images/characters/xs/97-black-canary.jpg",
+        "sm": "images/characters/sm/97-black-canary.jpg",
+        "md": "images/characters/md/97-black-canary.jpg",
+        "lg": "images/characters/lg/97-black-canary.jpg"
       }
     },
     {
@@ -3677,9 +3678,9 @@ var data = {
         "fullName": "Dinah Drake Lance",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash Comics #86 (August, 1947)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -3693,10 +3694,10 @@ var data = {
         "relatives": "Richard Drake (father), Lawrence Lance (husband), Dinah Laurel Lance (Black Canary, daughter), Oliver Queen (Green Arrow, son-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/98-black-canary.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/98-black-canary.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/98-black-canary.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/98-black-canary.jpg"
+        "xs": "images/characters/xs/98-black-canary.jpg",
+        "sm": "images/characters/sm/98-black-canary.jpg",
+        "md": "images/characters/md/98-black-canary.jpg",
+        "lg": "images/characters/lg/98-black-canary.jpg"
       }
     },
     {
@@ -3738,17 +3739,17 @@ var data = {
       },
       "work": {
         "occupation": "Cat burglar; Private investigator, founder of Cat's Eye Investigations.",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Heroes for Hire",
         "relatives": "Walter Hardy (father, deceased), Lydia Hardy (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/99-black-cat.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/99-black-cat.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/99-black-cat.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/99-black-cat.jpg"
+        "xs": "images/characters/xs/99-black-cat.jpg",
+        "sm": "images/characters/sm/99-black-cat.jpg",
+        "md": "images/characters/md/99-black-cat.jpg",
+        "lg": "images/characters/lg/99-black-cat.jpg"
       }
     },
     {
@@ -3767,15 +3768,15 @@ var data = {
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -3788,24 +3789,24 @@ var data = {
           "Death Flash",
           "God of Death"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash Vol 2 #138",
         "publisher": "DC Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/100-black-flash.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/100-black-flash.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/100-black-flash.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/100-black-flash.jpg"
+        "xs": "images/characters/xs/100-black-flash.jpg",
+        "sm": "images/characters/sm/100-black-flash.jpg",
+        "md": "images/characters/md/100-black-flash.jpg",
+        "lg": "images/characters/lg/100-black-flash.jpg"
       }
     },
     {
@@ -3849,17 +3850,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, scientist; former crusader",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "MI-13; formerly Avengers, Masters of Evil (as a mole), Excalibur, Heroes for Hire, Ultraforce (in the Ultraverse), Defenders, Knights of Wundagore, Queen's Vengeance, King Richard's Army",
         "relatives": "Nathan Garrett (Black Knight II, uncle, deceased); Sir Percy of Scandia (Black Knight), Sir Raston, Eobar Garrington (Black Knights of past eras, ancestors, deceased); Lady Rosamund, Edward, Geoffrey (ancestral relations, presumed deceased); Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay (distant ancestral relations)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/102-black-knight-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/102-black-knight-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/102-black-knight-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/102-black-knight-iii.jpg"
+        "xs": "images/characters/xs/102-black-knight-iii.jpg",
+        "sm": "images/characters/sm/102-black-knight-iii.jpg",
+        "md": "images/characters/md/102-black-knight-iii.jpg",
+        "lg": "images/characters/lg/102-black-knight-iii.jpg"
       }
     },
     {
@@ -3892,9 +3893,9 @@ var data = {
         "fullName": "Jefferson Pierce",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Black Lightning #1 (April 1977)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -3908,10 +3909,10 @@ var data = {
         "relatives": "Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/103-black-lightning.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/103-black-lightning.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/103-black-lightning.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/103-black-lightning.jpg"
+        "xs": "images/characters/xs/103-black-lightning.jpg",
+        "sm": "images/characters/sm/103-black-lightning.jpg",
+        "md": "images/characters/md/103-black-lightning.jpg",
+        "lg": "images/characters/lg/103-black-lightning.jpg"
       }
     },
     {
@@ -3957,13 +3958,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Serpent Squad, Serpent Society, BAD Girls",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/104-black-mamba.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/104-black-mamba.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/104-black-mamba.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/104-black-mamba.jpg"
+        "xs": "images/characters/xs/104-black-mamba.jpg",
+        "sm": "images/characters/sm/104-black-mamba.jpg",
+        "md": "images/characters/md/104-black-mamba.jpg",
+        "lg": "images/characters/lg/104-black-mamba.jpg"
       }
     },
     {
@@ -4000,24 +4001,24 @@ var data = {
           "Scourge of the Seven Seas",
           "Yellow Lantern"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Aquaman #35 (August, 1967)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/105-black-manta.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/105-black-manta.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/105-black-manta.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/105-black-manta.jpg"
+        "xs": "images/characters/xs/105-black-manta.jpg",
+        "sm": "images/characters/sm/105-black-manta.jpg",
+        "md": "images/characters/md/105-black-manta.jpg",
+        "lg": "images/characters/lg/105-black-manta.jpg"
       }
     },
     {
@@ -4072,10 +4073,10 @@ var data = {
         "relatives": "Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T?Chaka (father, deceased), S'Yan (uncle, deceased), N?Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/106-black-panther.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/106-black-panther.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/106-black-panther.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/106-black-panther.jpg"
+        "xs": "images/characters/xs/106-black-panther.jpg",
+        "sm": "images/characters/sm/106-black-panther.jpg",
+        "md": "images/characters/md/106-black-panther.jpg",
+        "lg": "images/characters/lg/106-black-panther.jpg"
       }
     },
     {
@@ -4120,7 +4121,7 @@ var data = {
           "Black Pearl",
           "Ebon Flame"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Tales of Suspense #52",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -4134,10 +4135,10 @@ var data = {
         "relatives": "Unnamed parents (presumed deceased); Alexi Shostakov (Red Guardian, estranged husband); Vindiktor (alleged brother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/107-black-widow.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/107-black-widow.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/107-black-widow.jpg"
+        "xs": "images/characters/xs/107-black-widow.jpg",
+        "sm": "images/characters/sm/107-black-widow.jpg",
+        "md": "images/characters/md/107-black-widow.jpg",
+        "lg": "images/characters/lg/107-black-widow.jpg"
       }
     },
     {
@@ -4170,26 +4171,26 @@ var data = {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin, enforcer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Lilin; Deathwatch; Hood's gang",
         "relatives": "Lilith (Great Grandmother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/109-blackout.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/109-blackout.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/109-blackout.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/109-blackout.jpg"
+        "xs": "images/characters/xs/109-blackout.jpg",
+        "sm": "images/characters/sm/109-blackout.jpg",
+        "md": "images/characters/md/109-blackout.jpg",
+        "lg": "images/characters/lg/109-blackout.jpg"
       }
     },
     {
@@ -4233,18 +4234,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Heavy Mettle; (formerly) Masters of Evil, Skeleton Crew, Circus of Crime; (formerly) division leader of Hydra",
         "relatives": "Silvio Manfredi (Silvermane, father), Caterina Manfredi (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/110-blackwing.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/110-blackwing.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/110-blackwing.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/110-blackwing.jpg"
+        "xs": "images/characters/xs/110-blackwing.jpg",
+        "sm": "images/characters/sm/110-blackwing.jpg",
+        "md": "images/characters/md/110-blackwing.jpg",
+        "lg": "images/characters/lg/110-blackwing.jpg"
       }
     },
     {
@@ -4283,21 +4284,21 @@ var data = {
         "placeOfBirth": "Armechadon",
         "firstAppearance": "Thunderstrike #6 (March, 1994)",
         "publisher": "Marvel Comics",
-        "alignment": "-"
+        "alignment": "unknown"
       },
       "work": {
         "occupation": "Freedom Fighter",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Underground Legion",
         "relatives": "Tantalus (father); Nirvana (mother); Pelops (brother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/111-blackwulf.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/111-blackwulf.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/111-blackwulf.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/111-blackwulf.jpg"
+        "xs": "images/characters/xs/111-blackwulf.jpg",
+        "sm": "images/characters/sm/111-blackwulf.jpg",
+        "md": "images/characters/md/111-blackwulf.jpg",
+        "lg": "images/characters/lg/111-blackwulf.jpg"
       }
     },
     {
@@ -4348,10 +4349,10 @@ var data = {
         "relatives": "Tara Brooks (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/112-blade.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/112-blade.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/112-blade.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/112-blade.jpg"
+        "xs": "images/characters/xs/112-blade.jpg",
+        "sm": "images/characters/sm/112-blade.jpg",
+        "md": "images/characters/md/112-blade.jpg",
+        "lg": "images/characters/lg/112-blade.jpg"
       }
     },
     {
@@ -4377,33 +4378,33 @@ var data = {
           "152 lb",
           "68 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Roxanne Washington",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men #171 (2005)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Roy \"Daddy Libido\" Washington (father), Angel \"Sexy Mutha\" Depres (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/114-bling!.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/114-bling!.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/114-bling!.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/114-bling!.jpg"
+        "xs": "images/characters/xs/114-bling!.jpg",
+        "sm": "images/characters/sm/114-bling!.jpg",
+        "md": "images/characters/md/114-bling!.jpg",
+        "lg": "images/characters/lg/114-bling!.jpg"
       }
     },
     {
@@ -4436,7 +4437,7 @@ var data = {
         "fullName": "Clarice Ferguson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Bahamas",
         "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
@@ -4452,10 +4453,10 @@ var data = {
         "relatives": "Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/115-blink.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/115-blink.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/115-blink.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/115-blink.jpg"
+        "xs": "images/characters/xs/115-blink.jpg",
+        "sm": "images/characters/sm/115-blink.jpg",
+        "md": "images/characters/md/115-blink.jpg",
+        "lg": "images/characters/lg/115-blink.jpg"
       }
     },
     {
@@ -4488,7 +4489,7 @@ var data = {
         "fullName": "Donald Gill",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Newark, Delaware",
         "firstAppearance": "Iron Man #223 (1987)",
@@ -4497,17 +4498,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer; former mercenary and professional criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Thunderbolts, Hammer Industries",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/118-blizzard-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/118-blizzard-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/118-blizzard-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/118-blizzard-ii.jpg"
+        "xs": "images/characters/xs/118-blizzard-ii.jpg",
+        "sm": "images/characters/sm/118-blizzard-ii.jpg",
+        "md": "images/characters/md/118-blizzard-ii.jpg",
+        "lg": "images/characters/lg/118-blizzard-ii.jpg"
       }
     },
     {
@@ -4540,7 +4541,7 @@ var data = {
         "fullName": "Frederick J. Dukes",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Lubbock, Texas",
         "firstAppearance": "X-Men #3 (1964)",
@@ -4549,17 +4550,17 @@ var data = {
       },
       "work": {
         "occupation": "Former criminal, terrorist, government agent, carnival performer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Cell, formerly X-Corps, Magneto's army, Brotherhood Of Evil Mutants, Freedom Force, Factor Three, former partner of Unus",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/119-blob.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/119-blob.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/119-blob.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/119-blob.jpg"
+        "xs": "images/characters/xs/119-blob.jpg",
+        "sm": "images/characters/sm/119-blob.jpg",
+        "md": "images/characters/md/119-blob.jpg",
+        "lg": "images/characters/lg/119-blob.jpg"
       }
     },
     {
@@ -4592,26 +4593,26 @@ var data = {
         "fullName": "Jackie Lukus",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Architect, former vigilante",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/120-bloodaxe.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/120-bloodaxe.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/120-bloodaxe.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/120-bloodaxe.jpg"
+        "xs": "images/characters/xs/120-bloodaxe.jpg",
+        "sm": "images/characters/sm/120-bloodaxe.jpg",
+        "md": "images/characters/md/120-bloodaxe.jpg",
+        "lg": "images/characters/lg/120-bloodaxe.jpg"
       }
     },
     {
@@ -4630,7 +4631,7 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -4646,24 +4647,24 @@ var data = {
         "aliases": [
           "Lemuel Halcon"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men (2099) #1",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Peditioners, formerly X-Men, Halo City Protectorate, Oasis",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/121-bloodhawk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/121-bloodhawk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/121-bloodhawk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/121-bloodhawk.jpg"
+        "xs": "images/characters/xs/121-bloodhawk.jpg",
+        "sm": "images/characters/sm/121-bloodhawk.jpg",
+        "md": "images/characters/md/121-bloodhawk.jpg",
+        "lg": "images/characters/lg/121-bloodhawk.jpg"
       }
     },
     {
@@ -4682,7 +4683,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -4712,10 +4713,10 @@ var data = {
         "relatives": "Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/126-blue-beetle-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/126-blue-beetle-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/126-blue-beetle-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/126-blue-beetle-iii.jpg"
+        "xs": "images/characters/xs/126-blue-beetle-iii.jpg",
+        "sm": "images/characters/sm/126-blue-beetle-iii.jpg",
+        "md": "images/characters/md/126-blue-beetle-iii.jpg",
+        "lg": "images/characters/lg/126-blue-beetle-iii.jpg"
       }
     },
     {
@@ -4756,24 +4757,24 @@ var data = {
           "Mutate #35",
           "Nancy Forrester"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Secret Wars II #5",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former student, thief",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Utopians, X-Men (New Charles Xavier School member), X-Force, X-Men, Nextwave, The Underground, Genoshan Mutates, New Mutants, X-Terminators (founding member), X-Factor (trainee), Fallen Angels, Beyonder (associate)",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/130-boom-boom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/130-boom-boom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/130-boom-boom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/130-boom-boom.jpg"
+        "xs": "images/characters/xs/130-boom-boom.jpg",
+        "sm": "images/characters/sm/130-boom-boom.jpg",
+        "md": "images/characters/md/130-boom-boom.jpg",
+        "lg": "images/characters/lg/130-boom-boom.jpg"
       }
     },
     {
@@ -4789,10 +4790,10 @@ var data = {
         "combat": 56
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -4823,10 +4824,10 @@ var data = {
         "relatives": "Scramble (Lionel Jeffries, brother, deceased), Diamond Lil (wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/135-box-iv.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/135-box-iv.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/135-box-iv.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/135-box-iv.jpg"
+        "xs": "images/characters/xs/135-box-iv.jpg",
+        "sm": "images/characters/sm/135-box-iv.jpg",
+        "md": "images/characters/md/135-box-iv.jpg",
+        "lg": "images/characters/lg/135-box-iv.jpg"
       }
     },
     {
@@ -4861,24 +4862,24 @@ var data = {
         "aliases": [
           "Milton Fine"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Action Comics #242 (July 1958)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Lex Luthor",
         "relatives": "Vril Dox II (son), Brainiac 5 (descendant)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/136-brainiac.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/136-brainiac.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/136-brainiac.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/136-brainiac.jpg"
+        "xs": "images/characters/xs/136-brainiac.jpg",
+        "sm": "images/characters/sm/136-brainiac.jpg",
+        "md": "images/characters/md/136-brainiac.jpg",
+        "lg": "images/characters/lg/136-brainiac.jpg"
       }
     },
     {
@@ -4911,26 +4912,26 @@ var data = {
         "fullName": "Querl Dox",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
         "relatives": "Unnamed mother, Brainiac (ancestor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/137-brainiac-5.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/137-brainiac-5.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/137-brainiac-5.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/137-brainiac-5.jpg"
+        "xs": "images/characters/xs/137-brainiac-5.jpg",
+        "sm": "images/characters/sm/137-brainiac-5.jpg",
+        "md": "images/characters/md/137-brainiac-5.jpg",
+        "lg": "images/characters/lg/137-brainiac-5.jpg"
       }
     },
     {
@@ -4970,7 +4971,7 @@ var data = {
           "Hawkeye",
           "pitcher"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Daredevil #131 (March, 1976)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -4984,10 +4985,10 @@ var data = {
         "relatives": "Kingmaker (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/141-bullseye.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/141-bullseye.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/141-bullseye.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/141-bullseye.jpg"
+        "xs": "images/characters/xs/141-bullseye.jpg",
+        "sm": "images/characters/sm/141-bullseye.jpg",
+        "md": "images/characters/md/141-bullseye.jpg",
+        "lg": "images/characters/lg/141-bullseye.jpg"
       }
     },
     {
@@ -5020,15 +5021,15 @@ var data = {
         "fullName": "Karen Beecher",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans #45",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "San Francisco, California"
       },
       "connections": {
@@ -5036,10 +5037,10 @@ var data = {
         "relatives": "Mal Duncan (husband)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/142-bumblebee.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/142-bumblebee.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/142-bumblebee.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/142-bumblebee.jpg"
+        "xs": "images/characters/xs/142-bumblebee.jpg",
+        "sm": "images/characters/sm/142-bumblebee.jpg",
+        "md": "images/characters/md/142-bumblebee.jpg",
+        "lg": "images/characters/lg/142-bumblebee.jpg"
       }
     },
     {
@@ -5058,40 +5059,40 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Ryuko Orsono",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Titans: Secret Files & Origins #2",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Teen Titans",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/144-bushido.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/144-bushido.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/144-bushido.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/144-bushido.jpg"
+        "xs": "images/characters/xs/144-bushido.jpg",
+        "sm": "images/characters/sm/144-bushido.jpg",
+        "md": "images/characters/md/144-bushido.jpg",
+        "lg": "images/characters/lg/144-bushido.jpg"
       }
     },
     {
@@ -5147,10 +5148,10 @@ var data = {
         "relatives": "Scott Summers (Cyclops, father), Madelyne Pryor-Summers (Goblin Queen, mother, deceased), Jean Grey (Phoenix, stepmother), Alexander Summers (Havok, uncle), Christopher Summers (Corsair, paternal grandfather), Katherine Anne Summers (paternal grandmother, deceased), Philip Summers (great-grandfather), Deborah Summers (great-grandmother), Jenskot (Aliya, wife, deceased), Tyler (Genesis, son, deceased), Stryfe (clone, deceased), Gabriel Summers (Vulcan, uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/145-cable.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/145-cable.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/145-cable.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/145-cable.jpg"
+        "xs": "images/characters/xs/145-cable.jpg",
+        "sm": "images/characters/sm/145-cable.jpg",
+        "md": "images/characters/md/145-cable.jpg",
+        "lg": "images/characters/lg/145-cable.jpg"
       }
     },
     {
@@ -5183,26 +5184,26 @@ var data = {
         "fullName": "Callisto",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-MEN (first series) #169",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship"
       },
       "connections": {
         "groupAffiliation": "Excalibur, Morlocks, Gene Nation",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/146-callisto.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/146-callisto.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/146-callisto.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/146-callisto.jpg"
+        "xs": "images/characters/xs/146-callisto.jpg",
+        "sm": "images/characters/sm/146-callisto.jpg",
+        "md": "images/characters/md/146-callisto.jpg",
+        "lg": "images/characters/lg/146-callisto.jpg"
       }
     },
     {
@@ -5246,17 +5247,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, peacekeeper, former student, mercenary, miner",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly X.S.E., Mutant Liberation Front, X-Treme X-Men, X-Corporation, X-Force, New Mutants, Hellions, Hellfire Club",
         "relatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/148-cannonball.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/148-cannonball.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/148-cannonball.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/148-cannonball.jpg"
+        "xs": "images/characters/xs/148-cannonball.jpg",
+        "sm": "images/characters/sm/148-cannonball.jpg",
+        "md": "images/characters/md/148-cannonball.jpg",
+        "lg": "images/characters/lg/148-cannonball.jpg"
       }
     },
     {
@@ -5306,10 +5307,10 @@ var data = {
         "relatives": "Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/149-captain-america.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/149-captain-america.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/149-captain-america.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/149-captain-america.jpg"
+        "xs": "images/characters/xs/149-captain-america.jpg",
+        "sm": "images/characters/sm/149-captain-america.jpg",
+        "md": "images/characters/md/149-captain-america.jpg",
+        "lg": "images/characters/lg/149-captain-america.jpg"
       }
     },
     {
@@ -5346,24 +5347,24 @@ var data = {
           "Allen Adam",
           "Cameron Scott"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Captain Atom #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Soldier",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Justice League, Extreme Justice, Super Buddies, Living Assault Weapons, Monarch's Army, United States Air Force",
         "relatives": "Angela Adam Eiling (wife, deceased), Peggy Eiling (daughter), Randy Eiling (son), Bette Sans Souci (ex-wife, divorced)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/150-captain-atom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/150-captain-atom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/150-captain-atom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/150-captain-atom.jpg"
+        "xs": "images/characters/xs/150-captain-atom.jpg",
+        "sm": "images/characters/sm/150-captain-atom.jpg",
+        "md": "images/characters/md/150-captain-atom.jpg",
+        "lg": "images/characters/lg/150-captain-atom.jpg"
       }
     },
     {
@@ -5416,10 +5417,10 @@ var data = {
         "relatives": "John Braddock (ancestor, possibly grandfather), James Braddock, Sr. (father, deceased), Lady Elizabeth Braddock (mother, deceased), James Braddock, Jr. (brother), Elizabeth Braddock (twin sister), Meggan (wife), William Puceanu (father-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/151-captain-britain.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/151-captain-britain.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/151-captain-britain.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/151-captain-britain.jpg"
+        "xs": "images/characters/xs/151-captain-britain.jpg",
+        "sm": "images/characters/sm/151-captain-britain.jpg",
+        "md": "images/characters/md/151-captain-britain.jpg",
+        "lg": "images/characters/lg/151-captain-britain.jpg"
       }
     },
     {
@@ -5438,7 +5439,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -5459,24 +5460,24 @@ var data = {
           "Leonards Wynters",
           "The Man Who Mastered Absolute Zero"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash Vol 4 #6 (April, 2012)",
         "publisher": "DC Comics",
         "alignment": "Neutral"
       },
       "work": {
         "occupation": "Professional Criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Justice League, Rogues; formerly Secret Society of Super-Villains, Injustice League",
         "relatives": "Lisa Snart (sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/152-captain-cold.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/152-captain-cold.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/152-captain-cold.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/152-captain-cold.jpg"
+        "xs": "images/characters/xs/152-captain-cold.jpg",
+        "sm": "images/characters/sm/152-captain-cold.jpg",
+        "md": "images/characters/md/152-captain-cold.jpg",
+        "lg": "images/characters/lg/152-captain-cold.jpg"
       }
     },
     {
@@ -5520,18 +5521,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Marvel Family, Justice Society of America",
         "relatives": "C.C. Batson (father, deceased), Marilyn Batson (mother, deceased), Ebenezer Batson (uncle), Mary Batson (Mary Marvel, sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/156-captain-marvel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/156-captain-marvel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/156-captain-marvel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/156-captain-marvel.jpg"
+        "xs": "images/characters/xs/156-captain-marvel.jpg",
+        "sm": "images/characters/sm/156-captain-marvel.jpg",
+        "md": "images/characters/md/156-captain-marvel.jpg",
+        "lg": "images/characters/lg/156-captain-marvel.jpg"
       }
     },
     {
@@ -5584,10 +5585,10 @@ var data = {
         "relatives": "Marie Danvers (mother), Joseph Danvers, Sr. (father), Joseph Danvers, Jr. (brother), Steve Danvers (brother, deceased), Marcus Immortus (Danvers) (\"son\", deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/157-captain-marvel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/157-captain-marvel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/157-captain-marvel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/157-captain-marvel.jpg"
+        "xs": "images/characters/xs/157-captain-marvel.jpg",
+        "sm": "images/characters/sm/157-captain-marvel.jpg",
+        "md": "images/characters/md/157-captain-marvel.jpg",
+        "lg": "images/characters/lg/157-captain-marvel.jpg"
       }
     },
     {
@@ -5623,7 +5624,7 @@ var data = {
           "Captain Marvel Jr.",
           "CM3"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -5637,10 +5638,10 @@ var data = {
         "relatives": "parents, deceased, Jacob Freeman (granfather, deceased), Timothy Karnes (Sabbac, foster brother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/158-captain-marvel-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/158-captain-marvel-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/158-captain-marvel-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/158-captain-marvel-ii.jpg"
+        "xs": "images/characters/xs/158-captain-marvel-ii.jpg",
+        "sm": "images/characters/sm/158-captain-marvel-ii.jpg",
+        "md": "images/characters/md/158-captain-marvel-ii.jpg",
+        "lg": "images/characters/lg/158-captain-marvel-ii.jpg"
       }
     },
     {
@@ -5659,7 +5660,7 @@ var data = {
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -5677,24 +5678,24 @@ var data = {
           "CP",
           "Planet"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Captain Planet and the Planeteers (TV Series)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "The Planeteers",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/160-captain-planet.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/160-captain-planet.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/160-captain-planet.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/160-captain-planet.jpg"
+        "xs": "images/characters/xs/160-captain-planet.jpg",
+        "sm": "images/characters/sm/160-captain-planet.jpg",
+        "md": "images/characters/md/160-captain-planet.jpg",
+        "lg": "images/characters/lg/160-captain-planet.jpg"
       }
     },
     {
@@ -5730,13 +5731,13 @@ var data = {
           "Mass Carnage",
           "999th"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "New York City"
       },
       "connections": {
@@ -5744,10 +5745,10 @@ var data = {
         "relatives": "Venom (\"father\"); Shriek (\"wife\"); Hybrid, Lasher, Phage, Riot (\"brothers\"); Agony, Scream (\"sisters\"); Carrion, Demogoblin, Doppelganger, Toxin (\"sons\"); Scorn (\"Daughter\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/162-carnage.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/162-carnage.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/162-carnage.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/162-carnage.jpg"
+        "xs": "images/characters/xs/162-carnage.jpg",
+        "sm": "images/characters/sm/162-carnage.jpg",
+        "md": "images/characters/md/162-carnage.jpg",
+        "lg": "images/characters/lg/162-carnage.jpg"
       }
     },
     {
@@ -5801,10 +5802,10 @@ var data = {
         "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/165-catwoman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/165-catwoman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/165-catwoman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg"
+        "xs": "images/characters/xs/165-catwoman.jpg",
+        "sm": "images/characters/sm/165-catwoman.jpg",
+        "md": "images/characters/md/165-catwoman.jpg",
+        "lg": "images/characters/lg/165-catwoman.jpg"
       }
     },
     {
@@ -5837,26 +5838,26 @@ var data = {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Force Works #1 (July, 1994)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Tracker, adventurer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Force Works",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/167-century.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/167-century.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/167-century.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/167-century.jpg"
+        "xs": "images/characters/xs/167-century.jpg",
+        "sm": "images/characters/sm/167-century.jpg",
+        "md": "images/characters/md/167-century.jpg",
+        "lg": "images/characters/lg/167-century.jpg"
       }
     },
     {
@@ -5904,13 +5905,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "X-Men; formerly New Warriors; Clan Akkaba; Weapon X; Generation X",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/169-chamber.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/169-chamber.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/169-chamber.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/169-chamber.jpg"
+        "xs": "images/characters/xs/169-chamber.jpg",
+        "sm": "images/characters/sm/169-chamber.jpg",
+        "md": "images/characters/md/169-chamber.jpg",
+        "lg": "images/characters/lg/169-chamber.jpg"
       }
     },
     {
@@ -5929,15 +5930,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Dmitri Anatoly Smerdyakov Kravinoff",
@@ -5960,18 +5961,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "The Exterminators; formerly Sinister Six, Sinister Twelve",
         "relatives": "Kravinoff Patriarch (father, deceased), mother (unnamed), Sergei Kravinoff (Kraven I, half-brother, deceased), Vladimir Kravinoff (The Grim Hunter, nephew, deceased), Alyosha Kravinoff (Kraven the Hunter, nephew), Ned Tannengarden (nephew, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/170-chameleon.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/170-chameleon.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/170-chameleon.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/170-chameleon.jpg"
+        "xs": "images/characters/xs/170-chameleon.jpg",
+        "sm": "images/characters/sm/170-chameleon.jpg",
+        "md": "images/characters/md/170-chameleon.jpg",
+        "lg": "images/characters/lg/170-chameleon.jpg"
       }
     },
     {
@@ -6007,24 +6008,24 @@ var data = {
           "Professor X",
           "Professor Charles Xavier"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Uncanny X-Men #35 (August, 1967)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Former substitute teacher, adventurer, subversive",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly X-Humed, X-Men, Factor Three",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/171-changeling.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/171-changeling.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/171-changeling.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/171-changeling.jpg"
+        "xs": "images/characters/xs/171-changeling.jpg",
+        "sm": "images/characters/sm/171-changeling.jpg",
+        "md": "images/characters/md/171-changeling.jpg",
+        "lg": "images/characters/lg/171-changeling.jpg"
       }
     },
     {
@@ -6060,24 +6061,24 @@ var data = {
           "Kay Carlton",
           "The Cheetah"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Villainy Inc",
         "relatives": "Claudia Rich (cousin), Debi Domaine (niece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/172-cheetah.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/172-cheetah.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/172-cheetah.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/172-cheetah.jpg"
+        "xs": "images/characters/xs/172-cheetah.jpg",
+        "sm": "images/characters/sm/172-cheetah.jpg",
+        "md": "images/characters/md/172-cheetah.jpg",
+        "lg": "images/characters/lg/172-cheetah.jpg"
       }
     },
     {
@@ -6116,7 +6117,7 @@ var data = {
           "Deborah Domaine",
           "Sabrina Ballesteros"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Wonder Woman Vol2 #7 (Sept 1987)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -6127,13 +6128,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "The Society, Injustice League",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/174-cheetah-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/174-cheetah-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/174-cheetah-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/174-cheetah-iii.jpg"
+        "xs": "images/characters/xs/174-cheetah-iii.jpg",
+        "sm": "images/characters/sm/174-cheetah-iii.jpg",
+        "md": "images/characters/md/174-cheetah-iii.jpg",
+        "lg": "images/characters/lg/174-cheetah-iii.jpg"
       }
     },
     {
@@ -6170,7 +6171,7 @@ var data = {
           "Uncle Nate",
           "Uncle Nathan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -6184,10 +6185,10 @@ var data = {
         "relatives": "Hank Heywood, Sr. (Commander Steel, grandfather, deceased) ? Hank Heywood, Jr. (uncle, deceased) ? Hank Heywood III (Steel, cousin, deceased) ? Kirk Heywood (brother, deceased), Nicole (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/177-citizen-steel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/177-citizen-steel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/177-citizen-steel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/177-citizen-steel.jpg"
+        "xs": "images/characters/xs/177-citizen-steel.jpg",
+        "sm": "images/characters/sm/177-citizen-steel.jpg",
+        "md": "images/characters/md/177-citizen-steel.jpg",
+        "lg": "images/characters/lg/177-citizen-steel.jpg"
       }
     },
     {
@@ -6220,7 +6221,7 @@ var data = {
         "fullName": "Tyrone Johnson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "South Boston, Massachusetts",
         "firstAppearance": "Spectacular Spiderman #64",
@@ -6236,10 +6237,10 @@ var data = {
         "relatives": "Smokin' Joe (rumored grandfather)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/180-cloak.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/180-cloak.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/180-cloak.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/180-cloak.jpg"
+        "xs": "images/characters/xs/180-cloak.jpg",
+        "sm": "images/characters/sm/180-cloak.jpg",
+        "md": "images/characters/md/180-cloak.jpg",
+        "lg": "images/characters/lg/180-cloak.jpg"
       }
     },
     {
@@ -6274,24 +6275,24 @@ var data = {
         "aliases": [
           "Tempus Fugit"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "World's Finest #111 (August, 1960)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Clockwatchers, Justice League Antarctica, Suicide Squad, Time Foes",
         "relatives": "Beverly (sister, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/181-clock-king.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/181-clock-king.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/181-clock-king.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/181-clock-king.jpg"
+        "xs": "images/characters/xs/181-clock-king.jpg",
+        "sm": "images/characters/sm/181-clock-king.jpg",
+        "md": "images/characters/md/181-clock-king.jpg",
+        "lg": "images/characters/lg/181-clock-king.jpg"
       }
     },
     {
@@ -6343,10 +6344,10 @@ var data = {
         "relatives": "Grigory Efimovich Rasputin (great-grandfather, deceased), Elena (great-grandmother, deceased), Ivan Rasputin (great-grand uncle, deceased), Grigory Rasputin (grandfather, deceased), Nikolai Rasputin (father, deceased), Alexandra Rasputina (mother, deceased), Vladimir Rasputin (uncle, deceased), unidentified aunt & uncle (deceased), Illyana Nikolievna Rasputina (Magik, sister, deceased), Mikhail Rasputin (brother), Peter Jr. (son), Larissa Mishchenko (cousin, deceased), Konstantin (cousin, deceased), Klara (cousin, deceased), Dimitriy (cousin, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/185-colossus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/185-colossus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/185-colossus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/185-colossus.jpg"
+        "xs": "images/characters/xs/185-colossus.jpg",
+        "sm": "images/characters/sm/185-colossus.jpg",
+        "md": "images/characters/md/185-colossus.jpg",
+        "lg": "images/characters/lg/185-colossus.jpg"
       }
     },
     {
@@ -6390,13 +6391,13 @@ var data = {
           "Marguerite",
           "Amy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New Mutants #98 (February, 1991)",
         "publisher": "Marvel Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Mobile; formerly Adirondack Mountains, Xavier's School for Gifted Youngsters"
       },
       "connections": {
@@ -6404,10 +6405,10 @@ var data = {
         "relatives": "Burt Carlysle (father, deceased), Dorothy Carlysle (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/186-copycat.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/186-copycat.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/186-copycat.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/186-copycat.jpg"
+        "xs": "images/characters/xs/186-copycat.jpg",
+        "sm": "images/characters/sm/186-copycat.jpg",
+        "md": "images/characters/md/186-copycat.jpg",
+        "lg": "images/characters/lg/186-copycat.jpg"
       }
     },
     {
@@ -6442,7 +6443,7 @@ var data = {
         "aliases": [
           "Quincy McIver"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Captain America #310 (October, 1985)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -6453,13 +6454,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Serpent Society",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/188-cottonmouth.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/188-cottonmouth.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/188-cottonmouth.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/188-cottonmouth.jpg"
+        "xs": "images/characters/xs/188-cottonmouth.jpg",
+        "sm": "images/characters/sm/188-cottonmouth.jpg",
+        "md": "images/characters/md/188-cottonmouth.jpg",
+        "lg": "images/characters/lg/188-cottonmouth.jpg"
       }
     },
     {
@@ -6502,17 +6503,17 @@ var data = {
       },
       "work": {
         "occupation": "Mother, adventuress",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Inhumans (Royal Family); formerly Fantastic Four, Avengers, Queen's Vengeance",
         "relatives": "Quelin (father), Ambur (mother), Medusa (sister), Gorgon, Karnak, Triton (cousins), Black Bolt (cousin, brother-in-law), Pietro Maximoff (Quicksilver, estranged husband), Luna (daughter), Ahura (nephew), extensive extended family"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/191-crystal.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/191-crystal.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/191-crystal.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/191-crystal.jpg"
+        "xs": "images/characters/xs/191-crystal.jpg",
+        "sm": "images/characters/sm/191-crystal.jpg",
+        "md": "images/characters/md/191-crystal.jpg",
+        "lg": "images/characters/lg/191-crystal.jpg"
       }
     },
     {
@@ -6563,10 +6564,10 @@ var data = {
         "relatives": "Silas Stone (father), Elinore Stone (mother), Tucker Stone (grandfather), Maude Stone (grandmother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/194-cyborg.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/194-cyborg.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/194-cyborg.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/194-cyborg.jpg"
+        "xs": "images/characters/xs/194-cyborg.jpg",
+        "sm": "images/characters/sm/194-cyborg.jpg",
+        "md": "images/characters/md/194-cyborg.jpg",
+        "lg": "images/characters/lg/194-cyborg.jpg"
       }
     },
     {
@@ -6585,7 +6586,7 @@ var data = {
         "gender": "Male",
         "race": "Cyborg",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -6603,13 +6604,13 @@ var data = {
           "Herald of the Anti-Monitor",
           "Alpha-Prime of the Alpha Lanterns"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Adventures of Superman #466 (May, 1990)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601"
       },
       "connections": {
@@ -6617,10 +6618,10 @@ var data = {
         "relatives": "Terri Henshaw (wife, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/195-cyborg-superman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/195-cyborg-superman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/195-cyborg-superman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/195-cyborg-superman.jpg"
+        "xs": "images/characters/xs/195-cyborg-superman.jpg",
+        "sm": "images/characters/sm/195-cyborg-superman.jpg",
+        "md": "images/characters/md/195-cyborg-superman.jpg",
+        "lg": "images/characters/lg/195-cyborg-superman.jpg"
       }
     },
     {
@@ -6677,10 +6678,10 @@ var data = {
         "relatives": "Oscar Summers (adoptive paternal distant ancestor, deceased); Daniel Summers (paternal distant ancestor, deceased); Amanda Mueller (Black Womb) (paternal distant ancestor); unnamed great-grandfather, deceased; Gloria Dayne (Fontanelle) (paternal distant ancestor); Philip Summers (paternal grandfather); Deborah Summers (paternal grandmother); Christopher Summers (Corsair) (father, deceased); Katherine Ann Summers (mother, deceased); Jack Winters (Jack O'Diamonds) (former foster father); Alexander Summers (Havok) (brother); Gabriel Summers (Vulcan) (brother, deceased); Madelyne Pryor-Summers (Red Queen) (first wife/second wife's clone, deceased); Jean Grey-Summers (Phoenix) (second wife, deceased); Nathan Summers (Cable) (son, deceased); Gailyn Bailey (niece, deceased); Joseph Bailey (nephew, deceased); Adam Neramani (X-Treme) (nephew, alleged half-brother); Hope Summers (adoptive granddaughter); Stryfe (son's clone); Summers and Grey Family Tree (more relatives)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/196-cyclops.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/196-cyclops.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/196-cyclops.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/196-cyclops.jpg"
+        "xs": "images/characters/xs/196-cyclops.jpg",
+        "sm": "images/characters/sm/196-cyclops.jpg",
+        "md": "images/characters/md/196-cyclops.jpg",
+        "lg": "images/characters/lg/196-cyclops.jpg"
       }
     },
     {
@@ -6699,7 +6700,7 @@ var data = {
         "gender": "Female",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 kg"
         ],
         "weight": [
@@ -6729,10 +6730,10 @@ var data = {
         "relatives": "Melissa Bowen (mother), unnamed father, Phillip Carlisle (stepfather), Father Michael Bowen (uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/198-dagger.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/198-dagger.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/198-dagger.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/198-dagger.jpg"
+        "xs": "images/characters/xs/198-dagger.jpg",
+        "sm": "images/characters/sm/198-dagger.jpg",
+        "md": "images/characters/md/198-dagger.jpg",
+        "lg": "images/characters/lg/198-dagger.jpg"
       }
     },
     {
@@ -6795,10 +6796,10 @@ var data = {
         "relatives": "Jonathan \"Battling Jack\" Murdock (Father, deceased), Maggie Murdock (aka Sister Maggie, Mother), Milla Donovan (ex-wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/201-daredevil.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/201-daredevil.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/201-daredevil.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/201-daredevil.jpg"
+        "xs": "images/characters/xs/201-daredevil.jpg",
+        "sm": "images/characters/sm/201-daredevil.jpg",
+        "md": "images/characters/md/201-daredevil.jpg",
+        "lg": "images/characters/lg/201-daredevil.jpg"
       }
     },
     {
@@ -6849,10 +6850,10 @@ var data = {
         "relatives": "Michael Powell (father), Grace Powell (mother), Jonathon and Jason Powell (brothers)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/202-darkhawk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/202-darkhawk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/202-darkhawk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/202-darkhawk.jpg"
+        "xs": "images/characters/xs/202-darkhawk.jpg",
+        "sm": "images/characters/sm/202-darkhawk.jpg",
+        "md": "images/characters/md/202-darkhawk.jpg",
+        "lg": "images/characters/lg/202-darkhawk.jpg"
       }
     },
     {
@@ -6887,24 +6888,24 @@ var data = {
         "aliases": [
           "Dark God"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Superman's Pal Jimmy Olsen #134 (November 1970)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Dictator of Apokolips",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "New Gods of Apokolips(ruler), Secret Society of Supervillains",
         "relatives": "Zonuz (father), Izaya (brother), Avia (sister, deceased), Grail (daughter), Kalibak (son), Orion (son), Deathspawn (son), Scot (nephew/adopted son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/204-darkseid.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/204-darkseid.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/204-darkseid.jpg"
+        "xs": "images/characters/xs/204-darkseid.jpg",
+        "sm": "images/characters/sm/204-darkseid.jpg",
+        "md": "images/characters/md/204-darkseid.jpg",
+        "lg": "images/characters/lg/204-darkseid.jpg"
       }
     },
     {
@@ -6953,10 +6954,10 @@ var data = {
         "relatives": "Nicolai Krylenko a.k.a. Vanguard (brother), Sergi Krylov a.k.a. The Presence (father), Marya Krylova (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/206-darkstar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/206-darkstar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/206-darkstar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/206-darkstar.jpg"
+        "xs": "images/characters/xs/206-darkstar.jpg",
+        "sm": "images/characters/sm/206-darkstar.jpg",
+        "md": "images/characters/md/206-darkstar.jpg",
+        "lg": "images/characters/lg/206-darkstar.jpg"
       }
     },
     {
@@ -6992,24 +6993,24 @@ var data = {
           "The Fastest Kid on Earth",
           "The Dash"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Incredible Family (genetic member), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend), Mirage (ally)",
         "relatives": "Robert Parr (Mr Incredible, father), Helen Parr (Elastigirl, mother), Violet Parr(Violet, sister), , Jack-jack (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/209-dash.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/209-dash.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/209-dash.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/209-dash.jpg"
+        "xs": "images/characters/xs/209-dash.jpg",
+        "sm": "images/characters/sm/209-dash.jpg",
+        "md": "images/characters/md/209-dash.jpg",
+        "lg": "images/characters/lg/209-dash.jpg"
       }
     },
     {
@@ -7056,17 +7057,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, singer, former actress, model, revolutionary",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Excalibur, X-Babies (guardian), Mojoverse Rebellion, X-Men, Cat's Laughing, Gladiators",
         "relatives": "Bella Blaire (paternal grandmother), Carter Blaire (father, deceased), Katherine Blaire-Brown (Barbara London, mother), Nicholas Brown (step-father), Lois London (half-sister), Longshot (husband)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/211-dazzler.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/211-dazzler.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/211-dazzler.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/211-dazzler.jpg"
+        "xs": "images/characters/xs/211-dazzler.jpg",
+        "sm": "images/characters/sm/211-dazzler.jpg",
+        "md": "images/characters/md/211-dazzler.jpg",
+        "lg": "images/characters/lg/211-dazzler.jpg"
       }
     },
     {
@@ -7099,9 +7100,9 @@ var data = {
         "fullName": "Boston Brand",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Strange Adventures #205 (October, 1967)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -7115,10 +7116,10 @@ var data = {
         "relatives": "Cleveland Brand (twin brother, deceased), Lita Brand (niece), Unnamed parents"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/212-deadman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/212-deadman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/212-deadman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/212-deadman.jpg"
+        "xs": "images/characters/xs/212-deadman.jpg",
+        "sm": "images/characters/sm/212-deadman.jpg",
+        "md": "images/characters/md/212-deadman.jpg",
+        "lg": "images/characters/lg/212-deadman.jpg"
       }
     },
     {
@@ -7175,10 +7176,10 @@ var data = {
         "relatives": "Thomas \"Mickey\" Wilson (father, deceased); Hailey Wilson (mother, deceased); Gretchen Wilson, Orksa (ex-wives); Evil Deadpool (clone); Widdle Wade (clone)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/213-deadpool.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/213-deadpool.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/213-deadpool.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/213-deadpool.jpg"
+        "xs": "images/characters/xs/213-deadpool.jpg",
+        "sm": "images/characters/sm/213-deadpool.jpg",
+        "md": "images/characters/md/213-deadpool.jpg",
+        "lg": "images/characters/lg/213-deadpool.jpg"
       }
     },
     {
@@ -7215,24 +7216,24 @@ var data = {
           "Worlds Finest Assassin",
           "Orlando Furioso"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #59 (June, 1950)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/214-deadshot.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/214-deadshot.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/214-deadshot.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/214-deadshot.jpg"
+        "xs": "images/characters/xs/214-deadshot.jpg",
+        "sm": "images/characters/sm/214-deadshot.jpg",
+        "md": "images/characters/md/214-deadshot.jpg",
+        "lg": "images/characters/lg/214-deadshot.jpg"
       }
     },
     {
@@ -7267,13 +7268,13 @@ var data = {
         "aliases": [
           "Demolisher"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Astonishing Tales #25 (August, 1974)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "New York area"
       },
       "connections": {
@@ -7281,10 +7282,10 @@ var data = {
         "relatives": "Janice (Wife, seperated), Richard (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/215-deathlok.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/215-deathlok.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/215-deathlok.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/215-deathlok.jpg"
+        "xs": "images/characters/xs/215-deathlok.jpg",
+        "sm": "images/characters/sm/215-deathlok.jpg",
+        "md": "images/characters/md/215-deathlok.jpg",
+        "lg": "images/characters/lg/215-deathlok.jpg"
       }
     },
     {
@@ -7321,7 +7322,7 @@ var data = {
           "Deathstroke the Terminator",
           "Batman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New Teen Titans #2 (December, 1980)",
         "publisher": "DC Comics",
         "alignment": "Neutral"
@@ -7335,10 +7336,10 @@ var data = {
         "relatives": "Wade LaFarge (Ravager III, half-brother, deceased), Adeline Kane (ex-wife, deceased), Grant Wilson (Ravager I, son, deceased), Joseph Wilson (Jericho, son), Rose Wilson (Ravager IV, daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/216-deathstroke.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/216-deathstroke.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/216-deathstroke.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/216-deathstroke.jpg"
+        "xs": "images/characters/xs/216-deathstroke.jpg",
+        "sm": "images/characters/sm/216-deathstroke.jpg",
+        "md": "images/characters/md/216-deathstroke.jpg",
+        "lg": "images/characters/lg/216-deathstroke.jpg"
       }
     },
     {
@@ -7373,7 +7374,7 @@ var data = {
         "aliases": [
           "Jason Macendale Jr"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -7383,14 +7384,14 @@ var data = {
         "base": "New York City"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/217-demogoblin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/217-demogoblin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/217-demogoblin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/217-demogoblin.jpg"
+        "xs": "images/characters/xs/217-demogoblin.jpg",
+        "sm": "images/characters/sm/217-demogoblin.jpg",
+        "md": "images/characters/md/217-demogoblin.jpg",
+        "lg": "images/characters/lg/217-demogoblin.jpg"
       }
     },
     {
@@ -7416,14 +7417,14 @@ var data = {
           "850 lb",
           "383 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Created in Asgard",
         "firstAppearance": "Journey into Mystery #118 (1965)",
@@ -7431,18 +7432,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/218-destroyer.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/218-destroyer.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/218-destroyer.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/218-destroyer.jpg"
+        "xs": "images/characters/xs/218-destroyer.jpg",
+        "sm": "images/characters/sm/218-destroyer.jpg",
+        "md": "images/characters/md/218-destroyer.jpg",
+        "lg": "images/characters/lg/218-destroyer.jpg"
       }
     },
     {
@@ -7475,26 +7476,26 @@ var data = {
         "fullName": "Willis Stryker",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Syndicate, formerly Bloods",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/219-diamondback.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/219-diamondback.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/219-diamondback.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/219-diamondback.jpg"
+        "xs": "images/characters/xs/219-diamondback.jpg",
+        "sm": "images/characters/sm/219-diamondback.jpg",
+        "md": "images/characters/md/219-diamondback.jpg",
+        "lg": "images/characters/lg/219-diamondback.jpg"
       }
     },
     {
@@ -7527,7 +7528,7 @@ var data = {
         "fullName": "Leonard Samson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Tulsa, Oklahoma",
         "firstAppearance": "Incredible Hulk #141 (July, 1971)",
@@ -7539,14 +7540,14 @@ var data = {
         "base": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Leonard Skivorski (father); Ricky Myers (son);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/221-doc-samson.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/221-doc-samson.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/221-doc-samson.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/221-doc-samson.jpg"
+        "xs": "images/characters/xs/221-doc-samson.jpg",
+        "sm": "images/characters/sm/221-doc-samson.jpg",
+        "md": "images/characters/md/221-doc-samson.jpg",
+        "lg": "images/characters/lg/221-doc-samson.jpg"
       }
     },
     {
@@ -7596,10 +7597,10 @@ var data = {
         "relatives": "Werner von Doom (father, deceased), Cynthia von Doom (mother, deceased); Kang the Conqueror, his counterparts, and offspring (alleged descendants), Kristoff Vernard (Doctor Doom II, adopted son), Dr Bob Doom (distant cousin), Boris (unofficially adoptive father/guardian), Valeria von Doom (daughter from alternate universe; became baby of Susan Richards and is now called Valeria Richards)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/222-doctor-doom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/222-doctor-doom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/222-doctor-doom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/222-doctor-doom.jpg"
+        "xs": "images/characters/xs/222-doctor-doom.jpg",
+        "sm": "images/characters/sm/222-doctor-doom.jpg",
+        "md": "images/characters/md/222-doctor-doom.jpg",
+        "lg": "images/characters/lg/222-doctor-doom.jpg"
       }
     },
     {
@@ -7634,13 +7635,13 @@ var data = {
         "aliases": [
           "Nabu"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "More Fun Comics #55 (May, 1940)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Tower of Fate, Salem, Massachusetts"
       },
       "connections": {
@@ -7648,10 +7649,10 @@ var data = {
         "relatives": "Inza Cramer (wife), Sven Nelson (father, deceased), Celestine Babcock (mother), Kent Nelson, Jr. (son), Aaron Babcock (uncle), Kent V. Nelson (grand-nephew), Laryn Nelson (great grand-niece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/224-doctor-fate.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/224-doctor-fate.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/224-doctor-fate.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/224-doctor-fate.jpg"
+        "xs": "images/characters/xs/224-doctor-fate.jpg",
+        "sm": "images/characters/sm/224-doctor-fate.jpg",
+        "md": "images/characters/md/224-doctor-fate.jpg",
+        "lg": "images/characters/lg/224-doctor-fate.jpg"
       }
     },
     {
@@ -7704,13 +7705,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Thunderbolts Army; Former leader of the Sinister Six and the Masters of Evil V; Former partner of Green Goblin",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/225-doctor-octopus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/225-doctor-octopus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/225-doctor-octopus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/225-doctor-octopus.jpg"
+        "xs": "images/characters/xs/225-doctor-octopus.jpg",
+        "sm": "images/characters/sm/225-doctor-octopus.jpg",
+        "md": "images/characters/md/225-doctor-octopus.jpg",
+        "lg": "images/characters/lg/225-doctor-octopus.jpg"
       }
     },
     {
@@ -7756,17 +7757,17 @@ var data = {
       },
       "work": {
         "occupation": "Sorcerer Supreme, retired neurosurgeon",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Defenders, underground Avengers; formerly the Order, Midnight Sons; former disciple of the Ancient One",
         "relatives": "Eugene (father, deceased), Beverly (mother, deceased), Victor (Khiron, brother, apparently deceased), Donna (sister, deceased), Clea (wife, estranged), Umar (mother-in-law), Orini (father-in-law), Dormammu (uncle-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/226-doctor-strange.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/226-doctor-strange.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/226-doctor-strange.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/226-doctor-strange.jpg"
+        "xs": "images/characters/xs/226-doctor-strange.jpg",
+        "sm": "images/characters/sm/226-doctor-strange.jpg",
+        "md": "images/characters/md/226-doctor-strange.jpg",
+        "lg": "images/characters/lg/226-doctor-strange.jpg"
       }
     },
     {
@@ -7816,18 +7817,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men; formerly X-Force; 198; X-Corporation; The Underground; X-Force; Six Pack",
         "relatives": "Beatrice (mother), Lazarus (brother), Milo Thurman (husband, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/227-domino.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/227-domino.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/227-domino.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/227-domino.jpg"
+        "xs": "images/characters/xs/227-domino.jpg",
+        "sm": "images/characters/sm/227-domino.jpg",
+        "md": "images/characters/md/227-domino.jpg",
+        "lg": "images/characters/lg/227-domino.jpg"
       }
     },
     {
@@ -7846,7 +7847,7 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -7863,24 +7864,24 @@ var data = {
           "Don",
           "Donnie"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Leonardo (brother), Michelangelo (brother), Raphael (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/228-donatello.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/228-donatello.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/228-donatello.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/228-donatello.jpg"
+        "xs": "images/characters/xs/228-donatello.jpg",
+        "sm": "images/characters/sm/228-donatello.jpg",
+        "md": "images/characters/md/228-donatello.jpg",
+        "lg": "images/characters/lg/228-donatello.jpg"
       }
     },
     {
@@ -7922,17 +7923,17 @@ var data = {
       },
       "work": {
         "occupation": "Destroyer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Secret Society of Super Villains, Suicide Squad, Apokolips",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/230-doomsday.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/230-doomsday.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/230-doomsday.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/230-doomsday.jpg"
+        "xs": "images/characters/xs/230-doomsday.jpg",
+        "sm": "images/characters/sm/230-doomsday.jpg",
+        "md": "images/characters/md/230-doomsday.jpg",
+        "lg": "images/characters/lg/230-doomsday.jpg"
       }
     },
     {
@@ -7975,18 +7976,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Carnage Family; Magus' doppelgangers; operative of Demogoblin",
         "relatives": "Anthropomorpho (creator); Hellspawn, Moonshade, many other doppelgangers (brethren)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/231-doppelganger.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/231-doppelganger.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/231-doppelganger.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/231-doppelganger.jpg"
+        "xs": "images/characters/xs/231-doppelganger.jpg",
+        "sm": "images/characters/sm/231-doppelganger.jpg",
+        "md": "images/characters/md/231-doppelganger.jpg",
+        "lg": "images/characters/lg/231-doppelganger.jpg"
       }
     },
     {
@@ -8033,17 +8034,17 @@ var data = {
       },
       "work": {
         "occupation": "Despot, conqueror",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Lords of the Splinter Realms, Lords of the Netherworlds; allied with Umar, Loki, Doctor Doom, Underchild, others",
         "relatives": "Sinifer (parent/genitor), Umar (sister), Clea (niece), Doctor Strange (nephew-in-law), Satannish (alleged offspring)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/232-dormammu.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/232-dormammu.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/232-dormammu.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/232-dormammu.jpg"
+        "xs": "images/characters/xs/232-dormammu.jpg",
+        "sm": "images/characters/sm/232-dormammu.jpg",
+        "md": "images/characters/md/232-dormammu.jpg",
+        "lg": "images/characters/lg/232-dormammu.jpg"
       }
     },
     {
@@ -8062,7 +8063,7 @@ var data = {
         "gender": "Male",
         "race": "Human / Cosmic",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -8079,7 +8080,7 @@ var data = {
           "Jon Osterman",
           "Doctor Manhattan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -8090,13 +8091,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Watchmen, Crimebusters",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/233-dr-manhattan.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/233-dr-manhattan.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/233-dr-manhattan.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/233-dr-manhattan.jpg"
+        "xs": "images/characters/xs/233-dr-manhattan.jpg",
+        "sm": "images/characters/sm/233-dr-manhattan.jpg",
+        "md": "images/characters/md/233-dr-manhattan.jpg",
+        "lg": "images/characters/lg/233-dr-manhattan.jpg"
       }
     },
     {
@@ -8129,7 +8130,7 @@ var data = {
         "fullName": "Arthur Sampson Douglas",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Burbank, California",
         "firstAppearance": "Iron Man #55 (February, 1973)",
@@ -8137,7 +8138,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "C.I.T.T.; formerly Monster Isle and Titan"
       },
       "connections": {
@@ -8145,10 +8146,10 @@ var data = {
         "relatives": "Yvette Steckley Douglas (wife, deceased), Heather Douglas (aka Moondragon, daughter), Pamela Douglas (aka Sundragon, niece), Cammille Benally (foster daughter), Venom (former symbiote)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/234-drax-the-destroyer.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/234-drax-the-destroyer.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/234-drax-the-destroyer.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/234-drax-the-destroyer.jpg"
+        "xs": "images/characters/xs/234-drax-the-destroyer.jpg",
+        "sm": "images/characters/sm/234-drax-the-destroyer.jpg",
+        "md": "images/characters/md/234-drax-the-destroyer.jpg",
+        "lg": "images/characters/lg/234-drax-the-destroyer.jpg"
       }
     },
     {
@@ -8164,18 +8165,18 @@ var data = {
         "combat": 28
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Ego",
@@ -8193,14 +8194,14 @@ var data = {
         "base": "Mobile"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Inapplicable"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/235-ego.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/235-ego.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/235-ego.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/235-ego.jpg"
+        "xs": "images/characters/xs/235-ego.jpg",
+        "sm": "images/characters/sm/235-ego.jpg",
+        "md": "images/characters/md/235-ego.jpg",
+        "lg": "images/characters/lg/235-ego.jpg"
       }
     },
     {
@@ -8235,24 +8236,24 @@ var data = {
         "aliases": [
           "Mrs Incredible"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Incredible Family (co-leader), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend), Mirage (ally), Snug Porter (receives aircraft from him)",
         "relatives": "Robert Parr(Mr Incredible, husband), Violet Parr(Violet, daughter), Dashiell Parr (Dash, son), Jack-jack (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/236-elastigirl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/236-elastigirl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/236-elastigirl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/236-elastigirl.jpg"
+        "xs": "images/characters/xs/236-elastigirl.jpg",
+        "sm": "images/characters/sm/236-elastigirl.jpg",
+        "md": "images/characters/md/236-elastigirl.jpg",
+        "lg": "images/characters/lg/236-elastigirl.jpg"
       }
     },
     {
@@ -8285,26 +8286,26 @@ var data = {
         "fullName": "Maxwell Dillon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #9 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Sinister Six formerly Emissaries of Evil, Frightful Four and Sinister Twelve",
         "relatives": "Norma Lynn Dillon (ex-wife), Jonathan Dillon (father, deceased), Anita Dillon (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/237-electro.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/237-electro.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/237-electro.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/237-electro.jpg"
+        "xs": "images/characters/xs/237-electro.jpg",
+        "sm": "images/characters/sm/237-electro.jpg",
+        "md": "images/characters/md/237-electro.jpg",
+        "lg": "images/characters/lg/237-electro.jpg"
       }
     },
     {
@@ -8339,24 +8340,24 @@ var data = {
         "aliases": [
           "Erynys (evil self)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Daredevil #168",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Assassin, adventurer, mercenary, former student, dancer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "S.H.I.E.L.D.; formerly Thunderbolts, Hand, Chaste, Heroes For Hire, Code Red, partner of Daredevil and Deadpool",
         "relatives": "Hugo Kostas Natchios (father, deceased), Christina Natchios (mother, deceased), Orestez Natchios (older brother), Demetrios Natchios (Uncle), Alexia Natchios (Aunt)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/238-elektra.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/238-elektra.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/238-elektra.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/238-elektra.jpg"
+        "xs": "images/characters/xs/238-elektra.jpg",
+        "sm": "images/characters/sm/238-elektra.jpg",
+        "md": "images/characters/md/238-elektra.jpg",
+        "lg": "images/characters/lg/238-elektra.jpg"
       }
     },
     {
@@ -8391,7 +8392,7 @@ var data = {
         "aliases": [
           "Alvin Burgson; Molder"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash #112 (1960)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -8405,10 +8406,10 @@ var data = {
         "relatives": "Sue Dibny (wife, deceased); Ken Dibny (brother); Jake Dibny (uncle); Jim (uncle-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/240-elongated-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/240-elongated-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/240-elongated-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/240-elongated-man.jpg"
+        "xs": "images/characters/xs/240-elongated-man.jpg",
+        "sm": "images/characters/sm/240-elongated-man.jpg",
+        "md": "images/characters/md/240-elongated-man.jpg",
+        "lg": "images/characters/lg/240-elongated-man.jpg"
       }
     },
     {
@@ -8450,7 +8451,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "(current) Emma Frost operates from the Massachusetts Academy, Snow Valley, Massachusetts, (former) Hellfire Club mansion in New York City, a home in the Berkshire Mountains in Massachusetts (near the Massachusetts Academy), and places of residence in vari"
       },
       "connections": {
@@ -8458,10 +8459,10 @@ var data = {
         "relatives": "Winston Frost (father), Hazel Frost (mother), Christian Frost (brother) Adrienne Frost (sister, deceased,) Cordelia Frost (sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/241-emma-frost.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/241-emma-frost.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/241-emma-frost.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/241-emma-frost.jpg"
+        "xs": "images/characters/xs/241-emma-frost.jpg",
+        "sm": "images/characters/sm/241-emma-frost.jpg",
+        "md": "images/characters/md/241-emma-frost.jpg",
+        "lg": "images/characters/lg/241-emma-frost.jpg"
       }
     },
     {
@@ -8497,24 +8498,24 @@ var data = {
           "Anita Soulfeeda",
           "Soulsinger"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Strange Adventures #187",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Artist; Magician",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Forgotten Villains, Sentinels of Magic, Shadowpact, Suicide Squad",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/242-enchantress.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/242-enchantress.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/242-enchantress.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/242-enchantress.jpg"
+        "xs": "images/characters/xs/242-enchantress.jpg",
+        "sm": "images/characters/sm/242-enchantress.jpg",
+        "md": "images/characters/md/242-enchantress.jpg",
+        "lg": "images/characters/lg/242-enchantress.jpg"
       }
     },
     {
@@ -8555,7 +8556,7 @@ var data = {
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Hell"
       },
       "connections": {
@@ -8563,10 +8564,10 @@ var data = {
         "relatives": "Belial (father), Raan va Daath (mother), Merlin (half Brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/246-etrigan.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/246-etrigan.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/246-etrigan.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/246-etrigan.jpg"
+        "xs": "images/characters/xs/246-etrigan.jpg",
+        "sm": "images/characters/sm/246-etrigan.jpg",
+        "md": "images/characters/md/246-etrigan.jpg",
+        "lg": "images/characters/lg/246-etrigan.jpg"
       }
     },
     {
@@ -8601,24 +8602,24 @@ var data = {
         "aliases": [
           "Dreadpool"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Deadpool Vol 2 #44 (December, 2011)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Mercenary, Assasin",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Evil Deadpool Corps",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/247-evil-deadpool.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/247-evil-deadpool.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/247-evil-deadpool.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/247-evil-deadpool.jpg"
+        "xs": "images/characters/xs/247-evil-deadpool.jpg",
+        "sm": "images/characters/sm/247-evil-deadpool.jpg",
+        "md": "images/characters/md/247-evil-deadpool.jpg",
+        "lg": "images/characters/lg/247-evil-deadpool.jpg"
       }
     },
     {
@@ -8651,9 +8652,9 @@ var data = {
         "fullName": "Dargin Bokk",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Darkhawk #20 (October, 1992)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -8663,14 +8664,14 @@ var data = {
         "base": "(Formerly) planet Luq"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/248-evilhawk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/248-evilhawk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/248-evilhawk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/248-evilhawk.jpg"
+        "xs": "images/characters/xs/248-evilhawk.jpg",
+        "sm": "images/characters/sm/248-evilhawk.jpg",
+        "md": "images/characters/md/248-evilhawk.jpg",
+        "lg": "images/characters/lg/248-evilhawk.jpg"
       }
     },
     {
@@ -8705,7 +8706,7 @@ var data = {
         "aliases": [
           "Paris Bennet"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Factor #92 (July, 1993)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -8716,13 +8717,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Acolytes, formerly Brotherhood and Marauders",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/249-exodus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/249-exodus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/249-exodus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/249-exodus.jpg"
+        "xs": "images/characters/xs/249-exodus.jpg",
+        "sm": "images/characters/sm/249-exodus.jpg",
+        "md": "images/characters/md/249-exodus.jpg",
+        "lg": "images/characters/lg/249-exodus.jpg"
       }
     },
     {
@@ -8775,10 +8776,10 @@ var data = {
         "relatives": "Paul Wilson (father, deceased); Darlene Wilson (mother, deceased); Sarah Wilson (sister), Gideon Wilson (brother); Jim Wilson (nephew, deceased); Jody Casper (nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/251-falcon.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/251-falcon.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/251-falcon.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/251-falcon.jpg"
+        "xs": "images/characters/xs/251-falcon.jpg",
+        "sm": "images/characters/sm/251-falcon.jpg",
+        "md": "images/characters/md/251-falcon.jpg",
+        "lg": "images/characters/lg/251-falcon.jpg"
       }
     },
     {
@@ -8797,7 +8798,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -8811,26 +8812,26 @@ var data = {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Heralds of Galactus",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/252-fallen-one-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/252-fallen-one-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/252-fallen-one-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/252-fallen-one-ii.jpg"
+        "xs": "images/characters/xs/252-fallen-one-ii.jpg",
+        "sm": "images/characters/sm/252-fallen-one-ii.jpg",
+        "md": "images/characters/md/252-fallen-one-ii.jpg",
+        "lg": "images/characters/lg/252-fallen-one-ii.jpg"
       }
     },
     {
@@ -8849,15 +8850,15 @@ var data = {
         "gender": "Female",
         "race": "Kryptonian",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Faora Hu-Ul",
@@ -8865,7 +8866,7 @@ var data = {
         "aliases": [
           "Katie"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Action Comics #471 (May, 1977)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -8879,10 +8880,10 @@ var data = {
         "relatives": "Hu-Ul (father, presumably deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/253-faora.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/253-faora.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/253-faora.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/253-faora.jpg"
+        "xs": "images/characters/xs/253-faora.jpg",
+        "sm": "images/characters/sm/253-faora.jpg",
+        "md": "images/characters/md/253-faora.jpg",
+        "lg": "images/characters/lg/253-faora.jpg"
       }
     },
     {
@@ -8898,7 +8899,7 @@ var data = {
         "combat": 70
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "5'9",
@@ -8915,7 +8916,7 @@ var data = {
         "fullName": "Maria Callasantos",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "NEW MUTANTS #99",
@@ -8931,10 +8932,10 @@ var data = {
         "relatives": "Mr. Callasantos (father, first name unrevealed, deceased), Marcella Callasantos (mother, deceased), Lucia Callasantos (Thornn, sister), Matteo Callasantos (brother, deceased), Carolina Callasantos (sister, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/254-feral.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/254-feral.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/254-feral.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/254-feral.jpg"
+        "xs": "images/characters/xs/254-feral.jpg",
+        "sm": "images/characters/sm/254-feral.jpg",
+        "md": "images/characters/md/254-feral.jpg",
+        "lg": "images/characters/lg/254-feral.jpg"
       }
     },
     {
@@ -8969,13 +8970,13 @@ var data = {
         "aliases": [
           "He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation)"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "New York, formerly Valley of the Sleeping Dragon in China"
       },
       "connections": {
@@ -8983,10 +8984,10 @@ var data = {
         "relatives": "Fraktur (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/256-fin-fang-foom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/256-fin-fang-foom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/256-fin-fang-foom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/256-fin-fang-foom.jpg"
+        "xs": "images/characters/xs/256-fin-fang-foom.jpg",
+        "sm": "images/characters/sm/256-fin-fang-foom.jpg",
+        "md": "images/characters/md/256-fin-fang-foom.jpg",
+        "lg": "images/characters/lg/256-fin-fang-foom.jpg"
       }
     },
     {
@@ -9034,13 +9035,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Catholic Church; formerly the Rangers, provisional member of the Avengers West Coast, Queen's Vengeance",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/257-firebird.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/257-firebird.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/257-firebird.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/257-firebird.jpg"
+        "xs": "images/characters/xs/257-firebird.jpg",
+        "sm": "images/characters/sm/257-firebird.jpg",
+        "md": "images/characters/md/257-firebird.jpg",
+        "lg": "images/characters/lg/257-firebird.jpg"
       }
     },
     {
@@ -9056,7 +9057,7 @@ var data = {
         "combat": 28
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "6'4'",
@@ -9086,13 +9087,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Formerly Nova Corps, Guardians of the Galaxy (in an alternate future)",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/258-firelord.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/258-firelord.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/258-firelord.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/258-firelord.jpg"
+        "xs": "images/characters/xs/258-firelord.jpg",
+        "sm": "images/characters/sm/258-firelord.jpg",
+        "md": "images/characters/md/258-firelord.jpg",
+        "lg": "images/characters/lg/258-firelord.jpg"
       }
     },
     {
@@ -9143,10 +9144,10 @@ var data = {
         "relatives": "Bartholomew Jones (father), Nana (grandmother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/259-firestar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/259-firestar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/259-firestar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/259-firestar.jpg"
+        "xs": "images/characters/xs/259-firestar.jpg",
+        "sm": "images/characters/sm/259-firestar.jpg",
+        "md": "images/characters/md/259-firestar.jpg",
+        "lg": "images/characters/lg/259-firestar.jpg"
       }
     },
     {
@@ -9165,7 +9166,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -9181,7 +9182,7 @@ var data = {
         "aliases": [
           "The Nuclear Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Firestorm (Volume 3) #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -9195,10 +9196,10 @@ var data = {
         "relatives": "Alvin Rusch (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/260-firestorm.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/260-firestorm.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/260-firestorm.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/260-firestorm.jpg"
+        "xs": "images/characters/xs/260-firestorm.jpg",
+        "sm": "images/characters/sm/260-firestorm.jpg",
+        "md": "images/characters/md/260-firestorm.jpg",
+        "lg": "images/characters/lg/260-firestorm.jpg"
       }
     },
     {
@@ -9236,7 +9237,7 @@ var data = {
           "Ronald Rockwell",
           "Flamehead"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Firestorm #1 (March, 1978)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -9250,10 +9251,10 @@ var data = {
         "relatives": "Edward Raymond (father); Elaine Rockwell (mother, deceased); Felicity Smoak-Raymond (stepmother); Richard Dare (grandfather)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/261-firestorm.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/261-firestorm.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/261-firestorm.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/261-firestorm.jpg"
+        "xs": "images/characters/xs/261-firestorm.jpg",
+        "sm": "images/characters/sm/261-firestorm.jpg",
+        "md": "images/characters/md/261-firestorm.jpg",
+        "lg": "images/characters/lg/261-firestorm.jpg"
       }
     },
     {
@@ -9303,10 +9304,10 @@ var data = {
         "relatives": "Joseph Garrick (father), Joan Williams (wife), Arthur Williams (father-in-law), unnamed adopted son (deceased), Bart Allen (Flash II, ward)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/263-flash.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/263-flash.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/263-flash.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/263-flash.jpg"
+        "xs": "images/characters/xs/263-flash.jpg",
+        "sm": "images/characters/sm/263-flash.jpg",
+        "md": "images/characters/md/263-flash.jpg",
+        "lg": "images/characters/lg/263-flash.jpg"
       }
     },
     {
@@ -9358,10 +9359,10 @@ var data = {
         "relatives": "Henry and Nora (parents), Malcolm Thawne (twin), Iris West Allen (wife), Wally West (Flash III, nephew), Don and Dawn Allen (son and daughter), Bart Allen (Flash IV, grandson), Jenni Ognats (granddaughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/265-flash-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/265-flash-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/265-flash-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/265-flash-ii.jpg"
+        "xs": "images/characters/xs/265-flash-ii.jpg",
+        "sm": "images/characters/sm/265-flash-ii.jpg",
+        "md": "images/characters/md/265-flash-ii.jpg",
+        "lg": "images/characters/lg/265-flash-ii.jpg"
       }
     },
     {
@@ -9387,8 +9388,8 @@ var data = {
           "190 lb",
           "86 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Wally West",
@@ -9412,10 +9413,10 @@ var data = {
         "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (Flash II, uncle), Linda Park West (wife), Jai and Iris West (twin children)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/266-flash-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/266-flash-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/266-flash-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/266-flash-iii.jpg"
+        "xs": "images/characters/xs/266-flash-iii.jpg",
+        "sm": "images/characters/sm/266-flash-iii.jpg",
+        "md": "images/characters/md/266-flash-iii.jpg",
+        "lg": "images/characters/lg/266-flash-iii.jpg"
       }
     },
     {
@@ -9451,7 +9452,7 @@ var data = {
           "Impulse",
           "Kid Flash II"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -9465,10 +9466,10 @@ var data = {
         "relatives": "Barry Allen (Flash II, grandfather), Iris West Allen (grandmother), Don Allen (father), Meloni Thawne (mother), President Thawne (grandfather), Dawn Allen (aunt), Jenni Ognats (cousin), Thaddeus Thawne (clone), Owen Mercer (half-brother), Max Crandall (guardian)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/267-flash-iv.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/267-flash-iv.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/267-flash-iv.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/267-flash-iv.jpg"
+        "xs": "images/characters/xs/267-flash-iv.jpg",
+        "sm": "images/characters/sm/267-flash-iv.jpg",
+        "md": "images/characters/md/267-flash-iv.jpg",
+        "lg": "images/characters/lg/267-flash-iv.jpg"
       }
     },
     {
@@ -9484,7 +9485,7 @@ var data = {
         "combat": 48
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "6'",
@@ -9515,13 +9516,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "X-Factor",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/268-forge.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/268-forge.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/268-forge.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/268-forge.jpg"
+        "xs": "images/characters/xs/268-forge.jpg",
+        "sm": "images/characters/sm/268-forge.jpg",
+        "md": "images/characters/md/268-forge.jpg",
+        "lg": "images/characters/lg/268-forge.jpg"
       }
     },
     {
@@ -9574,10 +9575,10 @@ var data = {
         "relatives": "Reed Richards (Mister Fantastic, father), Susan Storm Richards (Invisible Woman, mother), Valeria Richards (sister), Jonathan Storm (Human Torch, uncle), Nathaniel Richards (paternal grandfather), Franklin Storm (maternal grandfather, deceased), Evelyn Richards, Mary Storm (grandmothers (paternal and maternal respectively), deceased), Benjamin J. Grimm (Thing, godfather), Alicia Masters (godmother)."
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/269-franklin-richards.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/269-franklin-richards.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/269-franklin-richards.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/269-franklin-richards.jpg"
+        "xs": "images/characters/xs/269-franklin-richards.jpg",
+        "sm": "images/characters/sm/269-franklin-richards.jpg",
+        "md": "images/characters/md/269-franklin-richards.jpg",
+        "lg": "images/characters/lg/269-franklin-richards.jpg"
       }
     },
     {
@@ -9593,7 +9594,7 @@ var data = {
         "combat": 10
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "6'2'",
@@ -9622,14 +9623,14 @@ var data = {
         "base": "Inapplicable"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Mary Storm (wife, deceased), Susan Storm Richards (Invisible Woman, daughter), Jonathan Storm (Human Torch, son), Franklin Richards (grandson), Reed Richards (Mister Fantastic, son-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/270-franklin-storm.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/270-franklin-storm.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/270-franklin-storm.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/270-franklin-storm.jpg"
+        "xs": "images/characters/xs/270-franklin-storm.jpg",
+        "sm": "images/characters/sm/270-franklin-storm.jpg",
+        "md": "images/characters/md/270-franklin-storm.jpg",
+        "lg": "images/characters/lg/270-franklin-storm.jpg"
       }
     },
     {
@@ -9662,9 +9663,9 @@ var data = {
         "fullName": "Joanna Cargill",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Factor Vol 1 #4",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -9675,13 +9676,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Acolytes, formerly Alliance of Evil; temporarily X-Men while controlled by Jean Grey, Femizons",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/271-frenzy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/271-frenzy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/271-frenzy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/271-frenzy.jpg"
+        "xs": "images/characters/xs/271-frenzy.jpg",
+        "sm": "images/characters/sm/271-frenzy.jpg",
+        "md": "images/characters/md/271-frenzy.jpg",
+        "lg": "images/characters/lg/271-frenzy.jpg"
       }
     },
     {
@@ -9733,10 +9734,10 @@ var data = {
         "relatives": "Galan (\"father\"), Galacta (daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/273-galactus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/273-galactus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/273-galactus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/273-galactus.jpg"
+        "xs": "images/characters/xs/273-galactus.jpg",
+        "sm": "images/characters/sm/273-galactus.jpg",
+        "md": "images/characters/md/273-galactus.jpg",
+        "lg": "images/characters/lg/273-galactus.jpg"
       }
     },
     {
@@ -9788,10 +9789,10 @@ var data = {
         "relatives": "Jean-Luc LeBeau (father), Belladonna (aka Bella Donna Boudreaux) (wife, separated)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/274-gambit.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/274-gambit.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/274-gambit.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/274-gambit.jpg"
+        "xs": "images/characters/xs/274-gambit.jpg",
+        "sm": "images/characters/sm/274-gambit.jpg",
+        "md": "images/characters/md/274-gambit.jpg",
+        "lg": "images/characters/lg/274-gambit.jpg"
       }
     },
     {
@@ -9841,10 +9842,10 @@ var data = {
         "relatives": "Thanos (foster father), Thane (foster brother), Unnamed former Symbiote"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/275-gamora.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/275-gamora.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/275-gamora.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/275-gamora.jpg"
+        "xs": "images/characters/xs/275-gamora.jpg",
+        "sm": "images/characters/sm/275-gamora.jpg",
+        "md": "images/characters/md/275-gamora.jpg",
+        "lg": "images/characters/lg/275-gamora.jpg"
       }
     },
     {
@@ -9863,7 +9864,7 @@ var data = {
         "gender": "Male",
         "race": "Kryptonian",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -9885,7 +9886,7 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Formerly Krypton; formerly the Phantom Zone; currently Earth"
       },
       "connections": {
@@ -9893,10 +9894,10 @@ var data = {
         "relatives": "Ursa (mate/wife); Lor-Zod (son); Admiral Zod (possible ancestor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/278-general-zod.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/278-general-zod.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/278-general-zod.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/278-general-zod.jpg"
+        "xs": "images/characters/xs/278-general-zod.jpg",
+        "sm": "images/characters/sm/278-general-zod.jpg",
+        "md": "images/characters/md/278-general-zod.jpg",
+        "lg": "images/characters/lg/278-general-zod.jpg"
       }
     },
     {
@@ -9929,7 +9930,7 @@ var data = {
         "fullName": "Johnny Blaze",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Waukegan, Illinois",
         "firstAppearance": "Marvel Spotlight #5 (August, 1972)",
@@ -9945,10 +9946,10 @@ var data = {
         "relatives": "Barton (father, deceased), Clara (mother, deceased), Craig \"Crash\" Simpson (stepfather, deceased), Mona Simpson (stepmother, deceased), Roxanne Simpson (wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/280-ghost-rider.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/280-ghost-rider.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/280-ghost-rider.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/280-ghost-rider.jpg"
+        "xs": "images/characters/xs/280-ghost-rider.jpg",
+        "sm": "images/characters/sm/280-ghost-rider.jpg",
+        "md": "images/characters/md/280-ghost-rider.jpg",
+        "lg": "images/characters/lg/280-ghost-rider.jpg"
       }
     },
     {
@@ -9981,9 +9982,9 @@ var data = {
         "fullName": "Doris Zuel",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Wonder Woman (Volume 1) #9 (1944)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -9994,13 +9995,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "The Injustice League, formerly The Society, Villainy, Inc., The Legion of Doom",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/284-giganta.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/284-giganta.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/284-giganta.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/284-giganta.jpg"
+        "xs": "images/characters/xs/284-giganta.jpg",
+        "sm": "images/characters/sm/284-giganta.jpg",
+        "md": "images/characters/md/284-giganta.jpg",
+        "lg": "images/characters/lg/284-giganta.jpg"
       }
     },
     {
@@ -10037,7 +10038,7 @@ var data = {
           "Praetor",
           "Captain Universe"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men Vol 1 #107 October, 1977",
         "publisher": "Marvel Comics",
         "alignment": "Neutral"
@@ -10051,10 +10052,10 @@ var data = {
         "relatives": "Kubark (Kid Gladiator) (son), Xenith (The Strontian) (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/285-gladiator.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/285-gladiator.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/285-gladiator.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/285-gladiator.jpg"
+        "xs": "images/characters/xs/285-gladiator.jpg",
+        "sm": "images/characters/sm/285-gladiator.jpg",
+        "md": "images/characters/md/285-gladiator.jpg",
+        "lg": "images/characters/lg/285-gladiator.jpg"
       }
     },
     {
@@ -10099,7 +10100,7 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Mobile; formerly Anchorage, Alaska; Reaver Base, Australian Outback, Australia; Empire State Building, New York, New York"
       },
       "connections": {
@@ -10107,10 +10108,10 @@ var data = {
         "relatives": "Mister Sinister (creator), Jean Grey (Phoenix, genetic template), Scott Summers (Cyclops, husband), Nathan Christopher Summers (Cable, son), Christopher Summers (Corsair, father-in-law), Alex Summers (Havok, brother-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/286-goblin-queen.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/286-goblin-queen.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/286-goblin-queen.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/286-goblin-queen.jpg"
+        "xs": "images/characters/xs/286-goblin-queen.jpg",
+        "sm": "images/characters/sm/286-goblin-queen.jpg",
+        "md": "images/characters/md/286-goblin-queen.jpg",
+        "lg": "images/characters/lg/286-goblin-queen.jpg"
       }
     },
     {
@@ -10129,15 +10130,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -10146,24 +10147,24 @@ var data = {
           "Nephut-Sha",
           "Hassan Kareem"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Incredible Hulk #257 (1981)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Sinister Six",
         "relatives": "Seth (creator), Magog (\"brother\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+        "xs": "images/characters/xs/no-portrait.jpg",
+        "sm": "images/characters/sm/no-portrait.jpg",
+        "md": "images/characters/md/no-portrait.jpg",
+        "lg": "images/characters/lg/no-portrait.jpg"
       }
     },
     {
@@ -10201,24 +10202,24 @@ var data = {
           "Gorilla Grodd",
           "Grodd-Son"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash #106 (May, 1959)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gorilla City, Africa"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Boka (wife, separated), Gorbzil Mammit (son), Sam Simeon (grandson)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/294-gorilla-grodd.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/294-gorilla-grodd.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/294-gorilla-grodd.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/294-gorilla-grodd.jpg"
+        "xs": "images/characters/xs/294-gorilla-grodd.jpg",
+        "sm": "images/characters/sm/294-gorilla-grodd.jpg",
+        "md": "images/characters/md/294-gorilla-grodd.jpg",
+        "lg": "images/characters/lg/294-gorilla-grodd.jpg"
       }
     },
     {
@@ -10267,10 +10268,10 @@ var data = {
         "relatives": "Richard Willis (father), Mary Willis (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/296-gravity.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/296-gravity.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/296-gravity.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/296-gravity.jpg"
+        "xs": "images/characters/xs/296-gravity.jpg",
+        "sm": "images/characters/sm/296-gravity.jpg",
+        "md": "images/characters/md/296-gravity.jpg",
+        "lg": "images/characters/lg/296-gravity.jpg"
       }
     },
     {
@@ -10306,7 +10307,7 @@ var data = {
           "The Emerald Archer",
           "Battling Bowman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "More Fun Comics #73 (November 1941)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -10320,10 +10321,10 @@ var data = {
         "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/298-green-arrow.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/298-green-arrow.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/298-green-arrow.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/298-green-arrow.jpg"
+        "xs": "images/characters/xs/298-green-arrow.jpg",
+        "sm": "images/characters/sm/298-green-arrow.jpg",
+        "md": "images/characters/md/298-green-arrow.jpg",
+        "lg": "images/characters/lg/298-green-arrow.jpg"
       }
     },
     {
@@ -10381,10 +10382,10 @@ var data = {
         "relatives": "Alton Osborn, Sr. (paternal great-grandfather, deceased);Alton Osborn, Jr. (paternal grandfather, deceased);Amberson Osborn (father, deceased);Emily Osborn (wife, deceased);Gabriel Stacy (son);Sarah Stacy (daughter);Harry Osborn (Green Goblin II, son);Liz Allan (ex-daughter-in-law);Normie Osborn (grandson);Stanley Osborn (grandson);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/299-green-goblin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/299-green-goblin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/299-green-goblin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/299-green-goblin.jpg"
+        "xs": "images/characters/xs/299-green-goblin.jpg",
+        "sm": "images/characters/sm/299-green-goblin.jpg",
+        "md": "images/characters/md/299-green-goblin.jpg",
+        "lg": "images/characters/lg/299-green-goblin.jpg"
       }
     },
     {
@@ -10417,7 +10418,7 @@ var data = {
         "fullName": "Harold Osborn",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "New York City",
         "firstAppearance": "Amzing Spide-Man #31",
@@ -10425,18 +10426,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Formerly New York City"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Liz Allen-Osborn (Wife,) Norman III (son,)Norman Osborn II - Green Goblin (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/300-green-goblin-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/300-green-goblin-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/300-green-goblin-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/300-green-goblin-ii.jpg"
+        "xs": "images/characters/xs/300-green-goblin-ii.jpg",
+        "sm": "images/characters/sm/300-green-goblin-ii.jpg",
+        "md": "images/characters/md/300-green-goblin-ii.jpg",
+        "lg": "images/characters/lg/300-green-goblin-ii.jpg"
       }
     },
     {
@@ -10463,7 +10464,7 @@ var data = {
           "4 tons"
         ],
         "eyeColor": "Yellow",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Groot",
@@ -10475,24 +10476,24 @@ var data = {
           "ruler of all the shades",
           "Flora colossus Information-silk"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Tales to Astonish #13 (November, 1960)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Area 13 (the Howling Commandos' base)"
       },
       "connections": {
         "groupAffiliation": "Guardians of the Galaxy, Unnamed Kree covert ops team, formerly Galactic Council, Howling Commandos",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/303-groot.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/303-groot.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/303-groot.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/303-groot.jpg"
+        "xs": "images/characters/xs/303-groot.jpg",
+        "sm": "images/characters/sm/303-groot.jpg",
+        "md": "images/characters/md/303-groot.jpg",
+        "lg": "images/characters/lg/303-groot.jpg"
       }
     },
     {
@@ -10540,13 +10541,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Green Lantern Corps, Formerly Justice League of America",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/305-guy-gardner.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/305-guy-gardner.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/305-guy-gardner.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/305-guy-gardner.jpg"
+        "xs": "images/characters/xs/305-guy-gardner.jpg",
+        "sm": "images/characters/sm/305-guy-gardner.jpg",
+        "md": "images/characters/md/305-guy-gardner.jpg",
+        "lg": "images/characters/lg/305-guy-gardner.jpg"
       }
     },
     {
@@ -10590,17 +10591,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, Air Force Test Pilot",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Green Lantern Corps, Justice League of America, Justice League Europe, frequently teamed with the second Flash and the original Green Arrow",
         "relatives": "Martin H. \"Marty\" Jordan (father, deceased), Jessica Jordan (mother, deceased), Jim Jordan (younger brother), Jack Jordan (older brother, deceased), Jan Jordan (sister-in-law, deceased), Helen Jordan (neice), Larry Jordan (Air Wave I - cousin, deceased), Hal Jordan (Air Wave II - cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/306-hal-jordan.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/306-hal-jordan.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/306-hal-jordan.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/306-hal-jordan.jpg"
+        "xs": "images/characters/xs/306-hal-jordan.jpg",
+        "sm": "images/characters/sm/306-hal-jordan.jpg",
+        "md": "images/characters/md/306-hal-jordan.jpg",
+        "lg": "images/characters/lg/306-hal-jordan.jpg"
       }
     },
     {
@@ -10640,7 +10641,7 @@ var data = {
           "Elise Archer",
           "Pumpkin Pooh"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman: Harley Quinn (October, 1999)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -10654,10 +10655,10 @@ var data = {
         "relatives": "Barry Quinzel (brother), Sharon Quinzel (mother), Nick Quinzel (father), Jenny Quinzel (niece), Nicky Quinzel (nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/309-harley-quinn.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/309-harley-quinn.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/309-harley-quinn.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/309-harley-quinn.jpg"
+        "xs": "images/characters/xs/309-harley-quinn.jpg",
+        "sm": "images/characters/sm/309-harley-quinn.jpg",
+        "md": "images/characters/md/309-harley-quinn.jpg",
+        "lg": "images/characters/lg/309-harley-quinn.jpg"
       }
     },
     {
@@ -10707,10 +10708,10 @@ var data = {
         "relatives": "Oscar Summers (adoptive paternal distant ancestor, deceased), Daniel Summers (paternal distant ancestor, deceased), Amanda Mueller (Black Womb) (paternal distant ancestor), unnamed paternal great-grandfather, deceased, Gloria Dayne (Fontanelle) (paternal distant ancestor), Philip Summers (paternal grandfather), Deborah Summers (paternal grandmother), Christopher Summers (Corsair) (father, deceased), Katherine Summers (mother, deceased), Andrew Blanding (adoptive father), Joanna Blanding (adoptive mother), Scott Summers (Cyclops) (brother), Gabriel Summers (Vulcan) (brother, deceased), Ahmet Abdol (Living Monolith) (\"brother\" via X-Gene transfer), Haley Blanding (adoptive sister), Todd Blanding (adoptive brother, deceased), Madelyne Pryor-Summers (Red Queen) (sister-in-law/clone of second sister-in-law, deceased), Jean Grey-Summers (Phoenix) (sister-in-law, deceased), Cal'syee Neramani (Deathbird) (sister-in-law), Nathan Summers (Cable) (nephew), Adam Neramani (X-Treme) (nephew, alleged half-brother), Aliya Dayspring (Jenskot) (niece, deceased), Hope Summers (niece, deceased), Madelyne Pryor (Earth-1298) (Marvel Woman) (alternate reality wife), Scott Summers (Earth-1298) (alternate reality son), Rachel Grey (Marvel Girl) (alternate reality niece), Rachel Summers (Mother Askani) (alternate reality niece, deceased), Nathaniel Grey (X-Man) (alternate reality nephew), Stryfe (nephew's clone, deceased), Tyler Dayspring (Genesis) (great-nephew, deceased), Hope Summers (adoptive great-niece), Janet van Dyne (Wasp) (wife), Katie Summers (daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/311-havok.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/311-havok.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/311-havok.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/311-havok.jpg"
+        "xs": "images/characters/xs/311-havok.jpg",
+        "sm": "images/characters/sm/311-havok.jpg",
+        "md": "images/characters/md/311-havok.jpg",
+        "lg": "images/characters/lg/311-havok.jpg"
       }
     },
     {
@@ -10746,24 +10747,24 @@ var data = {
           "Monarch",
           "Extant"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Showcase #75 (June, 1968)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Black Lantern Corps, Teen Titans, Hawk and Dove, Titans West",
         "relatives": "Don Hall (brother, deceased), Irwin Hall (father), Rae Penfield (mother), James Penfield (uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/312-hawk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/312-hawk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/312-hawk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/312-hawk.jpg"
+        "xs": "images/characters/xs/312-hawk.jpg",
+        "sm": "images/characters/sm/312-hawk.jpg",
+        "md": "images/characters/md/312-hawk.jpg",
+        "lg": "images/characters/lg/312-hawk.jpg"
       }
     },
     {
@@ -10810,17 +10811,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Avengers, Thunderbolts, Avengers West Coast, Great Lakes Avengers, Shadows, Chain Gang, former partner of the Black Widow",
         "relatives": "Harold Barton (father, deceased), Edith Barton (mother, deceased), Bernard Barton (brother, deceased), Barbara Morse (wife, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/313-hawkeye.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/313-hawkeye.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/313-hawkeye.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/313-hawkeye.jpg"
+        "xs": "images/characters/xs/313-hawkeye.jpg",
+        "sm": "images/characters/sm/313-hawkeye.jpg",
+        "md": "images/characters/md/313-hawkeye.jpg",
+        "lg": "images/characters/lg/313-hawkeye.jpg"
       }
     },
     {
@@ -10869,10 +10870,10 @@ var data = {
         "relatives": "Derek Bishop (father); Eleanor Bishop (mother, deceased); Susan Bishop (sister);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/314-hawkeye-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/314-hawkeye-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/314-hawkeye-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/314-hawkeye-ii.jpg"
+        "xs": "images/characters/xs/314-hawkeye-ii.jpg",
+        "sm": "images/characters/sm/314-hawkeye-ii.jpg",
+        "md": "images/characters/md/314-hawkeye-ii.jpg",
+        "lg": "images/characters/lg/314-hawkeye-ii.jpg"
       }
     },
     {
@@ -10908,7 +10909,7 @@ var data = {
           "Chay-Ara; Sheila Carr; Lady Celia Penbrook",
           "Kate Manser; Shiera Sanders"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "JSA Secret Files #1 (August 1999)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -10922,10 +10923,10 @@ var data = {
         "relatives": "Michael Saunders (father, deceased); Trina Saunders (mother, deceased); Cyril \"Speed\" Saunders (grandfather); Mia Saunders (daughter); Shiera Hall (Hawkgirl, great-aunt, deceased); Carter Hall (Hawkman, great-uncle); Hector Hall (Dr. Fate, 2nd cousin); Northwind (cousin through adoption); Hippolyta Hall (Fury, cousin through marriage); Sandman (Daniel Hall, 3rd cousin), Death, Destiny, Destruction, Delirium, Desire (3rd cousins)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/315-hawkgirl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/315-hawkgirl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/315-hawkgirl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/315-hawkgirl.jpg"
+        "xs": "images/characters/xs/315-hawkgirl.jpg",
+        "sm": "images/characters/sm/315-hawkgirl.jpg",
+        "md": "images/characters/md/315-hawkgirl.jpg",
+        "lg": "images/characters/lg/315-hawkgirl.jpg"
       }
     },
     {
@@ -10960,7 +10961,7 @@ var data = {
         "aliases": [
           "Rory Calhoun"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash #140 (November, 1963)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -10971,13 +10972,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Rogues; formerly Secret Society of Super-Villains, Legion of Doom",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/320-heat-wave.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/320-heat-wave.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/320-heat-wave.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/320-heat-wave.jpg"
+        "xs": "images/characters/xs/320-heat-wave.jpg",
+        "sm": "images/characters/sm/320-heat-wave.jpg",
+        "md": "images/characters/md/320-heat-wave.jpg",
+        "lg": "images/characters/lg/320-heat-wave.jpg"
       }
     },
     {
@@ -11012,24 +11013,24 @@ var data = {
         "aliases": [
           "Goddess of Death"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Journey into Mystery #102",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Asgardian Goddess of Death, former Ruler of Hel and Niffleheim",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Loki (father), Thor (Uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/321-hela.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/321-hela.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/321-hela.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/321-hela.jpg"
+        "xs": "images/characters/xs/321-hela.jpg",
+        "sm": "images/characters/sm/321-hela.jpg",
+        "md": "images/characters/md/321-hela.jpg",
+        "lg": "images/characters/lg/321-hela.jpg"
       }
     },
     {
@@ -11065,24 +11066,24 @@ var data = {
           "World Destroyer",
           "The Great Beast"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Dime Press #4 (May 1, 1993)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Abe Sapien, Liz Sherman, Roger the Homunculus, Savage Dragon, the Goon, Batman, Starman, Ghost, Painkiller Jane, Lobster Johnson, Torch of Liberty",
         "relatives": "Catherine Tanner-Tremaine (mother, deceased), two unnamed maternal half-siblings (deceased), Professor Trevor Bruttenholm (foster father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/322-hellboy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/322-hellboy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/322-hellboy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/322-hellboy.jpg"
+        "xs": "images/characters/xs/322-hellboy.jpg",
+        "sm": "images/characters/sm/322-hellboy.jpg",
+        "md": "images/characters/md/322-hellboy.jpg",
+        "lg": "images/characters/lg/322-hellboy.jpg"
       }
     },
     {
@@ -11133,10 +11134,10 @@ var data = {
         "relatives": "Joshua Walker (father), Dorothy Walker (mother, deceased), Sophia (maternal aunt), Bea (step-mother), Mickey Walker (brother), Robert \"Buzz\" Baxter (aka Mad-Dog, ex-husband), Daimon Hellstrom (aka Hellstorm, ex-husband), Percy Walker"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/323-hellcat.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/323-hellcat.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/323-hellcat.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/323-hellcat.jpg"
+        "xs": "images/characters/xs/323-hellcat.jpg",
+        "sm": "images/characters/sm/323-hellcat.jpg",
+        "md": "images/characters/md/323-hellcat.jpg",
+        "lg": "images/characters/lg/323-hellcat.jpg"
       }
     },
     {
@@ -11182,7 +11183,7 @@ var data = {
           "Agent 74"
         ],
         "placeOfBirth": "Thebes, Greece",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
@@ -11192,13 +11193,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Formerly God Squad, Council of Godheads, Olympia Corp., Mighty Avengers, Renegades, Secret Avengers, Avengers, Champions of Los Angeles, Defenders, Heroes for Hire, Damage Control, Olympian Gods, Argonauts, Defenders for a Day",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/325-hercules.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/325-hercules.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/325-hercules.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/325-hercules.jpg"
+        "xs": "images/characters/xs/325-hercules.jpg",
+        "sm": "images/characters/sm/325-hercules.jpg",
+        "md": "images/characters/md/325-hercules.jpg",
+        "lg": "images/characters/lg/325-hercules.jpg"
       }
     },
     {
@@ -11217,15 +11218,15 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Mindy McCready",
@@ -11234,24 +11235,24 @@ var data = {
           "Hit Girl",
           "Hitgirl"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Icon Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/327-hit-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/327-hit-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/327-hit-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/327-hit-girl.jpg"
+        "xs": "images/characters/xs/327-hit-girl.jpg",
+        "sm": "images/characters/sm/327-hit-girl.jpg",
+        "md": "images/characters/md/327-hit-girl.jpg",
+        "lg": "images/characters/lg/327-hit-girl.jpg"
       }
     },
     {
@@ -11291,24 +11292,24 @@ var data = {
           "Little Girl",
           "Little Momma"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men Vol 2 #205 (2008)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly Cable",
         "relatives": "Louise Spalding (mother, deceased), unknown biological father, Mrs. Spalding (maternal grandmother), Cable (adoptive father, deceased), Hope (adoptive mother, deceased), Cyclops (adoptive grandfather), Red Queen / Phoenix (adoptive grandmothers, deceased?), X-Man (adoptive uncle), Marvel Girl (adoptive aunt), Havok (adoptive granduncle), Vulcan (adoptive granduncle, deceased), Deathbird (adoptive grandaunt)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/330-hope-summers.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/330-hope-summers.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/330-hope-summers.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/330-hope-summers.jpg"
+        "xs": "images/characters/xs/330-hope-summers.jpg",
+        "sm": "images/characters/sm/330-hope-summers.jpg",
+        "md": "images/characters/md/330-hope-summers.jpg",
+        "lg": "images/characters/lg/330-hope-summers.jpg"
       }
     },
     {
@@ -11364,10 +11365,10 @@ var data = {
         "relatives": "Betty Ross Talbot Banner (wife), Brian Banner (father, apparently deceased), Rebecca Banner (mother, deceased), Morris Walters (uncle), Elaine Banner Walters (aunt, deceased), Jennifer Walters (She-Hulk, cousin), Thaddeus E. 'Thunderbolt' Ross (father"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/332-hulk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/332-hulk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/332-hulk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/332-hulk.jpg"
+        "xs": "images/characters/xs/332-hulk.jpg",
+        "sm": "images/characters/sm/332-hulk.jpg",
+        "md": "images/characters/md/332-hulk.jpg",
+        "lg": "images/characters/lg/332-hulk.jpg"
       }
     },
     {
@@ -11417,10 +11418,10 @@ var data = {
         "relatives": "Susan Richards - Invisible Woman (sister), Franklin Richards (nephew), Reed Richards - Mister Fantastic (brother-in-law) Lyja (ex-wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/333-human-torch.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/333-human-torch.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/333-human-torch.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/333-human-torch.jpg"
+        "xs": "images/characters/xs/333-human-torch.jpg",
+        "sm": "images/characters/sm/333-human-torch.jpg",
+        "md": "images/characters/md/333-human-torch.jpg",
+        "lg": "images/characters/lg/333-human-torch.jpg"
       }
     },
     {
@@ -11457,7 +11458,7 @@ var data = {
           "Sicilian",
           "Mafia Princess"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Huntress #1 (April 1989)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -11471,10 +11472,10 @@ var data = {
         "relatives": "Giuseppe Bertinelli (great-grandfather; deceased), Alfredo Bertinelli (grandfather; deceased), Franco Bertinelli (father; deceased), Maria Panessa Bertinelli (mother; deceased), Santo Cassamento (biological father; deceased), Pino Bertinelli (brother; deceased), Freddy Caldone (cousin; deceased), Tomaso Panessa (uncle), Graziella Panessa (aunt), Monica Simonetta Panessa (cousin), Claudio Panessa (cousin; deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/334-huntress.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/334-huntress.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/334-huntress.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/334-huntress.jpg"
+        "xs": "images/characters/xs/334-huntress.jpg",
+        "sm": "images/characters/sm/334-huntress.jpg",
+        "md": "images/characters/md/334-huntress.jpg",
+        "lg": "images/characters/lg/334-huntress.jpg"
       }
     },
     {
@@ -11523,10 +11524,10 @@ var data = {
         "relatives": "Thomas Zebulon Guthrie (father,deceased),Lucinda Guthrie (mother),Samuel Zachery Guthrie (brother,Cannonball),Joshua 'Jay' Guthrie (brother,Icarus),Joella Guthrie (sister),Elizabeth Guthrie (sister),Melody Guthrie (sister),Jeb Guthrie (brother),Lewis Guth"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/335-husk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/335-husk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/335-husk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/335-husk.jpg"
+        "xs": "images/characters/xs/335-husk.jpg",
+        "sm": "images/characters/sm/335-husk.jpg",
+        "md": "images/characters/md/335-husk.jpg",
+        "lg": "images/characters/lg/335-husk.jpg"
       }
     },
     {
@@ -11571,7 +11572,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Bedford-Stuyvesant, Brooklyn, New York City, New York"
       },
       "connections": {
@@ -11579,10 +11580,10 @@ var data = {
         "relatives": "Unnamed mother, Derek Washington (brother, deceased), Hybrid (\"former symbiote\", defused)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/336-hybrid.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/336-hybrid.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/336-hybrid.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/336-hybrid.jpg"
+        "xs": "images/characters/xs/336-hybrid.jpg",
+        "sm": "images/characters/sm/336-hybrid.jpg",
+        "md": "images/characters/md/336-hybrid.jpg",
+        "lg": "images/characters/lg/336-hybrid.jpg"
       }
     },
     {
@@ -11624,17 +11625,17 @@ var data = {
       },
       "work": {
         "occupation": "Professional Criminal; former crewman of cargo ship",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Member of the Masters of Evil; formerly Sinister Syndicate; Frightful Four, Sinister Six, Sinister Twelve",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/337-hydro-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/337-hydro-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/337-hydro-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/337-hydro-man.jpg"
+        "xs": "images/characters/xs/337-hydro-man.jpg",
+        "sm": "images/characters/sm/337-hydro-man.jpg",
+        "md": "images/characters/md/337-hydro-man.jpg",
+        "lg": "images/characters/lg/337-hydro-man.jpg"
       }
     },
     {
@@ -11672,24 +11673,24 @@ var data = {
           "Mr. Kant",
           "Marcus Milton"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Avengers #85",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; (Formerly) Cartoonist, government agent",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Squadron Supreme, (Formerly) Star Masters, ally of Exiles",
         "relatives": "Mr. and Mrs. Hamilton (foster parents)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/338-hyperion.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/338-hyperion.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/338-hyperion.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/338-hyperion.jpg"
+        "xs": "images/characters/xs/338-hyperion.jpg",
+        "sm": "images/characters/sm/338-hyperion.jpg",
+        "md": "images/characters/md/338-hyperion.jpg",
+        "lg": "images/characters/lg/338-hyperion.jpg"
       }
     },
     {
@@ -11736,17 +11737,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, formerly teacher, accountant, student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men (Jean Grey School member, founding member); formerly Murder Circus (brainwashed), Excelsiors (squad leader), The Twelve, X-Factor/X-Terminators (founding member), Chosen (Dualers), Secret Defenders, Defenders, Champions (founder and founding member)",
         "relatives": "William Robert Drake (father), Madeline Beatrice Bass Drake (mother), Mary (cousin), Joel (cousin), Anne (aunt)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/339-iceman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/339-iceman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/339-iceman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/339-iceman.jpg"
+        "xs": "images/characters/xs/339-iceman.jpg",
+        "sm": "images/characters/sm/339-iceman.jpg",
+        "md": "images/characters/md/339-iceman.jpg",
+        "lg": "images/characters/lg/339-iceman.jpg"
       }
     },
     {
@@ -11782,7 +11783,7 @@ var data = {
           "Flash IV",
           "Kid Flash II"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -11796,10 +11797,10 @@ var data = {
         "relatives": "Don Allen (father), Meloni Thawne (mother), Barry Allen (grandfather), Iris West-Allen (grandmother), President Thawne (grandfather), Captain Boomerang (Owen Mercer) (half-brother), Allen Family"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/340-impulse.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/340-impulse.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/340-impulse.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/340-impulse.jpg"
+        "xs": "images/characters/xs/340-impulse.jpg",
+        "sm": "images/characters/sm/340-impulse.jpg",
+        "md": "images/characters/md/340-impulse.jpg",
+        "lg": "images/characters/lg/340-impulse.jpg"
       }
     },
     {
@@ -11818,14 +11819,14 @@ var data = {
         "gender": "Female",
         "race": "Alien",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "unknown",
         "hairColor": "Purple"
       },
       "biography": {
@@ -11834,24 +11835,24 @@ var data = {
         "aliases": [
           "Indigo-1"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
         "publisher": "DC Comics",
         "alignment": "Neutral"
       },
       "work": {
         "occupation": "Leader of the Indigo Tribe",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Indigo Tribe; formerly the New Guardians",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/342-indigo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/342-indigo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/342-indigo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/342-indigo.jpg"
+        "xs": "images/characters/xs/342-indigo.jpg",
+        "sm": "images/characters/sm/342-indigo.jpg",
+        "md": "images/characters/md/342-indigo.jpg",
+        "lg": "images/characters/lg/342-indigo.jpg"
       }
     },
     {
@@ -11884,26 +11885,26 @@ var data = {
         "fullName": "Eric Gitter",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Young X-Men #1 (May, 2008)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly X-Men, Young X-Men",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/343-ink.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/343-ink.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/343-ink.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/343-ink.jpg"
+        "xs": "images/characters/xs/343-ink.jpg",
+        "sm": "images/characters/sm/343-ink.jpg",
+        "md": "images/characters/md/343-ink.jpg",
+        "lg": "images/characters/lg/343-ink.jpg"
       }
     },
     {
@@ -11952,10 +11953,10 @@ var data = {
         "relatives": "Reed Richards (Mister Fantastic, husband), Franklin Richards (son), Valeria Richards (daughter), Johnny Storm (Human Torch, brother), Franklin Storm (father, deceased), Mary Storm (mother, deceased), Marygay Jewel Dinkins (aunt), \"Bones\" (cousin), Evelyn Richards (mother-in-law, deceased), Nathaniel Richards (father-in-law), Cassandra Richards (Warlord, mother-in-law, deceased), unnamed child of Nathaniel Richards (brother-in-law), Tara Richards (Huntara, sister-in-law), Kristoff Vernard (alleged brother-in-law), Lyja (sister-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/344-invisible-woman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/344-invisible-woman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/344-invisible-woman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/344-invisible-woman.jpg"
+        "xs": "images/characters/xs/344-invisible-woman.jpg",
+        "sm": "images/characters/sm/344-invisible-woman.jpg",
+        "md": "images/characters/md/344-invisible-woman.jpg",
+        "lg": "images/characters/lg/344-invisible-woman.jpg"
       }
     },
     {
@@ -11994,7 +11995,7 @@ var data = {
           "Young Dragon",
           "Danny Rand"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Marvel Premiere #15 (May 1974)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -12008,10 +12009,10 @@ var data = {
         "relatives": "Wendell Rand-K'ai (father, deceased), Heather Duncan Rand (mother, deceased), Yu-Ti (adopted uncle), Miranda Rand-K'ai (half-sister), Lord Tuan (adopted paternal grandfather, deceased), Lady Ming (adopted paternal grandmother, deceased), Thomas Duncan (maternal grandfather)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/345-iron-fist.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/345-iron-fist.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/345-iron-fist.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/345-iron-fist.jpg"
+        "xs": "images/characters/xs/345-iron-fist.jpg",
+        "sm": "images/characters/sm/345-iron-fist.jpg",
+        "md": "images/characters/md/345-iron-fist.jpg",
+        "lg": "images/characters/lg/345-iron-fist.jpg"
       }
     },
     {
@@ -12065,10 +12066,10 @@ var data = {
         "relatives": "Howard Anthony Stark (father, deceased), Maria Stark (mother, deceased), Morgan Stark (cousin), Isaac Stark (ancestor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/346-iron-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/346-iron-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/346-iron-man.jpg"
+        "xs": "images/characters/xs/346-iron-man.jpg",
+        "sm": "images/characters/sm/346-iron-man.jpg",
+        "md": "images/characters/md/346-iron-man.jpg",
+        "lg": "images/characters/lg/346-iron-man.jpg"
       }
     },
     {
@@ -12087,7 +12088,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -12101,26 +12102,26 @@ var data = {
         "fullName": "Obadiah Stane",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "CEO Stane International",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Stane International",
         "relatives": "Zebediah (father, deceased), unnamed mother (deceased), Ezekiel Stane (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/347-iron-monger.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/347-iron-monger.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/347-iron-monger.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/347-iron-monger.jpg"
+        "xs": "images/characters/xs/347-iron-monger.jpg",
+        "sm": "images/characters/sm/347-iron-monger.jpg",
+        "md": "images/characters/md/347-iron-monger.jpg",
+        "lg": "images/characters/lg/347-iron-monger.jpg"
       }
     },
     {
@@ -12139,23 +12140,23 @@ var data = {
         "gender": "Female",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Adrianna Tomaz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -12169,10 +12170,10 @@ var data = {
         "relatives": "Amon Tomaz (brother, deceased), Black Adam (husband)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/348-isis.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/348-isis.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/348-isis.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/348-isis.jpg"
+        "xs": "images/characters/xs/348-isis.jpg",
+        "sm": "images/characters/sm/348-isis.jpg",
+        "md": "images/characters/md/348-isis.jpg",
+        "lg": "images/characters/lg/348-isis.jpg"
       }
     },
     {
@@ -12205,7 +12206,7 @@ var data = {
         "fullName": "Jonathan Hart",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "New Haven, Connecticut",
         "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
@@ -12221,10 +12222,10 @@ var data = {
         "relatives": "Philip (father, deceased), Marie (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/350-jack-of-hearts.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/350-jack-of-hearts.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/350-jack-of-hearts.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/350-jack-of-hearts.jpg"
+        "xs": "images/characters/xs/350-jack-of-hearts.jpg",
+        "sm": "images/characters/sm/350-jack-of-hearts.jpg",
+        "md": "images/characters/md/350-jack-of-hearts.jpg",
+        "lg": "images/characters/lg/350-jack-of-hearts.jpg"
       }
     },
     {
@@ -12257,26 +12258,26 @@ var data = {
         "fullName": "Jack-Jack Parr",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Incredibles (Movie, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Incredible Family (genetic member), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend)",
         "relatives": "Robert Parr(Mr Incredible, father), Helen Parr (Elastigirl, mother), Violet Parr(Violet, sister), Dashiell Parr (Dash, brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/351-jack-jack.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/351-jack-jack.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/351-jack-jack.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/351-jack-jack.jpg"
+        "xs": "images/characters/xs/351-jack-jack.jpg",
+        "sm": "images/characters/sm/351-jack-jack.jpg",
+        "md": "images/characters/md/351-jack-jack.jpg",
+        "lg": "images/characters/lg/351-jack-jack.jpg"
       }
     },
     {
@@ -12312,7 +12313,7 @@ var data = {
           "Redd Dayspring",
           "Marvel Girl"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men #1 (September, 1963)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -12326,10 +12327,10 @@ var data = {
         "relatives": "Rachel Summers (daughter from an alternate universe), X-Man (son from an alternate universe), Cyclops (ex-husband), Havok (former brother-in-law), Corsair (former father-in-law), Madelyne Pryor (clone), Cable (adoptive/biological son), Stryfe (cloned biological son), Genesis (grandson)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/356-jean-grey.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/356-jean-grey.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/356-jean-grey.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/356-jean-grey.jpg"
+        "xs": "images/characters/xs/356-jean-grey.jpg",
+        "sm": "images/characters/sm/356-jean-grey.jpg",
+        "md": "images/characters/md/356-jean-grey.jpg",
+        "lg": "images/characters/lg/356-jean-grey.jpg"
       }
     },
     {
@@ -12371,17 +12372,17 @@ var data = {
       },
       "work": {
         "occupation": "Sorceress, student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Witches, Legion of the Night",
         "relatives": "Andrew Jackson Kale (brother, deceased), Joshua Kale (grandfather, deceased), Naomi Kale (aunt), Johnny Blaze ( Ghost Rider ), Barbara and Daniel Ketch (cousins); Illyana Kale, Noble and pastor Kale, Magdalena (ancestors)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/358-jennifer-kale.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/358-jennifer-kale.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/358-jennifer-kale.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/358-jennifer-kale.jpg"
+        "xs": "images/characters/xs/358-jennifer-kale.jpg",
+        "sm": "images/characters/sm/358-jennifer-kale.jpg",
+        "md": "images/characters/md/358-jennifer-kale.jpg",
+        "lg": "images/characters/lg/358-jennifer-kale.jpg"
       }
     },
     {
@@ -12400,7 +12401,7 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -12417,24 +12418,24 @@ var data = {
           "Green Lantern",
           "Power Ring"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Green Lantern Vol 5 #20 (July, 2013)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Sara Cruz (sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/360-jessica-cruz.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/360-jessica-cruz.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/360-jessica-cruz.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/360-jessica-cruz.jpg"
+        "xs": "images/characters/xs/360-jessica-cruz.jpg",
+        "sm": "images/characters/sm/360-jessica-cruz.jpg",
+        "md": "images/characters/md/360-jessica-cruz.jpg",
+        "lg": "images/characters/lg/360-jessica-cruz.jpg"
       }
     },
     {
@@ -12479,17 +12480,17 @@ var data = {
       },
       "work": {
         "occupation": "Special Consultant to \"The Pulse\", a Daily Bugle supplement; formerly private investigator, adventurer, short-time vigilante",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly New Avengers, Daily Bugle, Alias Investigations",
         "relatives": "unnamed mother (deceased); Dave Cambell (father, deceased); Phillip Cambell (brother, deceased); unnamed adoptive mother; unnamed adoptive father; unnamed adoptive sister; Jenny (adoptive aunt); Luke Cage (husband); Danielle Cage (daughter);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/361-jessica-jones.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/361-jessica-jones.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/361-jessica-jones.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/361-jessica-jones.jpg"
+        "xs": "images/characters/xs/361-jessica-jones.jpg",
+        "sm": "images/characters/sm/361-jessica-jones.jpg",
+        "md": "images/characters/md/361-jessica-jones.jpg",
+        "lg": "images/characters/lg/361-jessica-jones.jpg"
       }
     },
     {
@@ -12524,24 +12525,24 @@ var data = {
         "aliases": [
           "Hellblazer"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Justice League Dark, Justice League",
         "relatives": "Thomas Constantine (father, deceased), Cheryl Constantine (sister, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/367-john-constantine.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/367-john-constantine.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/367-john-constantine.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/367-john-constantine.jpg"
+        "xs": "images/characters/xs/367-john-constantine.jpg",
+        "sm": "images/characters/sm/367-john-constantine.jpg",
+        "md": "images/characters/md/367-john-constantine.jpg",
+        "lg": "images/characters/lg/367-john-constantine.jpg"
       }
     },
     {
@@ -12580,24 +12581,24 @@ var data = {
           "Guardian",
           "Vindicator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former Spy, Government Operative, Mercenary, Soldier",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Weapon X Program, Team X, C.I.A.",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+        "xs": "images/characters/xs/no-portrait.jpg",
+        "sm": "images/characters/sm/no-portrait.jpg",
+        "md": "images/characters/md/no-portrait.jpg",
+        "lg": "images/characters/lg/no-portrait.jpg"
       }
     },
     {
@@ -12637,13 +12638,13 @@ var data = {
           "Joe Kerr",
           "Mr. J"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #1 (Spring 1940)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
       },
       "connections": {
@@ -12651,10 +12652,10 @@ var data = {
         "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/370-joker.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/370-joker.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/370-joker.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/370-joker.jpg"
+        "xs": "images/characters/xs/370-joker.jpg",
+        "sm": "images/characters/sm/370-joker.jpg",
+        "md": "images/characters/md/370-joker.jpg",
+        "lg": "images/characters/lg/370-joker.jpg"
       }
     },
     {
@@ -12697,17 +12698,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Young Allies; formerly Redeemers, Thunderbolts",
         "relatives": "Robert (father, deceased), Jane (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/371-jolt.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/371-jolt.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/371-jolt.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/371-jolt.jpg"
+        "xs": "images/characters/xs/371-jolt.jpg",
+        "sm": "images/characters/sm/371-jolt.jpg",
+        "md": "images/characters/md/371-jolt.jpg",
+        "lg": "images/characters/lg/371-jolt.jpg"
       }
     },
     {
@@ -12756,10 +12757,10 @@ var data = {
         "relatives": "Dr. and Mrs. Lee (parents, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/372-jubilee.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/372-jubilee.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/372-jubilee.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/372-jubilee.jpg"
+        "xs": "images/characters/xs/372-jubilee.jpg",
+        "sm": "images/characters/sm/372-jubilee.jpg",
+        "md": "images/characters/md/372-jubilee.jpg",
+        "lg": "images/characters/lg/372-jubilee.jpg"
       }
     },
     {
@@ -12802,17 +12803,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer formerly Professional criminal, mercenary, soldier",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Worthy, Thunderbolts, X-Men, Excalibur, Black Tom Cassidy (partner), Exemplars, Brotherhood of Evil Mutants, New World Order, Exiles, U.S. Army",
         "relatives": "Kurt Marko (father, deceased), Marjorie Marko (mother, deceased), Sharon Xavier (step-mother, deceased), Charles Xavier (Professor X, step-brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/374-juggernaut.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/374-juggernaut.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/374-juggernaut.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/374-juggernaut.jpg"
+        "xs": "images/characters/xs/374-juggernaut.jpg",
+        "sm": "images/characters/sm/374-juggernaut.jpg",
+        "md": "images/characters/md/374-juggernaut.jpg",
+        "lg": "images/characters/lg/374-juggernaut.jpg"
       }
     },
     {
@@ -12831,40 +12832,40 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men 2099 #1 (October, 1993)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Mercenary; Former member of S.H.I.E.L.D.",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Former member of X-Men, former member of S.H.I.E.L.D.",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/375-junkpile.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/375-junkpile.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/375-junkpile.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/375-junkpile.jpg"
+        "xs": "images/characters/xs/375-junkpile.jpg",
+        "sm": "images/characters/sm/375-junkpile.jpg",
+        "md": "images/characters/md/375-junkpile.jpg",
+        "lg": "images/characters/lg/375-junkpile.jpg"
       }
     },
     {
@@ -12903,7 +12904,7 @@ var data = {
           "Superhuman Penitentiary Prisoner 344678",
           "\"Super Tights\""
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Giant-Size Defenders #5 (July, 1975)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -12917,10 +12918,10 @@ var data = {
         "relatives": "Jerzy Astroyevicht (aka Jerry Astrovik; paternal grandfather); Katerina Astroyevicht (aka Katerina Astrovik; paternal grandmother); Arnold Astrovik (father, deceased); Norma Astrovik (mother);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/376-justice.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/376-justice.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/376-justice.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/376-justice.jpg"
+        "xs": "images/characters/xs/376-justice.jpg",
+        "sm": "images/characters/sm/376-justice.jpg",
+        "md": "images/characters/md/376-justice.jpg",
+        "lg": "images/characters/lg/376-justice.jpg"
       }
     },
     {
@@ -12968,18 +12969,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly the Council of Kangs, Cross-Time Kangs",
         "relatives": "Cassandra Richards, their unnamed son, and matriarch of the Eyriennes; Tara Richards, Reed Richards ( Mister Fantastic ), Franklin Richards, Valeria Richards (all ancestors); various Eyriennes (common ancestry); Victor Von Doom (Doctor Doom, alleged ancestor); Ramades (son), Marcus Kang I-XXIII (sons, deceased); Immortus, Iron Lad, and numerous other alternate dimensional counterparts and their offspring"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/379-kang.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/379-kang.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/379-kang.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/379-kang.jpg"
+        "xs": "images/characters/xs/379-kang.jpg",
+        "sm": "images/characters/sm/379-kang.jpg",
+        "md": "images/characters/md/379-kang.jpg",
+        "lg": "images/characters/lg/379-kang.jpg"
       }
     },
     {
@@ -12998,14 +12999,14 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "unknown",
         "hairColor": "Black"
       },
       "biography": {
@@ -13023,24 +13024,24 @@ var data = {
           "An Empty Shell",
           "Kevin E. Levin"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Ben 10 S01",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Mrs. Levin (mother), Devlin Levin (alternate future son), Ben Tennyson (Ben 10, best friend), Harvey Hackett (Stepfather), Gwen Tennyson(girlfriend)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/382-kevin-11.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/382-kevin-11.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/382-kevin-11.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/382-kevin-11.jpg"
+        "xs": "images/characters/xs/382-kevin-11.jpg",
+        "sm": "images/characters/sm/382-kevin-11.jpg",
+        "md": "images/characters/md/382-kevin-11.jpg",
+        "lg": "images/characters/lg/382-kevin-11.jpg"
       }
     },
     {
@@ -13059,7 +13060,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -13082,17 +13083,17 @@ var data = {
       },
       "work": {
         "occupation": "Student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Mother (unnamed, deceased), Father (unnamed)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/383-kick-ass.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/383-kick-ass.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/383-kick-ass.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/383-kick-ass.jpg"
+        "xs": "images/characters/xs/383-kick-ass.jpg",
+        "sm": "images/characters/sm/383-kick-ass.jpg",
+        "md": "images/characters/md/383-kick-ass.jpg",
+        "lg": "images/characters/lg/383-kick-ass.jpg"
       }
     },
     {
@@ -13111,7 +13112,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -13133,18 +13134,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Flash Family, Teen Titans, New Teen Titans",
         "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (uncle), Linda Park West (wife), Jai and Iris West (twin children)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/384-kid-flash.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/384-kid-flash.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/384-kid-flash.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/384-kid-flash.jpg"
+        "xs": "images/characters/xs/384-kid-flash.jpg",
+        "sm": "images/characters/sm/384-kid-flash.jpg",
+        "md": "images/characters/md/384-kid-flash.jpg",
+        "lg": "images/characters/lg/384-kid-flash.jpg"
       }
     },
     {
@@ -13177,26 +13178,26 @@ var data = {
         "fullName": "Waylon Jones",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #357 (March, 1983)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City"
       },
       "connections": {
         "groupAffiliation": "Secret Society of Super-Villains",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/386-killer-croc.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/386-killer-croc.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/386-killer-croc.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/386-killer-croc.jpg"
+        "xs": "images/characters/xs/386-killer-croc.jpg",
+        "sm": "images/characters/sm/386-killer-croc.jpg",
+        "md": "images/characters/md/386-killer-croc.jpg",
+        "lg": "images/characters/lg/386-killer-croc.jpg"
       }
     },
     {
@@ -13215,7 +13216,7 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -13229,9 +13230,9 @@ var data = {
         "fullName": "Caitlin Snow",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Fury of Firestorm: The Nuclear Men #19",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -13241,14 +13242,14 @@ var data = {
         "base": "Pittsburgh"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/387-killer-frost.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/387-killer-frost.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/387-killer-frost.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/387-killer-frost.jpg"
+        "xs": "images/characters/xs/387-killer-frost.jpg",
+        "sm": "images/characters/sm/387-killer-frost.jpg",
+        "md": "images/characters/md/387-killer-frost.jpg",
+        "lg": "images/characters/lg/387-killer-frost.jpg"
       }
     },
     {
@@ -13294,18 +13295,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Oa, formerly Earth, Bolovax Vik"
       },
       "connections": {
         "groupAffiliation": "Green Lantern Corps; formerly New Guardians, Justice League International",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/388-kilowog.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/388-kilowog.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/388-kilowog.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/388-kilowog.jpg"
+        "xs": "images/characters/xs/388-kilowog.jpg",
+        "sm": "images/characters/sm/388-kilowog.jpg",
+        "md": "images/characters/md/388-kilowog.jpg",
+        "lg": "images/characters/lg/388-kilowog.jpg"
       }
     },
     {
@@ -13324,7 +13325,7 @@ var data = {
         "gender": "Male",
         "race": "Animal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -13338,9 +13339,9 @@ var data = {
         "fullName": "Nanaue",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Superboy Vol 4 #0",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -13350,14 +13351,14 @@ var data = {
         "base": "Honolulu, Hawaii"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/390-king-shark.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/390-king-shark.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/390-king-shark.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/390-king-shark.jpg"
+        "xs": "images/characters/xs/390-king-shark.jpg",
+        "sm": "images/characters/sm/390-king-shark.jpg",
+        "md": "images/characters/md/390-king-shark.jpg",
+        "lg": "images/characters/lg/390-king-shark.jpg"
       }
     },
     {
@@ -13408,10 +13409,10 @@ var data = {
         "relatives": "Anatoly Fyskov (ancestor); Vanessa Fisk (wife, deceased); Rose (Richard Fisk) (son, deceased);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/391-kingpin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/391-kingpin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/391-kingpin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/391-kingpin.jpg"
+        "xs": "images/characters/xs/391-kingpin.jpg",
+        "sm": "images/characters/sm/391-kingpin.jpg",
+        "md": "images/characters/md/391-kingpin.jpg",
+        "lg": "images/characters/lg/391-kingpin.jpg"
       }
     },
     {
@@ -13444,7 +13445,7 @@ var data = {
         "fullName": "Ulysses Klaw",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Vlaardingen, Netherlands",
         "firstAppearance": "Fantastic Four #53 (August, 1966)",
@@ -13453,17 +13454,17 @@ var data = {
       },
       "work": {
         "occupation": "Criminal, former Scientist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Former member of the Masters of Evil, Fearsome Foursome, and Frightful Four; Former ally of Solarr, Molecule Man, and Doctor Doom",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/392-klaw.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/392-klaw.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/392-klaw.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/392-klaw.jpg"
+        "xs": "images/characters/xs/392-klaw.jpg",
+        "sm": "images/characters/sm/392-klaw.jpg",
+        "md": "images/characters/md/392-klaw.jpg",
+        "lg": "images/characters/lg/392-klaw.jpg"
       }
     },
     {
@@ -13496,26 +13497,26 @@ var data = {
         "fullName": "Alyosha Kravinoff",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Spectacular Spider-Man #243 (1997)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly the Sinister Six",
         "relatives": "Sergei Kravinoff (Kraven the Hunter, father, deceased), unidentified mother, Vladimir Kravinoff (Grim Hunter, half-brother, deceased), Nedrocci Tannengarden (half-brother, deceased), Dmitri Smerdyakov"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/394-kraven-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/394-kraven-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/394-kraven-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/394-kraven-ii.jpg"
+        "xs": "images/characters/xs/394-kraven-ii.jpg",
+        "sm": "images/characters/sm/394-kraven-ii.jpg",
+        "md": "images/characters/md/394-kraven-ii.jpg",
+        "lg": "images/characters/lg/394-kraven-ii.jpg"
       }
     },
     {
@@ -13559,17 +13560,17 @@ var data = {
       },
       "work": {
         "occupation": "Professional game hunter, mercenary",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "(formerly) The Sinister Six",
         "relatives": "Nikolai & Anna Makarova Kravinoff (parents, deceased), Dmitri Smerdyakov (Chameleon, half-brother), Vladimir Kravinoff (Grim Hunter, son, deceased), Aloysha \"Al\" Kravinoff (Kraven II, son), Ned Tannengarden (son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/395-kraven-the-hunter.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/395-kraven-the-hunter.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/395-kraven-the-hunter.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/395-kraven-the-hunter.jpg"
+        "xs": "images/characters/xs/395-kraven-the-hunter.jpg",
+        "sm": "images/characters/sm/395-kraven-the-hunter.jpg",
+        "md": "images/characters/md/395-kraven-the-hunter.jpg",
+        "lg": "images/characters/lg/395-kraven-the-hunter.jpg"
       }
     },
     {
@@ -13602,26 +13603,26 @@ var data = {
         "fullName": "Krypto the Superdog",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Adventure Comics #210 (March, 1955)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Smallville, Kansas"
       },
       "connections": {
         "groupAffiliation": "Superman",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/396-krypto.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/396-krypto.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/396-krypto.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/396-krypto.jpg"
+        "xs": "images/characters/xs/396-krypto.jpg",
+        "sm": "images/characters/sm/396-krypto.jpg",
+        "md": "images/characters/md/396-krypto.jpg",
+        "lg": "images/characters/lg/396-krypto.jpg"
       }
     },
     {
@@ -13675,10 +13676,10 @@ var data = {
         "relatives": "Aaron Rayner (father), Maura Rayner (mother, deceased), Zachary Rayner (uncle, deceased), Roderick \"Snowy\" Rayner (grandfather, deceased), unnamed maternal great-grandfather (deceased), Kathleen (aunt), Cary Wren (descendant)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/397-kyle-rayner.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/397-kyle-rayner.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/397-kyle-rayner.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/397-kyle-rayner.jpg"
+        "xs": "images/characters/xs/397-kyle-rayner.jpg",
+        "sm": "images/characters/sm/397-kyle-rayner.jpg",
+        "md": "images/characters/md/397-kyle-rayner.jpg",
+        "lg": "images/characters/lg/397-kyle-rayner.jpg"
       }
     },
     {
@@ -13719,18 +13720,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Ally of Reverend William Stryker, former employee of Sabretooth, formerly Reavers",
         "relatives": "Kenji Oyama (Lord Dark Wind, father, deceased), two unnamed brothers (deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/400-lady-deathstrike.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/400-lady-deathstrike.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/400-lady-deathstrike.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/400-lady-deathstrike.jpg"
+        "xs": "images/characters/xs/400-lady-deathstrike.jpg",
+        "sm": "images/characters/sm/400-lady-deathstrike.jpg",
+        "md": "images/characters/md/400-lady-deathstrike.jpg",
+        "lg": "images/characters/lg/400-lady-deathstrike.jpg"
       }
     },
     {
@@ -13763,26 +13764,26 @@ var data = {
         "fullName": "Samuel Sterns",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Boise, Idaho",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Leader of Freehold",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/401-leader.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/401-leader.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/401-leader.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/401-leader.jpg"
+        "xs": "images/characters/xs/401-leader.jpg",
+        "sm": "images/characters/sm/401-leader.jpg",
+        "md": "images/characters/md/401-leader.jpg",
+        "lg": "images/characters/lg/401-leader.jpg"
       }
     },
     {
@@ -13801,40 +13802,40 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Uncanny X-Men #179",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Survivor, former student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "198; formerly Generation X, Daydreamers, Morlocks, X-Factor (trainee)",
         "relatives": "Annalee (foster mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/402-leech.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/402-leech.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/402-leech.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/402-leech.jpg"
+        "xs": "images/characters/xs/402-leech.jpg",
+        "sm": "images/characters/sm/402-leech.jpg",
+        "md": "images/characters/md/402-leech.jpg",
+        "lg": "images/characters/lg/402-leech.jpg"
       }
     },
     {
@@ -13895,10 +13896,10 @@ var data = {
         "relatives": "Charles Graymalkin (paternal collateral ancestor), Marcia Graymalkin (paternal collateral ancestor), Jonas Graymalkin (paternal collateral ancestor), Brian Xavier (paternal grandfather), Sharon Xavier (paternal grandmother), Kurt Marko (paternal step-grandfather), Cain Marko (paternal step-uncle), Cassandra Nova Xavier (paternal aunt), Charles Xavier (father), Gabrielle Haller (mother), Daniel Shomron (stepfather), Xavier Family (paternal relatives), Ruth Aldine (lover/current body)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/403-legion.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/403-legion.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/403-legion.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/403-legion.jpg"
+        "xs": "images/characters/xs/403-legion.jpg",
+        "sm": "images/characters/sm/403-legion.jpg",
+        "md": "images/characters/md/403-legion.jpg",
+        "lg": "images/characters/lg/403-legion.jpg"
       }
     },
     {
@@ -13917,7 +13918,7 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -13935,7 +13936,7 @@ var data = {
           "Ghost of the Jungle",
           "Splinter Jr."
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
         "alignment": "Heroes"
@@ -13945,14 +13946,14 @@ var data = {
         "base": "New York, New York"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Donatello (brother), Michelangelo (brother), Raphael (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/404-leonardo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/404-leonardo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/404-leonardo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/404-leonardo.jpg"
+        "xs": "images/characters/xs/404-leonardo.jpg",
+        "sm": "images/characters/sm/404-leonardo.jpg",
+        "md": "images/characters/md/404-leonardo.jpg",
+        "lg": "images/characters/lg/404-leonardo.jpg"
       }
     },
     {
@@ -13985,26 +13986,26 @@ var data = {
         "fullName": "Lex Luthor",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Action Comics #23",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Owner of LexCorp",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Injustice Gang, Injustice League, Society of Supervillains",
         "relatives": "Casey and Elaine Griggs (foster parents, deceased),\nLena Luthor (sister pre-Crisis; daughter post-Crisis),\nElizabeth Perske (ex-wife),\nPerry J. White Jr. (son, deceased),\nContessa Erica Alexandra del Portenza (wife, assumed deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/405-lex-luthor.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/405-lex-luthor.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/405-lex-luthor.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/405-lex-luthor.jpg"
+        "xs": "images/characters/xs/405-lex-luthor.jpg",
+        "sm": "images/characters/sm/405-lex-luthor.jpg",
+        "md": "images/characters/md/405-lex-luthor.jpg",
+        "lg": "images/characters/lg/405-lex-luthor.jpg"
       }
     },
     {
@@ -14037,15 +14038,15 @@ var data = {
         "fullName": "Ayla Ranzz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "United Planets"
       },
       "connections": {
@@ -14053,10 +14054,10 @@ var data = {
         "relatives": "Unnamd parents, Garth Ranzz (Lightning Lad, twin brother); Mekt Ranzz (older brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/406-light-lass.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/406-light-lass.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/406-light-lass.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/406-light-lass.jpg"
+        "xs": "images/characters/xs/406-light-lass.jpg",
+        "sm": "images/characters/sm/406-light-lass.jpg",
+        "md": "images/characters/md/406-light-lass.jpg",
+        "lg": "images/characters/lg/406-light-lass.jpg"
       }
     },
     {
@@ -14092,7 +14093,7 @@ var data = {
           "Lightning Boy",
           "Live Wire"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -14103,13 +14104,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/407-lightning-lad.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/407-lightning-lad.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/407-lightning-lad.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/407-lightning-lad.jpg"
+        "xs": "images/characters/xs/407-lightning-lad.jpg",
+        "sm": "images/characters/sm/407-lightning-lad.jpg",
+        "md": "images/characters/md/407-lightning-lad.jpg",
+        "lg": "images/characters/lg/407-lightning-lad.jpg"
       }
     },
     {
@@ -14142,26 +14143,26 @@ var data = {
         "fullName": "Mekt Ranzz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "The Wanderers, former ally of the Legion of Super-Heroes.",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/408-lightning-lord.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/408-lightning-lord.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/408-lightning-lord.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/408-lightning-lord.jpg"
+        "xs": "images/characters/xs/408-lightning-lord.jpg",
+        "sm": "images/characters/sm/408-lightning-lord.jpg",
+        "md": "images/characters/md/408-lightning-lord.jpg",
+        "lg": "images/characters/lg/408-lightning-lord.jpg"
       }
     },
     {
@@ -14177,7 +14178,7 @@ var data = {
         "combat": 28
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "6'6",
@@ -14188,32 +14189,32 @@ var data = {
           "360 kg"
         ],
         "eyeColor": "Yellow",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #8 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Robot",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/409-living-brain.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/409-living-brain.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/409-living-brain.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/409-living-brain.jpg"
+        "xs": "images/characters/xs/409-living-brain.jpg",
+        "sm": "images/characters/sm/409-living-brain.jpg",
+        "md": "images/characters/md/409-living-brain.jpg",
+        "lg": "images/characters/lg/409-living-brain.jpg"
       }
     },
     {
@@ -14229,10 +14230,10 @@ var data = {
         "combat": 30
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": "Cosmic Entity",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -14251,24 +14252,24 @@ var data = {
           "High Judge of The Multiverse",
           "Sir"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Strange Tales #157",
         "publisher": "Marvel Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "One-Above-All (creator)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/410-living-tribunal.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/410-living-tribunal.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/410-living-tribunal.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/410-living-tribunal.jpg"
+        "xs": "images/characters/xs/410-living-tribunal.jpg",
+        "sm": "images/characters/sm/410-living-tribunal.jpg",
+        "md": "images/characters/md/410-living-tribunal.jpg",
+        "lg": "images/characters/lg/410-living-tribunal.jpg"
       }
     },
     {
@@ -14301,7 +14302,7 @@ var data = {
         "fullName": "Curtis Connors",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Coral Gables, Florida",
         "firstAppearance": "Amazing Spider-Man #6",
@@ -14313,14 +14314,14 @@ var data = {
         "base": "Florida"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Martha (wife, deceased), Billy (son), unnamed sister"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/412-lizard.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/412-lizard.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/412-lizard.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/412-lizard.jpg"
+        "xs": "images/characters/xs/412-lizard.jpg",
+        "sm": "images/characters/sm/412-lizard.jpg",
+        "md": "images/characters/md/412-lizard.jpg",
+        "lg": "images/characters/lg/412-lizard.jpg"
       }
     },
     {
@@ -14359,7 +14360,7 @@ var data = {
           "Mister Machete",
           "Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Omega Men # 3",
         "publisher": "DC Comics",
         "alignment": "Neutral"
@@ -14373,10 +14374,10 @@ var data = {
         "relatives": "Slobo (clone)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/413-lobo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/413-lobo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/413-lobo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/413-lobo.jpg"
+        "xs": "images/characters/xs/413-lobo.jpg",
+        "sm": "images/characters/sm/413-lobo.jpg",
+        "md": "images/characters/md/413-lobo.jpg",
+        "lg": "images/characters/lg/413-lobo.jpg"
       }
     },
     {
@@ -14433,10 +14434,10 @@ var data = {
         "relatives": "Laufey (father, deceased), Farbauti (mother, deceased), Sigyn (wife, deceased), Odin (foster father, deceased), Frigga (foster mother, deceased), Thor, Vidar (foster brothers, deceased), Hela,Fenris (Wolf), Jordmungand (Midgard Serpent) (children, deceased), Arkin (cousin, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/414-loki.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/414-loki.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/414-loki.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/414-loki.jpg"
+        "xs": "images/characters/xs/414-loki.jpg",
+        "sm": "images/characters/sm/414-loki.jpg",
+        "md": "images/characters/md/414-loki.jpg",
+        "lg": "images/characters/lg/414-loki.jpg"
       }
     },
     {
@@ -14472,7 +14473,7 @@ var data = {
           "The Lost Messiah",
           "The Lucky One"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Longshot #1 (September, 1985)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -14486,10 +14487,10 @@ var data = {
         "relatives": "Arize (creator), Alison Blaire (Dazzler) (wife), Gaveedra Seven (Shatterstar) (alleged son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/415-longshot.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/415-longshot.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/415-longshot.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/415-longshot.jpg"
+        "xs": "images/characters/xs/415-longshot.jpg",
+        "sm": "images/characters/sm/415-longshot.jpg",
+        "md": "images/characters/md/415-longshot.jpg",
+        "lg": "images/characters/lg/415-longshot.jpg"
       }
     },
     {
@@ -14535,17 +14536,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, bar owner, bodyguard, mercenary; formerly theater owner, private investigator, various odd jobs",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Underground Avengers (formerly Daredevil's Unnamed Super-Hero Team), Secret Defenders, Heroes for Hire, Nightwing Restorations, Fantastic Four, Defenders, Bloods",
         "relatives": "Jessica Jones (wife), James Leonard Lucas (father), Esther (mother, deceased), James Jr. (Coldfire, brother), unnamed daughter"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/416-luke-cage.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/416-luke-cage.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/416-luke-cage.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/416-luke-cage.jpg"
+        "xs": "images/characters/xs/416-luke-cage.jpg",
+        "sm": "images/characters/sm/416-luke-cage.jpg",
+        "md": "images/characters/md/416-luke-cage.jpg",
+        "lg": "images/characters/lg/416-luke-cage.jpg"
       }
     },
     {
@@ -14564,40 +14565,40 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Luna Maximoff",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Attilan, Blue Area of the Moon",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Quicksilver (Pietro Maximoff, father), Magneto (grandfather), Crystal (mother), Scarlet Witch, (aunt), Polaris (aunt)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/419-luna.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/419-luna.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/419-luna.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/419-luna.jpg"
+        "xs": "images/characters/xs/419-luna.jpg",
+        "sm": "images/characters/sm/419-luna.jpg",
+        "md": "images/characters/md/419-luna.jpg",
+        "lg": "images/characters/lg/419-luna.jpg"
       }
     },
     {
@@ -14643,17 +14644,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer; former master mechanic, professional criminal, mercenary",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "formerly Thunderbolts, Masters of Evil, Sinister Syndicate, Justin Hammer's Hit Squad, Maggia, Sinister Seven, Commission on Superhuman Activities, Defenders impersonators, Burton Canyon Police Department",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/421-mach-iv.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/421-mach-iv.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/421-mach-iv.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/421-mach-iv.jpg"
+        "xs": "images/characters/xs/421-mach-iv.jpg",
+        "sm": "images/characters/sm/421-mach-iv.jpg",
+        "md": "images/characters/md/421-mach-iv.jpg",
+        "lg": "images/characters/lg/421-mach-iv.jpg"
       }
     },
     {
@@ -14669,7 +14670,7 @@ var data = {
         "combat": 64
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "6'",
@@ -14703,10 +14704,10 @@ var data = {
         "relatives": "Dr. Able Stack, 'father'"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/422-machine-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/422-machine-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/422-machine-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/422-machine-man.jpg"
+        "xs": "images/characters/xs/422-machine-man.jpg",
+        "sm": "images/characters/sm/422-machine-man.jpg",
+        "md": "images/characters/md/422-machine-man.jpg",
+        "lg": "images/characters/lg/422-machine-man.jpg"
       }
     },
     {
@@ -14759,10 +14760,10 @@ var data = {
         "relatives": "Magda (wife, deceased), Anya (daughter, deceased), Pietro Maximoff (Quicksilver, son), Wanda Maximoff (Scarlet Witch, daughter), Lorna Dane (Polaris, daughter), Joseph (clone, deceased), Luna (granddaughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/423-magneto.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/423-magneto.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/423-magneto.jpg"
+        "xs": "images/characters/xs/423-magneto.jpg",
+        "sm": "images/characters/sm/423-magneto.jpg",
+        "md": "images/characters/md/423-magneto.jpg",
+        "lg": "images/characters/lg/423-magneto.jpg"
       }
     },
     {
@@ -14781,7 +14782,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -14795,26 +14796,26 @@ var data = {
         "fullName": "David Reid",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "formerly Justice Society of America, formerally United States Marine Corps",
         "relatives": "Franklin Delano Roosevelt (great-grandfather, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/424-magog.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/424-magog.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/424-magog.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/424-magog.jpg"
+        "xs": "images/characters/xs/424-magog.jpg",
+        "sm": "images/characters/sm/424-magog.jpg",
+        "md": "images/characters/md/424-magog.jpg",
+        "lg": "images/characters/lg/424-magog.jpg"
       }
     },
     {
@@ -14841,7 +14842,7 @@ var data = {
           "0 kg"
         ],
         "eyeColor": "Black",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -14856,17 +14857,17 @@ var data = {
       },
       "work": {
         "occupation": "Ruler of the Technarchy",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Warlock (son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/425-magus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/425-magus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/425-magus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/425-magus.jpg"
+        "xs": "images/characters/xs/425-magus.jpg",
+        "sm": "images/characters/sm/425-magus.jpg",
+        "md": "images/characters/md/425-magus.jpg",
+        "lg": "images/characters/lg/425-magus.jpg"
       }
     },
     {
@@ -14882,10 +14883,10 @@ var data = {
         "combat": 100
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -14901,24 +14902,24 @@ var data = {
         "aliases": [
           "Mother Of Existence"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Spawn #75",
         "publisher": "Image Comics",
-        "alignment": "-"
+        "alignment": "unknown"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/426-man-of-miracles.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/426-man-of-miracles.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/426-man-of-miracles.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/426-man-of-miracles.jpg"
+        "xs": "images/characters/xs/426-man-of-miracles.jpg",
+        "sm": "images/characters/sm/426-man-of-miracles.jpg",
+        "md": "images/characters/md/426-man-of-miracles.jpg",
+        "lg": "images/characters/lg/426-man-of-miracles.jpg"
       }
     },
     {
@@ -14937,7 +14938,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -14967,10 +14968,10 @@ var data = {
         "relatives": "Francine Langstrom (wife), Rebecca Elizabeth Langtrom (daughter); Aaron Langstrom (son); Britt Langstrom (sister); Ted Friedel (brother-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/427-man-bat.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/427-man-bat.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/427-man-bat.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/427-man-bat.jpg"
+        "xs": "images/characters/xs/427-man-bat.jpg",
+        "sm": "images/characters/sm/427-man-bat.jpg",
+        "md": "images/characters/md/427-man-bat.jpg",
+        "lg": "images/characters/lg/427-man-bat.jpg"
       }
     },
     {
@@ -15005,13 +15006,13 @@ var data = {
         "aliases": [
           "the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Savage Tales #1 (May, 1971)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Man-Thing's Swamp, Citrusville, Florida"
       },
       "connections": {
@@ -15019,10 +15020,10 @@ var data = {
         "relatives": "Ellen Brandt (ex-wife) Job Burke (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/428-man-thing.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/428-man-thing.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/428-man-thing.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/428-man-thing.jpg"
+        "xs": "images/characters/xs/428-man-thing.jpg",
+        "sm": "images/characters/sm/428-man-thing.jpg",
+        "md": "images/characters/md/428-man-thing.jpg",
+        "lg": "images/characters/lg/428-man-thing.jpg"
       }
     },
     {
@@ -15073,10 +15074,10 @@ var data = {
         "relatives": "J. Jonah (father), Joan (mother, deceased), Marla Madison (stepmother), David (paternal grandfather, presumed deceased), Betty (paternal grandmother, presumed deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/429-man-wolf.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/429-man-wolf.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/429-man-wolf.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/429-man-wolf.jpg"
+        "xs": "images/characters/xs/429-man-wolf.jpg",
+        "sm": "images/characters/sm/429-man-wolf.jpg",
+        "md": "images/characters/md/429-man-wolf.jpg",
+        "lg": "images/characters/lg/429-man-wolf.jpg"
       }
     },
     {
@@ -15129,10 +15130,10 @@ var data = {
         "relatives": "Unidentified father, mother, paternal aunt (all deceased). Mei-Ling (fianc?e, deceased), Temujin (son), Genghis Khan (alleged ancestor, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/430-mandarin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/430-mandarin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/430-mandarin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/430-mandarin.jpg"
+        "xs": "images/characters/xs/430-mandarin.jpg",
+        "sm": "images/characters/sm/430-mandarin.jpg",
+        "md": "images/characters/md/430-mandarin.jpg",
+        "lg": "images/characters/lg/430-mandarin.jpg"
       }
     },
     {
@@ -15181,14 +15182,14 @@ var data = {
         "base": "Mobile"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Libra (Gustav Brandt) (father), Lau Brandt (mother), Cotati possessing Jacques Duquesne (husband), Quoi (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/431-mantis.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/431-mantis.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/431-mantis.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/431-mantis.jpg"
+        "xs": "images/characters/xs/431-mantis.jpg",
+        "sm": "images/characters/sm/431-mantis.jpg",
+        "md": "images/characters/md/431-mantis.jpg",
+        "lg": "images/characters/lg/431-mantis.jpg"
       }
     },
     {
@@ -15225,24 +15226,24 @@ var data = {
           "Bloodwynd",
           "many others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Detective Comics #225 (1955)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Darkstars, Justice League of Aliens, Justice League Of America, Justice League Task Force, Justice League Unlimited, Martians, Outsiders",
         "relatives": "M'yrnn J'onzz (father, deceased); Sha'sheen J'onzz (mother, deceased); M'yri'ah (wife, deceased); K'hym (daughter, deceased); Ma'alefa'ak (twin brother); D'all (father-in-law, deceased); J'ahrl J'onzz (ancestor, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/432-martian-manhunter.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/432-martian-manhunter.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/432-martian-manhunter.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/432-martian-manhunter.jpg"
+        "xs": "images/characters/xs/432-martian-manhunter.jpg",
+        "sm": "images/characters/sm/432-martian-manhunter.jpg",
+        "md": "images/characters/md/432-martian-manhunter.jpg",
+        "lg": "images/characters/lg/432-martian-manhunter.jpg"
       }
     },
     {
@@ -15281,7 +15282,7 @@ var data = {
           "Bright Lady",
           "Aly'zrn Summerset"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "UNCANNY X-MEN #141",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -15295,10 +15296,10 @@ var data = {
         "relatives": "Scott Summers (Cyclops, alternate timeline father, deceased in own time), Jean Grey-Summers (Phoenix, alternate timeline mother, deceased in own time), Alex Summers (Havok, alternate timeline uncle), Franklin Richards (alternate future husband), Jonathan Reed Richards (Hyperstorm, alternate future son), David Richards (alternate future son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/433-marvel-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/433-marvel-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/433-marvel-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/433-marvel-girl.jpg"
+        "xs": "images/characters/xs/433-marvel-girl.jpg",
+        "sm": "images/characters/sm/433-marvel-girl.jpg",
+        "md": "images/characters/md/433-marvel-girl.jpg",
+        "lg": "images/characters/lg/433-marvel-girl.jpg"
       }
     },
     {
@@ -15317,7 +15318,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -15334,24 +15335,24 @@ var data = {
           "Superboy",
           "Superman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
         "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/436-match.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/436-match.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/436-match.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/436-match.jpg"
+        "xs": "images/characters/xs/436-match.jpg",
+        "sm": "images/characters/sm/436-match.jpg",
+        "md": "images/characters/md/436-match.jpg",
+        "lg": "images/characters/lg/436-match.jpg"
       }
     },
     {
@@ -15387,24 +15388,24 @@ var data = {
           "Chris",
           "Bolt"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men Unlimited #8 (1995)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Mercenary; former adventurer, student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "(As Maverick) Formerly Gene Nation, Cable?s Underground; (as Bolt) formerly New Warriors",
         "relatives": "Robert Bradley (Frank Johnson, father), Marion Bradley (Rose Johnson, mother), Catherine Bradley (Jennifer Johnson, sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/438-maverick.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/438-maverick.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/438-maverick.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/438-maverick.jpg"
+        "xs": "images/characters/xs/438-maverick.jpg",
+        "sm": "images/characters/sm/438-maverick.jpg",
+        "md": "images/characters/md/438-maverick.jpg",
+        "lg": "images/characters/lg/438-maverick.jpg"
       }
     },
     {
@@ -15441,7 +15442,7 @@ var data = {
           "Empress of the Almeracian Empire"
         ],
         "placeOfBirth": "Almerac",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
@@ -15451,13 +15452,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Justice League Task Force, Extreme Justice",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/439-maxima.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/439-maxima.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/439-maxima.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/439-maxima.jpg"
+        "xs": "images/characters/xs/439-maxima.jpg",
+        "sm": "images/characters/sm/439-maxima.jpg",
+        "md": "images/characters/md/439-maxima.jpg",
+        "lg": "images/characters/lg/439-maxima.jpg"
       }
     },
     {
@@ -15507,10 +15508,10 @@ var data = {
         "relatives": "Kobar, La (maternal grandparents), Azur (maternal aunt), Mander (maternal uncle-by-marriage), Quelin (father), Ambur (mother), Crystal (sister), Black Bolt (husband, second cousin), Ahura (son), Karnak (cousin), Triton (cousin), Psynapse (second cousin), Maximus (brother-in-law, second cousin), Ronan the Accuser (brother-in-law), Quicksilver (ex-brother-in-law), Luna (niece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/441-medusa.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/441-medusa.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/441-medusa.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/441-medusa.jpg"
+        "xs": "images/characters/xs/441-medusa.jpg",
+        "sm": "images/characters/sm/441-medusa.jpg",
+        "md": "images/characters/md/441-medusa.jpg",
+        "lg": "images/characters/lg/441-medusa.jpg"
       }
     },
     {
@@ -15551,23 +15552,23 @@ var data = {
           "Nancy Forrester"
         ],
         "placeOfBirth": "Roanoke, Virginia",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, former student, thief",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Nextwave, X-Force, Genoshan Mutates, New Mutants, X-Terminators, X-Factor (trainee), Fallen Angels",
         "relatives": "Martin Louis Smith (father), Mandy Smith (step-mother), Wanda Jo Bialowsky-Smith (step-mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/442-meltdown.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/442-meltdown.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/442-meltdown.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/442-meltdown.jpg"
+        "xs": "images/characters/xs/442-meltdown.jpg",
+        "sm": "images/characters/sm/442-meltdown.jpg",
+        "md": "images/characters/md/442-meltdown.jpg",
+        "lg": "images/characters/lg/442-meltdown.jpg"
       }
     },
     {
@@ -15617,23 +15618,23 @@ var data = {
           "many others"
         ],
         "placeOfBirth": "Hell",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Lord of a realm of Hell",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Hell-lords, Lords of the Splinter Realms; formerly manipulator of the Six-Fingered Hand",
         "relatives": "Blackheart (son), Mephista (daughter); presumptive relationship to other Hell-lords; quasi-paternal relationship to Mikal Drakonmegas (Hellfire) and Daimon (Hellstorm) and Satana Hellstrom; formerly engaged to unidentified demoness"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/443-mephisto.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/443-mephisto.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/443-mephisto.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/443-mephisto.jpg"
+        "xs": "images/characters/xs/443-mephisto.jpg",
+        "sm": "images/characters/sm/443-mephisto.jpg",
+        "md": "images/characters/md/443-mephisto.jpg",
+        "lg": "images/characters/lg/443-mephisto.jpg"
       }
     },
     {
@@ -15671,7 +15672,7 @@ var data = {
           "Aquagirl",
           "Water-Woman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Aquaman #11 (October, 1963)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -15685,10 +15686,10 @@ var data = {
         "relatives": "Aquaman (husband); Aquababy (son, deceased); A.J. (son); Siren (Hila, twin sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/444-mera.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/444-mera.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/444-mera.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/444-mera.jpg"
+        "xs": "images/characters/xs/444-mera.jpg",
+        "sm": "images/characters/sm/444-mera.jpg",
+        "md": "images/characters/md/444-mera.jpg",
+        "lg": "images/characters/lg/444-mera.jpg"
       }
     },
     {
@@ -15721,9 +15722,9 @@ var data = {
         "fullName": "John Corben",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -15734,13 +15735,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Superman Revenge Squad",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/445-metallo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/445-metallo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/445-metallo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/445-metallo.jpg"
+        "xs": "images/characters/xs/445-metallo.jpg",
+        "sm": "images/characters/sm/445-metallo.jpg",
+        "md": "images/characters/md/445-metallo.jpg",
+        "lg": "images/characters/lg/445-metallo.jpg"
       }
     },
     {
@@ -15773,9 +15774,9 @@ var data = {
         "fullName": "Metron",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New Gods vol. 1 #1 (February-March, 1971)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -15786,13 +15787,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "New Gods",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/448-metron.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/448-metron.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/448-metron.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/448-metron.jpg"
+        "xs": "images/characters/xs/448-metron.jpg",
+        "sm": "images/characters/sm/448-metron.jpg",
+        "md": "images/characters/md/448-metron.jpg",
+        "lg": "images/characters/lg/448-metron.jpg"
       }
     },
     {
@@ -15811,7 +15812,7 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -15819,7 +15820,7 @@ var data = {
           "0 kg"
         ],
         "eyeColor": "Blue",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -15830,24 +15831,24 @@ var data = {
           "Mikester",
           "Michaelangelo"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "IDW Publishing",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Leonardo (brother), Donatello (brother), Raphael (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/450-michelangelo.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/450-michelangelo.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/450-michelangelo.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/450-michelangelo.jpg"
+        "xs": "images/characters/xs/450-michelangelo.jpg",
+        "sm": "images/characters/sm/450-michelangelo.jpg",
+        "md": "images/characters/md/450-michelangelo.jpg",
+        "lg": "images/characters/lg/450-michelangelo.jpg"
       }
     },
     {
@@ -15883,24 +15884,24 @@ var data = {
           "Colossal Boy (mostly known as Colossal Boy",
           "although he dislikes that name himself)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "United Planets, 31st century"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/451-micro-lad.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/451-micro-lad.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/451-micro-lad.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/451-micro-lad.jpg"
+        "xs": "images/characters/xs/451-micro-lad.jpg",
+        "sm": "images/characters/sm/451-micro-lad.jpg",
+        "md": "images/characters/md/451-micro-lad.jpg",
+        "lg": "images/characters/lg/451-micro-lad.jpg"
       }
     },
     {
@@ -15943,18 +15944,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Brotherhood Of Mutants, Excalibur, X-Men, former agent of Onslaught and Sledge",
         "relatives": "Ronald Rankin (father, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/452-mimic.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/452-mimic.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/452-mimic.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/452-mimic.jpg"
+        "xs": "images/characters/xs/452-mimic.jpg",
+        "sm": "images/characters/sm/452-mimic.jpg",
+        "md": "images/characters/md/452-mimic.jpg",
+        "lg": "images/characters/lg/452-mimic.jpg"
       }
     },
     {
@@ -15973,7 +15974,7 @@ var data = {
         "gender": "Female",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -15989,24 +15990,24 @@ var data = {
         "aliases": [
           "Batgirl"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Birds of Prey #96",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Dalten Towers, Metropolis"
       },
       "connections": {
         "groupAffiliation": "Birds of Prey",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/454-misfit.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/454-misfit.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/454-misfit.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/454-misfit.jpg"
+        "xs": "images/characters/xs/454-misfit.jpg",
+        "sm": "images/characters/sm/454-misfit.jpg",
+        "md": "images/characters/md/454-misfit.jpg",
+        "lg": "images/characters/lg/454-misfit.jpg"
       }
     },
     {
@@ -16053,13 +16054,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Teen Titans",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/455-miss-martian.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/455-miss-martian.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/455-miss-martian.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/455-miss-martian.jpg"
+        "xs": "images/characters/xs/455-miss-martian.jpg",
+        "sm": "images/characters/sm/455-miss-martian.jpg",
+        "md": "images/characters/md/455-miss-martian.jpg",
+        "lg": "images/characters/lg/455-miss-martian.jpg"
       }
     },
     {
@@ -16108,10 +16109,10 @@ var data = {
         "relatives": "Nathaniai (father), Evelyn (mother, deceased), Susan Storm - Invisible Woman (wife), Franklin (son), Johnny Storm - Human Torch (brother-inlaw), Cassandra (stepmother, deceased), Immortus (father's descendant, see Immortus, Kang, Rama-Tut)."
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/456-mister-fantastic.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/456-mister-fantastic.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/456-mister-fantastic.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/456-mister-fantastic.jpg"
+        "xs": "images/characters/xs/456-mister-fantastic.jpg",
+        "sm": "images/characters/sm/456-mister-fantastic.jpg",
+        "md": "images/characters/md/456-mister-fantastic.jpg",
+        "lg": "images/characters/lg/456-mister-fantastic.jpg"
       }
     },
     {
@@ -16137,8 +16138,8 @@ var data = {
           "190 lb",
           "86 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Victor Fries",
@@ -16148,24 +16149,24 @@ var data = {
           "Doctor Zero",
           "Doctor Schimmell"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #121 (Feb. 1959)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Assorted Batman rogues, The Society",
         "relatives": "Nora Fries (wife, deceased, then resurrected as Lazara), Charles (Father) and Lorraine Fries (Mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/457-mister-freeze.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/457-mister-freeze.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/457-mister-freeze.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/457-mister-freeze.jpg"
+        "xs": "images/characters/xs/457-mister-freeze.jpg",
+        "sm": "images/characters/sm/457-mister-freeze.jpg",
+        "md": "images/characters/md/457-mister-freeze.jpg",
+        "lg": "images/characters/lg/457-mister-freeze.jpg"
       }
     },
     {
@@ -16184,7 +16185,7 @@ var data = {
         "gender": "Male",
         "race": "Spartoi",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -16217,10 +16218,10 @@ var data = {
         "relatives": "Eson (father, deceased), Peter Quill (Star-Lord, son), Victoria (daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/458-mister-knife.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/458-mister-knife.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/458-mister-knife.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/458-mister-knife.jpg"
+        "xs": "images/characters/xs/458-mister-knife.jpg",
+        "sm": "images/characters/sm/458-mister-knife.jpg",
+        "md": "images/characters/md/458-mister-knife.jpg",
+        "lg": "images/characters/lg/458-mister-knife.jpg"
       }
     },
     {
@@ -16239,40 +16240,40 @@ var data = {
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Mr. Mxyzptlk",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Superman #30",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/459-mister-mxyzptlk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/459-mister-mxyzptlk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/459-mister-mxyzptlk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/459-mister-mxyzptlk.jpg"
+        "xs": "images/characters/xs/459-mister-mxyzptlk.jpg",
+        "sm": "images/characters/sm/459-mister-mxyzptlk.jpg",
+        "md": "images/characters/md/459-mister-mxyzptlk.jpg",
+        "lg": "images/characters/lg/459-mister-mxyzptlk.jpg"
       }
     },
     {
@@ -16332,10 +16333,10 @@ var data = {
         "relatives": "Rebecca Essex (wife, deceased), Adam Stanislaus Essex (son, deceased), N2 (creation, deceased), Madelyne Pryor (creation, deceased), Claudine Renko (clone \"daughter\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/460-mister-sinister.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/460-mister-sinister.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/460-mister-sinister.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/460-mister-sinister.jpg"
+        "xs": "images/characters/xs/460-mister-sinister.jpg",
+        "sm": "images/characters/sm/460-mister-sinister.jpg",
+        "md": "images/characters/md/460-mister-sinister.jpg",
+        "lg": "images/characters/lg/460-mister-sinister.jpg"
       }
     },
     {
@@ -16354,7 +16355,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -16370,24 +16371,24 @@ var data = {
         "aliases": [
           "Mr Zsasz"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Serial Killer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+        "xs": "images/characters/xs/no-portrait.jpg",
+        "sm": "images/characters/sm/no-portrait.jpg",
+        "md": "images/characters/md/no-portrait.jpg",
+        "lg": "images/characters/lg/no-portrait.jpg"
       }
     },
     {
@@ -16440,10 +16441,10 @@ var data = {
         "relatives": "Susan Morse (mother); Ben Morse (brother); Hawkeye (Clint Barton) (ex-husband)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/462-mockingbird.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/462-mockingbird.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/462-mockingbird.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/462-mockingbird.jpg"
+        "xs": "images/characters/xs/462-mockingbird.jpg",
+        "sm": "images/characters/sm/462-mockingbird.jpg",
+        "md": "images/characters/md/462-mockingbird.jpg",
+        "lg": "images/characters/lg/462-mockingbird.jpg"
       }
     },
     {
@@ -16479,24 +16480,24 @@ var data = {
           "M.O.D.O.K.",
           "Mental Organism Designed Only for Killing"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Tales of Suspense #93",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Would-be conqueror, AIM leader, terrorist; former AIM agent, technician",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "M.O.D.O.K. Superior (clone), Head Case (son), Number None (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/463-modok.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/463-modok.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/463-modok.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/463-modok.jpg"
+        "xs": "images/characters/xs/463-modok.jpg",
+        "sm": "images/characters/sm/463-modok.jpg",
+        "md": "images/characters/md/463-modok.jpg",
+        "lg": "images/characters/lg/463-modok.jpg"
       }
     },
     {
@@ -16529,26 +16530,26 @@ var data = {
         "fullName": "Mark Raxton",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #28 (1965)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Security guard for Osborn industries, former criminal, lab assistant",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Exterminators",
         "relatives": "Doris Raxton (mother), Liz Allan Osborn (step-sister), Harry Osborn (Green Goblin II , step-brother-in-law, deceased), Norman Osborn Jr. (Green Goblin I, step-nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/467-molten-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/467-molten-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/467-molten-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/467-molten-man.jpg"
+        "xs": "images/characters/xs/467-molten-man.jpg",
+        "sm": "images/characters/sm/467-molten-man.jpg",
+        "md": "images/characters/md/467-molten-man.jpg",
+        "lg": "images/characters/lg/467-molten-man.jpg"
       }
     },
     {
@@ -16602,10 +16603,10 @@ var data = {
         "relatives": "Shadowknight (Randall Spector) (brother, deceased), Elias (father, deceased), Seth Phalkon (alleged great-great-grandfather)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/470-moon-knight.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/470-moon-knight.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/470-moon-knight.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/470-moon-knight.jpg"
+        "xs": "images/characters/xs/470-moon-knight.jpg",
+        "sm": "images/characters/sm/470-moon-knight.jpg",
+        "md": "images/characters/md/470-moon-knight.jpg",
+        "lg": "images/characters/lg/470-moon-knight.jpg"
       }
     },
     {
@@ -16655,10 +16656,10 @@ var data = {
         "relatives": "Karl August Sofen (father), Marion Sofen (mother), unnamed maternal grandparents (only mentioned )"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/471-moonstone.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/471-moonstone.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/471-moonstone.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/471-moonstone.jpg"
+        "xs": "images/characters/xs/471-moonstone.jpg",
+        "sm": "images/characters/sm/471-moonstone.jpg",
+        "md": "images/characters/md/471-moonstone.jpg",
+        "lg": "images/characters/lg/471-moonstone.jpg"
       }
     },
     {
@@ -16691,26 +16692,26 @@ var data = {
         "fullName": "Morlun",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #30 (2001)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/472-morlun.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/472-morlun.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/472-morlun.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/472-morlun.jpg"
+        "xs": "images/characters/xs/472-morlun.jpg",
+        "sm": "images/characters/sm/472-morlun.jpg",
+        "md": "images/characters/md/472-morlun.jpg",
+        "lg": "images/characters/lg/472-morlun.jpg"
       }
     },
     {
@@ -16745,24 +16746,24 @@ var data = {
         "aliases": [
           "Magnum Force,"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Terrorist, president of Magnum Munitions; former ruler of Canaan",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Magnum Force (leader), agent of Apocalypse; former agent of They Who Wield Power",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/474-moses-magnum.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/474-moses-magnum.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/474-moses-magnum.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/474-moses-magnum.jpg"
+        "xs": "images/characters/xs/474-moses-magnum.jpg",
+        "sm": "images/characters/sm/474-moses-magnum.jpg",
+        "md": "images/characters/md/474-moses-magnum.jpg",
+        "lg": "images/characters/lg/474-moses-magnum.jpg"
       }
     },
     {
@@ -16795,26 +16796,26 @@ var data = {
         "fullName": "Craig Hollis",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "West Coast Avengers Vol 2 #46",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+        "xs": "images/characters/xs/no-portrait.jpg",
+        "sm": "images/characters/sm/no-portrait.jpg",
+        "md": "images/characters/md/no-portrait.jpg",
+        "lg": "images/characters/lg/no-portrait.jpg"
       }
     },
     {
@@ -16851,24 +16852,24 @@ var data = {
           "The Hero's Hero",
           "Bob Parr"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Incredible Family",
         "relatives": "Helen Parr (Elastigirl, wife), Violet Parr(Violet, daughter), Dashiell Parr (Dash, son), Jack-jack (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/476-mr-incredible.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/476-mr-incredible.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/476-mr-incredible.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/476-mr-incredible.jpg"
+        "xs": "images/characters/xs/476-mr-incredible.jpg",
+        "sm": "images/characters/sm/476-mr-incredible.jpg",
+        "md": "images/characters/md/476-mr-incredible.jpg",
+        "lg": "images/characters/lg/476-mr-incredible.jpg"
       }
     },
     {
@@ -16904,23 +16905,23 @@ var data = {
           "She-Thing"
         ],
         "placeOfBirth": "Pullman, Washington",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Wanderer, former adventurer, wrestler, stunt woman, scuba diver, motorcycle performer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Former member of the Fantastic Four, Frightful Four, Unlimited Class Wrestling Federation, Thunderiders",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/477-ms-marvel-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/477-ms-marvel-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/477-ms-marvel-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/477-ms-marvel-ii.jpg"
+        "xs": "images/characters/xs/477-ms-marvel-ii.jpg",
+        "sm": "images/characters/sm/477-ms-marvel-ii.jpg",
+        "md": "images/characters/md/477-ms-marvel-ii.jpg",
+        "lg": "images/characters/lg/477-ms-marvel-ii.jpg"
       }
     },
     {
@@ -16953,7 +16954,7 @@ var data = {
         "fullName": "James Arthur",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Los Alamos, New Mexico",
         "firstAppearance": "GIANT-SIZE FANTASTIC FOUR #4",
@@ -16969,10 +16970,10 @@ var data = {
         "relatives": "Dr. Daniel Madrox (father, deceased), Joan Madrox (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/478-multiple-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/478-multiple-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/478-multiple-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/478-multiple-man.jpg"
+        "xs": "images/characters/xs/478-multiple-man.jpg",
+        "sm": "images/characters/sm/478-multiple-man.jpg",
+        "md": "images/characters/md/478-multiple-man.jpg",
+        "lg": "images/characters/lg/478-multiple-man.jpg"
       }
     },
     {
@@ -17024,10 +17025,10 @@ var data = {
         "relatives": "Henrietta Beck (mother), Elmore Beck (father), Vincent (uncle), Maguire Beck (Jack O'Lantern) (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/479-mysterio.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/479-mysterio.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/479-mysterio.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/479-mysterio.jpg"
+        "xs": "images/characters/xs/479-mysterio.jpg",
+        "sm": "images/characters/sm/479-mysterio.jpg",
+        "md": "images/characters/md/479-mysterio.jpg",
+        "lg": "images/characters/lg/479-mysterio.jpg"
       }
     },
     {
@@ -17062,7 +17063,7 @@ var data = {
         "aliases": [
           "Mallory Brickman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -17076,10 +17077,10 @@ var data = {
         "relatives": "Rogue (unofficial foster daughter), Ralph Brickman (husband), Gloria Brickman (daughter), Graydon Creed (son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/480-mystique.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/480-mystique.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/480-mystique.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/480-mystique.jpg"
+        "xs": "images/characters/xs/480-mystique.jpg",
+        "sm": "images/characters/sm/480-mystique.jpg",
+        "md": "images/characters/md/480-mystique.jpg",
+        "lg": "images/characters/lg/480-mystique.jpg"
       }
     },
     {
@@ -17139,10 +17140,10 @@ var data = {
         "relatives": "Elanna (maternal ancestor), Tanas (maternal ancestor), Zartra (maternal ancestor), Orrek (maternal distant relative), Stegor (maternal ancestor), Kamuu (maternal ancestor), Harran (maternal ancestor), Kalen (maternal ancestor), Ossem (maternal ancestor), Balaal (maternal ancestor), Thallo (maternal ancestor), Immanu (maternal great-grandfather-in-law, deceased), Thakorr (maternal grandfather, deceased), Korra (maternal grandmother), Wa-Korr (grandfather-in-law, presumed deceased), Wathan (father-in-law, presumed deceased), Tom Smallwood (father-in-law), Gladys Smallwood (mother-in-law), Zarina (maternal aunt), Namora's father (uncle), Daka (maternal uncle), Brynn (aunt-by-marriage/step-grandmother), Fen (mother, deceased), Leonard McKenzie (father, deceased), Experiment N2 (clone), Lawrence McKenzie (paternal half-brother), Dorma (wife / distant cousin, deceased), Marrina (wife), three unnamed children (by Marrina), Kamar (son, deceased), Black Moray (Leon McKenzie) (paternal half-nephew), Llyron McKenzie (paternal great-nephew), Dan Smallwood (brother-in-law), Namora (maternal cousin), Beemer (maternal cousin), Bobo (maternal cousin), Byrrahna (maternal cousin), Namita (maternal cousin), Daro (maternal cousin), Dara (maternal cousin), Seth (maternal cousin), Argus (maternal cousin), Arkus (maternal cousin), Byrrah (maternal cousin), Namorita (maternal 1st cousin once removed)."
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/481-namor.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/481-namor.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/481-namor.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/481-namor.jpg"
+        "xs": "images/characters/xs/481-namor.jpg",
+        "sm": "images/characters/sm/481-namor.jpg",
+        "md": "images/characters/md/481-namor.jpg",
+        "lg": "images/characters/lg/481-namor.jpg"
       }
     },
     {
@@ -17185,18 +17186,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Agents of Atlas, Long-time ally of Namor; Monster Hunters, Invaders, All Winners Squad; At one time or another was partnered with FBI Agent Jimmy Woo, Sun Girl, Venus, Golden Girl, Hulk",
         "relatives": "Namor (cousin), Talan (husband, deceased), Namorita (\"daughter\" cloned)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/483-namora.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/483-namora.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/483-namora.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/483-namora.jpg"
+        "xs": "images/characters/xs/483-namora.jpg",
+        "sm": "images/characters/sm/483-namora.jpg",
+        "md": "images/characters/md/483-namora.jpg",
+        "lg": "images/characters/lg/483-namora.jpg"
       }
     },
     {
@@ -17246,10 +17247,10 @@ var data = {
         "relatives": "Namora (mother); Talan (father, deceased); Namor, Byrrah, Dara, Arkus (first cousins once removed); Fen (great-aunt, deceased); Thakorr (great-grandfather, deceased); Korra (great-grandmother, presumed deceased); large extended family; Betty Prentiss (legal guardian, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/484-namorita.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/484-namorita.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/484-namorita.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/484-namorita.jpg"
+        "xs": "images/characters/xs/484-namorita.jpg",
+        "sm": "images/characters/sm/484-namorita.jpg",
+        "md": "images/characters/md/484-namorita.jpg",
+        "lg": "images/characters/lg/484-namorita.jpg"
       }
     },
     {
@@ -17282,26 +17283,26 @@ var data = {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Avengers #257 (July, 1985)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Graces, United Front, former leader of a mercenary band",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/487-nebula.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/487-nebula.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/487-nebula.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/487-nebula.jpg"
+        "xs": "images/characters/xs/487-nebula.jpg",
+        "sm": "images/characters/sm/487-nebula.jpg",
+        "md": "images/characters/md/487-nebula.jpg",
+        "lg": "images/characters/lg/487-nebula.jpg"
       }
     },
     {
@@ -17320,7 +17321,7 @@ var data = {
         "gender": "Female",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -17336,24 +17337,24 @@ var data = {
         "aliases": [
           "Warhead"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New X-Men #115",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/488-negasonic-teenage-warhead.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/488-negasonic-teenage-warhead.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/488-negasonic-teenage-warhead.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/488-negasonic-teenage-warhead.jpg"
+        "xs": "images/characters/xs/488-negasonic-teenage-warhead.jpg",
+        "sm": "images/characters/sm/488-negasonic-teenage-warhead.jpg",
+        "md": "images/characters/md/488-negasonic-teenage-warhead.jpg",
+        "lg": "images/characters/lg/488-negasonic-teenage-warhead.jpg"
       }
     },
     {
@@ -17398,17 +17399,17 @@ var data = {
       },
       "work": {
         "occupation": "S.H.I.E.L.D. director; former S.H.I.E.L.D. agent, intelligence agent, soldier and commando leader, parachuting instructor, stunt flyer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Secret Avengers, SHIELD (both incarnations); formerly Team Valkyrie, C.I.A., liaison to MI-5, O.S.S., Howling Commandos, U.S. Army",
         "relatives": "Jack Fury (father, deceased);\nunnamed mother;\nunnamed stepmother (deceased);\nDawn Fury (half-sister);\nJake Fury (half-brother);\nMikel Fury (son, deceased);\nJerry Sapristi (cousin);\nTina Sapristi (cousin by marriage);\nErnesto, Pietro, Giovanni, Maria, Rosa and Gabriella (1st cousins once removed);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/489-nick-fury.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/489-nick-fury.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/489-nick-fury.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/489-nick-fury.jpg"
+        "xs": "images/characters/xs/489-nick-fury.jpg",
+        "sm": "images/characters/sm/489-nick-fury.jpg",
+        "md": "images/characters/md/489-nick-fury.jpg",
+        "lg": "images/characters/lg/489-nick-fury.jpg"
       }
     },
     {
@@ -17441,7 +17442,7 @@ var data = {
         "fullName": "Kurt Wagner",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Somewhere in the Bavarian Alps",
         "firstAppearance": "GIANT-SIZE X-MEN #1",
@@ -17457,10 +17458,10 @@ var data = {
         "relatives": "Eric Wagner (father, deceased), Margali Szardos (foster mother), Jimaine Szardos (Daytripper, alias Amanda Sefton, foster sister), Stefan Szardos (foster brother, deceased), Mystique (mother), Graydon Creed (half-brother, deceased)."
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/490-nightcrawler.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/490-nightcrawler.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/490-nightcrawler.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/490-nightcrawler.jpg"
+        "xs": "images/characters/xs/490-nightcrawler.jpg",
+        "sm": "images/characters/sm/490-nightcrawler.jpg",
+        "md": "images/characters/md/490-nightcrawler.jpg",
+        "lg": "images/characters/lg/490-nightcrawler.jpg"
       }
     },
     {
@@ -17518,10 +17519,10 @@ var data = {
         "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/491-nightwing.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/491-nightwing.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/491-nightwing.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/491-nightwing.jpg"
+        "xs": "images/characters/xs/491-nightwing.jpg",
+        "sm": "images/characters/sm/491-nightwing.jpg",
+        "md": "images/characters/md/491-nightwing.jpg",
+        "lg": "images/characters/lg/491-nightwing.jpg"
       }
     },
     {
@@ -17563,17 +17564,17 @@ var data = {
       },
       "work": {
         "occupation": "Former terrorist, adventurer, teacher, businessman, novelist, professional skier, trapeze artist, thief",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "None, formerly Hydra, Xavier Institute Faculty/Alpha Squadron (teacher/advisor), X-Men, Alpha Flight, Front de Lib?ration du Qu?bec/Cell Combattre",
         "relatives": "Jean-Baptiste Beaubier (father, deceased), unnamed mother (deceased), Louis Martin (adoptive father, deceased), unnamed adoptive mother (deceased), Jeanne-Marie Beaubier (Aurora, sister), Joanne Beaubier (adopted daughter, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/495-northstar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/495-northstar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/495-northstar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/495-northstar.jpg"
+        "xs": "images/characters/xs/495-northstar.jpg",
+        "sm": "images/characters/sm/495-northstar.jpg",
+        "md": "images/characters/md/495-northstar.jpg",
+        "lg": "images/characters/lg/495-northstar.jpg"
       }
     },
     {
@@ -17628,10 +17629,10 @@ var data = {
         "relatives": "Charles Rider (Father), Gloria Rider (Mother), Robbie Rider (Brother) , Ralph Rider (Uncle, deceased) , Ellen (aunt)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/496-nova.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/496-nova.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/496-nova.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/496-nova.jpg"
+        "xs": "images/characters/xs/496-nova.jpg",
+        "sm": "images/characters/sm/496-nova.jpg",
+        "md": "images/characters/md/496-nova.jpg",
+        "lg": "images/characters/lg/496-nova.jpg"
       }
     },
     {
@@ -17667,13 +17668,13 @@ var data = {
           "Frances Hyatt",
           "Human Torch"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Fantastic Four #164 (November, 1975)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "World-ship of Galactus"
       },
       "connections": {
@@ -17681,10 +17682,10 @@ var data = {
         "relatives": "\"Thomas Raye\" (Phineas T. Horton, stepfather, deceased), Thomas Raymond (Toro, possible biological father); Lanette Raye (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/497-nova.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/497-nova.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/497-nova.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/497-nova.jpg"
+        "xs": "images/characters/xs/497-nova.jpg",
+        "sm": "images/characters/sm/497-nova.jpg",
+        "md": "images/characters/md/497-nova.jpg",
+        "lg": "images/characters/lg/497-nova.jpg"
       }
     },
     {
@@ -17740,10 +17741,10 @@ var data = {
         "relatives": "Buri (Tiwaz) (paternal grandfather), Bolthorn (maternal grandfather), Bor Burison (father, deceased), Bestla (mother), Mimir Burison (paternal uncle), Njord (paternal uncle), Vili, Ve, Cul (brothers), Frigga (wife), Freyr (father-in-law), Gullveig (sister-in-law), Thor (son by Jord), Vidar (son by Grid), Balder (son by Frigga), Tyr, Hermod (allegedly sons by Frigga), Angela (daughter by Frigga), Laussa (daughter by Frigga and Surtur), Loki (foster son), Hoder (nephew), Skadi (niece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/498-odin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/498-odin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/498-odin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/498-odin.jpg"
+        "xs": "images/characters/xs/498-odin.jpg",
+        "sm": "images/characters/sm/498-odin.jpg",
+        "md": "images/characters/md/498-odin.jpg",
+        "lg": "images/characters/lg/498-odin.jpg"
       }
     },
     {
@@ -17762,15 +17763,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Luke O'Brian",
@@ -17779,24 +17780,24 @@ var data = {
           "Ernie McDunnagh",
           "Plastic Lad"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/499-offspring.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/499-offspring.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/499-offspring.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/499-offspring.jpg"
+        "xs": "images/characters/xs/499-offspring.jpg",
+        "sm": "images/characters/sm/499-offspring.jpg",
+        "md": "images/characters/md/499-offspring.jpg",
+        "lg": "images/characters/lg/499-offspring.jpg"
       }
     },
     {
@@ -17812,18 +17813,18 @@ var data = {
         "combat": 100
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": "Cosmic Entity",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -17831,24 +17832,24 @@ var data = {
         "aliases": [
           "One Above All"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Doctor Strange Vol 2 #13",
         "publisher": "Marvel Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Living Tribunal (creation)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/503-one-above-all.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/503-one-above-all.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/503-one-above-all.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/503-one-above-all.jpg"
+        "xs": "images/characters/xs/503-one-above-all.jpg",
+        "sm": "images/characters/sm/503-one-above-all.jpg",
+        "md": "images/characters/md/503-one-above-all.jpg",
+        "lg": "images/characters/lg/503-one-above-all.jpg"
       }
     },
     {
@@ -17889,7 +17890,7 @@ var data = {
           "the Entity",
           "Dark Xavier"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Man Vol 1 #15 (May, 1996)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -17899,14 +17900,14 @@ var data = {
         "base": "Central Park Citadel, Astral Fortress"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Professor Charles Xavier (fusee, deceased); Magneto (fusee)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/504-onslaught.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/504-onslaught.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/504-onslaught.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/504-onslaught.jpg"
+        "xs": "images/characters/xs/504-onslaught.jpg",
+        "sm": "images/characters/sm/504-onslaught.jpg",
+        "md": "images/characters/md/504-onslaught.jpg",
+        "lg": "images/characters/lg/504-onslaught.jpg"
       }
     },
     {
@@ -17942,7 +17943,7 @@ var data = {
           "Batgirl",
           "Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Suicide Squad #23 (Jan.1989)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -17956,10 +17957,10 @@ var data = {
         "relatives": "Roger C. Gordon (father, deceased); Thelma (mother, deceased); James Gordon (uncle/adoptive father); Barbara Eileen Gordon (aunt/adoptive mother); James Gordon Jr. (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/505-oracle.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/505-oracle.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/505-oracle.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/505-oracle.jpg"
+        "xs": "images/characters/xs/505-oracle.jpg",
+        "sm": "images/characters/sm/505-oracle.jpg",
+        "md": "images/characters/md/505-oracle.jpg",
+        "lg": "images/characters/lg/505-oracle.jpg"
       }
     },
     {
@@ -17978,7 +17979,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -17992,26 +17993,26 @@ var data = {
         "fullName": "Amon Tomaz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Shiruta, Kahndaq"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Isis (Sister, deceased), Black Adam (Brother-in-Law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/506-osiris.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/506-osiris.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/506-osiris.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/506-osiris.jpg"
+        "xs": "images/characters/xs/506-osiris.jpg",
+        "sm": "images/characters/sm/506-osiris.jpg",
+        "md": "images/characters/md/506-osiris.jpg",
+        "lg": "images/characters/lg/506-osiris.jpg"
       }
     },
     {
@@ -18030,7 +18031,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -18046,24 +18047,24 @@ var data = {
         "aliases": [
           "The World's Smartest Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Watchmen #1",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly The Crimebusters",
         "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/508-ozymandias.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/508-ozymandias.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/508-ozymandias.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/508-ozymandias.jpg"
+        "xs": "images/characters/xs/508-ozymandias.jpg",
+        "sm": "images/characters/sm/508-ozymandias.jpg",
+        "md": "images/characters/md/508-ozymandias.jpg",
+        "lg": "images/characters/lg/508-ozymandias.jpg"
       }
     },
     {
@@ -18079,24 +18080,24 @@ var data = {
         "combat": 25
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": "Parademon",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Apokalips",
         "firstAppearance": "New Gods #1",
@@ -18104,18 +18105,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Darkseid",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/509-parademon.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/509-parademon.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/509-parademon.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/509-parademon.jpg"
+        "xs": "images/characters/xs/509-parademon.jpg",
+        "sm": "images/characters/sm/509-parademon.jpg",
+        "md": "images/characters/md/509-parademon.jpg",
+        "lg": "images/characters/lg/509-parademon.jpg"
       }
     },
     {
@@ -18148,9 +18149,9 @@ var data = {
         "fullName": "Oswald Chesterfield Cobblepot",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "DETECTIVE COMICS #58 (December, 1941)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -18160,14 +18161,14 @@ var data = {
         "base": "Gotham City"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/514-penguin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/514-penguin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/514-penguin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/514-penguin.jpg"
+        "xs": "images/characters/xs/514-penguin.jpg",
+        "sm": "images/characters/sm/514-penguin.jpg",
+        "md": "images/characters/md/514-penguin.jpg",
+        "lg": "images/characters/lg/514-penguin.jpg"
       }
     },
     {
@@ -18200,26 +18201,26 @@ var data = {
         "fullName": "Tinya Wazzo",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "United Planets, Bgztl"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/516-phantom-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/516-phantom-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/516-phantom-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/516-phantom-girl.jpg"
+        "xs": "images/characters/xs/516-phantom-girl.jpg",
+        "sm": "images/characters/sm/516-phantom-girl.jpg",
+        "md": "images/characters/md/516-phantom-girl.jpg",
+        "lg": "images/characters/lg/516-phantom-girl.jpg"
       }
     },
     {
@@ -18255,7 +18256,7 @@ var data = {
           "Redd Dayspring",
           "Marvel Girl"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men #1 (September, 1963)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -18269,10 +18270,10 @@ var data = {
         "relatives": "Rachel Summers (daughter from an alternate universe), X-Man (son from an alternate universe), Cyclops (ex-husband), Havok (former brother-in-law), Corsair (former father-in-law), Madelyne Pryor (clone), Cable (adoptive/biological son), Stryfe (cloned biological son), Genesis (grandson)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/517-phoenix.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/517-phoenix.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/517-phoenix.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/517-phoenix.jpg"
+        "xs": "images/characters/xs/517-phoenix.jpg",
+        "sm": "images/characters/sm/517-phoenix.jpg",
+        "md": "images/characters/md/517-phoenix.jpg",
+        "lg": "images/characters/lg/517-phoenix.jpg"
       }
     },
     {
@@ -18318,13 +18319,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Formerly Thunderbolts (as Blackheath), Crime Wave, Defenders (Villains) , New Enforcers, former associate of the Maggia under Count Nefaria, ally of Wizard.",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/518-plantman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/518-plantman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/518-plantman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/518-plantman.jpg"
+        "xs": "images/characters/xs/518-plantman.jpg",
+        "sm": "images/characters/sm/518-plantman.jpg",
+        "md": "images/characters/md/518-plantman.jpg",
+        "lg": "images/characters/lg/518-plantman.jpg"
       }
     },
     {
@@ -18357,26 +18358,26 @@ var data = {
         "fullName": "Patrick O'Brian",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Police Comics #1 (August, 1941)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Government Agent",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "The FBI; formerly the Justice League of America; the All-Star Squadron and the Freedom Fighters",
         "relatives": "Offspring (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/520-plastic-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/520-plastic-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/520-plastic-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/520-plastic-man.jpg"
+        "xs": "images/characters/xs/520-plastic-man.jpg",
+        "sm": "images/characters/sm/520-plastic-man.jpg",
+        "md": "images/characters/md/520-plastic-man.jpg",
+        "lg": "images/characters/lg/520-plastic-man.jpg"
       }
     },
     {
@@ -18409,9 +18410,9 @@ var data = {
         "fullName": "Bette Sans Souci",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Fury of Firestorm #7",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -18425,10 +18426,10 @@ var data = {
         "relatives": "Nathaniel Adam (Captain Atom,husband), Margaret Eiling (step-daughter), Randall Eiling (step-son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/521-plastique.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/521-plastique.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/521-plastique.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/521-plastique.jpg"
+        "xs": "images/characters/xs/521-plastique.jpg",
+        "sm": "images/characters/sm/521-plastique.jpg",
+        "md": "images/characters/md/521-plastique.jpg",
+        "lg": "images/characters/lg/521-plastique.jpg"
       }
     },
     {
@@ -18461,7 +18462,7 @@ var data = {
         "fullName": "Pamela Isley",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Seattle, Washington",
         "firstAppearance": "Batman #181 (June 1966)",
@@ -18474,13 +18475,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Formerly Injustice Gang, Suicide Squad, Harley Quinn, Secret Society of Super Villains, Joker League of Anarchy",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/522-poison-ivy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/522-poison-ivy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/522-poison-ivy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/522-poison-ivy.jpg"
+        "xs": "images/characters/xs/522-poison-ivy.jpg",
+        "sm": "images/characters/sm/522-poison-ivy.jpg",
+        "md": "images/characters/md/522-poison-ivy.jpg",
+        "lg": "images/characters/lg/522-poison-ivy.jpg"
       }
     },
     {
@@ -18534,10 +18535,10 @@ var data = {
         "relatives": "Joseph (father's clone/paternal uncle, deceased), Magneto (father), Magda Lehnsherr (step-mother, deceased), Zaladane (sister, status uncertain), Anya Lehnsherr (paternal half-sister, deceased), Scarlet Witch (paternal half-sister), Quicksilver (paternal half-brother), Nightcrawler (half-brother-in-law), Vision (half-brother-in-law), Crystal (half-sister-in-law), Nocturne (half-niece), Speed (half-nephew), Wiccan (half-nephew), Luna Maximoff (half-niece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/523-polaris.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/523-polaris.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/523-polaris.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/523-polaris.jpg"
+        "xs": "images/characters/xs/523-polaris.jpg",
+        "sm": "images/characters/sm/523-polaris.jpg",
+        "md": "images/characters/md/523-polaris.jpg",
+        "lg": "images/characters/lg/523-polaris.jpg"
       }
     },
     {
@@ -18573,24 +18574,24 @@ var data = {
           "Karen Starr",
           "Nightwing"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "All-Star Comics #58 (January/February 1976)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Justice Society of America, Justice League Europe, Infinity, Inc., Sovereign Seven",
         "relatives": "Zor-L (father, deceased), Allura (mother, deceased), Jor-L (uncle, deceased), Lora (aunt, deceased), Kal-L (Earth-Two Superman, cousin and adopted father, deceased), Earth-Two Lois Lane (adopted mother, deceased), Equinox (son, deceased), Kara Zor-El (alternate universe version)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/524-power-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/524-power-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/524-power-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/524-power-girl.jpg"
+        "xs": "images/characters/xs/524-power-girl.jpg",
+        "sm": "images/characters/sm/524-power-girl.jpg",
+        "md": "images/characters/md/524-power-girl.jpg",
+        "lg": "images/characters/lg/524-power-girl.jpg"
       }
     },
     {
@@ -18616,8 +18617,8 @@ var data = {
           "520 lb",
           "234 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Yautja",
@@ -18633,18 +18634,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/526-predator.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/526-predator.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/526-predator.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/526-predator.jpg"
+        "xs": "images/characters/xs/526-predator.jpg",
+        "sm": "images/characters/sm/526-predator.jpg",
+        "md": "images/characters/md/526-predator.jpg",
+        "lg": "images/characters/lg/526-predator.jpg"
       }
     },
     {
@@ -18696,10 +18697,10 @@ var data = {
         "relatives": "Brian Xavier (father, deceased), Sharon Xavier (mother, deceased), Cassandra Nova (sister), Kurt Marko (stepfather, deceased), Cain Marko (Juggernaut, stepbrother), Lilandra (ex-wife), David Charles Haller (Legion, son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/527-professor-x.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/527-professor-x.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/527-professor-x.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/527-professor-x.jpg"
+        "xs": "images/characters/xs/527-professor-x.jpg",
+        "sm": "images/characters/sm/527-professor-x.jpg",
+        "md": "images/characters/md/527-professor-x.jpg",
+        "lg": "images/characters/lg/527-professor-x.jpg"
       }
     },
     {
@@ -18737,13 +18738,13 @@ var data = {
           "Adrian Zoom",
           "Mister Zyx"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash #139 (September, 1963)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Central Cityplex, 25th Century"
       },
       "connections": {
@@ -18751,10 +18752,10 @@ var data = {
         "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/528-professor-zoom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/528-professor-zoom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/528-professor-zoom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/528-professor-zoom.jpg"
+        "xs": "images/characters/xs/528-professor-zoom.jpg",
+        "sm": "images/characters/sm/528-professor-zoom.jpg",
+        "md": "images/characters/md/528-professor-zoom.jpg",
+        "lg": "images/characters/lg/528-professor-zoom.jpg"
       }
     },
     {
@@ -18805,10 +18806,10 @@ var data = {
         "relatives": "John Braddock (ancestor, possibly grandfather); Sir James Braddock (father, deceased); Lady Elizabeth Braddock (mother, deceased); Brian Braddock (Captain Britain) (twin brother); Jamie Braddock (brother, deceased); Meggan Braddock (sister-in-law);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/529-psylocke.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/529-psylocke.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/529-psylocke.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/529-psylocke.jpg"
+        "xs": "images/characters/xs/529-psylocke.jpg",
+        "sm": "images/characters/sm/529-psylocke.jpg",
+        "md": "images/characters/md/529-psylocke.jpg",
+        "lg": "images/characters/lg/529-psylocke.jpg"
       }
     },
     {
@@ -18876,10 +18877,10 @@ var data = {
         "relatives": "Maria Castle (Wife, deceased), Christie Castle (Daughter, deceased), Frank Castle Junior (Son, deceased), Mario Castle (Father, deceased), Louisa Castle (Mother, deceased), Rocco Castiglione (Uncle, deceased), Esmerelda Castiglione (Aunt, deceased), Michael Castle (Brother, stillborn, deceased)."
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/530-punisher.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/530-punisher.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/530-punisher.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/530-punisher.jpg"
+        "xs": "images/characters/xs/530-punisher.jpg",
+        "sm": "images/characters/sm/530-punisher.jpg",
+        "md": "images/characters/md/530-punisher.jpg",
+        "lg": "images/characters/lg/530-punisher.jpg"
       }
     },
     {
@@ -18914,7 +18915,7 @@ var data = {
         "aliases": [
           "Kilgrave"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Daredevil #4 (October, 1964)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -18928,10 +18929,10 @@ var data = {
         "relatives": "Melanie Killgrave (ex-wife); Persuasion (Kara Killgrave) (daughter); Joe (son); Shallah (daughter); Connor (son); Jamie (son); Unnamed daughter"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/531-purple-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/531-purple-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/531-purple-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/531-purple-man.jpg"
+        "xs": "images/characters/xs/531-purple-man.jpg",
+        "sm": "images/characters/sm/531-purple-man.jpg",
+        "md": "images/characters/md/531-purple-man.jpg",
+        "lg": "images/characters/lg/531-purple-man.jpg"
       }
     },
     {
@@ -18964,26 +18965,26 @@ var data = {
         "fullName": "St. John Allerdyce",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Sydney, Australia",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Former government agent, terrorist, bodyguard, novelist, journalist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Freedom Force, Brotherhood of Evil Mutants",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/532-pyro.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/532-pyro.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/532-pyro.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/532-pyro.jpg"
+        "xs": "images/characters/xs/532-pyro.jpg",
+        "sm": "images/characters/sm/532-pyro.jpg",
+        "md": "images/characters/md/532-pyro.jpg",
+        "lg": "images/characters/lg/532-pyro.jpg"
       }
     },
     {
@@ -19018,7 +19019,7 @@ var data = {
         "aliases": [
           "Vic Sage"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -19029,13 +19030,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Formerly L.A.W., JLA, Black Lantern Corps",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/535-question.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/535-question.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/535-question.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/535-question.jpg"
+        "xs": "images/characters/xs/535-question.jpg",
+        "sm": "images/characters/sm/535-question.jpg",
+        "md": "images/characters/md/535-question.jpg",
+        "lg": "images/characters/lg/535-question.jpg"
       }
     },
     {
@@ -19086,10 +19087,10 @@ var data = {
         "relatives": "Wanda Maximoff (Scarlet Witch, sister), Magnus (Magneto, father), Magda (mother, deceased), Django Maximoff (adoptive father), Marya Maximoff (adoptive mother, deceased), Crystal (wife), Maximoff, Luna (daughter), Medusa (sister-in-law), Black Bolt, Gorgon, Karnak, Triton, Maximus (cousins by marriage), Vision (ex-brother-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/536-quicksilver.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/536-quicksilver.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/536-quicksilver.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/536-quicksilver.jpg"
+        "xs": "images/characters/xs/536-quicksilver.jpg",
+        "sm": "images/characters/sm/536-quicksilver.jpg",
+        "md": "images/characters/md/536-quicksilver.jpg",
+        "lg": "images/characters/lg/536-quicksilver.jpg"
       }
     },
     {
@@ -19124,24 +19125,24 @@ var data = {
         "aliases": [
           "Max"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New X-Men: Academy X #1",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "X-Mansion"
       },
       "connections": {
         "groupAffiliation": "Corsairs",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/537-quill.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/537-quill.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/537-quill.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/537-quill.jpg"
+        "xs": "images/characters/xs/537-quill.jpg",
+        "sm": "images/characters/sm/537-quill.jpg",
+        "md": "images/characters/md/537-quill.jpg",
+        "lg": "images/characters/lg/537-quill.jpg"
       }
     },
     {
@@ -19190,10 +19191,10 @@ var data = {
         "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/538-ras-al-ghul.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/538-ras-al-ghul.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/538-ras-al-ghul.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg"
+        "xs": "images/characters/xs/538-ras-al-ghul.jpg",
+        "sm": "images/characters/sm/538-ras-al-ghul.jpg",
+        "md": "images/characters/md/538-ras-al-ghul.jpg",
+        "lg": "images/characters/lg/538-ras-al-ghul.jpg"
       }
     },
     {
@@ -19212,40 +19213,40 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "unknown",
         "hairColor": "No Hair"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Leonardo (brother), Donatello (brother), Michelangelo (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/541-raphael.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/541-raphael.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/541-raphael.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/541-raphael.jpg"
+        "xs": "images/characters/xs/541-raphael.jpg",
+        "sm": "images/characters/sm/541-raphael.jpg",
+        "md": "images/characters/md/541-raphael.jpg",
+        "lg": "images/characters/lg/541-raphael.jpg"
       }
     },
     {
@@ -19288,17 +19289,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, high school student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Teen Titans, formerly Sentinels of Magic",
         "relatives": "Trigon (father), Angela Roth (mother, deceased), Gluttony, Greed, Lust, Wrath, Envy, Sloth (half-brothers, status unknown)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/542-raven.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/542-raven.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/542-raven.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/542-raven.jpg"
+        "xs": "images/characters/xs/542-raven.jpg",
+        "sm": "images/characters/sm/542-raven.jpg",
+        "md": "images/characters/md/542-raven.jpg",
+        "lg": "images/characters/lg/542-raven.jpg"
       }
     },
     {
@@ -19331,9 +19332,9 @@ var data = {
         "fullName": "Ray Terrill",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Ray #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -19347,10 +19348,10 @@ var data = {
         "relatives": "Happy Terrill (father), Nadine Terrill (mother), Joshua Terrill (Spitfire, brother), Thomas Terrill (uncle/foster father, deceased), Hank Terrill (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/543-ray.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/543-ray.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/543-ray.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/543-ray.jpg"
+        "xs": "images/characters/xs/543-ray.jpg",
+        "sm": "images/characters/sm/543-ray.jpg",
+        "md": "images/characters/md/543-ray.jpg",
+        "lg": "images/characters/lg/543-ray.jpg"
       }
     },
     {
@@ -19386,7 +19387,7 @@ var data = {
           "Arsenal",
           "Speedy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(as Speedy) More Fun Comics # 73(Nov. 1941); (as Arsenal) The New Titans # 99 (July 1993); (as Red Arrow) Justice League of America Vol. 2 # 7 (May 2007)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -19400,10 +19401,10 @@ var data = {
         "relatives": "Roy William Harper, Sr. (father, deceased); Brave Bow (adoptive father, deceased); Oliver \"Ollie\" Queen (Green Arrow - adoptive father); Jim Harper (Guardian- great-uncle); Lian Harper (daughter), Vandal Savage (ancestor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/545-red-arrow.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/545-red-arrow.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/545-red-arrow.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/545-red-arrow.jpg"
+        "xs": "images/characters/xs/545-red-arrow.jpg",
+        "sm": "images/characters/sm/545-red-arrow.jpg",
+        "md": "images/characters/md/545-red-arrow.jpg",
+        "lg": "images/characters/lg/545-red-arrow.jpg"
       }
     },
     {
@@ -19442,24 +19443,24 @@ var data = {
           "Nightwing",
           "Arkham Knight"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #635",
         "publisher": "DC Comics",
         "alignment": "Neutral"
       },
       "work": {
         "occupation": "Mercenary, Vigilante",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "formerly Batman Family, Teen Titans",
         "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/546-red-hood.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/546-red-hood.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/546-red-hood.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/546-red-hood.jpg"
+        "xs": "images/characters/xs/546-red-hood.jpg",
+        "sm": "images/characters/sm/546-red-hood.jpg",
+        "md": "images/characters/md/546-red-hood.jpg",
+        "lg": "images/characters/lg/546-red-hood.jpg"
       }
     },
     {
@@ -19497,24 +19498,24 @@ var data = {
           "Thunderbolt",
           "General Ross"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
         "publisher": "Marvel Comics",
         "alignment": "Neutral"
       },
       "work": {
         "occupation": "Lieutenant general in US Air Force",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Code Red, AIM; Formerly Offenders",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/547-red-hulk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/547-red-hulk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/547-red-hulk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/547-red-hulk.jpg"
+        "xs": "images/characters/xs/547-red-hulk.jpg",
+        "sm": "images/characters/sm/547-red-hulk.jpg",
+        "md": "images/characters/md/547-red-hulk.jpg",
+        "lg": "images/characters/lg/547-red-hulk.jpg"
       }
     },
     {
@@ -19533,15 +19534,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Chris Genovese",
@@ -19549,24 +19550,24 @@ var data = {
         "aliases": [
           "The Red Mist"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Kick-Ass #5",
         "publisher": "Icon Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Johnny G (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/548-red-mist.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/548-red-mist.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/548-red-mist.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/548-red-mist.jpg"
+        "xs": "images/characters/xs/548-red-mist.jpg",
+        "sm": "images/characters/sm/548-red-mist.jpg",
+        "md": "images/characters/md/548-red-mist.jpg",
+        "lg": "images/characters/lg/548-red-mist.jpg"
       }
     },
     {
@@ -19611,7 +19612,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City; Titans Tower, San Francisco"
       },
       "connections": {
@@ -19619,10 +19620,10 @@ var data = {
         "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (adoptive father), Damian Wayne (adoptive brother), Dick Grayson (adoptive brother), Jason Todd (adoptive brother), Cassandra Cain (adoptive sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/549-red-robin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/549-red-robin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/549-red-robin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/549-red-robin.jpg"
+        "xs": "images/characters/xs/549-red-robin.jpg",
+        "sm": "images/characters/sm/549-red-robin.jpg",
+        "md": "images/characters/md/549-red-robin.jpg",
+        "lg": "images/characters/lg/549-red-robin.jpg"
       }
     },
     {
@@ -19671,18 +19672,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Special operative in the government of Germany's Third Reich, former leader of most currently active Nazi subversives throughout the world, former ally of THEM and A.I.M., former leader of the Nevada-based fragment of Hydra, leader of the People's Militia",
         "relatives": "Hermann Shmidt (father, deceased), Martha Shmidt (mother, deceased), Sinthea Shmidt (Mother Superior/Sin, daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/550-red-skull.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/550-red-skull.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/550-red-skull.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/550-red-skull.jpg"
+        "xs": "images/characters/xs/550-red-skull.jpg",
+        "sm": "images/characters/sm/550-red-skull.jpg",
+        "md": "images/characters/md/550-red-skull.jpg",
+        "lg": "images/characters/lg/550-red-skull.jpg"
       }
     },
     {
@@ -19721,13 +19722,13 @@ var data = {
           "Tornado Man Dreaming",
           "\"Reddy\""
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Happy Harbor, Rhode Island"
       },
       "connections": {
@@ -19735,10 +19736,10 @@ var data = {
         "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/551-red-tornado.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/551-red-tornado.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/551-red-tornado.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/551-red-tornado.jpg"
+        "xs": "images/characters/xs/551-red-tornado.jpg",
+        "sm": "images/characters/sm/551-red-tornado.jpg",
+        "md": "images/characters/md/551-red-tornado.jpg",
+        "lg": "images/characters/lg/551-red-tornado.jpg"
       }
     },
     {
@@ -19774,7 +19775,7 @@ var data = {
           "Alex O'Hirn",
           "Mecha-Rhino"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #41",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -19788,10 +19789,10 @@ var data = {
         "relatives": "Miriam Sytsevich (mother, deceased), Alexia (niece, lastname unrevealed), unnamed grandmother"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/556-rhino.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/556-rhino.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/556-rhino.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/556-rhino.jpg"
+        "xs": "images/characters/xs/556-rhino.jpg",
+        "sm": "images/characters/sm/556-rhino.jpg",
+        "md": "images/characters/md/556-rhino.jpg",
+        "lg": "images/characters/lg/556-rhino.jpg"
       }
     },
     {
@@ -19824,9 +19825,9 @@ var data = {
         "fullName": "Richard Rogers Flag",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Brave and the Bold #25 (September 1959)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -19840,10 +19841,10 @@ var data = {
         "relatives": "Richard Flag, Sr. (father, deceased); Richard Flag III (son); Karin Grace (mother of child)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/557-rick-flag.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/557-rick-flag.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/557-rick-flag.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/557-rick-flag.jpg"
+        "xs": "images/characters/xs/557-rick-flag.jpg",
+        "sm": "images/characters/sm/557-rick-flag.jpg",
+        "md": "images/characters/md/557-rick-flag.jpg",
+        "lg": "images/characters/lg/557-rick-flag.jpg"
       }
     },
     {
@@ -19862,15 +19863,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Edward Nigma",
@@ -19879,24 +19880,24 @@ var data = {
           "E. Nigma",
           "Edward E. Nigma"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Detective Comics #140 (1948)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/558-riddler.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/558-riddler.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/558-riddler.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/558-riddler.jpg"
+        "xs": "images/characters/xs/558-riddler.jpg",
+        "sm": "images/characters/sm/558-riddler.jpg",
+        "md": "images/characters/md/558-riddler.jpg",
+        "lg": "images/characters/lg/558-riddler.jpg"
       }
     },
     {
@@ -19915,7 +19916,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -19937,13 +19938,13 @@ var data = {
           "Hunter",
           "Carter"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Showcase #20",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Time Lab, Arizona"
       },
       "connections": {
@@ -19951,10 +19952,10 @@ var data = {
         "relatives": "Michael Carter, (Booster Gold, father),  Unknown (mother), Jonar Carter (grandfather), Ellen Carter (grandmother, deceased), Michelle Carter (Goldstar) (aunt), Daniel Carter (21st century ancestor), Rose Levin (ancestor), Dan Hunter (cousin),"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/559-rip-hunter.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/559-rip-hunter.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/559-rip-hunter.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/559-rip-hunter.jpg"
+        "xs": "images/characters/xs/559-rip-hunter.jpg",
+        "sm": "images/characters/sm/559-rip-hunter.jpg",
+        "md": "images/characters/md/559-rip-hunter.jpg",
+        "lg": "images/characters/lg/559-rip-hunter.jpg"
       }
     },
     {
@@ -19991,13 +19992,13 @@ var data = {
           "The Target",
           "Freddie Dinardo"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Detective Comics #38 (April, 1940)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Wayne Tower, Gotham City; formerly the Batcave;  formerly Bl?dhaven;  formerly New York City"
       },
       "connections": {
@@ -20005,10 +20006,10 @@ var data = {
         "relatives": "John Grayson (father), Mary Grayson (mother), Bruce Wayne (adoptive father), Damian Wayne (adoptive brother), Jason Todd (adoptive brother), Tim Drake (adoptive brother), Cassandra Cain (adoptive sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/561-robin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/561-robin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/561-robin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/561-robin.jpg"
+        "xs": "images/characters/xs/561-robin.jpg",
+        "sm": "images/characters/sm/561-robin.jpg",
+        "md": "images/characters/md/561-robin.jpg",
+        "lg": "images/characters/lg/561-robin.jpg"
       }
     },
     {
@@ -20049,24 +20050,24 @@ var data = {
           "Jaybird",
           "Arkham Knight"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Detective Comics #524",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Batman Family, Teen Titans, Challengers from Beyond",
         "relatives": "Willis Todd (father), Sheila Haywood (mother), Catherine Todd (step-mother), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Timothy Drake (Robin III, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/562-robin-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/562-robin-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/562-robin-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/562-robin-ii.jpg"
+        "xs": "images/characters/xs/562-robin-ii.jpg",
+        "sm": "images/characters/sm/562-robin-ii.jpg",
+        "md": "images/characters/md/562-robin-ii.jpg",
+        "lg": "images/characters/lg/562-robin-ii.jpg"
       }
     },
     {
@@ -20104,7 +20105,7 @@ var data = {
           "Robin",
           "Timothy Wayne"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman #436 (August, 1989)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
@@ -20118,10 +20119,10 @@ var data = {
         "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Jason Todd (Robin II, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/563-robin-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/563-robin-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/563-robin-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/563-robin-iii.jpg"
+        "xs": "images/characters/xs/563-robin-iii.jpg",
+        "sm": "images/characters/sm/563-robin-iii.jpg",
+        "md": "images/characters/md/563-robin-iii.jpg",
+        "lg": "images/characters/lg/563-robin-iii.jpg"
       }
     },
     {
@@ -20159,13 +20160,13 @@ var data = {
           "Ibn al Xu'ffasch",
           "Redbird"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Batman: Son of the Demon",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Gotham City"
       },
       "connections": {
@@ -20173,10 +20174,10 @@ var data = {
         "relatives": "Talia al Ghul (mother),\nBruce Wayne (Batman, father),\nRa's Al Ghul (maternal grandfather),\nMelisande (maternal grandmother),\nThomas Wayne (paternal grandfather),\nMartha Wayne (paternal grandmother),\nSensei (great-grandfather),\nSimon Hurt (ancestor),\nNyssa Raatko (aunt, deceased),\nDusan al Ghul (White Ghost, uncle, deceased),\nRichard Grayson (Nightwing, adoptive brother),\nTim Drake (Red Robin, adoptive brother),\nCassandra Cain (Batgirl IV, adoptive sister),\nJason Todd (Red Hood, adoptive brother), \nPatrick Wayne (great-grandfather, deceased); \nCharles Wayne (great-great-grandfather, deceased);\nConstance Wayne (great-great-grandmother, deceased); \nAlan Wayne (ancestor, deceased); \nSolomon Wayne (ancestor, deceased); \nDarius Wayne (ancestor, deceased); \nJoshua Wayne (ancestor, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/564-robin-v.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/564-robin-v.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/564-robin-v.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/564-robin-v.jpg"
+        "xs": "images/characters/xs/564-robin-v.jpg",
+        "sm": "images/characters/sm/564-robin-v.jpg",
+        "md": "images/characters/md/564-robin-v.jpg",
+        "lg": "images/characters/lg/564-robin-v.jpg"
       }
     },
     {
@@ -20195,7 +20196,7 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -20209,26 +20210,26 @@ var data = {
         "fullName": "Carrie Kelley",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Gotham City",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/565-robin-vi.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/565-robin-vi.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/565-robin-vi.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/565-robin-vi.jpg"
+        "xs": "images/characters/xs/565-robin-vi.jpg",
+        "sm": "images/characters/sm/565-robin-vi.jpg",
+        "md": "images/characters/md/565-robin-vi.jpg",
+        "lg": "images/characters/lg/565-robin-vi.jpg"
       }
     },
     {
@@ -20265,7 +20266,7 @@ var data = {
           "Rocky Raccoon",
           "Ranger Rocket"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Marvel Preview #7 (June, 1976)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -20279,10 +20280,10 @@ var data = {
         "relatives": "Lylla (mate)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/566-rocket-raccoon.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/566-rocket-raccoon.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/566-rocket-raccoon.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/566-rocket-raccoon.jpg"
+        "xs": "images/characters/xs/566-rocket-raccoon.jpg",
+        "sm": "images/characters/sm/566-rocket-raccoon.jpg",
+        "md": "images/characters/md/566-rocket-raccoon.jpg",
+        "lg": "images/characters/lg/566-rocket-raccoon.jpg"
       }
     },
     {
@@ -20328,17 +20329,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, former mechanic, waitress, terrorist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly X-Treme Sanctions Executive, X-Treme X-Men, Brotherhood of Evil Mutants",
         "relatives": "Owen (father), Priscilla (mother), Carrie (aunt), Raven Darkh?lme (Mystique, foster mother), Kurt Wagner (Nightcrawler, foster brother), Graydon Creed (foster brother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/567-rogue.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/567-rogue.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/567-rogue.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/567-rogue.jpg"
+        "xs": "images/characters/xs/567-rogue.jpg",
+        "sm": "images/characters/sm/567-rogue.jpg",
+        "md": "images/characters/md/567-rogue.jpg",
+        "lg": "images/characters/lg/567-rogue.jpg"
       }
     },
     {
@@ -20385,23 +20386,23 @@ var data = {
           "'Purple Man'; impersonated Constrictor & Dreadknight"
         ],
         "placeOfBirth": "Waverly, Iowa",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Outlaw adventurer, revolutionary; former professional super hero, fugitive, unnoficial S.H.I.E.L.D. operative, federal inmate, CTE security chief, ranch hand, archery tutor, carnival performer, roustabout, butcher shop worker",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Avengers; formerly founding member of Avengers West Coast and first chairman, Thunderbolts, S.H.I.E.L.D. (unofficial), Chain Gang 421-011, Shadows, Great Lakes Avengers, Cross Technological Enterprises, Defenders, Carson Carnival of Traveling Wonders, Ti",
         "relatives": "Harold Barton (father), Edith Barton (mother), Charles Bernard \"Barney\" Barton (brother), Barbara Morse 'Bobbi' Barton (Mockingbird, wife), Brett Barton (ancestor), Mack Barton (ancestor); all deceased"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+        "xs": "images/characters/xs/no-portrait.jpg",
+        "sm": "images/characters/sm/no-portrait.jpg",
+        "md": "images/characters/md/no-portrait.jpg",
+        "lg": "images/characters/lg/no-portrait.jpg"
       }
     },
     {
@@ -20434,26 +20435,26 @@ var data = {
         "fullName": "Walter Joseph Kovacs",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Vigilante, former garment worker",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Crimebusters",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/569-rorschach.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/569-rorschach.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/569-rorschach.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/569-rorschach.jpg"
+        "xs": "images/characters/xs/569-rorschach.jpg",
+        "sm": "images/characters/sm/569-rorschach.jpg",
+        "md": "images/characters/md/569-rorschach.jpg",
+        "lg": "images/characters/lg/569-rorschach.jpg"
       }
     },
     {
@@ -20489,7 +20490,7 @@ var data = {
           "Slasher",
           "El Tigre"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Iron Fist #14 (August, 1977)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -20503,10 +20504,10 @@ var data = {
         "relatives": "Grayden Creed (son; deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/570-sabretooth.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/570-sabretooth.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/570-sabretooth.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/570-sabretooth.jpg"
+        "xs": "images/characters/xs/570-sabretooth.jpg",
+        "sm": "images/characters/sm/570-sabretooth.jpg",
+        "md": "images/characters/md/570-sabretooth.jpg",
+        "lg": "images/characters/lg/570-sabretooth.jpg"
       }
     },
     {
@@ -20539,7 +20540,7 @@ var data = {
         "fullName": "Tessa",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "X-MEN Vol. 1 #132",
@@ -20552,13 +20553,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Excalibur, formerly X-Men, X-Treme Sanctions Executive, X-Treme X-Men, Hellfire Club",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/571-sage.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/571-sage.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/571-sage.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/571-sage.jpg"
+        "xs": "images/characters/xs/571-sage.jpg",
+        "sm": "images/characters/sm/571-sage.jpg",
+        "md": "images/characters/md/571-sage.jpg",
+        "lg": "images/characters/lg/571-sage.jpg"
       }
     },
     {
@@ -20602,17 +20603,17 @@ var data = {
       },
       "work": {
         "occupation": "Professional Criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "(Formerly) Sinister Twelve, the Sinister Six, the Frightful Four, the Outlaws and the Wild Pack, reserve member of the Avengers",
         "relatives": "Mrs. Baker (mother), unidentified cousin"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/572-sandman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/572-sandman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/572-sandman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/572-sandman.jpg"
+        "xs": "images/characters/xs/572-sandman.jpg",
+        "sm": "images/characters/sm/572-sandman.jpg",
+        "md": "images/characters/md/572-sandman.jpg",
+        "lg": "images/characters/lg/572-sandman.jpg"
       }
     },
     {
@@ -20649,23 +20650,23 @@ var data = {
           "Wanda Langkowski"
         ],
         "placeOfBirth": "Edmonton, Alberta, Canada",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer, bio-physicist, government operative; former college lecturer, professional football player",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Omega Flight; formerly Alpha Flight, Beta Flight, Gamma Flight, Howling Commandos",
         "relatives": "Veronica Langkowsi (ex-wife), unidentified son, Lillian von Loont (Gilded Lily, great-aunt, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/573-sasquatch.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/573-sasquatch.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/573-sasquatch.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/573-sasquatch.jpg"
+        "xs": "images/characters/xs/573-sasquatch.jpg",
+        "sm": "images/characters/sm/573-sasquatch.jpg",
+        "md": "images/characters/md/573-sasquatch.jpg",
+        "lg": "images/characters/lg/573-sasquatch.jpg"
       }
     },
     {
@@ -20684,40 +20685,40 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Kurr",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Image Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Liberty League, Chicago Police Department, Special Operations Strikeforce (S.O.S.)",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/575-savage-dragon.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/575-savage-dragon.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/575-savage-dragon.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/575-savage-dragon.jpg"
+        "xs": "images/characters/xs/575-savage-dragon.jpg",
+        "sm": "images/characters/sm/575-savage-dragon.jpg",
+        "md": "images/characters/md/575-savage-dragon.jpg",
+        "lg": "images/characters/lg/575-savage-dragon.jpg"
       }
     },
     {
@@ -20750,9 +20751,9 @@ var data = {
         "fullName": "Jonathan Crane",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
         "publisher": "DC Comics",
         "alignment": "Villains"
@@ -20763,13 +20764,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Injustice Gang",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/576-scarecrow.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/576-scarecrow.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/576-scarecrow.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/576-scarecrow.jpg"
+        "xs": "images/characters/xs/576-scarecrow.jpg",
+        "sm": "images/characters/sm/576-scarecrow.jpg",
+        "md": "images/characters/md/576-scarecrow.jpg",
+        "lg": "images/characters/lg/576-scarecrow.jpg"
       }
     },
     {
@@ -20812,17 +20813,17 @@ var data = {
       },
       "work": {
         "occupation": "Crime-fighter",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "None; formerly New Warriors",
         "relatives": "Peter Parker (clone of), May Parker (Aunt), Ben Parker (Uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/577-scarlet-spider.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/577-scarlet-spider.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/577-scarlet-spider.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/577-scarlet-spider.jpg"
+        "xs": "images/characters/xs/577-scarlet-spider.jpg",
+        "sm": "images/characters/sm/577-scarlet-spider.jpg",
+        "md": "images/characters/md/577-scarlet-spider.jpg",
+        "lg": "images/characters/lg/577-scarlet-spider.jpg"
       }
     },
     {
@@ -20859,24 +20860,24 @@ var data = {
           "Kaine",
           "Ara?a Escarlata"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Fugitive",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Miles Warren (creator), Peter Parker (Spider-Man, genetic template), Ben Reilly (Scarlet Spider, fellow clone, deceased), Spidercide (fellow clone, allegedly deceased), Guardian (fellow clone, deceased), Jack (fellow clone, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/578-scarlet-spider-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/578-scarlet-spider-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/578-scarlet-spider-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/578-scarlet-spider-ii.jpg"
+        "xs": "images/characters/xs/578-scarlet-spider-ii.jpg",
+        "sm": "images/characters/sm/578-scarlet-spider-ii.jpg",
+        "md": "images/characters/md/578-scarlet-spider-ii.jpg",
+        "lg": "images/characters/lg/578-scarlet-spider-ii.jpg"
       }
     },
     {
@@ -20929,10 +20930,10 @@ var data = {
         "relatives": "Pietro (Quicksilver, twin brother), Magnus (Magneto, father), Magda Lehnsherr (mother, deceased), Anya (half-sister, deceased), Lorna Dane (Polaris, half-sister), Vision (estranged husband), Django Maximoff (foster father, deceased), Marya Maximoff (foster mother, deceased), Crystal (sister-in-law), Luna (niece), Tommy & Billy (reincarnated sons), Talia Wagner (Nocturne, alternate reality daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/579-scarlet-witch.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/579-scarlet-witch.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/579-scarlet-witch.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/579-scarlet-witch.jpg"
+        "xs": "images/characters/xs/579-scarlet-witch.jpg",
+        "sm": "images/characters/sm/579-scarlet-witch.jpg",
+        "md": "images/characters/md/579-scarlet-witch.jpg",
+        "lg": "images/characters/lg/579-scarlet-witch.jpg"
       }
     },
     {
@@ -20951,7 +20952,7 @@ var data = {
         "gender": "Female",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -20965,26 +20966,26 @@ var data = {
         "fullName": "Elaine Coll",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Spider-Man: Power of Terror limited series #2 (1995)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Professional criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Hells Kitchen Mob; formerly Sinister Seven, allied with Silvermane",
         "relatives": "Vincent Coll (grandfather, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/580-scorpia.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/580-scorpia.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/580-scorpia.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/580-scorpia.jpg"
+        "xs": "images/characters/xs/580-scorpia.jpg",
+        "sm": "images/characters/sm/580-scorpia.jpg",
+        "md": "images/characters/md/580-scorpia.jpg",
+        "lg": "images/characters/lg/580-scorpia.jpg"
       }
     },
     {
@@ -21020,24 +21021,24 @@ var data = {
           "Venom",
           "Spider-Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #19 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "U.S. government agent; former professional criminal, assassin, private detective",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Avengers (Osborn's team); formerly Thunderbolts, Masters of Evil, \"Spider-Man Revenge League\"; Sinister Twelve; formerly partners with Mister Hyde and Delilah",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/581-scorpion.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/581-scorpion.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/581-scorpion.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/581-scorpion.jpg"
+        "xs": "images/characters/xs/581-scorpion.jpg",
+        "sm": "images/characters/sm/581-scorpion.jpg",
+        "md": "images/characters/md/581-scorpion.jpg",
+        "lg": "images/characters/lg/581-scorpion.jpg"
       }
     },
     {
@@ -21056,40 +21057,40 @@ var data = {
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Sebastian Hiram Shaw",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+        "xs": "images/characters/xs/no-portrait.jpg",
+        "sm": "images/characters/sm/no-portrait.jpg",
+        "md": "images/characters/md/no-portrait.jpg",
+        "lg": "images/characters/lg/no-portrait.jpg"
       }
     },
     {
@@ -21128,13 +21129,13 @@ var data = {
           "John Victor Williams",
           "Scout"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Sentry #1 (September, 2000)",
         "publisher": "Marvel Comics",
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "The Watchtower (on top of Stark Tower, where it was formerly located before all memory of him disappeared)"
       },
       "connections": {
@@ -21142,10 +21143,10 @@ var data = {
         "relatives": "Lindy Reynolds (wife, deceased), Mrs. Reynolds (mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/583-sentry.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/583-sentry.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/583-sentry.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/583-sentry.jpg"
+        "xs": "images/characters/xs/583-sentry.jpg",
+        "sm": "images/characters/sm/583-sentry.jpg",
+        "md": "images/characters/md/583-sentry.jpg",
+        "lg": "images/characters/lg/583-sentry.jpg"
       }
     },
     {
@@ -21161,7 +21162,7 @@ var data = {
         "combat": 75
       },
       "appearance": {
-        "gender": "-",
+        "gender": "unknown",
         "race": null,
         "height": [
           "6'1",
@@ -21172,7 +21173,7 @@ var data = {
           "149 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Amahl Farouk",
@@ -21188,24 +21189,24 @@ var data = {
           "Jacob Reisz",
           "Donald Pierce and probably others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men #117 (1979)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "The Astral Plane; Formerly Cairo, Egypt."
       },
       "connections": {
         "groupAffiliation": "Shadow Mob; former head of the Gladiators and the Cairo?s Thieves Quarter",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/584-shadow-king.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/584-shadow-king.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/584-shadow-king.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/584-shadow-king.jpg"
+        "xs": "images/characters/xs/584-shadow-king.jpg",
+        "sm": "images/characters/sm/584-shadow-king.jpg",
+        "md": "images/characters/md/584-shadow-king.jpg",
+        "lg": "images/characters/lg/584-shadow-king.jpg"
       }
     },
     {
@@ -21238,7 +21239,7 @@ var data = {
         "fullName": "Tasmia Mallor",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Talok VIII",
         "firstAppearance": "Adventure Comics #365",
@@ -21246,18 +21247,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/585-shadow-lass.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/585-shadow-lass.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/585-shadow-lass.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/585-shadow-lass.jpg"
+        "xs": "images/characters/xs/585-shadow-lass.jpg",
+        "sm": "images/characters/sm/585-shadow-lass.jpg",
+        "md": "images/characters/md/585-shadow-lass.jpg",
+        "lg": "images/characters/lg/585-shadow-lass.jpg"
       }
     },
     {
@@ -21309,10 +21310,10 @@ var data = {
         "relatives": "Kate (maternal great-grandmother), Samuel Prydeman (paternal grandfather, deceased), Chava Rosanoff (paternal great-aunt, deceased), Mr. Rosanoff (paternal great-uncle, apparently deceased), Nina (aunt), Carmen Pryde (father, deceased), Theresa Pryde (mother), Kenny (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/586-shadowcat.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/586-shadowcat.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/586-shadowcat.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/586-shadowcat.jpg"
+        "xs": "images/characters/xs/586-shadowcat.jpg",
+        "sm": "images/characters/sm/586-shadowcat.jpg",
+        "md": "images/characters/md/586-shadowcat.jpg",
+        "lg": "images/characters/lg/586-shadowcat.jpg"
       }
     },
     {
@@ -21347,24 +21348,24 @@ var data = {
         "aliases": [
           "The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "MI-5, MI-6, \"Marvel Knights\", Heroes For Hire, Freelance Restorations, Si-Fan, Secret Avengers",
         "relatives": "Fu Manchu, father; unnamed mother; Fah Lo Suee, (half-sister); Whispering Shadow (half-brother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/587-shang-chi.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/587-shang-chi.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/587-shang-chi.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/587-shang-chi.jpg"
+        "xs": "images/characters/xs/587-shang-chi.jpg",
+        "sm": "images/characters/sm/587-shang-chi.jpg",
+        "md": "images/characters/md/587-shang-chi.jpg",
+        "lg": "images/characters/lg/587-shang-chi.jpg"
       }
     },
     {
@@ -21406,17 +21407,17 @@ var data = {
       },
       "work": {
         "occupation": "Warrior",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Force, Blood Cadre Alliance (former member)",
         "relatives": "Longshot (father), Dazzler (mother), Mojo V"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/588-shatterstar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/588-shatterstar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/588-shatterstar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/588-shatterstar.jpg"
+        "xs": "images/characters/xs/588-shatterstar.jpg",
+        "sm": "images/characters/sm/588-shatterstar.jpg",
+        "md": "images/characters/md/588-shatterstar.jpg",
+        "lg": "images/characters/lg/588-shatterstar.jpg"
       }
     },
     {
@@ -21465,10 +21466,10 @@ var data = {
         "relatives": "Bruce Banner (Hulk, cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/589-she-hulk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/589-she-hulk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/589-she-hulk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/589-she-hulk.jpg"
+        "xs": "images/characters/xs/589-she-hulk.jpg",
+        "sm": "images/characters/sm/589-she-hulk.jpg",
+        "md": "images/characters/md/589-she-hulk.jpg",
+        "lg": "images/characters/lg/589-she-hulk.jpg"
       }
     },
     {
@@ -21504,24 +21505,24 @@ var data = {
           "Thing",
           "Ms Marvel"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Thing #27",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Prisoner, former adventurer, wrestler, stuntwoman, scuba diver, motorcycle performer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Frightful Four; formerly Fantastic Four, Unlimited Class Wrestling Federation, Thunderiders",
         "relatives": "Jack Ventura (father, deceased), Mrs. Ventura (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/590-she-thing.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/590-she-thing.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/590-she-thing.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/590-she-thing.jpg"
+        "xs": "images/characters/xs/590-she-thing.jpg",
+        "sm": "images/characters/sm/590-she-thing.jpg",
+        "md": "images/characters/md/590-she-thing.jpg",
+        "lg": "images/characters/lg/590-she-thing.jpg"
       }
     },
     {
@@ -21554,9 +21555,9 @@ var data = {
         "fullName": "Herman Schultz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #46",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -21570,10 +21571,10 @@ var data = {
         "relatives": "Mr. & Mrs. Schultz (parents)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/591-shocker.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/591-shocker.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/591-shocker.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/591-shocker.jpg"
+        "xs": "images/characters/xs/591-shocker.jpg",
+        "sm": "images/characters/sm/591-shocker.jpg",
+        "md": "images/characters/md/591-shocker.jpg",
+        "lg": "images/characters/lg/591-shocker.jpg"
       }
     },
     {
@@ -21608,24 +21609,24 @@ var data = {
         "aliases": [
           "Sandra Deel"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Former partner of Carnage, Carrion (Malcolm McBride), Demogoblin and Doppelganger). Before she became Shriek, she was a rock band groupie and drug dealer.",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Carnage Family",
         "relatives": "Carnage (adopted husband), Carrion (Malcolm McBride) and Demogoblin (adopted sons), Doppelganger (adopted pet)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/592-shriek.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/592-shriek.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/592-shriek.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/592-shriek.jpg"
+        "xs": "images/characters/xs/592-shriek.jpg",
+        "sm": "images/characters/sm/592-shriek.jpg",
+        "md": "images/characters/md/592-shriek.jpg",
+        "lg": "images/characters/lg/592-shriek.jpg"
       }
     },
     {
@@ -21663,13 +21664,13 @@ var data = {
           "Mrs. Chambers",
           "Sybil"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Journey into Mystery #102 (March, 1964)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Broxton/Asgard; Formerly New York City"
       },
       "connections": {
@@ -21677,10 +21678,10 @@ var data = {
         "relatives": "Heimdall (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/594-sif.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/594-sif.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/594-sif.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/594-sif.jpg"
+        "xs": "images/characters/xs/594-sif.jpg",
+        "sm": "images/characters/sm/594-sif.jpg",
+        "md": "images/characters/md/594-sif.jpg",
+        "lg": "images/characters/lg/594-sif.jpg"
       }
     },
     {
@@ -21699,7 +21700,7 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -21713,9 +21714,9 @@ var data = {
         "fullName": "Cindy Moon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man Vol 3 #4",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -21729,10 +21730,10 @@ var data = {
         "relatives": "Albert Moon. Sr. (father, estranged), unnamed mother (estranged), Albert Moon, Jr. (brother, estranged), Spider-Man (Peter Parker, bit by same spider)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/595-silk.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/595-silk.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/595-silk.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/595-silk.jpg"
+        "xs": "images/characters/xs/595-silk.jpg",
+        "sm": "images/characters/sm/595-silk.jpg",
+        "md": "images/characters/md/595-silk.jpg",
+        "lg": "images/characters/lg/595-silk.jpg"
       }
     },
     {
@@ -21765,7 +21766,7 @@ var data = {
         "fullName": "Norrin Radd",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Zenn-La",
         "firstAppearance": "Fantastic Four, Vol. 1 #48",
@@ -21781,10 +21782,10 @@ var data = {
         "relatives": "Jartran Radd (father, deceased), Elmar Radd (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/598-silver-surfer.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/598-silver-surfer.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/598-silver-surfer.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/598-silver-surfer.jpg"
+        "xs": "images/characters/xs/598-silver-surfer.jpg",
+        "sm": "images/characters/sm/598-silver-surfer.jpg",
+        "md": "images/characters/md/598-silver-surfer.jpg",
+        "lg": "images/characters/lg/598-silver-surfer.jpg"
       }
     },
     {
@@ -21834,10 +21835,10 @@ var data = {
         "relatives": "Jaime Santiago (father), Peliali (mother), Edwin Jarvis (\"uncle\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/599-silverclaw.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/599-silverclaw.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/599-silverclaw.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/599-silverclaw.jpg"
+        "xs": "images/characters/xs/599-silverclaw.jpg",
+        "sm": "images/characters/sm/599-silverclaw.jpg",
+        "md": "images/characters/md/599-silverclaw.jpg",
+        "lg": "images/characters/lg/599-silverclaw.jpg"
       }
     },
     {
@@ -21856,7 +21857,7 @@ var data = {
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -21879,18 +21880,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Sira Baz (sister), Farid Amar (nephew), Nazir Amar (brother in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/600-simon-baz.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/600-simon-baz.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/600-simon-baz.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/600-simon-baz.jpg"
+        "xs": "images/characters/xs/600-simon-baz.jpg",
+        "sm": "images/characters/sm/600-simon-baz.jpg",
+        "md": "images/characters/md/600-simon-baz.jpg",
+        "lg": "images/characters/lg/600-simon-baz.jpg"
       }
     },
     {
@@ -21935,7 +21936,7 @@ var data = {
         "alignment": "Neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa"
       },
       "connections": {
@@ -21943,10 +21944,10 @@ var data = {
         "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/601-sinestro.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/601-sinestro.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/601-sinestro.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/601-sinestro.jpg"
+        "xs": "images/characters/xs/601-sinestro.jpg",
+        "sm": "images/characters/sm/601-sinestro.jpg",
+        "md": "images/characters/md/601-sinestro.jpg",
+        "lg": "images/characters/lg/601-sinestro.jpg"
       }
     },
     {
@@ -21979,26 +21980,26 @@ var data = {
         "fullName": "Hila",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Aquaman #22 (August, 1965)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "formely Atlantis"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Mera (twin sister), Aquaman (brother-in-law)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/602-siren.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/602-siren.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/602-siren.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/602-siren.jpg"
+        "xs": "images/characters/xs/602-siren.jpg",
+        "sm": "images/characters/sm/602-siren.jpg",
+        "md": "images/characters/md/602-siren.jpg",
+        "lg": "images/characters/lg/602-siren.jpg"
       }
     },
     {
@@ -22040,17 +22041,17 @@ var data = {
       },
       "work": {
         "occupation": "(current) Adventurer (former) Professional Criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "(Current) X-Factor (former) Ally of Black Tom and the Juggernaut, Fallen Angels, X-Force",
         "relatives": "Sean Cassidy (Banshee, father), Maeve Rourke (mother, deceased), Black Tom Cassidy (cousin)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/604-siryn.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/604-siryn.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/604-siryn.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/604-siryn.jpg"
+        "xs": "images/characters/xs/604-siryn.jpg",
+        "sm": "images/characters/sm/604-siryn.jpg",
+        "md": "images/characters/md/604-siryn.jpg",
+        "lg": "images/characters/lg/604-siryn.jpg"
       }
     },
     {
@@ -22097,17 +22098,17 @@ var data = {
       },
       "work": {
         "occupation": "Warrior",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Morris Walters (granduncle), Elaine Banner-Walters (paternal grandaunt, deceased), Brian Banner (paternal grandfather, deceased), Rebecca Banner (paternal grandmother, deceased), She-Hulk (1st cousin once removed), Hulk (father), Caiera the Oldstrong (mother, deceased), Hiro-Kala (Twin brother), Lyra (half-sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/605-skaar.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/605-skaar.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/605-skaar.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/605-skaar.jpg"
+        "xs": "images/characters/xs/605-skaar.jpg",
+        "sm": "images/characters/sm/605-skaar.jpg",
+        "md": "images/characters/md/605-skaar.jpg",
+        "lg": "images/characters/lg/605-skaar.jpg"
       }
     },
     {
@@ -22156,10 +22157,10 @@ var data = {
         "relatives": "Hodiak (grandfather), Nelvanna (mother), Richard Lawrence Easton (father, deceased), Michael Twoyoungmen (Shaman, foster father), Douglas Thompson (husband, deceased), unnamed son (deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/607-snowbird.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/607-snowbird.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/607-snowbird.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/607-snowbird.jpg"
+        "xs": "images/characters/xs/607-snowbird.jpg",
+        "sm": "images/characters/sm/607-snowbird.jpg",
+        "md": "images/characters/md/607-snowbird.jpg",
+        "lg": "images/characters/lg/607-snowbird.jpg"
       }
     },
     {
@@ -22178,7 +22179,7 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -22200,18 +22201,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Kahndaq"
       },
       "connections": {
         "groupAffiliation": "Black Marvel Family, Four Horsemen",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/608-sobek.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/608-sobek.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/608-sobek.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/608-sobek.jpg"
+        "xs": "images/characters/xs/608-sobek.jpg",
+        "sm": "images/characters/sm/608-sobek.jpg",
+        "md": "images/characters/md/608-sobek.jpg",
+        "lg": "images/characters/lg/608-sobek.jpg"
       }
     },
     {
@@ -22252,18 +22253,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
         "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/609-solomon-grundy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/609-solomon-grundy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/609-solomon-grundy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/609-solomon-grundy.jpg"
+        "xs": "images/characters/xs/609-solomon-grundy.jpg",
+        "sm": "images/characters/sm/609-solomon-grundy.jpg",
+        "md": "images/characters/md/609-solomon-grundy.jpg",
+        "lg": "images/characters/lg/609-solomon-grundy.jpg"
       }
     },
     {
@@ -22301,23 +22302,23 @@ var data = {
           "Margie Green"
         ],
         "placeOfBirth": "Shoshoni, Wyoming",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former criminal and wrestler",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Thunderbolts, Masters of Evil, Unlimited Class Wrestling Federation, Grapplers",
         "relatives": "Mimi Gold (mother), Mr. Gold (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/610-songbird.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/610-songbird.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/610-songbird.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/610-songbird.jpg"
+        "xs": "images/characters/xs/610-songbird.jpg",
+        "sm": "images/characters/sm/610-songbird.jpg",
+        "md": "images/characters/md/610-songbird.jpg",
+        "lg": "images/characters/lg/610-songbird.jpg"
       }
     },
     {
@@ -22343,8 +22344,8 @@ var data = {
           "250 lb",
           "113 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Thaddeus Bach",
@@ -22353,24 +22354,24 @@ var data = {
           "Ted Ghostel",
           "Tad Ghostal"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Space Ghost (1966)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Galactic Heroes",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/611-space-ghost.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/611-space-ghost.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/611-space-ghost.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/611-space-ghost.jpg"
+        "xs": "images/characters/xs/611-space-ghost.jpg",
+        "sm": "images/characters/sm/611-space-ghost.jpg",
+        "md": "images/characters/md/611-space-ghost.jpg",
+        "lg": "images/characters/lg/611-space-ghost.jpg"
       }
     },
     {
@@ -22412,7 +22413,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Hell"
       },
       "connections": {
@@ -22420,10 +22421,10 @@ var data = {
         "relatives": "Wanda (widow), Cyan (widow's daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/612-spawn.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/612-spawn.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/612-spawn.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/612-spawn.jpg"
+        "xs": "images/characters/xs/612-spawn.jpg",
+        "sm": "images/characters/sm/612-spawn.jpg",
+        "md": "images/characters/md/612-spawn.jpg",
+        "lg": "images/characters/lg/612-spawn.jpg"
       }
     },
     {
@@ -22442,7 +22443,7 @@ var data = {
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -22464,24 +22465,24 @@ var data = {
           "Hal Jordan",
           "Cripus Allen"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "More Fun Comics #52 (February, 1940)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/613-spectre.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/613-spectre.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/613-spectre.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/613-spectre.jpg"
+        "xs": "images/characters/xs/613-spectre.jpg",
+        "sm": "images/characters/sm/613-spectre.jpg",
+        "md": "images/characters/md/613-spectre.jpg",
+        "lg": "images/characters/lg/613-spectre.jpg"
       }
     },
     {
@@ -22500,7 +22501,7 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -22525,17 +22526,17 @@ var data = {
       },
       "work": {
         "occupation": "Nightclub Owner",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Team Arrow",
         "relatives": "Moira Queen (mother, deceased), Robert Queen (foster father, deceased), Walter Steele (step-father, formerly), Malcolm Merlyn (biological father), Oliver Queen (Green Arrow, half-brother), Tommy Merlyn (half-brother, deceased), William Clayton (nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/615-speedy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/615-speedy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/615-speedy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/615-speedy.jpg"
+        "xs": "images/characters/xs/615-speedy.jpg",
+        "sm": "images/characters/sm/615-speedy.jpg",
+        "md": "images/characters/md/615-speedy.jpg",
+        "lg": "images/characters/lg/615-speedy.jpg"
       }
     },
     {
@@ -22568,7 +22569,7 @@ var data = {
         "fullName": "May 'Mayday' Parker",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "What If? Vol 2 #105 (February, 1998)",
@@ -22576,18 +22577,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "New York City, New York"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/618-spider-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/618-spider-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/618-spider-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/618-spider-girl.jpg"
+        "xs": "images/characters/xs/618-spider-girl.jpg",
+        "sm": "images/characters/sm/618-spider-girl.jpg",
+        "md": "images/characters/md/618-spider-girl.jpg",
+        "lg": "images/characters/lg/618-spider-girl.jpg"
       }
     },
     {
@@ -22622,24 +22623,24 @@ var data = {
         "aliases": [
           "Spider-Woman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Edge of Spider-Verse #2",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Warriors of the Great Web; formerly Mary Janes, Spider-Army",
         "relatives": "George Stacy (father), Helen Stacy (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/619-spider-gwen.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/619-spider-gwen.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/619-spider-gwen.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/619-spider-gwen.jpg"
+        "xs": "images/characters/xs/619-spider-gwen.jpg",
+        "sm": "images/characters/sm/619-spider-gwen.jpg",
+        "md": "images/characters/md/619-spider-gwen.jpg",
+        "lg": "images/characters/lg/619-spider-gwen.jpg"
       }
     },
     {
@@ -22702,10 +22703,10 @@ var data = {
         "relatives": "Richard Parker (father, deceased), Mary Parker(mother, deceased), Benjamin Parker (uncle, deceased), May Parker (aunt), Mary Jane Watson-Parker (wife), May Parker (daughter, allegedly deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/620-spider-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/620-spider-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/620-spider-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/620-spider-man.jpg"
+        "xs": "images/characters/xs/620-spider-man.jpg",
+        "sm": "images/characters/sm/620-spider-man.jpg",
+        "md": "images/characters/md/620-spider-man.jpg",
+        "lg": "images/characters/lg/620-spider-man.jpg"
       }
     },
     {
@@ -22750,17 +22751,17 @@ var data = {
       },
       "work": {
         "occupation": "Form agent of HYDRA, former bounty hunter, private investigator, adventurer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Former agent of HYDRA",
         "relatives": "Jonathan (father, deceased), Merriem (mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/623-spider-woman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/623-spider-woman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/623-spider-woman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/623-spider-woman.jpg"
+        "xs": "images/characters/xs/623-spider-woman.jpg",
+        "sm": "images/characters/sm/623-spider-woman.jpg",
+        "md": "images/characters/md/623-spider-woman.jpg",
+        "lg": "images/characters/lg/623-spider-woman.jpg"
       }
     },
     {
@@ -22793,7 +22794,7 @@ var data = {
         "fullName": "Martha Franklin",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Rochester, New York",
         "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
@@ -22801,18 +22802,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Gathering of the Five",
         "relatives": "Jeremy Franklin (father, deceased), Bernice Franklin (mother, deceased), J. Jonah Jameson (foster father), Marla Madison (foster mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/625-spider-woman-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/625-spider-woman-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/625-spider-woman-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/625-spider-woman-iii.jpg"
+        "xs": "images/characters/xs/625-spider-woman-iii.jpg",
+        "sm": "images/characters/sm/625-spider-woman-iii.jpg",
+        "md": "images/characters/md/625-spider-woman-iii.jpg",
+        "lg": "images/characters/lg/625-spider-woman-iii.jpg"
       }
     },
     {
@@ -22848,24 +22849,24 @@ var data = {
           "Porcupine",
           "Armadillo"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Morlocks; Formerly: X-Men",
         "relatives": "Mr. Daniels (father), Vivian Munroe-Daniels (mother), Storm (maternal aunt)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/628-spyke.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/628-spyke.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/628-spyke.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/628-spyke.jpg"
+        "xs": "images/characters/xs/628-spyke.jpg",
+        "sm": "images/characters/sm/628-spyke.jpg",
+        "md": "images/characters/md/628-spyke.jpg",
+        "lg": "images/characters/lg/628-spyke.jpg"
       }
     },
     {
@@ -22900,7 +22901,7 @@ var data = {
         "aliases": [
           "Starlord"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Marvel Preview #4 (January, 1976)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -22914,10 +22915,10 @@ var data = {
         "relatives": "Eson (grandfather, deceased), Gareth (great-uncle, deceased), Jason of Sparta (father), Meredith Quill (mother, deceased), Victoria (half-sister), Kip Holm (adopted brother), Sandy (adopted sister in-law), Alain (adopted niece), Rhys, Robyn (adopted nephews), Kitty Pryde (fiance), Unnamed former Symbiote"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/630-star-lord.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/630-star-lord.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/630-star-lord.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/630-star-lord.jpg"
+        "xs": "images/characters/xs/630-star-lord.jpg",
+        "sm": "images/characters/sm/630-star-lord.jpg",
+        "md": "images/characters/md/630-star-lord.jpg",
+        "lg": "images/characters/lg/630-star-lord.jpg"
       }
     },
     {
@@ -22936,15 +22937,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "",
@@ -22952,24 +22953,24 @@ var data = {
         "aliases": [
           "Entity Lambda-Zero"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Herald of Galactus",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Heralds of Galactus ; Formerly United Front",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/631-stardust.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/631-stardust.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/631-stardust.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/631-stardust.jpg"
+        "xs": "images/characters/xs/631-stardust.jpg",
+        "sm": "images/characters/sm/631-stardust.jpg",
+        "md": "images/characters/md/631-stardust.jpg",
+        "lg": "images/characters/lg/631-stardust.jpg"
       }
     },
     {
@@ -23020,10 +23021,10 @@ var data = {
         "relatives": "King Myand'r (father), Queen Luand'r (mother), Queen Komand'r (sister, Blackfire), Ryand'r (brother), Prince Karras (husband, deceased), Ph'yzzon (husband, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/632-starfire.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/632-starfire.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/632-starfire.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/632-starfire.jpg"
+        "xs": "images/characters/xs/632-starfire.jpg",
+        "sm": "images/characters/sm/632-starfire.jpg",
+        "md": "images/characters/md/632-starfire.jpg",
+        "lg": "images/characters/lg/632-starfire.jpg"
       }
     },
     {
@@ -23060,13 +23061,13 @@ var data = {
           "Star",
           "Stars"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Stars and S.T.R.I.P.E. #0 (July, 1999)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Manhattan, New York City; Formerly Beverly Hills, California; later Blue Valley, Nebraska; later Metropolis"
       },
       "connections": {
@@ -23074,10 +23075,10 @@ var data = {
         "relatives": "Barbara Whitmore-Dugan (mother); Sam Kurtis (father, deceased); Pat Dugan (S.T.R.I.P.E., Stepfather); Mike Dugan (stepbrother); Patricia Dugan (sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/633-stargirl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/633-stargirl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/633-stargirl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/633-stargirl.jpg"
+        "xs": "images/characters/xs/633-stargirl.jpg",
+        "sm": "images/characters/sm/633-stargirl.jpg",
+        "md": "images/characters/md/633-stargirl.jpg",
+        "lg": "images/characters/lg/633-stargirl.jpg"
       }
     },
     {
@@ -23129,10 +23130,10 @@ var data = {
         "relatives": "Robert Hawkins (father), Jean Hawkins (mother), Sharon Hawkins (sister), Homer Hawkins (grandfather), Teshom? Hawkins (uncle, deceased),"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/634-static.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/634-static.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/634-static.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/634-static.jpg"
+        "xs": "images/characters/xs/634-static.jpg",
+        "sm": "images/characters/sm/634-static.jpg",
+        "md": "images/characters/md/634-static.jpg",
+        "lg": "images/characters/lg/634-static.jpg"
       }
     },
     {
@@ -23182,10 +23183,10 @@ var data = {
         "relatives": "Mrs. Irons (mother, deceased), Mr. Irons (father, deceased), Maternal Grandmother (deceased), maternal grandfather (deceased), Butter (grandfather), Bess (grandmother, deceased), Clay Irons (brother), Jemahl Irons (nephew), Blondell Irons (sister-in-law), Natasha Irons (Starlight, niece), Paco (nephew), Tyke (former foster nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/635-steel.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/635-steel.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/635-steel.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/635-steel.jpg"
+        "xs": "images/characters/xs/635-steel.jpg",
+        "sm": "images/characters/sm/635-steel.jpg",
+        "md": "images/characters/md/635-steel.jpg",
+        "lg": "images/characters/lg/635-steel.jpg"
       }
     },
     {
@@ -23220,24 +23221,24 @@ var data = {
         "aliases": [
           "Steppenwulf"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The New Gods #7",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/637-steppenwolf.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/637-steppenwolf.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/637-steppenwolf.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/637-steppenwolf.jpg"
+        "xs": "images/characters/xs/637-steppenwolf.jpg",
+        "sm": "images/characters/sm/637-steppenwolf.jpg",
+        "md": "images/characters/md/637-steppenwolf.jpg",
+        "lg": "images/characters/lg/637-steppenwolf.jpg"
       }
     },
     {
@@ -23298,10 +23299,10 @@ var data = {
         "relatives": "Ayesha of Balobedu (ancestor), Ashake of Egypt (ancestor), Ashake of Mero? (ancestor), unnamed ancestor, Harriet Munroe (paternal grandmother), unnamed paternal grandfather, unnamed maternal grandmother, David Munroe (father, deceased), N'Dar? Munroe (mother, deceased), Ainet (unofficial foster mother), Achmed El Gib?r (unofficial foster father), Colonel Shetani (maternal uncle), unnamed paternal aunt (deceased), David Munroe, Jr. (cousin), Munroe Family (relatives), Black Panther (T'Challa) (ex-husband, marriage annulled)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/638-storm.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/638-storm.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/638-storm.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/638-storm.jpg"
+        "xs": "images/characters/xs/638-storm.jpg",
+        "sm": "images/characters/sm/638-storm.jpg",
+        "md": "images/characters/md/638-storm.jpg",
+        "lg": "images/characters/lg/638-storm.jpg"
       }
     },
     {
@@ -23353,10 +23354,10 @@ var data = {
         "relatives": "Emmanuel da Costa (father, deceased), Nina da Costa (mother), Reignfire (genetic copy, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/640-sunspot.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/640-sunspot.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/640-sunspot.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/640-sunspot.jpg"
+        "xs": "images/characters/xs/640-sunspot.jpg",
+        "sm": "images/characters/sm/640-sunspot.jpg",
+        "md": "images/characters/md/640-sunspot.jpg",
+        "lg": "images/characters/lg/640-sunspot.jpg"
       }
     },
     {
@@ -23398,7 +23399,7 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "San Francisco; Smallville; Formerly Metropolis; Formerly Honolulu"
       },
       "connections": {
@@ -23406,10 +23407,10 @@ var data = {
         "relatives": "Superman (Kryptonian genetic template), Lex Luthor (Human genetic template), Match (clone)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/641-superboy.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/641-superboy.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/641-superboy.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/641-superboy.jpg"
+        "xs": "images/characters/xs/641-superboy.jpg",
+        "sm": "images/characters/sm/641-superboy.jpg",
+        "md": "images/characters/md/641-superboy.jpg",
+        "lg": "images/characters/lg/641-superboy.jpg"
       }
     },
     {
@@ -23450,7 +23451,7 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
       },
       "connections": {
@@ -23458,10 +23459,10 @@ var data = {
         "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/642-superboy-prime.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/642-superboy-prime.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/642-superboy-prime.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/642-superboy-prime.jpg"
+        "xs": "images/characters/xs/642-superboy-prime.jpg",
+        "sm": "images/characters/sm/642-superboy-prime.jpg",
+        "md": "images/characters/md/642-superboy-prime.jpg",
+        "lg": "images/characters/lg/642-superboy-prime.jpg"
       }
     },
     {
@@ -23521,10 +23522,10 @@ var data = {
         "relatives": "Zor-El (father), Allura In-Ze (mother), Jor-El II (uncle, deceased), Lara Lor-Van (aunt, deceased), Kal-El (Superman,Clark Kent, cousin), Lois Lane (cousin-in-law), Jonathan Kent (adopted uncle), Martha Kent (adopted aunt), Kon-El (Superboy, Conner Kent, clone cousin, deceased), Nim-El (uncle), Dondra Klu-Ta (aunt), Don-El (cousin), Jor-El I (praternal grandfather, deceased), Nimda An-Dor (paternal grandmother, deceased), Lar-Van (maternal grandfather, deceased), Lara Rok-Var (maternal grandmother, deceased), Val-El, Sul-El, Tala-El, Hatu-El, Gam-El (ancestors, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/643-supergirl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/643-supergirl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/643-supergirl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/643-supergirl.jpg"
+        "xs": "images/characters/xs/643-supergirl.jpg",
+        "sm": "images/characters/sm/643-supergirl.jpg",
+        "md": "images/characters/md/643-supergirl.jpg",
+        "lg": "images/characters/lg/643-supergirl.jpg"
       }
     },
     {
@@ -23579,10 +23580,10 @@ var data = {
         "relatives": "Lois Lane (wife), Jor-El (father, deceased), Lara (mother, deceased), Jonathan Kent (adoptive father), Martha Kent (adoptive mother), Seyg-El (paternal grandfather, deceased), Zor-El (uncle, deceased), Alura (aunt, deceased), Supergirl (Kara Zor-El, cousin), Superboy (Kon-El/Conner Kent, partial clone)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/644-superman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/644-superman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/644-superman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/644-superman.jpg"
+        "xs": "images/characters/xs/644-superman.jpg",
+        "sm": "images/characters/sm/644-superman.jpg",
+        "md": "images/characters/md/644-superman.jpg",
+        "lg": "images/characters/lg/644-superman.jpg"
       }
     },
     {
@@ -23601,7 +23602,7 @@ var data = {
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -23621,24 +23622,24 @@ var data = {
           "Le Bon Gumbo",
           "Smalsh-Yegger (on Rann)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Swamp Thing #1 (November, 1972)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Planet Elemental, former Biochemist",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "formerly (Parliament of Trees; Parliament of Stones, Parliament of Flames, Parliament of Waves, and Parliament of Vapors), The Parliament of Worlds",
         "relatives": "Larry Holland (father, deceased); Alice Holland (mother, deceased); Edward Holland (brother); Linda Holland (first wife, deceased); Abigail Holland (second wife); Tef? Holland (daughter); Gregori Arcane (father-in-law, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/645-swamp-thing.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/645-swamp-thing.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/645-swamp-thing.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/645-swamp-thing.jpg"
+        "xs": "images/characters/xs/645-swamp-thing.jpg",
+        "sm": "images/characters/sm/645-swamp-thing.jpg",
+        "md": "images/characters/md/645-swamp-thing.jpg",
+        "lg": "images/characters/lg/645-swamp-thing.jpg"
       }
     },
     {
@@ -23671,9 +23672,9 @@ var data = {
         "fullName": "Fritz von Meyer",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Champions #14 (July, 1977)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -23684,13 +23685,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Leader of the All-New Sinister Six; formerly Exterminators, Nazi Party",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/646-swarm.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/646-swarm.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/646-swarm.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/646-swarm.jpg"
+        "xs": "images/characters/xs/646-swarm.jpg",
+        "sm": "images/characters/sm/646-swarm.jpg",
+        "md": "images/characters/md/646-swarm.jpg",
+        "lg": "images/characters/lg/646-swarm.jpg"
       }
     },
     {
@@ -23723,9 +23724,9 @@ var data = {
         "fullName": "Everett Thomas",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "X-Men #36 (1994)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -23739,10 +23740,10 @@ var data = {
         "relatives": "Stan Thomas (father), Ida Thomas (mother), Kim Ho Twae (adopted sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/648-synch.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/648-synch.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/648-synch.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/648-synch.jpg"
+        "xs": "images/characters/xs/648-synch.jpg",
+        "sm": "images/characters/sm/648-synch.jpg",
+        "md": "images/characters/md/648-synch.jpg",
+        "lg": "images/characters/lg/648-synch.jpg"
       }
     },
     {
@@ -23768,8 +23769,8 @@ var data = {
           "325 lb",
           "146 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series 1000 Terminator",
@@ -23778,24 +23779,24 @@ var data = {
           "T-1001",
           "T-1002"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Terminator 2: Judgment Day",
         "publisher": "Dark Horse Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/649-t-1000.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/649-t-1000.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/649-t-1000.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/649-t-1000.jpg"
+        "xs": "images/characters/xs/649-t-1000.jpg",
+        "sm": "images/characters/sm/649-t-1000.jpg",
+        "md": "images/characters/md/649-t-1000.jpg",
+        "lg": "images/characters/lg/649-t-1000.jpg"
       }
     },
     {
@@ -23814,7 +23815,7 @@ var data = {
         "gender": "Male",
         "race": "Cyborg",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -23822,7 +23823,7 @@ var data = {
           "176 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series 800 Terminator Model 101",
@@ -23830,24 +23831,24 @@ var data = {
         "aliases": [
           "Terminator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Terminator (1984)",
         "publisher": "Dark Horse Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/650-t-800.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/650-t-800.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/650-t-800.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/650-t-800.jpg"
+        "xs": "images/characters/xs/650-t-800.jpg",
+        "sm": "images/characters/sm/650-t-800.jpg",
+        "md": "images/characters/md/650-t-800.jpg",
+        "lg": "images/characters/lg/650-t-800.jpg"
       }
     },
     {
@@ -23866,7 +23867,7 @@ var data = {
         "gender": "Male",
         "race": "Cyborg",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -23874,7 +23875,7 @@ var data = {
           "198 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series 850 Terminator",
@@ -23882,24 +23883,24 @@ var data = {
         "aliases": [
           "Terminator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Terminator 3: Rise of the Machines (2003)",
         "publisher": "Dark Horse Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/651-t-850.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/651-t-850.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/651-t-850.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/651-t-850.jpg"
+        "xs": "images/characters/xs/651-t-850.jpg",
+        "sm": "images/characters/sm/651-t-850.jpg",
+        "md": "images/characters/md/651-t-850.jpg",
+        "lg": "images/characters/lg/651-t-850.jpg"
       }
     },
     {
@@ -23918,40 +23919,40 @@ var data = {
         "gender": "Female",
         "race": "Cyborg",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "330 lb",
           "149 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series X Terminator",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Dark Horse Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Assassin / Genesis Overseer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/652-t-x.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/652-t-x.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/652-t-x.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/652-t-x.jpg"
+        "xs": "images/characters/xs/652-t-x.jpg",
+        "sm": "images/characters/sm/652-t-x.jpg",
+        "md": "images/characters/md/652-t-x.jpg",
+        "lg": "images/characters/lg/652-t-x.jpg"
       }
     },
     {
@@ -23984,9 +23985,9 @@ var data = {
         "fullName": "Tony Masters",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Avengers #195",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
@@ -23996,14 +23997,14 @@ var data = {
         "base": "Bagalia; A.I.M Island, Taskmaster's Academy"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Mercedes Merced (wife), Jeanne Foucault (Finesse, alleged daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/653-taskmaster.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/653-taskmaster.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/653-taskmaster.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/653-taskmaster.jpg"
+        "xs": "images/characters/xs/653-taskmaster.jpg",
+        "sm": "images/characters/sm/653-taskmaster.jpg",
+        "md": "images/characters/md/653-taskmaster.jpg",
+        "lg": "images/characters/lg/653-taskmaster.jpg"
       }
     },
     {
@@ -24036,26 +24037,26 @@ var data = {
         "fullName": "Angel Salvadore Bohusk",
         "alterEgos": "Angel Salvadore",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "New X-Men #118 (November, 2001)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly New Warriors; Special Class",
         "relatives": "Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/654-tempest.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/654-tempest.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/654-tempest.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/654-tempest.jpg"
+        "xs": "images/characters/xs/654-tempest.jpg",
+        "sm": "images/characters/sm/654-tempest.jpg",
+        "md": "images/characters/md/654-tempest.jpg",
+        "lg": "images/characters/lg/654-tempest.jpg"
       }
     },
     {
@@ -24107,10 +24108,10 @@ var data = {
         "relatives": "A'Lars (father): Sui-San (mother, deceased; Eros (brother);Kronos (paternal Grandfather, deceased); Daina (paternal grandmother, deceased); Zuras (uncle, deceased); Thena (cousin); Gamora (foster daughter);Nebula (alleged granddaughter); Rot (\"child\" by Death);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/655-thanos.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/655-thanos.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/655-thanos.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/655-thanos.jpg"
+        "xs": "images/characters/xs/655-thanos.jpg",
+        "sm": "images/characters/sm/655-thanos.jpg",
+        "md": "images/characters/md/655-thanos.jpg",
+        "lg": "images/characters/lg/655-thanos.jpg"
       }
     },
     {
@@ -24145,7 +24146,7 @@ var data = {
         "aliases": [
           "Eddie Blake"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
         "alignment": "Neutral"
@@ -24159,10 +24160,10 @@ var data = {
         "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/657-the-comedian.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/657-the-comedian.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/657-the-comedian.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/657-the-comedian.jpg"
+        "xs": "images/characters/xs/657-the-comedian.jpg",
+        "sm": "images/characters/sm/657-the-comedian.jpg",
+        "md": "images/characters/md/657-the-comedian.jpg",
+        "lg": "images/characters/lg/657-the-comedian.jpg"
       }
     },
     {
@@ -24213,10 +24214,10 @@ var data = {
         "relatives": "Daniel (father, deceased), Elsie (mother, deceased), Daniel Jr. (brother, deceased), Jacob ('Jake,' uncle), Alyce (aunt, deceased), Pentunia ('Penny,' aunt, Jacob's second wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/658-thing.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/658-thing.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/658-thing.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/658-thing.jpg"
+        "xs": "images/characters/xs/658-thing.jpg",
+        "sm": "images/characters/sm/658-thing.jpg",
+        "md": "images/characters/md/658-thing.jpg",
+        "lg": "images/characters/lg/658-thing.jpg"
       }
     },
     {
@@ -24268,10 +24269,10 @@ var data = {
         "relatives": "Odin (father), Gaea (mother), Frigga (step-mother), Loki (step-brother), Vidar (half-brother), Buri (paternal great-grandfather), Bolthorn (maternal great grandfather), Bor (grandfather), Bestla (grandmother), Vili (uncle), Ve (uncle), Sigyn (former sister-in-law), Hela (alleged niece), Jormungand (alleged nephew), Fernis Wolf (alleged nephew)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/659-thor.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/659-thor.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/659-thor.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/659-thor.jpg"
+        "xs": "images/characters/xs/659-thor.jpg",
+        "sm": "images/characters/sm/659-thor.jpg",
+        "md": "images/characters/md/659-thor.jpg",
+        "lg": "images/characters/lg/659-thor.jpg"
       }
     },
     {
@@ -24317,24 +24318,24 @@ var data = {
           "Thorita",
           "Thor Lass"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Camp Hammond; FormerlyNew York City, Formerly Asgard"
       },
       "connections": {
         "groupAffiliation": "Ally of the Asgardians",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/660-thor-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/660-thor-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/660-thor-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/660-thor-girl.jpg"
+        "xs": "images/characters/xs/660-thor-girl.jpg",
+        "sm": "images/characters/sm/660-thor-girl.jpg",
+        "md": "images/characters/md/660-thor-girl.jpg",
+        "lg": "images/characters/lg/660-thor-girl.jpg"
       }
     },
     {
@@ -24367,7 +24368,7 @@ var data = {
         "fullName": "John Proudstar",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Camp Verde, Arizona",
         "firstAppearance": "Giant-Size X-Men #1 (1975)",
@@ -24383,10 +24384,10 @@ var data = {
         "relatives": "Unidentified grandfather (deceased), Neal Proudstar (father, deceased), Maria Proudstar (mother, deceased), James Proudstar (Warpath, brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/661-thunderbird.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/661-thunderbird.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/661-thunderbird.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/661-thunderbird.jpg"
+        "xs": "images/characters/xs/661-thunderbird.jpg",
+        "sm": "images/characters/sm/661-thunderbird.jpg",
+        "md": "images/characters/md/661-thunderbird.jpg",
+        "lg": "images/characters/lg/661-thunderbird.jpg"
       }
     },
     {
@@ -24421,24 +24422,24 @@ var data = {
         "aliases": [
           "Thor"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "(as Thunderstrike) Adventurer, crimefighter, (as Masterson) Architect",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "(At time of death) Avengers; (Formerly) Legion of the Unliving, Thor Corps",
         "relatives": "Marcy Masterson Steele (wife, divorced), Kevin Masterson (son)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/664-thunderstrike.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/664-thunderstrike.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/664-thunderstrike.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/664-thunderstrike.jpg"
+        "xs": "images/characters/xs/664-thunderstrike.jpg",
+        "sm": "images/characters/sm/664-thunderstrike.jpg",
+        "md": "images/characters/md/664-thunderstrike.jpg",
+        "lg": "images/characters/lg/664-thunderstrike.jpg"
       }
     },
     {
@@ -24471,9 +24472,9 @@ var data = {
         "fullName": "Thundra",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Fantastic Four #129 (December, 1972)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -24487,10 +24488,10 @@ var data = {
         "relatives": "Superia (alleged ancestor), Arkon (consort) Lyra (alternate reality daughter)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/665-thundra.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/665-thundra.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/665-thundra.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/665-thundra.jpg"
+        "xs": "images/characters/xs/665-thundra.jpg",
+        "sm": "images/characters/sm/665-thundra.jpg",
+        "md": "images/characters/md/665-thundra.jpg",
+        "lg": "images/characters/lg/665-thundra.jpg"
       }
     },
     {
@@ -24531,18 +24532,18 @@ var data = {
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Villains for Hire, Lethal Legion, Dr. Dorcas; Masters of Evil; Namor's Deep Six; Attuma's Deep Six; Offenders",
         "relatives": "Diane Newell (sister); Mara (wife, deceased); Walter Newell (brother-in-law);"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/666-tiger-shark.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/666-tiger-shark.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/666-tiger-shark.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/666-tiger-shark.jpg"
+        "xs": "images/characters/xs/666-tiger-shark.jpg",
+        "sm": "images/characters/sm/666-tiger-shark.jpg",
+        "md": "images/characters/md/666-tiger-shark.jpg",
+        "lg": "images/characters/lg/666-tiger-shark.jpg"
       }
     },
     {
@@ -24592,10 +24593,10 @@ var data = {
         "relatives": "Mr. Grant (father), Mrs. Grant (mother, deceased), William Nelson (husband, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/667-tigra.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/667-tigra.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/667-tigra.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/667-tigra.jpg"
+        "xs": "images/characters/xs/667-tigra.jpg",
+        "sm": "images/characters/sm/667-tigra.jpg",
+        "md": "images/characters/md/667-tigra.jpg",
+        "lg": "images/characters/lg/667-tigra.jpg"
       }
     },
     {
@@ -24628,26 +24629,26 @@ var data = {
         "fullName": "Phineas Mason",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Amazing Spider-Man #2 (1963)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Inventor and technician serving the underworld",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Deborah Watts Mason (wife, deceased), Rick Mason (aka Agent, son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/668-tinkerer.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/668-tinkerer.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/668-tinkerer.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/668-tinkerer.jpg"
+        "xs": "images/characters/xs/668-tinkerer.jpg",
+        "sm": "images/characters/sm/668-tinkerer.jpg",
+        "md": "images/characters/md/668-tinkerer.jpg",
+        "lg": "images/characters/lg/668-tinkerer.jpg"
       }
     },
     {
@@ -24689,17 +24690,17 @@ var data = {
       },
       "work": {
         "occupation": "Former criminal",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "198; (formerly) Brotherhood of Evil Mutants, Misfits; (formerly) associate of Gideon, Emma Frost",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/670-toad.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/670-toad.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/670-toad.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/670-toad.jpg"
+        "xs": "images/characters/xs/670-toad.jpg",
+        "sm": "images/characters/sm/670-toad.jpg",
+        "md": "images/characters/md/670-toad.jpg",
+        "lg": "images/characters/lg/670-toad.jpg"
       }
     },
     {
@@ -24741,17 +24742,17 @@ var data = {
       },
       "work": {
         "occupation": "Police officer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Ally of Spider-Man and Black Cat",
         "relatives": "Gina Mulligan (wife), Edward Mulligan (son), Mr. Mulligan (father), Mrs. Mulligan (mother), Carnage (\"father\"), Venom (\"grandfather\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/671-toxin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/671-toxin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/671-toxin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/671-toxin.jpg"
+        "xs": "images/characters/xs/671-toxin.jpg",
+        "sm": "images/characters/sm/671-toxin.jpg",
+        "md": "images/characters/md/671-toxin.jpg",
+        "lg": "images/characters/lg/671-toxin.jpg"
       }
     },
     {
@@ -24808,10 +24809,10 @@ var data = {
         "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Anti-Venom Symbiote (former symbiote, uncle and former brother, deceased), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/672-toxin.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/672-toxin.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/672-toxin.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/672-toxin.jpg"
+        "xs": "images/characters/xs/672-toxin.jpg",
+        "sm": "images/characters/sm/672-toxin.jpg",
+        "md": "images/characters/md/672-toxin.jpg",
+        "lg": "images/characters/lg/672-toxin.jpg"
       }
     },
     {
@@ -24848,24 +24849,24 @@ var data = {
           "Una",
           "Triad"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Earth, 31st century"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/676-triplicate-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/676-triplicate-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/676-triplicate-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/676-triplicate-girl.jpg"
+        "xs": "images/characters/xs/676-triplicate-girl.jpg",
+        "sm": "images/characters/sm/676-triplicate-girl.jpg",
+        "md": "images/characters/md/676-triplicate-girl.jpg",
+        "lg": "images/characters/lg/676-triplicate-girl.jpg"
       }
     },
     {
@@ -24898,7 +24899,7 @@ var data = {
         "fullName": "Triton",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Island of Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #45 (December, 1965)",
@@ -24906,18 +24907,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Inhuman Royal Family, Universal Inhumans, Royal Guard, New Inhuman Elite; formerly Shi'ar Army Elite Corps & Imperial Guard[citation needed], Namor's Deep Six",
         "relatives": "Mander, Azur (parents, deceased), Karnak (brother, deceased), Magnar, Zeta (paternal grandparents), Kobar, La (maternal grandparents), Rynda (paternal aunt), Ambur (maternal aunt) ,Black Bolt, Maximus, Medusa, Crystal (cousins)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/677-triton.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/677-triton.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/677-triton.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/677-triton.jpg"
+        "xs": "images/characters/xs/677-triton.jpg",
+        "sm": "images/characters/sm/677-triton.jpg",
+        "md": "images/characters/md/677-triton.jpg",
+        "lg": "images/characters/lg/677-triton.jpg"
       }
     },
     {
@@ -24943,8 +24944,8 @@ var data = {
           "182 lb",
           "82 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Harvey Dent",
@@ -24952,24 +24953,24 @@ var data = {
         "aliases": [
           "Apollo"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Reformed criminal; former district attorney",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/678-two-face.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/678-two-face.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/678-two-face.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/678-two-face.jpg"
+        "xs": "images/characters/xs/678-two-face.jpg",
+        "sm": "images/characters/sm/678-two-face.jpg",
+        "md": "images/characters/md/678-two-face.jpg",
+        "lg": "images/characters/lg/678-two-face.jpg"
       }
     },
     {
@@ -25005,24 +25006,24 @@ var data = {
           "Suzy Sherman",
           "Ultra-Girl"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Model",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Initiative, New Warriors",
         "relatives": "Toby Sherman (father)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/679-ultragirl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/679-ultragirl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/679-ultragirl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/679-ultragirl.jpg"
+        "xs": "images/characters/xs/679-ultragirl.jpg",
+        "sm": "images/characters/sm/679-ultragirl.jpg",
+        "md": "images/characters/md/679-ultragirl.jpg",
+        "lg": "images/characters/lg/679-ultragirl.jpg"
       }
     },
     {
@@ -25049,7 +25050,7 @@ var data = {
           "331 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Ultron",
@@ -25073,17 +25074,17 @@ var data = {
       },
       "work": {
         "occupation": "Mass murderer, scientist, would-be world conqueror, ruler of Phalanx",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Phalanx; formerly Sons of Yinsen, Lethal Legion, Masters of Evil",
         "relatives": "Hank Pym (Yellowjacket, creator, \"father\"), Janet Van Dyne (Wasp, regarded by Ultron as \"mother\" due to marriage to Pym), Jocasta (creation, former mate), Alkhema (creation, former mate, deactivated), Vision (creation, \"son\"), Victor Mancha (creation, son), Rex (creation, pet, deactivated), Robos & Bio-Synthezoids (creations of Alkhema, \"grandchildren\";, destroyed); Simon Williams (Wonder Man), Eric Williams (Grim Reaper) & Wanda Maximoff (Scarlet Witch), all regarded by Ultron as part of his \"extended family\" due to their familial connections with the Vision"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/680-ultron.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/680-ultron.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/680-ultron.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/680-ultron.jpg"
+        "xs": "images/characters/xs/680-ultron.jpg",
+        "sm": "images/characters/sm/680-ultron.jpg",
+        "md": "images/characters/md/680-ultron.jpg",
+        "lg": "images/characters/lg/680-ultron.jpg"
       }
     },
     {
@@ -25116,26 +25117,26 @@ var data = {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Jotunheim",
-        "firstAppearance": "-",
+        "firstAppearance": "unknown",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Monarch",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Giants of Jotunheim",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/681-utgard-loki.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/681-utgard-loki.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/681-utgard-loki.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/681-utgard-loki.jpg"
+        "xs": "images/characters/xs/681-utgard-loki.jpg",
+        "sm": "images/characters/sm/681-utgard-loki.jpg",
+        "md": "images/characters/md/681-utgard-loki.jpg",
+        "lg": "images/characters/lg/681-utgard-loki.jpg"
       }
     },
     {
@@ -25181,13 +25182,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "(former) Outer Circle of Enforcers II, Factor Three, Fallen Angels",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/685-vanisher.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/685-vanisher.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/685-vanisher.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/685-vanisher.jpg"
+        "xs": "images/characters/xs/685-vanisher.jpg",
+        "sm": "images/characters/sm/685-vanisher.jpg",
+        "md": "images/characters/md/685-vanisher.jpg",
+        "lg": "images/characters/lg/685-vanisher.jpg"
       }
     },
     {
@@ -25220,7 +25221,7 @@ var data = {
         "fullName": "Eddie Brock",
         "alterEgos": "Anti-Venom, Toxin",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "New York, New York",
         "firstAppearance": "(as alien costume) Secret Wars #8, (behind the scenes) Web of Spider-Man #18, (actual appearance) Amazing Spider-Man #300",
@@ -25236,10 +25237,10 @@ var data = {
         "relatives": "Eddie Brock: Carl Brock (father), Jamie Brock (mother), Anne Weying (She-Venom, ex wife, deceased); Venom symbiote: Carnage (bonded to Cletus Kasidy, 1st generation offspring), five forced offspring - one independant (bonded to Donna, last name unrevealed, 1st generation offspring), four forming a composite symbiote (Hybrid (bonded to Scott Washington, 1st generation offspring), Toxin (bonded to Patrick Mulligan, 2nd generation offspring)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/687-venom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/687-venom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/687-venom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/687-venom.jpg"
+        "xs": "images/characters/xs/687-venom.jpg",
+        "sm": "images/characters/sm/687-venom.jpg",
+        "md": "images/characters/md/687-venom.jpg",
+        "lg": "images/characters/lg/687-venom.jpg"
       }
     },
     {
@@ -25272,26 +25273,26 @@ var data = {
         "fullName": "Angelo Fortunato",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Marvel Knights Spider-Man #7 (2005)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Vincente Paolo Fortunato (father), unidentified mother (deceased), Giacomo Fortunato (Jimmy-Six, brother), Anna Fortunato (sister), Mary Fortunato (sister-in-law), James Fortunato (nephew), other unidentified neices or nephews"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/688-venom-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/688-venom-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/688-venom-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/688-venom-ii.jpg"
+        "xs": "images/characters/xs/688-venom-ii.jpg",
+        "sm": "images/characters/sm/688-venom-ii.jpg",
+        "md": "images/characters/md/688-venom-ii.jpg",
+        "lg": "images/characters/lg/688-venom-ii.jpg"
       }
     },
     {
@@ -25326,24 +25327,24 @@ var data = {
         "aliases": [
           "Scorpion"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Government operative; former professional criminal, private eye",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Thunderbolts; formerly (as Scorpion) Masters of Evil, \"Spider-Man Revenge League\"; (as Venom) Sinister Twelve",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/689-venom-iii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/689-venom-iii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/689-venom-iii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/689-venom-iii.jpg"
+        "xs": "images/characters/xs/689-venom-iii.jpg",
+        "sm": "images/characters/sm/689-venom-iii.jpg",
+        "md": "images/characters/md/689-venom-iii.jpg",
+        "lg": "images/characters/lg/689-venom-iii.jpg"
       }
     },
     {
@@ -25369,8 +25370,8 @@ var data = {
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Wade Wilson",
@@ -25378,24 +25379,24 @@ var data = {
         "aliases": [
           "Deadpool"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "What If? Iron Man: Demon in an Armor #1 (February, 2011)",
         "publisher": "Marvel Comics",
         "alignment": "Villains"
       },
       "work": {
         "occupation": "Conqueror; Adventurer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/690-venompool.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/690-venompool.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/690-venompool.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/690-venompool.jpg"
+        "xs": "images/characters/xs/690-venompool.jpg",
+        "sm": "images/characters/sm/690-venompool.jpg",
+        "md": "images/characters/md/690-venompool.jpg",
+        "lg": "images/characters/lg/690-venompool.jpg"
       }
     },
     {
@@ -25428,26 +25429,26 @@ var data = {
         "fullName": "Cisco Ramon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The New 52: FCBD Special Edition #1",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Rapture (Armando Ramon, brother), Dante Ramon (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/692-vibe.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/692-vibe.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/692-vibe.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/692-vibe.jpg"
+        "xs": "images/characters/xs/692-vibe.jpg",
+        "sm": "images/characters/sm/692-vibe.jpg",
+        "md": "images/characters/md/692-vibe.jpg",
+        "lg": "images/characters/lg/692-vibe.jpg"
       }
     },
     {
@@ -25496,10 +25497,10 @@ var data = {
         "relatives": "Guardian, husband"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/693-vindicator.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/693-vindicator.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/693-vindicator.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/693-vindicator.jpg"
+        "xs": "images/characters/xs/693-vindicator.jpg",
+        "sm": "images/characters/sm/693-vindicator.jpg",
+        "md": "images/characters/md/693-vindicator.jpg",
+        "lg": "images/characters/lg/693-vindicator.jpg"
       }
     },
     {
@@ -25536,24 +25537,24 @@ var data = {
           "The Queen of the Unseen",
           "Invisagirl (InvisaVi)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Incredible Family, National Supers Agency",
         "relatives": "Robert Parr (Mr Incredible, father), Helen Parr (Elastigirl, mother), Dashiel Parr(Dash, brother), Jack-jack (brother)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/696-violet-parr.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/696-violet-parr.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/696-violet-parr.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/696-violet-parr.jpg"
+        "xs": "images/characters/xs/696-violet-parr.jpg",
+        "sm": "images/characters/sm/696-violet-parr.jpg",
+        "md": "images/characters/md/696-violet-parr.jpg",
+        "lg": "images/characters/lg/696-violet-parr.jpg"
       }
     },
     {
@@ -25588,13 +25589,13 @@ var data = {
         "aliases": [
           "Victor Shade"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
       },
       "connections": {
@@ -25602,10 +25603,10 @@ var data = {
         "relatives": "Wanda Maximoff (Scarlet Witch, ex-wife), Thomas Shepherd (Speed, son), William Kaplan (Wiccan, son), Ultron (\"father\"), Henry Pym (Ant-Man, \"grandfather\"), Pietro Maximoff (Quicksilver, ex-brother-in-law), Erik Magnus Lensher (Magneto, ex-father-in-law), Jocasta (fellow creation, \"sister\"), Simon Williams (Wonder Man, \"brother\"), Victor Mancha (fellow creation, half brother), Alkhema (fellow creation, \"stepmother\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/697-vision.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/697-vision.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/697-vision.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/697-vision.jpg"
+        "xs": "images/characters/xs/697-vision.jpg",
+        "sm": "images/characters/sm/697-vision.jpg",
+        "md": "images/characters/md/697-vision.jpg",
+        "lg": "images/characters/lg/697-vision.jpg"
       }
     },
     {
@@ -25638,7 +25639,7 @@ var data = {
         "fullName": "Mari McCabe",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Zambesi",
         "firstAppearance": "Action Comics #521 (July, 1981)",
@@ -25647,17 +25648,17 @@ var data = {
       },
       "work": {
         "occupation": "Former Model",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Suicide Squad, Checkmate, Ultramarines, Birds of Prey, Justice League of America",
         "relatives": "Reverend Richard Jiwe (father, deceased), Jeanne-Mari Jiwe (mother, deceased), General Mustapha Maksai (uncle, deceased), Tantu (ancestor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/699-vixen.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/699-vixen.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/699-vixen.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/699-vixen.jpg"
+        "xs": "images/characters/xs/699-vixen.jpg",
+        "sm": "images/characters/sm/699-vixen.jpg",
+        "md": "images/characters/md/699-vixen.jpg",
+        "lg": "images/characters/lg/699-vixen.jpg"
       }
     },
     {
@@ -25690,7 +25691,7 @@ var data = {
         "fullName": "Adrian Toomes",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Staten Island, New York City",
         "firstAppearance": "Amazing Spider-Man #2",
@@ -25699,17 +25700,17 @@ var data = {
       },
       "work": {
         "occupation": "Professional criminal; formerly electronics engineer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly Sinister Twelve, Sinister Six",
         "relatives": "Marcus (brother, possibly deceased), Malachi Toomes (nephew, deceased), Valeria Toomes (daughter), unnamed son, Ramona (daughter-in-law), unnamed grandson"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/701-vulture.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/701-vulture.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/701-vulture.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/701-vulture.jpg"
+        "xs": "images/characters/xs/701-vulture.jpg",
+        "sm": "images/characters/sm/701-vulture.jpg",
+        "md": "images/characters/md/701-vulture.jpg",
+        "lg": "images/characters/lg/701-vulture.jpg"
       }
     },
     {
@@ -25742,7 +25743,7 @@ var data = {
         "fullName": "Hubert Carpent",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Brooklyn, New York",
         "firstAppearance": "Defenders #131 (May, 1984)",
@@ -25751,17 +25752,17 @@ var data = {
       },
       "work": {
         "occupation": "Cab driver",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Humbert Carpenter (uncle)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/702-walrus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/702-walrus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/702-walrus.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/702-walrus.jpg"
+        "xs": "images/characters/xs/702-walrus.jpg",
+        "sm": "images/characters/sm/702-walrus.jpg",
+        "md": "images/characters/md/702-walrus.jpg",
+        "lg": "images/characters/lg/702-walrus.jpg"
       }
     },
     {
@@ -25805,17 +25806,17 @@ var data = {
       },
       "work": {
         "occupation": "Initiative instructor, adventurer, government agent; formerly: Sentinel Squad O*N*E combat instructor, soldier, pilot",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Initiative; formerly: Sentinel Squad O*N*E, Office of National Emergency (O*N*E), Crew, Secret Defenders, Worldwatch, Stark Enterprises, Force Works, West Coast Avengers, U.S. Marine Corps",
         "relatives": "David Rhodes (father), Roberta Rhodes (mother), Jeanette Rhodes (sister, deceased), Josh (uncle, last name unrevealed), unnamed alleged son"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/703-war-machine.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/703-war-machine.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/703-war-machine.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/703-war-machine.jpg"
+        "xs": "images/characters/xs/703-war-machine.jpg",
+        "sm": "images/characters/sm/703-war-machine.jpg",
+        "md": "images/characters/md/703-war-machine.jpg",
+        "lg": "images/characters/lg/703-war-machine.jpg"
       }
     },
     {
@@ -25862,13 +25863,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Infinity Watch, (as the Magus) head of Universal Church of Truth in an alternate future",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/705-warlock.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/705-warlock.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/705-warlock.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/705-warlock.jpg"
+        "xs": "images/characters/xs/705-warlock.jpg",
+        "sm": "images/characters/sm/705-warlock.jpg",
+        "md": "images/characters/md/705-warlock.jpg",
+        "lg": "images/characters/lg/705-warlock.jpg"
       }
     },
     {
@@ -25901,26 +25902,26 @@ var data = {
         "fullName": "Emil LaSalle",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "The New Teen Titans #14 (December 1981)",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Brotherhood of Evil, The Society",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/706-warp.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/706-warp.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/706-warp.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/706-warp.jpg"
+        "xs": "images/characters/xs/706-warp.jpg",
+        "sm": "images/characters/sm/706-warp.jpg",
+        "md": "images/characters/md/706-warp.jpg",
+        "lg": "images/characters/lg/706-warp.jpg"
       }
     },
     {
@@ -25962,17 +25963,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "X-Men (Team Cyclops), Security Recon; formerly X-Force (Strike Team), X-Corporation, X-Force, New Mutants, Hellions",
         "relatives": "Thunderbird (John Proudstar, brother, deceased), Maria Proudstar (mother, deceased), Neal Proudstar (father, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/707-warpath.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/707-warpath.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/707-warpath.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/707-warpath.jpg"
+        "xs": "images/characters/xs/707-warpath.jpg",
+        "sm": "images/characters/sm/707-warpath.jpg",
+        "md": "images/characters/md/707-warpath.jpg",
+        "lg": "images/characters/lg/707-warpath.jpg"
       }
     },
     {
@@ -26021,10 +26022,10 @@ var data = {
         "relatives": "Vernon Van Dyne (father, deceased), unnamed mother (deceased), Henry \"Hank\" Pym (ex-husband)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/708-wasp.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/708-wasp.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/708-wasp.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/708-wasp.jpg"
+        "xs": "images/characters/xs/708-wasp.jpg",
+        "sm": "images/characters/sm/708-wasp.jpg",
+        "md": "images/characters/md/708-wasp.jpg",
+        "lg": "images/characters/lg/708-wasp.jpg"
       }
     },
     {
@@ -26043,40 +26044,40 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Uatu",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Fantastic Four #13 (April, 1963)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "The Watchers, Friend and Ally of the Fantastic Four, among other Earth heroes",
         "relatives": "Ikor (father); Aron (nephew); Qyre, Zoma (cousins)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/709-watcher.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/709-watcher.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/709-watcher.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/709-watcher.jpg"
+        "xs": "images/characters/xs/709-watcher.jpg",
+        "sm": "images/characters/sm/709-watcher.jpg",
+        "md": "images/characters/md/709-watcher.jpg",
+        "lg": "images/characters/lg/709-watcher.jpg"
       }
     },
     {
@@ -26095,7 +26096,7 @@ var data = {
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
@@ -26112,24 +26113,24 @@ var data = {
           "Silk Sister",
           "Sara Lance"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Birds of Prey #1",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "unknown",
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/711-white-canary.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/711-white-canary.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/711-white-canary.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/711-white-canary.jpg"
+        "xs": "images/characters/xs/711-white-canary.jpg",
+        "sm": "images/characters/sm/711-white-canary.jpg",
+        "md": "images/characters/md/711-white-canary.jpg",
+        "lg": "images/characters/lg/711-white-canary.jpg"
       }
     },
     {
@@ -26148,15 +26149,15 @@ var data = {
         "gender": "Male",
         "race": null,
         "height": [
-          "-",
+          "unknown",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "unknown",
+        "hairColor": "unknown"
       },
       "biography": {
         "fullName": "Drake Burroughs",
@@ -26167,24 +26168,24 @@ var data = {
           "Randall Burroughs",
           "Jahr-Drake Nigle"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "unknown",
+        "firstAppearance": "unknown",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/713-wildfire.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/713-wildfire.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/713-wildfire.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/713-wildfire.jpg"
+        "xs": "images/characters/xs/713-wildfire.jpg",
+        "sm": "images/characters/sm/713-wildfire.jpg",
+        "md": "images/characters/md/713-wildfire.jpg",
+        "lg": "images/characters/lg/713-wildfire.jpg"
       }
     },
     {
@@ -26220,24 +26221,24 @@ var data = {
           "Bucky",
           "Captain America"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
       },
       "work": {
         "occupation": "Adventurer; former SHIELD operative, Assassin (See Note under \"Winter Soldier\" article), Army Mascot, Student",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Black Widow (partner), Nick Fury (employer); formerly Avengers, New Avengers, Invaders, Kid Commandos, Liberty Legion, Young Allies, Crazy S.U.E.S., Captain America (partner), Falcon (partner)",
         "relatives": "George M. Barnes (father, deceased), Winifred C. Barnes (mother, deceased), Rebecca P. Barnes Proctor (sister), Ida (aunt, presumed deceased), Mr. Proctor (brother-in-law), unidentified niece and nephew, Scott Proctor (grandnephew), Kimberly Proctor (grandniece)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/714-winter-soldier.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/714-winter-soldier.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/714-winter-soldier.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/714-winter-soldier.jpg"
+        "xs": "images/characters/xs/714-winter-soldier.jpg",
+        "sm": "images/characters/sm/714-winter-soldier.jpg",
+        "md": "images/characters/md/714-winter-soldier.jpg",
+        "lg": "images/characters/lg/714-winter-soldier.jpg"
       }
     },
     {
@@ -26287,10 +26288,10 @@ var data = {
         "relatives": "Reverand Craig (father), Moira MacTaggert (surrogate mother, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/716-wolfsbane.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/716-wolfsbane.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/716-wolfsbane.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/716-wolfsbane.jpg"
+        "xs": "images/characters/xs/716-wolfsbane.jpg",
+        "sm": "images/characters/sm/716-wolfsbane.jpg",
+        "md": "images/characters/md/716-wolfsbane.jpg",
+        "lg": "images/characters/lg/716-wolfsbane.jpg"
       }
     },
     {
@@ -26350,10 +26351,10 @@ var data = {
         "relatives": "John Howlett Sr. (father, deceased), Elizabeth Howlett (mother, deceased), John Howlett Jr. (brother, allegedly deceased), Viper (ex-wife), Amiko (foster daughter), Erista (son), X-23 (clone)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/717-wolverine.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/717-wolverine.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/717-wolverine.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/717-wolverine.jpg"
+        "xs": "images/characters/xs/717-wolverine.jpg",
+        "sm": "images/characters/sm/717-wolverine.jpg",
+        "md": "images/characters/md/717-wolverine.jpg",
+        "lg": "images/characters/lg/717-wolverine.jpg"
       }
     },
     {
@@ -26392,24 +26393,24 @@ var data = {
           "Wonder Woman",
           "Cassie Sandsmark"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Wonder Woman (vol. 2) #105 (January 1996)",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Teen Titans, Young Justice, Themyscira",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/718-wonder-girl.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/718-wonder-girl.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/718-wonder-girl.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/718-wonder-girl.jpg"
+        "xs": "images/characters/xs/718-wonder-girl.jpg",
+        "sm": "images/characters/sm/718-wonder-girl.jpg",
+        "md": "images/characters/md/718-wonder-girl.jpg",
+        "lg": "images/characters/lg/718-wonder-girl.jpg"
       }
     },
     {
@@ -26459,10 +26460,10 @@ var data = {
         "relatives": "Sanford (father, deceased) Martha (mother), Eric (alias the Grim Reaper, brother, deceased), Vision II ('brother')"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/719-wonder-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/719-wonder-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/719-wonder-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/719-wonder-man.jpg"
+        "xs": "images/characters/xs/719-wonder-man.jpg",
+        "sm": "images/characters/sm/719-wonder-man.jpg",
+        "md": "images/characters/md/719-wonder-man.jpg",
+        "lg": "images/characters/lg/719-wonder-man.jpg"
       }
     },
     {
@@ -26509,17 +26510,17 @@ var data = {
       },
       "work": {
         "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
         "relatives": "Queen Hippolyta (mother, deceased), Donna Troy (Troia) (magically-created duplicate)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/720-wonder-woman.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/720-wonder-woman.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/720-wonder-woman.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/720-wonder-woman.jpg"
+        "xs": "images/characters/xs/720-wonder-woman.jpg",
+        "sm": "images/characters/sm/720-wonder-woman.jpg",
+        "md": "images/characters/md/720-wonder-woman.jpg",
+        "lg": "images/characters/lg/720-wonder-woman.jpg"
       }
     },
     {
@@ -26552,7 +26553,7 @@ var data = {
         "fullName": "Wyatt Wingfoot",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
         "placeOfBirth": "Keewazi Reservation, Oklahoma",
         "firstAppearance": "FANTASTIC FOUR #50",
@@ -26568,10 +26569,10 @@ var data = {
         "relatives": "Will Wingfoot (father, deceased), Chief Silent Fox (grandfather, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/722-wyatt-wingfoot.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/722-wyatt-wingfoot.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/722-wyatt-wingfoot.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/722-wyatt-wingfoot.jpg"
+        "xs": "images/characters/xs/722-wyatt-wingfoot.jpg",
+        "sm": "images/characters/sm/722-wyatt-wingfoot.jpg",
+        "md": "images/characters/md/722-wyatt-wingfoot.jpg",
+        "lg": "images/characters/lg/722-wyatt-wingfoot.jpg"
       }
     },
     {
@@ -26625,10 +26626,10 @@ var data = {
         "relatives": "Sarah Kinney (surrogate mother, deceased), James Howlett (Wolverine, genetic progenitor)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/723-x-23.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/723-x-23.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/723-x-23.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/723-x-23.jpg"
+        "xs": "images/characters/xs/723-x-23.jpg",
+        "sm": "images/characters/sm/723-x-23.jpg",
+        "md": "images/characters/md/723-x-23.jpg",
+        "lg": "images/characters/lg/723-x-23.jpg"
       }
     },
     {
@@ -26670,17 +26671,17 @@ var data = {
       },
       "work": {
         "occupation": "Former shaman, adventurer, freedom fighter",
-        "base": "-"
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Formerly X-Men, Brotherhood of Mutants, Forge's resistance",
         "relatives": "Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/724-x-man.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/724-x-man.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/724-x-man.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/724-x-man.jpg"
+        "xs": "images/characters/xs/724-x-man.jpg",
+        "sm": "images/characters/sm/724-x-man.jpg",
+        "md": "images/characters/md/724-x-man.jpg",
+        "lg": "images/characters/lg/724-x-man.jpg"
       }
     },
     {
@@ -26729,10 +26730,10 @@ var data = {
         "relatives": "Maria Trovaya (first wife, deceased), Janet Van Dyne a.k.a. The Wasp (second wife, divorced), Ultron (creation, \"son\"), Jocasta (\"first daughter-in-law\"), Alkhema (\"second daughter-in-law\"), Vision (\"grandson\"), Scarlet Witch (former granddaughter-in-law), Victor Mancha (\"grandson\")"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/726-yellowjacket.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/726-yellowjacket.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/726-yellowjacket.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/726-yellowjacket.jpg"
+        "xs": "images/characters/xs/726-yellowjacket.jpg",
+        "sm": "images/characters/sm/726-yellowjacket.jpg",
+        "md": "images/characters/md/726-yellowjacket.jpg",
+        "lg": "images/characters/lg/726-yellowjacket.jpg"
       }
     },
     {
@@ -26765,9 +26766,9 @@ var data = {
         "fullName": "Rita DeMara",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Avengers #264",
         "publisher": "Marvel Comics",
         "alignment": "Heroes"
@@ -26778,13 +26779,13 @@ var data = {
       },
       "connections": {
         "groupAffiliation": "Formerly Guardians of the Galaxy, Avengers, Masters of Evil",
-        "relatives": "-"
+        "relatives": "unknown"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/727-yellowjacket-ii.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/727-yellowjacket-ii.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/727-yellowjacket-ii.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/727-yellowjacket-ii.jpg"
+        "xs": "images/characters/xs/727-yellowjacket-ii.jpg",
+        "sm": "images/characters/sm/727-yellowjacket-ii.jpg",
+        "md": "images/characters/md/727-yellowjacket-ii.jpg",
+        "lg": "images/characters/lg/727-yellowjacket-ii.jpg"
       }
     },
     {
@@ -26825,18 +26826,18 @@ var data = {
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Niffleheim"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "unknown",
         "relatives": "Utgard-Loki, Loki, and the race of Frost Giants (descendants)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/728-ymir.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/728-ymir.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/728-ymir.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/728-ymir.jpg"
+        "xs": "images/characters/xs/728-ymir.jpg",
+        "sm": "images/characters/sm/728-ymir.jpg",
+        "md": "images/characters/md/728-ymir.jpg",
+        "lg": "images/characters/lg/728-ymir.jpg"
       }
     },
     {
@@ -26869,26 +26870,26 @@ var data = {
         "fullName": "Zatanna Zatara",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Hawkman #4",
         "publisher": "DC Comics",
         "alignment": "Heroes"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "unknown",
+        "base": "unknown"
       },
       "connections": {
         "groupAffiliation": "Misty Kilgore, Seven Soldiers of Victory, Justice League, Sentinels of Magic",
         "relatives": "Giovanni \"John\" Zatara (father, deceased), Sindella (mother, deceased), Leonardo da Vinci (paternal ancestor, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/730-zatanna.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/730-zatanna.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/730-zatanna.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/730-zatanna.jpg"
+        "xs": "images/characters/xs/730-zatanna.jpg",
+        "sm": "images/characters/sm/730-zatanna.jpg",
+        "md": "images/characters/md/730-zatanna.jpg",
+        "lg": "images/characters/lg/730-zatanna.jpg"
       }
     },
     {
@@ -26921,15 +26922,15 @@ var data = {
         "fullName": "Hunter Zolomon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "unknown"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "unknown",
         "firstAppearance": "Flash Secret Files #3",
         "publisher": "DC Comics",
         "alignment": "Villains"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "unknown",
         "base": "Keystone City, Kansas"
       },
       "connections": {
@@ -26937,10 +26938,10 @@ var data = {
         "relatives": "Ashley Zolomon (ex-wife)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/731-zoom.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/731-zoom.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/731-zoom.jpg",
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/731-zoom.jpg"
+        "xs": "images/characters/xs/731-zoom.jpg",
+        "sm": "images/characters/sm/731-zoom.jpg",
+        "md": "images/characters/md/731-zoom.jpg",
+        "lg": "images/characters/lg/731-zoom.jpg"
       }
     }
   ]
@@ -27004,3 +27005,126 @@ cards.forEach((card) => {
     card.classList.toggle('card__flipped');
   });
 });
+
+
+//Get the button
+const scrollToTopBtn = document.getElementById("backToTop");
+const rootElement = document.documentElement;
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    scrollToTopBtn.classList.add("visible");
+  } else {
+    scrollToTopBtn.classList.remove("visible");
+  }
+}
+
+function scrollToTop() {
+  // Scroll to top logic
+  rootElement.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  })
+}
+scrollToTopBtn.addEventListener("click", scrollToTop);
+
+
+
+// SEARCH FUNCTIONALITY
+// Declare global variables
+const appSearch = document.querySelector(".app-search");
+const searchInput = document.getElementById("appSearch");
+const list = document.querySelector("#characters");
+const members = list.querySelectorAll(".character");
+const appFilter = appSearch.querySelector(".app-filter");
+const filters = appFilter.querySelectorAll("input[type='checkbox']");
+
+// Set each member to active
+members.forEach(function(member) {
+  member.classList.add("active");
+});
+
+// Set up event Listeners
+searchInput.addEventListener("input", searchMembers);
+
+filters.forEach(function(filter) {
+  filter.addEventListener("change", filterMembers);
+});
+
+// filter function - when a checkbox is clicked
+function filterMembers(e) {
+  let filter = e.target;
+  let terms = searchInput.value.toLowerCase();
+  let filterValue = e.target.value.toUpperCase();
+  
+  if(filter.checked) {
+    // calls the search filtered members function which combines textbox input and checkbox input
+    searchFilteredMembers(filter, terms);
+  } else {
+    members.forEach(function(member) {
+      member.style.display = "";
+      member.classList.add("active");
+    });
+    searchMembers();
+  }
+}
+
+function searchFilteredMembers(filterCriteria, terms) {
+  const filter = filterCriteria.value.toLowerCase();
+  const searchTerms = terms;
+  let defaultScope, itemScope, activeMember;
+  
+  for (var i = 0; i < members.length; i++) {
+    activeMember = members[i].classList.contains("active");
+    defaultScope = members[i].querySelectorAll('.card-name')[0];
+    itemScope = members[i].querySelectorAll(`.directory-details .${filter}`)[0];
+
+    if(filter) {
+      if (activeMember && defaultScope.innerHTML.toLowerCase().indexOf(filter) > -1) {
+        if (itemScope.innerHTML.toLowerCase().indexOf(searchTerms) > -1) {
+          members[i].style.display = "";
+          members[i].classList.add("active");
+        } else {
+          members[i].style.display = "none";
+          members[i].classList.remove("active");
+        } 
+      }
+    }
+    else {
+      if (defaultScope.innerHTML.toLowerCase().indexOf(filter) > -1) {
+        members[i].style.display = "";
+        members[i].classList.add("active");
+      } else {
+        members[i].style.display = "none";
+        members[i].classList.remove("active");
+      }
+    }
+  }
+}
+
+
+function searchMembers(e) {
+  let filter;
+  
+  if(e) {
+   filter = e.target.value.toUpperCase(); 
+  }
+  else {
+    filter = searchInput.value.toUpperCase();
+  }
+  
+  for (var i = 0; i < members.length; i++) {
+    const memberScope = members[i].querySelectorAll(".card-name")[0];
+
+    if (memberScope.innerHTML.toUpperCase().indexOf(filter) > -1) {
+      members[i].style.display = "";
+      members[i].classList.add("active");
+    } else {
+      members[i].style.display = "none";
+      members[i].classList.remove("active");
+    }
+  }
+}
