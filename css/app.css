@@ -80,6 +80,7 @@ h2 {
   margin: 0 0 0.5rem 0;
   padding: 0 0 0.25rem 0;
   border-bottom: 2px solid #333;
+  flex: 1 1 100%;
 }
 
 
@@ -93,14 +94,9 @@ section#characters {
   background-size: cover;
   position: relative;
   transition: all 0.4s ease-in-out;
-  flex: 0;
-}
-.module.active {
   flex: 1 1 calc(50% - 2em);
   min-width: 250px;
-  max-width: max-content;
 }
-
 .card {
   padding: 1em;
   border: 1em solid #9eadb9;
@@ -118,7 +114,7 @@ section#characters {
   overflow: hidden;
 }
 .card img {
-  width: auto;
+  width: 100%;
   height: auto;
   max-width: 100%;
   border: 1px solid #222;
@@ -316,7 +312,7 @@ section#characters {
 
 
 @media screen and (min-width: 800px) {
-  .module.active {
+  .module {
     flex: 0 1 calc(25% - 2em);
   }
 }
